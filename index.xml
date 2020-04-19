@@ -5,7 +5,17 @@
     <description>Recent content in HIJ.IO on HIJ.IO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sun, 19 Apr 2020 16:02:52 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://mythflair.github.io/about/</link>
+      <pubDate>Sun, 19 Apr 2020 16:02:52 +0800</pubDate>
+      
+      <guid>https://mythflair.github.io/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
