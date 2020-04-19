@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIJ.IO on HIJ.IO</title>
+    <link>https://mythflair.github.io/</link>
+    <description>Recent content in HIJ.IO on HIJ.IO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
