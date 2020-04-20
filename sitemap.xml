@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://mythflair.github.io/about/</loc>
+      <loc>https://mythflair.github.io/</loc>
       
-      <lastmod>2020-04-19T16:02:52+08:00</lastmod>
+      <lastmod>2020-04-20T22:06:28+08:00</lastmod>
       
       
       
@@ -12,7 +12,17 @@
     </url>
   
     <url>
-      <loc>https://mythflair.github.io/</loc>
+      <loc>https://mythflair.github.io/posts/</loc>
+      
+      <lastmod>2020-04-20T22:06:28+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://mythflair.github.io/about/</loc>
       
       <lastmod>2020-04-19T16:02:52+08:00</lastmod>
       
