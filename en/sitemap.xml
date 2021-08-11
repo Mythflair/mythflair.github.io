@@ -5,11 +5,7 @@
             <loc>https://hij.io/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hij.io/zh-cn/categories/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://hij.io/fr/categories/"
+                        href="https://hij.io/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
@@ -18,11 +14,7 @@
             <loc>https://hij.io/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hij.io/zh-cn/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://hij.io/fr/"
+                        href="https://hij.io/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
@@ -31,11 +23,7 @@
             <loc>https://hij.io/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://hij.io/zh-cn/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://hij.io/fr/tags/"
+                        href="https://hij.io/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
