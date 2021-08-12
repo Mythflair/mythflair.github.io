@@ -4,9 +4,16 @@
         <link>https://hij.io/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mythflair@hotmail.com (Shennan)</managingEditor>
-            <webMaster>mythflair@hotmail.com (Shennan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 07 Aug 2021 12:33:42 &#43;0800</lastBuildDate>
+            <webMaster>mythflair@hotmail.com (Shennan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 12 Aug 2021 23:52:16 &#43;0800</lastBuildDate>
             <atom:link href="https://hij.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>20210812</title>
+    <link>https://hij.io/20210811/</link>
+    <pubDate>Thu, 12 Aug 2021 23:52:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://hij.io/20210811/</guid>
+    <description><![CDATA[HUGO 命令无法渲染新的 .md 文件，是因为 draft：ture； 草稿模式无法渲染，draft:false 会解决该问题。]]></description>
+</item><item>
     <title>测试博客</title>
     <link>https://hij.io/20210807/</link>
     <pubDate>Sat, 07 Aug 2021 12:33:42 &#43;0800</pubDate>
