@@ -12,18 +12,18 @@
     <guid>https://hij.io/%E8%80%B3%E9%B8%A3/</guid>
     <description><![CDATA[最近耳鸣的厉害 左耳高频率的蜂鸣声 右耳好像服务器的风扇，嗡嗡不停 越是安静，越明显 还不同程度出现了耳闷的感觉 也许是压力大或休息不好 也许是应酬太多]]></description>
 </item><item>
-    <title>20210812</title>
+    <title>HUGO无法渲染新文件？</title>
     <link>https://hij.io/20210811/</link>
     <pubDate>Thu, 12 Aug 2021 23:52:16 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://hij.io/20210811/</guid>
-    <description><![CDATA[HUGO 命令无法渲染新的 .md 文件，是因为 draft：ture； 草稿模式无法渲染，draft:false 会解决该问题。]]></description>
+    <description><![CDATA[HUGO 命令无法渲染新的 .md 文件，不能提交到 public 目录，是因为 draft：ture； 草稿模式无法渲染，draft:false 会解决该问题。]]></description>
 </item><item>
-    <title>测试博客</title>
+    <title>第 n 次开博，这次打算用 HUGO。</title>
     <link>https://hij.io/20210807/</link>
     <pubDate>Sat, 07 Aug 2021 12:33:42 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://hij.io/20210807/</guid>
-    <description><![CDATA[这里是 Markdown - 正文]]></description>
+    <description><![CDATA[多年前，老罗说“不要把创作欲望当作创作才能”，我想我就是。 没什么才能，满足欲望也行，当作日记，记录自己的日常。 用这么复杂的系统写博客（相比开]]></description>
 </item></channel>
 </rss>
