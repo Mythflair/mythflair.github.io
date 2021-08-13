@@ -4,7 +4,14 @@
         <link>https://hij.io/posts/</link>
         <description>所有文章 | ShenNan&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mythflair@hotmail.com (Shennan)</managingEditor>
-            <webMaster>mythflair@hotmail.com (Shennan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 13 Aug 2021 00:06:57 &#43;0800</lastBuildDate><atom:link href="https://hij.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>mythflair@hotmail.com (Shennan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 13 Aug 2021 12:11:16 &#43;0800</lastBuildDate><atom:link href="https://hij.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Typora</title>
+    <link>https://hij.io/typora/</link>
+    <pubDate>Fri, 13 Aug 2021 12:11:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://hij.io/typora/</guid>
+    <description><![CDATA[偶然发现，写 MarkDown 的 Typora 软件，直接在 HUGO 的 content/posts 目录中打开，非常方便编辑 .md 文件，可以用于日常写作、记录了。]]></description>
+</item><item>
     <title>耳鸣</title>
     <link>https://hij.io/%E8%80%B3%E9%B8%A3/</link>
     <pubDate>Fri, 13 Aug 2021 00:06:57 &#43;0800</pubDate>
