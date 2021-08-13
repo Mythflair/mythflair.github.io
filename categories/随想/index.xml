@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>随想 - 分类 - Shennan&#39;s Blog</title>
+        <link>https://hij.io/categories/%E9%9A%8F%E6%83%B3/</link>
+        <description>随想 - 分类 - Shennan&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mythflair@hotmail.com (沈楠)</managingEditor>
+            <webMaster>mythflair@hotmail.com (沈楠)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 07 Aug 2021 12:33:42 &#43;0800</lastBuildDate><atom:link href="https://hij.io/categories/%E9%9A%8F%E6%83%B3/" rel="self" type="application/rss+xml" /><item>
+    <title>第 n 次开博，这次打算用 HUGO。</title>
+    <link>https://hij.io/20210807/</link>
+    <pubDate>Sat, 07 Aug 2021 12:33:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://hij.io/20210807/</guid>
+    <description><![CDATA[多年前，老罗说“不要把创作欲望当作创作才能”，我想我就是。 没什么才能，满足欲望也行，当作日记，记录自己的日常。 用这么复杂的系统写博客（相比开]]></description>
+</item></channel>
+</rss>
