@@ -2,7 +2,7 @@
     <channel>
         <title>ShenNan&#39;s Blog</title>
         <link>https://hij.io/</link>
-        <description>关于 LoveIt 主题</description>
+        <description>沈楠的Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mythflair@hotmail.com (Shennan)</managingEditor>
             <webMaster>mythflair@hotmail.com (Shennan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 13 Aug 2021 12:11:16 &#43;0800</lastBuildDate>
             <atom:link href="https://hij.io/index.xml" rel="self" type="application/rss+xml" />
