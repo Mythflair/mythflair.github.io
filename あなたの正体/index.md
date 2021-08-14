@@ -3,6 +3,6 @@
 
 これこそあなたの正体です。他のすべては部品や筐体なのです。
 
-![brain](images/tn.png)
+![brain](/images/tn.png)
 
 
