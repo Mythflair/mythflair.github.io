@@ -2,15 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hij.io/posts/</loc><lastmod>2021-08-13T23:58:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/</loc><lastmod>2021-08-13T23:58:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hij.io/posts/</loc><lastmod>2021-08-14T12:22:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hij.io/</loc><lastmod>2021-08-14T12:22:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hij.io/%E5%85%B3%E4%BA%8E%E8%B5%B0%E9%A5%AD/</loc><lastmod>2021-08-14T12:22:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/%E7%A1%AC%E7%9B%98%E7%9B%92%E7%9A%84%E9%97%AE%E9%A2%98%E8%BF%98%E6%98%AF/</loc><lastmod>2021-08-13T23:58:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/typora/</loc><lastmod>2021-08-13T12:11:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/%E8%80%B3%E9%B8%A3/</loc><lastmod>2021-08-13T00:06:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/20210811/</loc><lastmod>2021-08-12T23:52:16&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/about/</loc><lastmod>2021-08-12T22:28:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/categories/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/tags/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/20210807/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/categories/%E9%9A%8F%E6%83%B3/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hij.io/tags/%E9%9A%8F%E6%84%8F/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://hij.io/categories/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://hij.io/tags/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://hij.io/20210807/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://hij.io/categories/%E9%9A%8F%E6%83%B3/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://hij.io/tags/%E9%9A%8F%E6%84%8F/</loc><lastmod>2021-08-07T12:33:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url></urlset>
