@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hij.io/posts/</loc><lastmod>2021-08-25T22:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>https://hij.io/</loc><lastmod>2021-08-25T22:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>https://hij.io/posts/</loc><lastmod>2021-09-04T22:53:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hij.io/</loc><lastmod>2021-09-04T22:53:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://hij.io/%E6%AF%95%E4%B8%9A%E4%BA%86/</loc><lastmod>2021-09-04T22:53:21&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://hij.io/%E5%90%88%E7%BE%A4/</loc><lastmod>2021-08-25T22:45:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>https://hij.io/%E4%BA%89%E5%90%B5/</loc><lastmod>2021-08-19T15:26:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://hij.io/%E5%B7%A5%E8%B5%84/</loc><lastmod>2021-08-17T22:18:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
