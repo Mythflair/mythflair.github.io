@@ -4,14 +4,21 @@
         <link>https://hij.io/</link>
         <description>沈楠的Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mythflair@hotmail.com (沈楠)</managingEditor>
-            <webMaster>mythflair@hotmail.com (沈楠)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Sep 2021 22:53:21 &#43;0800</lastBuildDate>
+            <webMaster>mythflair@hotmail.com (沈楠)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 05 Sep 2021 23:52:21 &#43;0800</lastBuildDate>
             <atom:link href="https://hij.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>毕业了</title>
+    <title>放飞自己是奢望</title>
     <link>https://hij.io/%E6%AF%95%E4%B8%9A%E4%BA%86/</link>
-    <pubDate>Sat, 04 Sep 2021 22:53:21 &#43;0800</pubDate>
+    <pubDate>Sun, 05 Sep 2021 23:52:21 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://hij.io/%E6%AF%95%E4%B8%9A%E4%BA%86/</guid>
+    <description><![CDATA[明天是毕业典礼了，同学在群里聊天，吐槽终于要放飞自我了； 是啊，20多岁，硕士毕业，放飞自我，多好； 我从上学，到参军，到参加工作，到父亲去世，]]></description>
+</item><item>
+    <title>毕业了</title>
+    <link>https://hij.io/%E6%94%BE%E9%A3%9E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%A5%A2%E6%9C%9B/</link>
+    <pubDate>Sat, 04 Sep 2021 22:53:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://hij.io/%E6%94%BE%E9%A3%9E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%A5%A2%E6%9C%9B/</guid>
     <description><![CDATA[2021年9月6日，日本的两年硕士毕业了，在荆冠堂举行毕业典礼。 时间过得真快，2019年9月25日到日本，再到12月25日回国，订好了202]]></description>
 </item><item>
     <title>合群？</title>
@@ -69,12 +76,5 @@
     <author>作者</author>
     <guid>https://hij.io/%E5%85%B3%E4%BA%8E%E8%B5%B0%E9%A5%AD/</guid>
     <description><![CDATA[2012年，走饭在微博留下一句“我有抑郁症，所以就去死一死，没什么重要的原因，大家不必在意我的离开。拜拜啦。”，引起了广泛的关注。 其实，很多]]></description>
-</item><item>
-    <title>Typora</title>
-    <link>https://hij.io/typora/</link>
-    <pubDate>Fri, 13 Aug 2021 12:11:16 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://hij.io/typora/</guid>
-    <description><![CDATA[偶然发现，写 MarkDown 的 Typora 软件，直接在 HUGO 的 content/posts 目录中打开，非常方便编辑 .md 文件，可以用于日常写作、记录了。]]></description>
 </item></channel>
 </rss>
