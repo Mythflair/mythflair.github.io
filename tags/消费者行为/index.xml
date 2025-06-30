@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>消费者行为 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E6%B6%88%E8%B4%B9%E8%80%85%E8%A1%8C%E4%B8%BA/</link>
+    <description>Recent content in 消费者行为 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Jun 2025 23:20:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%B6%88%E8%B4%B9%E8%80%85%E8%A1%8C%E4%B8%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何通过统计分析洞察超市消费者行为：以宽广超市为例</title>
+      <link>https://zisai.com/posts/supermarket_analysis/</link>
+      <pubDate>Thu, 26 Jun 2025 23:20:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/supermarket_analysis/</guid>
+      <description>&lt;h1 id=&#34;如何通过统计分析洞察超市消费者行为以宽广超市为例&#34;&gt;如何通过统计分析洞察超市消费者行为：以宽广超市为例&lt;/h1&gt;
+&lt;p&gt;在超市运营中，理解消费者的购物行为是制定营销和运营策略的关键。本文以&lt;strong&gt;宽广超市&lt;/strong&gt;为例，通过一组示例数据，使用&lt;strong&gt;平均数&lt;/strong&gt;、&lt;strong&gt;中位数&lt;/strong&gt;、&lt;strong&gt;四分位数&lt;/strong&gt;、&lt;strong&gt;众数&lt;/strong&gt;和&lt;strong&gt;标准差&lt;/strong&gt;等统计方法，教你如何分析消费者消费金额，挖掘关键洞察。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
