@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>90年代 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/90%E5%B9%B4%E4%BB%A3/</link>
+    <description>Recent content in 90年代 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Jun 2025 13:25:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/90%E5%B9%B4%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一台计算机-90年代中国计算机技术趋势与个人实践</title>
+      <link>https://zisai.com/posts/1990s-pc-trends-/</link>
+      <pubDate>Thu, 26 Jun 2025 13:25:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/1990s-pc-trends-/</guid>
+      <description>回顾90年代中国计算机技术的发展趋势，结合个人使用Compaq 386DX的经历，探讨DOS游戏、编程、硬件升级、早期互联网及BIOS芯片维护的演进与挑战。</description>
+    </item>
+  </channel>
+</rss>
