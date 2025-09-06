@@ -1,7 +1,8 @@
 ---
 title: AI图像生成：漫画草图 vs 照片 📸✨
 description: 为什么从漫画草图生成AI图像效果优于照片？解析简洁性与人类视觉的秘密。🖼️
-date: 2025-09-06
+date: 2025-09-06T17:43:00+09:00
+draft: false
 tags: [AI, 图像生成, 漫画, 照片]
 cover:
     image: "/images/b02ffafdfd10e673c6eaa839beabb3b0.png"
