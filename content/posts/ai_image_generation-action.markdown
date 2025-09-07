@@ -11,7 +11,7 @@ cover:
 
 只要一条Prompt：“Hold the hat in your hand”。🎨 AI能自动将帽子和原始图像相结合，生成令人惊艳的新图像。相比之下，照片细节依然丰富，光影、纹理都毫无违和感，也没有触发“诡谷效应”。😊
 
-![原始图像](/images/2025-09-06_174718_594.png)
+![原始图像](/images/Gemini_Generated_Image_1d5jp91d5jp91d5j.png)
 ![增加图像](/images/725c1701-c52f-469b-9393-82cde7539711.jpg)
 ![生成图像](/images/GeneratedImageSeptember072025-10_30AM.jpeg)
 
