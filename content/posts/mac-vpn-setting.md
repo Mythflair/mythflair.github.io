@@ -25,6 +25,7 @@ image:
 3. 编辑`/etc/ppp/options`禁用IPSec（拼错过一次😂）。
 4. 启用全流量路由。
 
+
 ## 解决方案📝
 ### 步骤1：PPP配置（禁用IPSec）
 
@@ -32,11 +33,13 @@ image:
 ```bash
 sudo cp /etc/ppp/options /etc/ppp/options.backup
 sudo nano /etc/ppp/options
+```
 
 添加：
 ```text
 plugin L2TP.ppp
 l2tpnoipsec
+```
 
 ![](images/2025-10-18_134222_559.png)
 
@@ -44,6 +47,7 @@ l2tpnoipsec
 ```bash
 sudo chmod 644 /etc/ppp/options
 sudo pkill pppd
+```
 
 ###步骤2：VPN高级设置
 系统设置 > 网络 > VPN > 高级 > 勾选“通过VPN连接发送所有流量”。重连！🎉
@@ -54,6 +58,7 @@ sudo pkill pppd
 ```bash
 sudo sysctl net.link.generic.system.hwcksum_tx=1  # 提升发速度
 sudo sysctl net.link.generic.system.hwcksum_rx=1  # 提升收速度
+```
 
 后续Tips🛡️
 
