@@ -118,6 +118,7 @@ tags = ["关于", "技术", "职业", "物联网", "网络安全"]
   <div class="timeline-item"><span class="timeline-year">2021</span>: 硕士毕业</div>
   <div class="timeline-item"><span class="timeline-year">2022</span>: 担任市互联网行业协会主席</div>
   <div class="timeline-item"><span class="timeline-year">2024</span>: 中百协会数字化工作委员会委员</div>
+  <div class="timeline-item"><span class="timeline-year">2024</span>: 担任承德市警察协会理事</div>
 </div>
 
 ---
