@@ -50,6 +50,7 @@ tags = ["关于", "技术", "职业", "物联网", "网络安全"]
 {{% project title="MUD侠客行" year="2001" desc="基于LPC技术栈开发文字冒险游戏。" tech="LPC" %}}
 {{% project title="XX ADSL工单受理系统" year="2001" desc="开发工单系统，提升运营效率。" tech="ASP" %}}
 {{% project title="跳蚤市场" year="2001" desc="基于PHP开发线上交易平台。" tech="PHP" %}}
+{{% project title="FreeICQ" year="2001" desc="二次开发的即时通信软件" tech="Pascal" %}}
 {{% project title="热河风云" year="2002" desc="基于Pascal开发项目，服务本地用户。" tech="Pascal" %}}
 {{% project title="承德宽带流媒体" year="2003" desc="基于RealServer提供流媒体服务。" tech="RealServer, PHP" %}}
 {{% project title="紫塞博客" year="2003" desc="开发博客平台，支持用户内容创作。" tech="PHP" %}}
