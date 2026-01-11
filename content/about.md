@@ -116,12 +116,22 @@ tags = ["关于", "技术", "职业", "物联网", "网络安全"]
   <div class="timeline-item"><span class="timeline-year">2016</span>: 完成全马</div>
   <div class="timeline-item"><span class="timeline-year">2019</span>: 日本留学，攻读硕士</div>
   <div class="timeline-item"><span class="timeline-year">2021</span>: 硕士毕业</div>
-  <div class="timeline-item"><span class="timeline-year">2022</span>: 担任市互联网行业协会主席</div>
-  <div class="timeline-item"><span class="timeline-year">2024</span>: 中百协会数字化工作委员会委员</div>
-  <div class="timeline-item"><span class="timeline-year">2025</span>: 担任市警察协会理事</div>
 </div>
 
 ---
+
+## 🏆 个人经历
+
+- 中国XX通信集团有限公司X分公司团委书记
+- 中国XX通信集团有限公司X分公司团部门主任
+- XX控股集团有限公司董事、副总裁
+- XX超市集团有限公司监事
+- XX市互联网协会副主席
+- XX市XX区电子商务协会会长
+- XX市互联网协会执行主席
+- XX市互联网行业工会联合会主席
+- 中百协会数字化工作委员会委员
+- XX市警察协会理事
 
 ## 🏆 荣誉与认证
 
