@@ -16,7 +16,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image "/images/2026-01-20_163405_147.png"
+  image: "/images/2026-01-20_163405_147.png"
   alt: "宽广十二年"
 ---
 
