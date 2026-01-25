@@ -61,7 +61,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
   [params.profileMode]
     enabled = true
     title = "紫塞"
-    subtitle = "1998 ~ 2025"
+    subtitle = "Since 1998."
     imageUrl = "/images/shennan.jpg"
     imageTitle = "SHENNAN"
     imageWidth = 120
