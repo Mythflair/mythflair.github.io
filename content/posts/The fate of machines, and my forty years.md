@@ -11,7 +11,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-30_152538_061.png"
+  image: "/images/mycar/d820f4f685933c2918d9f2f21c827f6b.jpg"
   alt: "The fate of machines, and my forty years"
 ---
 ![](/images/mycar/e45c06fd445ccb8a6389ba11a9e55f63.jpg)
