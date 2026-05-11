@@ -1,5 +1,5 @@
 ---
-title: "小龙虾（OpenClaw）在企业选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化"
+title: "小龙虾（OpenClaw）在采购选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化"
 date: 2026-04-30T08:30:00+08:00
 description: "AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection"
 tags:
