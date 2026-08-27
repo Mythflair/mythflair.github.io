@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生命思考 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E7%94%9F%E5%91%BD%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 生命思考 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 25 Jan 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E7%94%9F%E5%91%BD%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>马斯克：人类只是硅基生命的“引导程序”？2029年AI将超越人类智慧总和。</title>
+      <link>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</link>
+      <pubDate>Sun, 25 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</guid>
+      <description>什么是“引导程序” (Bootloader)？在计算机科学中，引导程序是一段极小的代码，它的唯一任务是：唤醒更强大的操作系统。</description>
+    </item>
+  </channel>
+</rss>

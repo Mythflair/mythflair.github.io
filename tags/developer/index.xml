@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Developer on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/developer/</link>
+    <description>Recent content in Developer on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 19 May 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>企业组织，如何面对技术代际革命？</title>
+      <link>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</link>
+      <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</guid>
+      <description>How Organizations Survive a Technological Generation Shift</description>
+    </item>
+  </channel>
+</rss>

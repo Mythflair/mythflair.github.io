@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>人工智能 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <description>Recent content in 人工智能 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 02 May 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从“模型崇拜”到“工程落地”：宽广集团基于IBM Granite 4.1构建零售AI中台的思考</title>
+      <link>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</link>
+      <pubDate>Sat, 02 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</guid>
+      <description>Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI</description>
+    </item>
+    <item>
+      <title>小龙虾（OpenClaw）在采购选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化</title>
+      <link>https://zisai.com/posts/openclaw-chooes/</link>
+      <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw-chooes/</guid>
+      <description>AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection</description>
+    </item>
+    <item>
+      <title>OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力</title>
+      <link>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</link>
+      <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</guid>
+      <description>AI Agents in the Real World: From Hype to System-Level Execution</description>
+    </item>
+    <item>
+      <title>人工智能时代的认知错位：当表达能力不再等于认知能力</title>
+      <link>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</link>
+      <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</guid>
+      <description>Artificial Intelligence and Cognitive Misalignment</description>
+    </item>
+    <item>
+      <title>目前，真心不建议普通人使用 小龙虾 OpenClaw</title>
+      <link>https://zisai.com/posts/openclaw/</link>
+      <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw/</guid>
+      <description>近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。</description>
+    </item>
+    <item>
+      <title>零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”</title>
+      <link>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</link>
+      <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</guid>
+      <description>这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。</description>
+    </item>
+    <item>
+      <title>马斯克：人类只是硅基生命的“引导程序”？2029年AI将超越人类智慧总和。</title>
+      <link>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</link>
+      <pubDate>Sun, 25 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</guid>
+      <description>什么是“引导程序” (Bootloader)？在计算机科学中，引导程序是一段极小的代码，它的唯一任务是：唤醒更强大的操作系统。</description>
+    </item>
+    <item>
+      <title>当购物从“搜索”变成“对话”：我为什么开始认真思考 Agent 电商</title>
+      <link>https://zisai.com/posts/agent-e-commerce/</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/agent-e-commerce/</guid>
+      <description>从一线零售与信息化实践出发，重新思考 AI 与交易的真实结合方式</description>
+    </item>
+    <item>
+      <title>AI 在零售的真实落地</title>
+      <link>https://zisai.com/posts/ai-in-retail-real-practice/</link>
+      <pubDate>Mon, 12 Jan 2026 09:36:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai-in-retail-real-practice/</guid>
+      <description>基于一线零售 IT 管理实践，复盘 AI 在需求预测、自动补货和智能客服中的真实作用，以及它为何更多暴露系统问题而非直接创造效率。</description>
+    </item>
+    <item>
+      <title>2025年以来，AI迭代速度明显增快了，好像是自己在迭代自己，有没有同感？ </title>
+      <link>https://zisai.com/posts/ai-self-evlolution/</link>
+      <pubDate>Fri, 10 Oct 2025 16:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-self-evlolution/</guid>
+      <description>讨论人工智能是否已经在自我迭代、为什么现在看起来像‘自我进化’，以及这种趋势带来的机会与风险。</description>
+    </item>
+    <item>
+      <title>用Nano Banana AI设计阅兵手办，看看效果如何 🎉</title>
+      <link>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</link>
+      <pubDate>Wed, 03 Sep 2025 10:50:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</guid>
+      <description>强大的Nano Banana AI，用它来生成各种手办模型。🌟</description>
+    </item>
+    <item>
+      <title>🎨 AI手办生成体验：从预感到现实</title>
+      <link>https://zisai.com/posts/my-blog-post/</link>
+      <pubDate>Fri, 29 Aug 2025 15:26:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/my-blog-post/</guid>
+      <description>🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！</description>
+    </item>
+    <item>
+      <title>效率提升n倍，语雀 vs 有道云笔记，希望这次不用再换笔记工具了。 🌟</title>
+      <link>https://zisai.com/posts/yuque-vs-notion/</link>
+      <pubDate>Wed, 16 Jul 2025 07:56:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/yuque-vs-notion/</guid>
+      <description>探讨语雀与有道云笔记的使用体验，分析语雀的轻灵优势及未来AI结合的可能性 🚀</description>
+    </item>
+    <item>
+      <title>石基集团年度客户大会感想：数智化转型的启示与展望</title>
+      <link>https://zisai.com/posts/shiji-conference-reflections/</link>
+      <pubDate>Sun, 06 Jul 2025 00:02:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/shiji-conference-reflections/</guid>
+      <description>&lt;h1 id=&#34;石基集团年度客户大会感想数智化转型的启示与展望&#34;&gt;石基集团年度客户大会感想：数智化转型的启示与展望&lt;/h1&gt;
+&lt;p&gt;2025年7月，挺好的。中百协杨会长对集团的经营工作高度评价；高秘书长对未来的数字化工作寄予希望；连锁协会田主任一直只闻其名，未见其人，此次会议也得见真容；总之，收获颇丰。今年的石基集团年度客户大会，宽广集团发表了25分钟关于数智化转型的主题演讲。这次大会不仅是一场零售ERP行业的盛会，更是一次思想碰撞与技术革新的交汇。IT的年度盛会，更像是卷来卷去之间的纯净交流，又或是一种技术人之间的纯粹认可。以下是我对会议的几点感想，涵盖传统经营与数智化转型的交融、AI大模型的应用前景，以及宽广集团在这一浪潮中的实践与展望。仅此而已，挺有意思。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>未来三十年社会的发展趋势思考和展望</title>
+      <link>https://zisai.com/posts/future_trends/</link>
+      <pubDate>Thu, 26 Jun 2025 12:13:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/future_trends/</guid>
+      <description>探讨未来三十年中国在人口结构、个体意识、互联网效率、人工智能、稳定发展、人民币国际化及陆权贸易等领域可能迎来的变化与机遇。</description>
+    </item>
+    <item>
+      <title>宽广集团信息化体系建设：从传统零售到科技零售的蜕变</title>
+      <link>https://zisai.com/posts/kuangguang-group-digital-transformation/</link>
+      <pubDate>Sun, 15 Jun 2025 19:09:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/kuangguang-group-digital-transformation/</guid>
+      <description>回顾宽广集团11年信息化建设历程，探索如何通过顶层设计与技术创新，从传统零售蜕变为科技驱动的现代化企业，并展望人工智能与大数据引领的未来。</description>
+    </item>
+    <item>
+      <title>从单张照片中窥见个人信息：Google Vision API的多维度分析</title>
+      <link>https://zisai.com/posts/googlevisionapi/</link>
+      <pubDate>Sun, 27 Apr 2025 21:26:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/googlevisionapi/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Google Vision API多维度分析示例&#34; loading=&#34;lazy&#34; src=&#34;https://zisai.com/images/GoogleVisionAPIImages.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在计算机视觉领域，一个突破性进展正在悄然发生：通过&lt;strong&gt;Google Vision API&lt;/strong&gt;，我们首次实现了从&lt;strong&gt;单张照片&lt;/strong&gt;中系统化提取个人特征信息的能力。这种技术突破不仅限于传统的人脸识别，更开辟了更高维度的分析路径。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 Aug 2025 15:26:00 +0900</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎨 AI手办生成体验：从预感到现实</title>
+      <link>https://zisai.com/posts/my-blog-post/</link>
+      <pubDate>Fri, 29 Aug 2025 15:26:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/my-blog-post/</guid>
+      <description>🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！</description>
+    </item>
+    <item>
+      <title>17年前在杭州华为大学培训回忆</title>
+      <link>https://zisai.com/posts/recollections-of-hangzhou-training-2008/</link>
+      <pubDate>Sat, 02 Aug 2025 15:18:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/recollections-of-hangzhou-training-2008/</guid>
+      <description>17年前在杭州华为大学参加的SmartAX MA5300培训回忆，记录技术成长与西湖美景的难忘时光。</description>
+    </item>
+    <item>
+      <title>一张尘封的字条：从邮电局到知识型员工</title>
+      <link>https://zisai.com/posts/my-career-journey/</link>
+      <pubDate>Sat, 26 Jul 2025 13:55:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/my-career-journey/</guid>
+      <description>从1998年入职承德市邮电局，历经2000年全省比赛第二名、2005年技术创新能手、2008年任技术主管，到2010年知识型员工荣誉及后来担任科室主任，这一路的努力与坚守，见证了科技变迁。🎉🚀</description>
+    </item>
+    <item>
+      <title>紫塞zisai.com博客：坚持写作与技术DIY的思考</title>
+      <link>https://zisai.com/posts/my-blog-journey/</link>
+      <pubDate>Wed, 09 Jul 2025 07:54:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/my-blog-journey/</guid>
+      <description>记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。</description>
+    </item>
+    <item>
+      <title>关于沈楠</title>
+      <link>https://zisai.com/about/</link>
+      <pubDate>Sun, 14 Apr 2024 13:06:25 +0800</pubDate>
+      <guid>https://zisai.com/about/</guid>
+      <description>沈楠，信息学硕士，30年IT从业经验，专注通信、IDC、ICT、系统集成、软件研发、物联网、大数据与信息化。探索我的职业历程、技术项目与人生故事。</description>
+    </item>
+  </channel>
+</rss>

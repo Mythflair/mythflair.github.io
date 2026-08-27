@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 18 Jul 2025 09:15:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>打破习惯的启示：从复制粘贴到手动输入 🚀</title>
+      <link>https://zisai.com/posts/break-the-habit/</link>
+      <pubDate>Fri, 18 Jul 2025 09:15:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/break-the-habit/</guid>
+      <description>&lt;h2 id=&#34;从复制粘贴到手动输入一个小改变的启示-&#34;&gt;从复制粘贴到手动输入：一个小改变的启示 🌱&lt;/h2&gt;
+&lt;p&gt;最近，我在写 Hugo 博客时，习惯性地复制 &lt;code&gt;cover images alt&lt;/code&gt; 等标签，然后修改内容。这几乎成了我的“肌肉记忆”——省力，但也有些机械。直到某天，我突然觉得：“就几个字母，为什么不直接输入呢？” 于是，我尝试手动输入，意外发现这种方式不仅简单，还让我感到一种奇妙的掌控感。✨&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>紫塞zisai.com博客：坚持写作与技术DIY的思考</title>
+      <link>https://zisai.com/posts/my-blog-journey/</link>
+      <pubDate>Wed, 09 Jul 2025 07:54:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/my-blog-journey/</guid>
+      <description>记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小龙虾 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E5%B0%8F%E9%BE%99%E8%99%BE/</link>
+    <description>Recent content in 小龙虾 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 02 May 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E5%B0%8F%E9%BE%99%E8%99%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从“模型崇拜”到“工程落地”：宽广集团基于IBM Granite 4.1构建零售AI中台的思考</title>
+      <link>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</link>
+      <pubDate>Sat, 02 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</guid>
+      <description>Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI</description>
+    </item>
+    <item>
+      <title>小龙虾（OpenClaw）在采购选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化</title>
+      <link>https://zisai.com/posts/openclaw-chooes/</link>
+      <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw-chooes/</guid>
+      <description>AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection</description>
+    </item>
+  </channel>
+</rss>
