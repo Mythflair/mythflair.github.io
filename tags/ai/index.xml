@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/ai/</link>
+    <description>Recent content in AI on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Aug 2026 08:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>法定，术变，技常新 —— AI时代，真正需要升级的，不是工具，而是思维</title>
+      <link>https://zisai.com/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/</link>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/</guid>
+      <description>真正的淘汰，从来不是某种工具淘汰了某种职业，而是拒绝成长的思维方式被时代抛下。  </description>
+    </item>
+    <item>
+      <title>企业组织，如何面对技术代际革命？</title>
+      <link>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</link>
+      <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</guid>
+      <description>How Organizations Survive a Technological Generation Shift</description>
+    </item>
+    <item>
+      <title>AI图像生成：一条Prompt指令，形成一个新图像。 📸✨</title>
+      <link>https://zisai.com/posts/ai_image_generation-action/</link>
+      <pubDate>Sun, 07 Sep 2025 10:00:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai_image_generation-action/</guid>
+      <description>一条PromPt，融合另外一个图像，生成一个新动作，产生一个新作品。🖼️</description>
+    </item>
+    <item>
+      <title>AI图像生成：漫画草图 vs 照片 📸✨</title>
+      <link>https://zisai.com/posts/ai_image_generation/</link>
+      <pubDate>Sat, 06 Sep 2025 17:43:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai_image_generation/</guid>
+      <description>为什么从漫画草图生成AI图像效果优于照片？解析简洁性与人类视觉的秘密。🖼️</description>
+    </item>
+    <item>
+      <title>用Nano Banana AI设计阅兵手办，看看效果如何 🎉</title>
+      <link>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</link>
+      <pubDate>Wed, 03 Sep 2025 10:50:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</guid>
+      <description>强大的Nano Banana AI，用它来生成各种手办模型。🌟</description>
+    </item>
+    <item>
+      <title>AI 生成建筑模型的震撼体验 🚀</title>
+      <link>https://zisai.com/posts/ai-building-model-experience/</link>
+      <pubDate>Mon, 01 Sep 2025 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-building-model-experience/</guid>
+      <description>只需几张照片，AI 就能生成逼真的建筑沙盘模型。它到底会不会让建模师失业？🤔</description>
+    </item>
+    <item>
+      <title>🎨 AI手办生成体验：从预感到现实</title>
+      <link>https://zisai.com/posts/my-blog-post/</link>
+      <pubDate>Fri, 29 Aug 2025 15:26:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/my-blog-post/</guid>
+      <description>🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>互联网 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/</link>
+    <description>Recent content in 互联网 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 14 Aug 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从1996年的“9600bps猫”说起：顶级的企业管理，本质上是一场开源</title>
+      <link>https://zisai.com/posts/management-as-open-source/</link>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/management-as-open-source/</guid>
+      <description>从拨号上网、技术标准与开源精神出发，重新思考企业管理中标准化、开放度与人才自主性的关系。</description>
+    </item>
+    <item>
+      <title>OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力</title>
+      <link>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</link>
+      <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</guid>
+      <description>AI Agents in the Real World: From Hype to System-Level Execution</description>
+    </item>
+    <item>
+      <title>人工智能时代的认知错位：当表达能力不再等于认知能力</title>
+      <link>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</link>
+      <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</guid>
+      <description>Artificial Intelligence and Cognitive Misalignment</description>
+    </item>
+    <item>
+      <title>目前，真心不建议普通人使用 小龙虾 OpenClaw</title>
+      <link>https://zisai.com/posts/openclaw/</link>
+      <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw/</guid>
+      <description>近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。</description>
+    </item>
+    <item>
+      <title>零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”</title>
+      <link>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</link>
+      <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</guid>
+      <description>这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。</description>
+    </item>
+    <item>
+      <title>一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）</title>
+      <link>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</link>
+      <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</guid>
+      <description>文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。</description>
+    </item>
+    <item>
+      <title>中文互联网的封闭生态与创新困境</title>
+      <link>https://zisai.com/posts/theclosedecologyandinnovationdilemmaofthechineseinternet/</link>
+      <pubDate>Wed, 14 May 2025 12:38:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/theclosedecologyandinnovationdilemmaofthechineseinternet/</guid>
+      <description>探讨中文互联网的封闭生态如何导致内容质量下降、技术创新受限，以及对开放式发展的深远影响。</description>
+    </item>
+  </channel>
+</rss>

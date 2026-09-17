@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apple on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/apple/</link>
+    <description>Recent content in Apple on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 19 Sep 2025 17:08:00 +0900</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>十多年前的Apple TV复活：那时乔布斯还活着，那时苹果的品控让我惊叹不已 🖥️✨</title>
+      <link>https://zisai.com/posts/apple-tv-revival-blog-post/</link>
+      <pubDate>Fri, 19 Sep 2025 17:08:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/apple-tv-revival-blog-post/</guid>
+      <description>尘封十年的2009年Apple TV竟然还能用！从硬件耐用到软件支持，苹果的产品生命周期设计让人叹为观止。记录我的这次意外发现和对苹果设计理念的思考。 🚀</description>
+    </item>
+    <item>
+      <title>IPhone17发布了，高度概括一下这一代的特点。 📸✨</title>
+      <link>https://zisai.com/posts/iphone13-releases/</link>
+      <pubDate>Thu, 11 Sep 2025 17:43:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/iphone13-releases/</guid>
+      <description>IPhone17发布了，由于还在用IPhone13，所以关注了一下，总结下特点。🖼️</description>
+    </item>
+    <item>
+      <title>从 iOS 18 到 iOS 26：苹果为何跳过版本号？</title>
+      <link>https://zisai.com/posts/ios_version_jump/</link>
+      <pubDate>Thu, 12 Jun 2025 11:19:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ios_version_jump/</guid>
+      <description>苹果为何从 iOS 18 直接跳到 iOS 26，跳过了 19、20、21 等版本号？本文深入探讨苹果版本号命名的变化原因与背后的逻辑。</description>
+    </item>
+  </channel>
+</rss>

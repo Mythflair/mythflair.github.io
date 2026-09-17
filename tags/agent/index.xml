@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agent on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/agent/</link>
+    <description>Recent content in Agent on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 14 Jan 2026 17:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>当购物从“搜索”变成“对话”：我为什么开始认真思考 Agent 电商</title>
+      <link>https://zisai.com/posts/agent-e-commerce/</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/agent-e-commerce/</guid>
+      <description>从一线零售与信息化实践出发，重新思考 AI 与交易的真实结合方式</description>
+    </item>
+  </channel>
+</rss>

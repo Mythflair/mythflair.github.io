@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DIY on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/diy/</link>
+    <description>Recent content in DIY on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Jul 2025 07:54:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>紫塞zisai.com博客：坚持写作与技术DIY的思考</title>
+      <link>https://zisai.com/posts/my-blog-journey/</link>
+      <pubDate>Wed, 09 Jul 2025 07:54:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/my-blog-journey/</guid>
+      <description>记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。</description>
+    </item>
+  </channel>
+</rss>

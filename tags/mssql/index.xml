@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MSSQL on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/mssql/</link>
+    <description>Recent content in MSSQL on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Feb 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/mssql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）</title>
+      <link>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</link>
+      <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</guid>
+      <description>文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。</description>
+    </item>
+  </channel>
+</rss>
