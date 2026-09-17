@@ -4,7 +4,7 @@ date: 2026-09-17T10:00:00+08:00
 draft: false
 author: "沈楠"
 description: "从品牌里的“X”到硬折扣的经营逻辑，聊聊宽广超市天山店如何通过精选商品、提高效率，让品质低价融入日常购物。"
-slug: "kuanguang-x-value-hard-discount"
+slug: "kuanguang-x-value-hard-discount-explained"
 tags:
   - 宽广X超值
   - 硬折扣
