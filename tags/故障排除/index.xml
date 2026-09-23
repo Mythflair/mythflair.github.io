@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>故障排除 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/</link>
+    <description>Recent content in 故障排除 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 Oct 2025 12:05:00 +0900</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacbookPRO OSX Tahoe 26.0.1 L2TP VPN连接故障排除：快速修复指南🚀</title>
+      <link>https://zisai.com/posts/mac-vpn-setting/</link>
+      <pubDate>Sat, 18 Oct 2025 12:05:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/mac-vpn-setting/</guid>
+      <description>Mac L2TP VPN连接失败？记录从无响应到内网畅游的排查：编辑PPP文件禁用IPSec &#43; 全流量路由。附步骤！🔧</description>
+    </item>
+  </channel>
+</rss>

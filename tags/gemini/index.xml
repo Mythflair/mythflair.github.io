@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gemini on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/gemini/</link>
+    <description>Recent content in Gemini on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 29 Aug 2025 15:26:00 +0900</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/gemini/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎨 AI手办生成体验：从预感到现实</title>
+      <link>https://zisai.com/posts/my-blog-post/</link>
+      <pubDate>Fri, 29 Aug 2025 15:26:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/my-blog-post/</guid>
+      <description>🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！</description>
+    </item>
+  </channel>
+</rss>

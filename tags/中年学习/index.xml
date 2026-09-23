@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>中年学习 on 紫塞 zisai.com</title>
+    <link>https://zisai.com/tags/%E4%B8%AD%E5%B9%B4%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 中年学习 on 紫塞 zisai.com</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 29 Jan 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E4%B8%AD%E5%B9%B4%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三十年：一个IT人的自我校准（1996—2026）</title>
+      <link>https://zisai.com/posts/it-30-years/</link>
+      <pubDate>Thu, 29 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/it-30-years/</guid>
+      <description>1994年，父亲不顾家人反对，花费1.8万元给我买了一台康柏电脑。我想，技术生涯自此开始了。</description>
+    </item>
+    <item>
+      <title>宽广十二年</title>
+      <link>https://zisai.com/posts/kuangguang-12-years/</link>
+      <pubDate>Tue, 20 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/kuangguang-12-years/</guid>
+      <description>从体制内到经营型企业，十二年的路径、学习与建设。那些看似错过的远方，最终以另一种方式抵达。</description>
+    </item>
+  </channel>
+</rss>
