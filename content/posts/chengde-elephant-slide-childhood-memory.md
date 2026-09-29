@@ -1,6 +1,6 @@
 ---
 title: "承德人，你还记得避暑山庄里的大象滑梯吗？"
-date: 2026-09-29T17:00:00+08:00
+date: 2026-09-29T16:00:00+08:00
 draft: false
 slug: "chengde-elephant-slide-childhood-memory"
 description: "从避暑山庄里的大象滑梯出发，借助老照片、记忆与AI，重新拼起几代承德人的童年。"
