@@ -21,7 +21,7 @@ cover:
 
 不知道怎么聊着聊着，就说起了避暑山庄里的那座大象滑梯。
 
-![避暑山庄里的大象滑梯](https://weixin.qq.com/sph/As92DtOFEm)
+{{< video src="/videos/chengde-elephant-slide-memory.mp4" type="video/mp4" preload="metadata" >}}
 
 几个人几乎同时说：
 
@@ -226,7 +226,8 @@ AI 会随意改变人物的动作，也会改变建筑的形状。
 一个在旁边等你的父亲或母亲。
 
 还有那个当时觉得永远不会结束的童年。
-![记忆跨越时间重新被唤醒](https://weixin.qq.com/sph/AMDWYdIz8k)
+
+{{< video src="/videos/chengde-elephant-slide-memory.mp4" type="video/mp4" preload="metadata" >}}
 
 今天，避暑山庄已经成为世界文化遗产。
 
