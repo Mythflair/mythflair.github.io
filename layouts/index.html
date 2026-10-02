@@ -1,0 +1,185 @@
+{{- define "main" -}}
+{{- $pages := where site.RegularPages "Section" "posts" -}}
+{{- if eq (len $pages) 0 }}{{- $pages = site.RegularPages -}}{{- end -}}
+{{- $pages = $pages.ByDate.Reverse -}}
+{{- $featured := first 4 $pages -}}
+{{- $latest := first 6 (after 4 $pages) -}}
+{{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
+{{- $cats := slice
+    (dict "key" "chengde" "name" "承德" "url" "/tags/承德/" )
+    (dict "key" "landscape" "name" "山河" "url" "/tags/山河/" )
+    (dict "key" "culture" "name" "文化" "url" "/tags/文化/" )
+    (dict "key" "life" "name" "生活" "url" "/tags/生活/" )
+    (dict "key" "tech" "name" "技术" "url" "/tags/技术/" )
+    (dict "key" "travel" "name" "旅行" "url" "/tags/旅行/" ) -}}
+{{- $counter := newScratch -}}
+{{- range $cat := $cats }}{{- $counter.Set (printf "cat-%s" $cat.key) 0 -}}{{- end -}}
+{{- range $p := $pages -}}
+  {{- $tags := $p.Params.tags | default (slice) -}}
+  {{- range $cat := $cats -}}
+    {{- if in $tags $cat.name -}}
+      {{- $counter.Add (printf "cat-%s" $cat.key) 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+<section class="zisai-home zisai-home--v2">
+  {{- $heroImage := site.Params.zisai.heroImage | default "/images/zisai/hero-chengde.webp" -}}
+  <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage | relURL }}')">
+    <div class="zisai-hero__veil"></div>
+    <div class="zisai-hero__content">
+      <div class="zisai-eyebrow">CHENGDE <span>A BRIGHTER TOMORROW</span></div>
+      <h1>{{ site.Params.zisai.heroTitle1 | default "山河有故事" }}<br>{{ site.Params.zisai.heroTitle2 | default "生活自有光" }}</h1>
+      <div class="zisai-rule"></div>
+      <p>{{ site.Params.zisai.heroText | default "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。" }}</p>
+      {{- with first 1 $pages -}}
+        {{- range . -}}<a class="zisai-cta" href="{{ .RelPermalink }}">阅读最新文章 <span>→</span></a>{{- end -}}
+      {{- else -}}
+        <a class="zisai-cta" href="{{ "/posts/" | relURL }}">浏览文章 <span>→</span></a>
+      {{- end -}}
+    </div>
+    <div class="zisai-hero__motto" aria-hidden="true">{{ site.Params.zisai.heroMotto1 | default "紫气东来" }}<br>{{ site.Params.zisai.heroMotto2 | default "生生不息" }}<span></span></div>
+
+    <div class="zisai-featured-wrap">
+      <div class="zisai-featured">
+        {{- range $i, $p := $featured -}}
+          {{- $img := "" -}}
+          {{- with $p.Params.cover }}{{- with .image }}{{- $img = . -}}{{- end }}{{- end -}}
+          {{- if eq $img "" -}}
+            {{- $tags := $p.Params.tags | default (slice) -}}
+            {{- if in $tags "承德" -}}
+              {{- $img = "/images/zisai/card-resort.webp" -}}
+            {{- else if in $tags "山河" -}}
+              {{- $img = "/images/zisai/card-mountain.webp" -}}
+            {{- else if in $tags "文化" -}}
+              {{- $img = "/images/zisai/card-temple.webp" -}}
+            {{- else if in $tags "旅行" -}}
+              {{- $img = "/images/zisai/card-greatwall.webp" -}}
+            {{- else if in $tags "热河" -}}
+              {{- $img = "/images/zisai/card-rehe.webp" -}}
+            {{- else if in $tags "二仙居" -}}
+              {{- $img = "/images/zisai/card-erxianju.webp" -}}
+            {{- else -}}
+              {{- $fallback := slice "/images/zisai/card-resort.webp" "/images/zisai/card-mountain.webp" "/images/zisai/card-temple.webp" "/images/zisai/card-greatwall.webp" -}}
+              {{- $img = index $fallback (mod $i 4) -}}
+            {{- end -}}
+          {{- end -}}
+          <article class="zisai-feature-card">
+            <a class="zisai-feature-card__image" href="{{ $p.RelPermalink }}" aria-label="{{ $p.Title }}">
+              <img src="{{ $img | relURL }}" alt="{{ $p.Title }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+            </a>
+            <div class="zisai-feature-card__body">
+              <div class="zisai-feature-card__kicker">
+                {{- with $p.Params.tags }}<span>{{ index . 0 }}</span>{{ else }}<span>紫塞</span>{{ end -}}
+                <em>{{ with $p.Params.categories }}{{ index . 0 | upper }}{{ else }}ZISAI{{ end }}</em>
+              </div>
+              <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+              <p>{{ $p.Summary | plainify | truncate 60 }}</p>
+              <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>阅读 {{ $p.ReadingTime }} 分钟</span></div>
+            </div>
+          </article>
+        {{- end -}}
+      </div>
+    </div>
+  </section>
+
+  <section class="zisai-magazine">
+    <div class="zisai-main-col">
+      <header class="zisai-section-head zisai-section-head--latest">
+        <div>
+          <h2>最新文章</h2>
+          <p>记录故乡的山河、生活的日常与技术的思考</p>
+        </div>
+        <a href="{{ "/posts/" | relURL }}">查看更多 →</a>
+      </header>
+
+      <div class="zisai-latest-list">
+        {{- range $i, $p := $latest -}}
+          {{- $img := "" -}}
+          {{- with $p.Params.cover }}{{- with .image }}{{- $img = . -}}{{- end }}{{- end -}}
+          {{- if eq $img "" -}}
+            {{- $tags := $p.Params.tags | default (slice) -}}
+            {{- if in $tags "承德" -}}
+              {{- $img = "/images/zisai/card-resort.webp" -}}
+            {{- else if in $tags "山河" -}}
+              {{- $img = "/images/zisai/card-mountain.webp" -}}
+            {{- else if in $tags "文化" -}}
+              {{- $img = "/images/zisai/card-temple.webp" -}}
+            {{- else if in $tags "旅行" -}}
+              {{- $img = "/images/zisai/card-greatwall.webp" -}}
+            {{- else if in $tags "热河" -}}
+              {{- $img = "/images/zisai/card-rehe.webp" -}}
+            {{- else if in $tags "二仙居" -}}
+              {{- $img = "/images/zisai/card-erxianju.webp" -}}
+            {{- else -}}
+              {{- $fallback := slice "/images/zisai/card-resort.webp" "/images/zisai/card-mountain.webp" "/images/zisai/card-temple.webp" "/images/zisai/card-greatwall.webp" "/images/zisai/card-rehe.webp" "/images/zisai/card-erxianju.webp" -}}
+              {{- $img = index $fallback (mod $i 6) -}}
+            {{- end -}}
+          {{- end -}}
+          <article class="zisai-story-row">
+            <a class="zisai-story-row__thumb" href="{{ $p.RelPermalink }}"><img src="{{ $img | relURL }}" alt="{{ $p.Title }}" loading="lazy"></a>
+            <div class="zisai-story-row__body">
+              <div class="zisai-story-row__top">
+                {{- with $p.Params.tags }}<span class="zisai-pill">{{ index . 0 }}</span>{{- end -}}
+              </div>
+              <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+              <p>{{ $p.Summary | plainify | truncate 110 }}</p>
+              <div class="zisai-story-row__meta">
+                <time>{{ $p.Date.Format "2006.01.02" }}</time>
+                <span>·</span>
+                <span>{{ $p.ReadingTime }} 分钟</span>
+                {{- if $p.WordCount }}<span>·</span><span>{{ $p.WordCount }} 字</span>{{- end -}}
+              </div>
+            </div>
+          </article>
+        {{- end -}}
+      </div>
+    </div>
+
+    <aside class="zisai-side-col">
+      <section class="zisai-panel zisai-panel--cats">
+        <header class="zisai-panel__head">
+          <h3>分类浏览</h3>
+          <p>发现更多精彩内容</p>
+        </header>
+        <div class="zisai-cat-grid">
+          {{- range $cat := $cats -}}
+            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ $cat.url | relURL }}">
+              <span class="zisai-cat-card__icon">
+                {{- if eq $cat.key "chengde" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 19h18v2H3zm2-1V9l7-4 7 4v9h-2v-2H7v2zm4-4h6V9H9z"/></svg>
+                {{- else if eq $cat.key "landscape" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 19h20l-6-9-4 5-3-4z"/></svg>
+                {{- else if eq $cat.key "culture" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h16v-2H4zm1-4h14l-1-7H6zm2-9 5-3 5 3z"/></svg>
+                {{- else if eq $cat.key "life" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6c0 2 1 3 2 4-3 1-5 4-5 7h14c0-3-2-6-5-7 1-1 2-2 2-4H8z"/></svg>
+                {{- else if eq $cat.key "tech" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 8-4 4 4 4m8-8 4 4-4 4M10 19l4-14"/></svg>
+                {{- else if eq $cat.key "travel" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16a2 2 0 0 1 2 2v8H2v-8a2 2 0 0 1 2-2m4 0V6a4 4 0 1 1 8 0v2" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+                {{- end -}}
+              </span>
+              <div>
+                <strong>{{ $cat.name }}</strong>
+                <small>{{ $counter.Get (printf "cat-%s" $cat.key) }} 篇</small>
+              </div>
+            </a>
+          {{- end -}}
+        </div>
+      </section>
+
+      <section class="zisai-panel zisai-panel--about">
+        <header class="zisai-panel__head zisai-panel__head--split">
+          <h3>关于紫塞</h3>
+          <a href="{{ site.Params.zisai.aboutURL | default "/about/" | relURL }}">了解更多 →</a>
+        </header>
+        <div class="zisai-about-card">
+          <img src="{{ "/images/zisai/logo-mark.webp" | relURL }}" alt="ZISAI">
+          <p>{{ $aboutText }}</p>
+        </div>
+      </section>
+    </aside>
+  </section>
+</section>
+{{- end -}}

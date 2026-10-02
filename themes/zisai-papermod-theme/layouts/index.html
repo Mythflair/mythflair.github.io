@@ -1,0 +1,63 @@
+{{- define "main" }}
+{{- $pages := where site.RegularPages "Section" "posts" }}
+{{- if eq (len $pages) 0 }}{{- $pages = site.RegularPages }}{{- end }}
+{{- $pages = $pages.ByDate.Reverse }}
+<section class="zisai-home">
+  <div class="zisai-hero">
+    <div class="zisai-hero__veil"></div>
+    <div class="zisai-hero__content">
+      <div class="zisai-eyebrow">CHENGDE <span>A BRIGHTER TOMORROW</span></div>
+      <h1>{{ site.Params.zisai.heroTitle1 | default "山河有故事" }}<br>{{ site.Params.zisai.heroTitle2 | default "生活自有光" }}</h1>
+      <div class="zisai-rule"></div>
+      <p>{{ site.Params.zisai.heroText | default "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。" }}</p>
+      {{- with first 1 $pages }}
+        {{- range . }}<a class="zisai-cta" href="{{ .RelPermalink }}">阅读最新文章 <span>→</span></a>{{- end }}
+      {{- else }}
+        <a class="zisai-cta" href="/posts/">浏览文章 <span>→</span></a>
+      {{- end }}
+    </div>
+    <div class="zisai-hero__motto" aria-hidden="true">紫气东来<br>生生不息<span></span></div>
+
+    <div class="zisai-featured-wrap">
+      <div class="zisai-featured">
+        {{- $fallback := slice "/images/zisai/card-resort.svg" "/images/zisai/card-mountain.svg" "/images/zisai/card-temple.svg" "/images/zisai/card-greatwall.svg" }}
+        {{- range $i, $p := first 4 $pages }}
+        {{- $img := index $fallback (mod $i 4) }}
+        {{- with $p.Params.cover }}{{- with .image }}{{- $img = . }}{{- end }}{{- end }}
+        <article class="zisai-feature-card">
+          <a class="zisai-feature-card__image" href="{{ $p.RelPermalink }}" aria-label="{{ $p.Title }}">
+            <img src="{{ $img | relURL }}" alt="" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+          </a>
+          <div class="zisai-feature-card__body">
+            <div class="zisai-feature-card__kicker">
+              {{- with $p.Params.tags }}<span>{{ index . 0 }}</span>{{ else }}<span>紫塞</span>{{ end }}
+              <em>ZISAI</em>
+            </div>
+            <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+            <p>{{ $p.Summary | plainify | truncate 60 }}</p>
+            <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>·</span><span>{{ $p.ReadingTime }} MIN</span></div>
+          </div>
+        </article>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+
+  <section class="zisai-latest">
+    <header class="zisai-section-head">
+      <div><span class="zisai-section-label">LATEST STORIES</span><h2>最近文章</h2></div>
+      <a href="{{ "/posts/" | relURL }}">查看全部 →</a>
+    </header>
+    <div class="zisai-story-grid">
+      {{- range first 8 (after 4 $pages) }}
+      <article class="zisai-story-card">
+        <div class="zisai-story-card__meta"><time>{{ .Date.Format "2006.01.02" }}</time>{{ with .Params.tags }}<span>{{ index . 0 }}</span>{{ end }}</div>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary | plainify | truncate 105 }}</p>
+        <a class="zisai-story-card__more" href="{{ .RelPermalink }}">阅读全文</a>
+      </article>
+      {{- end }}
+    </div>
+  </section>
+</section>
+{{- end }}

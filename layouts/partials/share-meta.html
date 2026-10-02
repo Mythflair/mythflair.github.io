@@ -93,4 +93,4 @@
 
 <!-- 确保基础描述标签存在 -->
 <meta name="keywords" content="{{ delimit .Keywords "," }}">
-<meta name="author" content="{{ .Site.Author.name | default .Site.Title }}">
+<meta name="author" content="{{ .Site.Params.author | default .Site.Title }}">

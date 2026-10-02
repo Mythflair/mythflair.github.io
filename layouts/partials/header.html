@@ -1,0 +1,25 @@
+<header class="header zisai-header{{ if .IsHome }} zisai-header--home{{ end }}">
+  <nav class="nav zisai-nav">
+    <a class="zisai-brand" href="{{ "" | absLangURL }}" accesskey="h" title="{{ site.Title }} (Alt + H)">
+      <img src="{{ "/images/zisai/logo-mark.webp" | relURL }}" alt="" width="56" height="54">
+      <span class="zisai-brand__cn">紫塞</span>
+      <span class="zisai-brand__latin">ZISAI<small>SINCE 1998</small></span>
+    </a>
+    <button class="zisai-menu-toggle" type="button" aria-label="打开导航" onclick="this.parentElement.classList.toggle('is-open')">☰</button>
+    <div class="zisai-nav__right">
+      <ul id="zisai-menu" class="zisai-menu">
+        {{- range site.Menus.main }}
+        <li><a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">{{ .Name }}</a></li>
+        {{- end }}
+      </ul>
+      <a class="zisai-search" href="{{ "/search/" | relURL }}" aria-label="搜索">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      </a>
+      <a class="zisai-motto-pill" href="{{ site.Params.zisai.mottoURL | default "/about/" | relURL }}">{{ site.Params.zisai.motto | default "随笔记录生活" }}</a>
+      <button id="zisai-theme-toggle" class="zisai-theme-toggle" type="button" aria-label="切换明暗主题" onclick="window.zisaiToggleTheme && window.zisaiToggleTheme()">◐</button>
+    </div>
+  </nav>
+</header>
+<script>
+window.zisaiToggleTheme=window.zisaiToggleTheme||function(){var d=document.documentElement,b=document.body,dk=(b.classList.contains('dark')||d.dataset.theme==='dark');if(dk){b.classList.remove('dark');d.dataset.theme='light';localStorage.setItem('pref-theme','light')}else{b.classList.add('dark');d.dataset.theme='dark';localStorage.setItem('pref-theme','dark')}};
+</script>
