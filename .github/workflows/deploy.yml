@@ -16,7 +16,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.146.7' # 改为你的本地版本
+          hugo-version: '0.167.0' # 改为你的本地版本
           extended: true
 
       - name: Build
