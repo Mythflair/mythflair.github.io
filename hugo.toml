@@ -73,7 +73,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 
   env = "production"
 
-  description = "紫塞 zisai.com，始于1998年的承德紫塞明珠网，如今继续记录生活、技术、城市记忆与个人思考。"
+  description = "缘起1998年紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
 
   keywords = [
     "沈楠",
@@ -181,7 +181,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
   heroTitle1 = "山河有故事"
   heroTitle2 = "生活自有光"
 
-  heroText = "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。"
+  heroText = "从一座北方小城承德出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。"
 
   motto = "随笔记录生活"
   mottoURL = "/about/"
