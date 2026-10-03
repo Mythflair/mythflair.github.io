@@ -25,7 +25,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
+    <main class="main{{ if .IsHome }} main--home{{ end }}">
         {{- block "main" . }}{{ end }}
     </main>
 <!-- Google Adsense (noscript) -->
