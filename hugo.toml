@@ -73,7 +73,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 
   env = "production"
 
-  description = "紫塞 zisai.com - SHENNAN 沈楠 - 是的，这是承德的紫塞，现在记录生活、技术和思考。"
+  description = "紫塞 zisai.com，始于1998年的承德紫塞明珠网，如今继续记录生活、技术、城市记忆与个人思考。"
 
   keywords = [
     "沈楠",
@@ -125,7 +125,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
   # static/images/zisai-share.png
   # ----------------------------------------------------------
 
-  images = ["/images/zisai-share.png"]
+  images = ["/images/zisai-share-2.png"]
 
 
   # ----------------------------------------------------------
