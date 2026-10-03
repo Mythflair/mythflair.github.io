@@ -6,8 +6,6 @@
 <html lang="{{ site.Language.Locale }}" dir="{{ .Language.Direction | default "auto" }}">
 
 <head>
-    <meta charset="utf-8">
-    <title>{{ .Title }}</title>
     {{ partial "share-meta.html" . }}
     {{- partial "head.html" . }}
 </head>
@@ -21,22 +19,31 @@
 {{- end -}}
 {{- if not .IsHome -}}{{- print " zisai-inner" -}}{{- end -}}
 " id="top">
+
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCVR5FXN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCVR5FXN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 <!-- End Google Tag Manager (noscript) -->
+
     {{- partialCached "header.html" . .Page -}}
+
     <main class="main{{ if .IsHome }} main--home{{ else }} main--inner{{ if and .IsPage (ne .Layout "search") (ne .Layout "archives") }} main--reading{{ end }}{{ end }}">
         {{- block "main" . }}{{ end }}
     </main>
-<!-- Google Adsense (noscript) -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6505236094995924"
-     crossorigin="anonymous"></script>
-<!-- End Google Adsense (noscript) -->
+
+<!-- Google Adsense -->
+<script async
+src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6505236094995924"
+crossorigin="anonymous"></script>
+<!-- End Google Adsense -->
+
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
 {{ if .Params.math }}
   {{ partial "mathjax.html" . }}
 {{ end }}
-</body>
 
+</body>
 </html>

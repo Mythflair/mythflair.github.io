@@ -200,6 +200,10 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 
   apple_touch_icon = "/apple-touch-icon.png"
 
+  theme_color = "#7b167c"
+
+  msapplication_TileColor = "#7b167c"
+
   # 如果以后制作 Safari 固定标签图标，可开启
   # safari_pinned_tab = "/safari-pinned-tab.svg"
 
