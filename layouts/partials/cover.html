@@ -1,3 +1,4 @@
+{{- if not .isHidden -}}
 {{- with .cxt}} {{/* Apply proper context from dict */}}
 {{- if .Params.cover }}
   {{- if .Params.cover.video }}
@@ -62,4 +63,5 @@
     </figure>
   {{- end }}
 {{- end }}
+{{- end -}}
 {{- end -}}

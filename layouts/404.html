@@ -1,3 +1,11 @@
-{{- define "main" }}
-<div class="not-found">404</div>
-{{- end }}{{/* end main */ -}}
+{{ define "main" }}
+<section class="zisai-not-found">
+  <p class="zisai-eyebrow">ZISAI · 404</p>
+  <h1>这页故事暂未找到</h1>
+  <p>链接可能已变更，回到首页或搜索，继续寻找想读的内容。</p>
+  <div class="zisai-not-found__links">
+    <a class="zisai-cta" href="{{ "/" | relURL }}">回到首页 <span>→</span></a>
+    <a href="{{ "/search/" | relURL }}">搜索文章</a>
+  </div>
+</section>
+{{ end }}
