@@ -1,0 +1,180 @@
+/* Inner pages share the home palette; scope every rule to protect the hero. */
+body.zisai-inner {
+  --zisai-accent: #7d177f;
+  --zisai-surface: rgba(255, 255, 255, .78);
+  --zisai-soft: rgba(125, 23, 127, .045);
+  --zisai-shadow: 0 14px 42px rgba(68, 43, 62, .055);
+  --content: #353d4e;
+  --border: rgba(20, 33, 63, .1);
+  --code-bg: #f4eee9;
+  background: radial-gradient(ellipse at 8% 0, rgba(125, 23, 127, .045), transparent 45%), #fffdf9;
+  color: var(--zisai-ink);
+}
+body.zisai-inner.dark {
+  --zisai-accent: #e3a5db;
+  --zisai-surface: #211b23;
+  --zisai-soft: rgba(227, 165, 219, .06);
+  --zisai-shadow: 0 14px 42px rgba(0, 0, 0, .12);
+  --content: #e1d5de;
+  --border: rgba(255, 255, 255, .12);
+  --code-bg: #2a222c;
+  background: radial-gradient(ellipse at 8% 0, rgba(125, 23, 127, .08), transparent 45%), #17141a;
+}
+.zisai-inner .main.main--inner { max-width: 1120px; padding: 40px 28px 88px; min-height: calc(100vh - 180px); }
+.zisai-inner .main.main--reading { max-width: 920px; }
+.zisai-inner .zisai-header { border-bottom-color: var(--border); }
+.zisai-inner .zisai-motto-pill { color: var(--zisai-accent); border-color: var(--zisai-accent); }
+.zisai-inner a:focus-visible, .zisai-inner button:focus-visible, .zisai-inner summary:focus-visible, .zisai-inner input:focus-visible {
+  outline: 2px solid var(--zisai-accent); outline-offset: 4px;
+}
+.zisai-inner .page-header { margin: 0 0 36px; padding: 18px 0 26px; border-bottom: 1px solid var(--border); }
+.zisai-inner .page-header h1 { position: relative; padding-inline-start: 20px; font-size: clamp(30px, 3.2vw, 44px); line-height: 1.35; }
+.zisai-inner .page-header h1::before { content: ''; position: absolute; inset-inline-start: 0; top: .2em; height: 1em; width: 4px; border-radius: 4px; background: linear-gradient(var(--zisai-accent), #b74aa5); }
+.zisai-inner .breadcrumbs { margin-bottom: 16px; gap: 6px; font-size: 13px; line-height: 1.8; }
+.zisai-inner .breadcrumbs a { font-size: inherit; }
+.zisai-inner .breadcrumbs a:hover { color: var(--zisai-accent); }
+.zisai-inner .post-description { color: var(--secondary); font-size: 16px; line-height: 1.9; }
+.zisai-inner .post-meta, .zisai-inner .entry-footer { line-height: 1.9; font-size: 13px; overflow-wrap: anywhere; }
+
+/* A calm paper surface and a comfortable reading measure. */
+.zisai-inner .post-single { padding: 38px 42px 32px; background: var(--zisai-surface); border: 1px solid var(--border); border-radius: 24px; box-shadow: var(--zisai-shadow); }
+.zisai-inner .post-header { margin: 0 0 28px; padding-bottom: 24px; border-bottom: 1px solid var(--border); }
+.zisai-inner .post-title { text-wrap: balance; font-size: clamp(28px, 3.1vw, 42px); line-height: 1.5; font-weight: 600; letter-spacing: .025em; overflow-wrap: anywhere; }
+.zisai-inner .post-meta { margin-top: 16px; }
+.zisai-inner .post-single > .entry-cover { margin: 0 0 28px; }
+.zisai-inner .entry-cover img, .zisai-inner .entry-cover video { border-radius: 16px; }
+.zisai-inner .entry-cover figcaption { margin: 10px 0 0; color: var(--secondary); font-size: 13px; line-height: 1.8; }
+.zisai-inner .post-content { font-size: 18px; line-height: 2; overflow-wrap: anywhere; }
+.zisai-inner .post-content > p { margin-bottom: 24px; }
+.zisai-inner .post-content h1 { font-size: 30px; line-height: 1.5; }
+.zisai-inner .post-content h2 { margin: 44px 0 20px; padding-bottom: 12px; border-bottom: 1px solid var(--border); font-size: 28px; line-height: 1.55; color: var(--primary); }
+.zisai-inner .post-content h3 { margin-top: 32px; font-size: 22px; line-height: 1.6; color: var(--primary); }
+.zisai-inner .post-content h4 { font-size: 19px; }
+.zisai-inner .post-content a { color: var(--zisai-accent); box-shadow: 0 1px 0 rgba(125, 23, 127, .25); }
+.zisai-inner .post-content a:hover { box-shadow: 0 2px 0 var(--zisai-accent); }
+.zisai-inner .post-content img { border-radius: 14px; }
+.zisai-inner .post-content img.in-text { border-radius: 4px; }
+.zisai-inner .post-content blockquote { border-inline-start: 3px solid var(--zisai-accent); background: var(--zisai-soft); padding: 16px 22px; border-radius: 0 14px 14px 0; color: var(--secondary); }
+.zisai-inner .post-content blockquote p:last-child { margin-bottom: 0; }
+.zisai-inner .post-content hr { height: 1px; margin: 36px 0; background: var(--border); }
+.zisai-inner .post-content pre code { padding: 20px; font-size: 14px; line-height: 1.75; letter-spacing: 0; overflow-wrap: normal; word-break: normal; }
+.zisai-inner .post-content :not(pre) > code { color: var(--zisai-accent); border-radius: 5px; }
+.zisai-inner .post-content table:not(.highlighttable, .highlight table, .gist table) { border: 1px solid var(--border); border-radius: 12px; }
+.zisai-inner .post-content table:not(.highlighttable, .highlight table, .gist table) th { background: var(--zisai-soft); }
+.zisai-inner .post-content table:not(.highlighttable, .highlight table, .gist table) th,
+.zisai-inner .post-content table:not(.highlighttable, .highlight table, .gist table) td { padding: 12px 16px; }
+.zisai-inner .post-content h1, .zisai-inner .post-content h2, .zisai-inner .post-content h3 { scroll-margin-top: 24px; }
+.zisai-inner .toc { margin: 0 0 30px; padding: 16px 18px; border: 1px solid var(--border); background: var(--zisai-soft); border-radius: 16px; font-size: 14px; line-height: 1.9; }
+.zisai-inner .toc details summary { margin: 0; cursor: pointer; color: var(--zisai-accent); }
+.zisai-inner .toc .inner { margin: 12px 0 0; padding: 0 8px; }
+.zisai-inner .toc a:hover { color: var(--zisai-accent); }
+.zisai-inner .post-footer { margin-top: 44px; padding-top: 26px; border-top: 1px solid var(--border); }
+.zisai-inner .post-tags { gap: 8px; }
+.zisai-inner .post-tags a { color: var(--zisai-accent); background: var(--zisai-soft); border-color: var(--border); border-radius: 999px; font-size: 13px; }
+.zisai-inner .paginav { margin-top: 24px; gap: 16px; background: none; border: 0; line-height: 1.7; }
+.zisai-inner .paginav a { padding: 18px; border: 1px solid var(--border); background: var(--zisai-soft); border-radius: 16px; font-size: 15px; }
+.zisai-inner .paginav a:hover { background: var(--code-bg); }
+.zisai-inner .paginav .title { display: block; margin-bottom: 8px; color: var(--zisai-accent); font-size: 12px; }
+
+/* Editorial rows use the same rounded image + category hierarchy as the home. */
+.zisai-inner .post-entry.zisai-entry { display: grid; grid-template-columns: minmax(0, 1fr); gap: 26px; margin: 0 0 22px; padding: 22px; border: 1px solid var(--border); border-radius: 22px; background: var(--zisai-surface); box-shadow: var(--zisai-shadow); transition: border-color .2s, box-shadow .2s; }
+.zisai-inner .post-entry.zisai-entry--cover { grid-template-columns: minmax(180px, 28%) minmax(0, 1fr); }
+.zisai-inner .zisai-entry .entry-cover { display: block; margin: 0; align-self: center; overflow: hidden; border-radius: 14px; }
+.zisai-inner .zisai-entry .entry-cover img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 14px; }
+.zisai-inner .zisai-entry .entry-cover video { width: 100%; aspect-ratio: 4 / 3; object-fit: contain; }
+.zisai-inner .zisai-entry__body { min-width: 0; align-self: center; }
+.zisai-inner .zisai-entry__kicker { margin-bottom: 10px; font-size: 12px; letter-spacing: .12em; color: var(--zisai-accent); }
+.zisai-inner .zisai-entry .entry-header h2 { font-size: 25px; line-height: 1.55; letter-spacing: .02em; overflow-wrap: anywhere; }
+.zisai-inner .zisai-entry .entry-content { margin: 10px 0 14px; font-size: 15px; line-height: 1.85; -webkit-line-clamp: 2; }
+.zisai-inner .zisai-entry:hover { border-color: var(--zisai-accent); box-shadow: 0 14px 42px rgba(125, 23, 127, .09); }
+.zisai-inner .zisai-entry:active { transform: none; }
+.zisai-inner .zisai-entry .entry-link { border-radius: inherit; }
+/* A video retains its native controls instead of sitting below the card link. */
+.zisai-inner .zisai-entry .entry-cover:has(video) { position: relative; z-index: 1; }
+.zisai-inner .pagination { margin-top: 34px; gap: 14px; }
+.zisai-inner .pagination a { padding: 2px 24px; border-radius: 999px; background: var(--zisai-accent); color: var(--theme); font-size: 14px; }
+
+/* Taxonomies, search, archives and small utility pages. */
+.zisai-inner .terms-tags { display: flex; flex-wrap: wrap; gap: 12px; }
+.zisai-inner .terms-tags li { margin: 0; }
+.zisai-inner .terms-tags a { padding: 12px 18px; background: var(--zisai-surface); border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--zisai-shadow); font-size: 16px; }
+.zisai-inner .terms-tags a:hover { color: var(--zisai-accent); border-color: var(--zisai-accent); }
+.zisai-inner .terms-tags sup { color: var(--zisai-accent); }
+.zisai-inner #searchbox input { padding: 18px 22px; background: var(--zisai-surface); border: 1px solid var(--border); border-radius: 18px; font-family: inherit; font-weight: 400; font-size: 17px; box-shadow: var(--zisai-shadow); }
+.zisai-inner #searchbox input:focus { border-color: var(--zisai-accent); }
+.zisai-inner #searchResults { margin-top: 24px; }
+.zisai-inner #searchResults li { padding: 20px 24px; margin: 12px 0; border: 1px solid var(--border); border-radius: 16px; background: var(--zisai-surface); box-shadow: var(--zisai-shadow); line-height: 1.7; }
+.zisai-inner #searchResults .focus { border-color: var(--zisai-accent); transform: none; }
+.zisai-inner #searchResults a:focus-visible { outline: 2px solid var(--zisai-accent); }
+.zisai-inner .archive-year { margin: 32px 0; padding: 26px; border: 1px solid var(--border); border-radius: 22px; background: var(--zisai-surface); box-shadow: var(--zisai-shadow); }
+.zisai-inner .archive-year-header { margin-bottom: 18px; color: var(--zisai-accent); font-size: 30px; }
+.zisai-inner .archive-entry { margin: 0; padding: 18px 8px; border-top: 1px solid var(--border); }
+.zisai-inner .archive-entry-title { font-size: 19px; font-weight: 500; line-height: 1.7; }
+.zisai-inner .archive-entry:hover { background: var(--zisai-soft); border-radius: 10px; }
+.zisai-inner .archive-meta { font-size: 12px; letter-spacing: .08em; }
+.zisai-inner .zisai-empty { padding: 28px; background: var(--zisai-surface); border: 1px solid var(--border); border-radius: 18px; line-height: 2; }
+.zisai-inner .zisai-empty a { color: var(--zisai-accent); }
+.zisai-inner .project-card { padding: 20px 24px; margin: 20px 0; background: var(--zisai-soft); border: 1px solid var(--border); border-radius: 16px; }
+.zisai-inner .project-card h3 { margin-top: 0; }
+.zisai-inner .project-card p:last-child { margin-bottom: 0; }
+.zisai-inner .timeline { margin: 28px 0; padding-inline-start: 26px; border-inline-start: 2px solid var(--border); }
+.zisai-inner .timeline-item { position: relative; padding: 0 0 20px 10px; font-size: 16px; }
+.zisai-inner .timeline-item::before { content: ''; position: absolute; inset-inline-start: -32px; top: .65em; width: 10px; height: 10px; border-radius: 50%; background: var(--zisai-accent); box-shadow: 0 0 0 5px var(--theme); }
+.zisai-inner .timeline-year { font-weight: 600; color: var(--zisai-accent); }
+.zisai-inner .zisai-not-found { margin: 40px auto; padding: 60px 36px; text-align: center; background: var(--zisai-surface); border: 1px solid var(--border); border-radius: 24px; box-shadow: var(--zisai-shadow); }
+.zisai-inner .zisai-not-found h1 { margin: 20px 0; font-size: clamp(28px, 3vw, 42px); font-weight: 500; }
+.zisai-inner .zisai-not-found > p { color: var(--secondary); line-height: 1.9; }
+.zisai-inner .zisai-not-found__links { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 24px; }
+.zisai-inner .zisai-not-found__links > a:not(.zisai-cta) { margin-top: 15px; color: var(--zisai-accent); }
+.zisai-inner .footer { max-width: 1120px; border-top: 1px solid var(--border); padding: 28px 24px; line-height: 1.9; }
+.zisai-inner .footer a:hover { color: var(--zisai-accent); }
+.zisai-inner .top-link { background: var(--zisai-surface); color: var(--zisai-accent); border: 1px solid var(--border); box-shadow: var(--zisai-shadow); }
+
+@media (max-width: 760px) {
+  .zisai-inner .main.main--inner { padding: 24px 16px 60px; }
+  .zisai-inner .post-single { padding: 24px 22px; border-radius: 20px; }
+  .zisai-inner .page-header { margin-bottom: 26px; padding: 10px 0 20px; }
+  .zisai-inner .post-title { font-size: 28px; line-height: 1.55; }
+  .zisai-inner .post-description { font-size: 14px; }
+  .zisai-inner .post-content { font-size: 17px; line-height: 1.95; }
+  .zisai-inner .post-content h2 { font-size: 25px; margin-top: 34px; }
+  .zisai-inner .post-content h3 { font-size: 21px; }
+  .zisai-inner .post-content blockquote { padding: 14px 18px; }
+  .zisai-inner .post-content pre code { padding: 16px; font-size: 13px; }
+  .zisai-inner .toc { padding: 14px; }
+  .zisai-inner .paginav { flex-direction: column; gap: 10px; }
+  .zisai-inner .paginav .prev, .zisai-inner .paginav .next { width: 100%; text-align: start; }
+  .zisai-inner .post-entry.zisai-entry, .zisai-inner .post-entry.zisai-entry--cover { grid-template-columns: minmax(0, 1fr); padding: 16px; gap: 18px; }
+  .zisai-inner .zisai-entry .entry-cover { width: 100%; }
+  .zisai-inner .zisai-entry .entry-cover img { aspect-ratio: 16 / 9; }
+  .zisai-inner .zisai-entry .entry-header h2 { font-size: 22px; }
+  .zisai-inner .zisai-entry .entry-content { font-size: 14px; }
+  .zisai-inner .terms-tags { gap: 10px; }
+  .zisai-inner .terms-tags a { padding: 10px 14px; font-size: 14px; }
+  .zisai-inner .archive-year { padding: 20px 16px; }
+  .zisai-inner .archive-entry-title { font-size: 17px; }
+  .zisai-inner #searchbox input { padding: 16px; font-size: 16px; }
+  .zisai-inner #searchResults li { padding: 16px; }
+  .zisai-inner .zisai-not-found { margin: 20px auto; padding: 36px 22px; }
+}
+@media (max-width: 380px) {
+  .zisai-inner .post-single { padding: 22px 16px; }
+  .zisai-inner .post-title { font-size: 25px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .zisai-inner a, .zisai-inner .zisai-entry { transition: none; }
+}
+/* Contain native media and long embeds without clipping the reading surface. */
+.zisai-inner .post-content video { display: block; width: 100%; max-width: 100%; height: auto; margin: 24px 0; border-radius: 14px; background: var(--code-block-bg); }
+.zisai-inner .post-content audio, .zisai-inner .post-content embed, .zisai-inner .post-content object { max-width: 100%; }
+.zisai-inner .post-content .footnotes { margin-top: 36px; font-size: 14px; color: var(--secondary); }
+
+.zisai-inner .zisai-search-hint { margin-bottom: 18px; color: var(--secondary); font-size: 14px; line-height: 1.9; }
+
+.zisai-inner .terms-tags a { display: inline-flex; align-items: center; gap: 12px; }
+.zisai-inner .zisai-term-count { padding: 2px 8px; border-radius: 999px; background: var(--zisai-soft); color: var(--zisai-accent); font-size: 12px; }
+@media (max-width: 760px) {
+  /* PaperMod .nav a otherwise overrides display:none on the home pill. */
+  .zisai-inner .zisai-nav .zisai-motto-pill { display: none; }
+  .zisai-inner .zisai-nav .zisai-theme-toggle { display: block; width: 32px; height: 32px; }
+}

@@ -5,7 +5,7 @@
       <span class="zisai-brand__cn">紫塞</span>
       <span class="zisai-brand__latin">ZISAI<small>SINCE 1998</small></span>
     </a>
-    <button class="zisai-menu-toggle" type="button" aria-label="打开导航" onclick="this.parentElement.classList.toggle('is-open')">☰</button>
+    <button class="zisai-menu-toggle" type="button" aria-label="打开导航" aria-expanded="false" aria-controls="zisai-menu" onclick="this.setAttribute('aria-expanded', this.parentElement.classList.toggle('is-open'))">☰</button>
     <div class="zisai-nav__right">
       <ul id="zisai-menu" class="zisai-menu">
         {{- range site.Menus.main }}
@@ -21,5 +21,25 @@
   </nav>
 </header>
 <script>
-window.zisaiToggleTheme=window.zisaiToggleTheme||function(){var d=document.documentElement,b=document.body,dk=(b.classList.contains('dark')||d.dataset.theme==='dark');if(dk){b.classList.remove('dark');d.dataset.theme='light';localStorage.setItem('pref-theme','light')}else{b.classList.add('dark');d.dataset.theme='dark';localStorage.setItem('pref-theme','dark')}};
+(function () {
+  var body = document.body;
+  var root = document.documentElement;
+  var defaultTheme = {{ site.Params.defaultTheme | default "auto" }};
+  var preference;
+  try { preference = localStorage.getItem('pref-theme'); } catch (_) {}
+  function applyTheme(theme) {
+    body.classList.toggle('dark', theme === 'dark');
+    root.dataset.theme = theme;
+    var button = document.getElementById('zisai-theme-toggle');
+    if (button) button.setAttribute('aria-pressed', String(theme === 'dark'));
+  }
+  var systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(preference === 'dark' || preference === 'light' ? preference :
+    (defaultTheme === 'auto' ? (systemDark ? 'dark' : 'light') : defaultTheme));
+  window.zisaiToggleTheme = function () {
+    var theme = body.classList.contains('dark') ? 'light' : 'dark';
+    applyTheme(theme);
+    try { localStorage.setItem('pref-theme', theme); } catch (_) {}
+  };
+})();
 </script>

@@ -1,12 +1,25 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<p>{{ .Content }}</p>
-<ul>
-  {{ range where .Site.RegularPages "Params.archived" true }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      ({{ .Date.Format "2006-01-02" }})
-    </li>
-  {{ end }}
-</ul>
+<header class="page-header">
+  {{ partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
+</header>
+{{ with .Content }}<div class="post-content">{{ . }}</div>{{ end }}
+{{ $pages := where site.RegularPages "Params.archived" true }}
+{{ range $pages.ByDate.Reverse.GroupByDate "2006" }}
+<section class="archive-year">
+  <h2 class="archive-year-header">{{ .Key }} <sup class="archive-count">{{ len .Pages }}</sup></h2>
+  <div class="archive-posts">
+    {{ range .Pages }}
+    <article class="archive-entry">
+      <time class="archive-meta" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time>
+      <h3 class="archive-entry-title">{{ .Title }}</h3>
+      <a class="entry-link" href="{{ .RelPermalink }}" aria-label="{{ .Title }}"></a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ else }}
+<p class="zisai-empty">这里还没有归档文章。<a href="{{ "/posts/" | relURL }}">浏览全部文章 →</a></p>
+{{ end }}
 {{ end }}
