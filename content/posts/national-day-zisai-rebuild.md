@@ -1,6 +1,6 @@
 ---
 title: "写在紫塞网第28年：技术会变，习惯会留下来"
-date: 2026-10-04T16:00:00+08:00
+date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"
 draft: false
 tags:
