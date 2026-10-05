@@ -31,3 +31,99 @@
 
 - id: code_copied
   translation: "已复制！"
+
+- id: zisai_latest
+  translation: "最新文章"
+
+- id: zisai_readLatest
+  translation: "阅读最新文章"
+
+- id: zisai_browse
+  translation: "浏览文章"
+
+- id: zisai_intro
+  translation: "记录故乡的山河、生活的日常与技术的思考"
+
+- id: zisai_more
+  translation: "查看更多 →"
+
+- id: zisai_categories
+  translation: "分类浏览"
+
+- id: zisai_discover
+  translation: "发现更多精彩内容"
+
+- id: zisai_about
+  translation: "关于紫塞"
+
+- id: zisai_learn
+  translation: "了解更多 →"
+
+- id: zisai_menu
+  translation: "打开导航"
+
+- id: zisai_search
+  translation: "搜索"
+
+- id: zisai_theme
+  translation: "切换明暗主题"
+
+- id: zisai_languages
+  translation: "语言选择"
+
+- id: zisai_languageHome
+  translation: "该语言暂无本文译文，前往首页"
+
+- id: zisai_searchHint
+  translation: "输入标题或正文中的关键词，寻找承德、生活与技术的故事。"
+
+- id: zisai_searchArticles
+  translation: "搜索文章"
+
+- id: zisai_searchResults
+  translation: "搜索结果"
+
+- id: zisai_notFound
+  translation: "这页故事暂未找到"
+
+- id: zisai_notFoundText
+  translation: "链接可能已变更，回到首页或搜索，继续寻找想读的内容。"
+
+- id: zisai_home
+  translation: "回到首页"
+
+- id: zisai_powered
+  translation: "由以下工具构建："
+
+- id: zisai_top
+  translation: "回到顶部"
+
+- id: zisai_stack
+  translation: "技术栈"
+
+- id: zisai_count
+  translation: "{{ .Count }} 篇"
+
+- id: zisai_reading
+  translation: "阅读 {{ .Count }} 分钟"
+
+- id: zisai_words
+  translation: "{{ .Count }} 字"
+
+- id: zisai_chengde
+  translation: "承德"
+
+- id: zisai_landscape
+  translation: "山河"
+
+- id: zisai_culture
+  translation: "文化"
+
+- id: zisai_life
+  translation: "生活"
+
+- id: zisai_tech
+  translation: "技术"
+
+- id: zisai_travel
+  translation: "旅行"

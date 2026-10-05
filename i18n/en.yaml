@@ -1,0 +1,96 @@
+
+- id: zisai_latest
+  translation: "Latest stories"
+
+- id: zisai_readLatest
+  translation: "Read the latest story"
+
+- id: zisai_browse
+  translation: "Browse articles"
+
+- id: zisai_intro
+  translation: "Landscapes, everyday moments and thoughts on technology"
+
+- id: zisai_more
+  translation: "View all →"
+
+- id: zisai_categories
+  translation: "Explore by topic"
+
+- id: zisai_discover
+  translation: "Find something to read"
+
+- id: zisai_about
+  translation: "About ZISAI"
+
+- id: zisai_learn
+  translation: "Learn more →"
+
+- id: zisai_menu
+  translation: "Open navigation"
+
+- id: zisai_search
+  translation: "Search"
+
+- id: zisai_theme
+  translation: "Toggle light and dark mode"
+
+- id: zisai_languages
+  translation: "Choose a language"
+
+- id: zisai_languageHome
+  translation: "Translation unavailable; go to language homepage"
+
+- id: zisai_searchHint
+  translation: "Search titles and articles for stories about Chengde, life and technology."
+
+- id: zisai_searchArticles
+  translation: "Search articles"
+
+- id: zisai_searchResults
+  translation: "Search results"
+
+- id: zisai_notFound
+  translation: "This story could not be found"
+
+- id: zisai_notFoundText
+  translation: "The link may have changed. Visit the homepage or try a search."
+
+- id: zisai_home
+  translation: "Back to home"
+
+- id: zisai_powered
+  translation: "Powered by"
+
+- id: zisai_top
+  translation: "Back to top"
+
+- id: zisai_stack
+  translation: "Technologies"
+
+- id: zisai_count
+  translation: "{{ .Count }} articles"
+
+- id: zisai_reading
+  translation: "{{ .Count }} min read"
+
+- id: zisai_words
+  translation: "{{ .Count }} words"
+
+- id: zisai_chengde
+  translation: "Chengde"
+
+- id: zisai_landscape
+  translation: "Landscapes"
+
+- id: zisai_culture
+  translation: "Culture"
+
+- id: zisai_life
+  translation: "Everyday life"
+
+- id: zisai_tech
+  translation: "Technology"
+
+- id: zisai_travel
+  translation: "Travel"

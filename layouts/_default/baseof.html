@@ -39,7 +39,7 @@ src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pu
 crossorigin="anonymous"></script>
 <!-- End Google Adsense -->
 
-    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+    {{ partialCached "footer.html" . .Language.Lang .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 
 {{ if .Params.math }}
   {{ partial "mathjax.html" . }}

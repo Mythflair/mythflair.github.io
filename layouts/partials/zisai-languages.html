@@ -1,0 +1,12 @@
+{{- $page := . -}}
+<div class="zisai-languages" aria-label="{{ i18n "zisai_languages" }}">
+{{- range hugo.Sites -}}
+  {{- $lang := .Language.Lang -}}
+  {{- $target := .Home -}}
+  {{- $found := false -}}
+  {{- range $page.AllTranslations -}}
+    {{- if eq .Language.Lang $lang -}}{{- $target = . -}}{{- $found = true -}}{{- end -}}
+  {{- end -}}
+  <a href="{{ $target.RelPermalink }}" lang="{{ .Language.Locale }}" hreflang="{{ .Language.Locale }}"{{ if eq $page.Language.Lang $lang }} aria-current="true"{{ end }} title="{{ if $found }}{{ .Language.Label }}{{ else }}{{ i18n "zisai_languageHome" }}{{ end }}">{{ if eq $lang "en" }}EN{{ else }}{{ .Language.Label }}{{ end }}</a>
+{{- end -}}
+</div>

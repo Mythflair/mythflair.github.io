@@ -1,0 +1,96 @@
+
+- id: zisai_latest
+  translation: "新しい記事"
+
+- id: zisai_readLatest
+  translation: "最新の記事を読む"
+
+- id: zisai_browse
+  translation: "記事を読む"
+
+- id: zisai_intro
+  translation: "故郷の風景、日々の暮らし、技術への思い"
+
+- id: zisai_more
+  translation: "すべて見る →"
+
+- id: zisai_categories
+  translation: "テーマから探す"
+
+- id: zisai_discover
+  translation: "気になる記事を見つける"
+
+- id: zisai_about
+  translation: "紫塞について"
+
+- id: zisai_learn
+  translation: "詳しく見る →"
+
+- id: zisai_menu
+  translation: "メニューを開く"
+
+- id: zisai_search
+  translation: "検索"
+
+- id: zisai_theme
+  translation: "ライト・ダークモードを切り替える"
+
+- id: zisai_languages
+  translation: "言語を選ぶ"
+
+- id: zisai_languageHome
+  translation: "この記事の翻訳はありません。ホームへ"
+
+- id: zisai_searchHint
+  translation: "タイトルや本文のキーワードで、承徳・暮らし・技術の記事を探せます。"
+
+- id: zisai_searchArticles
+  translation: "記事を検索"
+
+- id: zisai_searchResults
+  translation: "検索結果"
+
+- id: zisai_notFound
+  translation: "お探しの記事が見つかりません"
+
+- id: zisai_notFoundText
+  translation: "リンクが変更された可能性があります。ホームや検索からお探しください。"
+
+- id: zisai_home
+  translation: "ホームへ戻る"
+
+- id: zisai_powered
+  translation: "制作ツール："
+
+- id: zisai_top
+  translation: "ページの先頭へ"
+
+- id: zisai_stack
+  translation: "使用技術"
+
+- id: zisai_count
+  translation: "{{ .Count }} 件"
+
+- id: zisai_reading
+  translation: "読了目安 {{ .Count }} 分"
+
+- id: zisai_words
+  translation: "{{ .Count }} 文字"
+
+- id: zisai_chengde
+  translation: "承徳"
+
+- id: zisai_landscape
+  translation: "風景"
+
+- id: zisai_culture
+  translation: "文化"
+
+- id: zisai_life
+  translation: "暮らし"
+
+- id: zisai_tech
+  translation: "技術"
+
+- id: zisai_travel
+  translation: "旅"

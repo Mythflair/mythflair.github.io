@@ -13,6 +13,7 @@ theme = "PaperMod"
 
 locale = "zh-cn"
 defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
 enableInlineShortcodes = true
@@ -66,8 +67,6 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 # ------------------------------------------------------------
 # 顶层作者参数（供全站根上下文读取）
 # ------------------------------------------------------------
-author = "沈楠"
-
 [params]
 
   # ----------------------------------------------------------
@@ -224,37 +223,37 @@ author = "沈楠"
 # 导航菜单
 # ============================================================
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "home"
   name = "首页"
   url = "/"
   weight = 10
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "posts"
   name = "文章"
   url = "/posts/"
   weight = 20
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "chengde"
   name = "承德"
   url = "/tags/承德/"
   weight = 30
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "life"
   name = "生活"
   url = "/tags/生活/"
   weight = 40
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "tech"
   name = "技术"
   url = "/tags/技术/"
   weight = 50
 
-[[menu.main]]
+[[languages.zh-cn.menus.main]]
   identifier = "about"
   name = "关于"
   url = "/about/"
@@ -305,3 +304,88 @@ author = "沈楠"
 
     startLevel = 2
     endLevel = 6
+# ZISAI multilingual edition
+[languages.zh-cn]
+  locale = "zh-CN"
+  label = "中文"
+  weight = 1
+  title = "紫塞"
+  hasCJKLanguage = true
+[languages.en]
+  locale = "en-US"
+  label = "English"
+  weight = 2
+  title = "ZISAI"
+  hasCJKLanguage = false
+[languages.ja]
+  locale = "ja-JP"
+  label = "日本語"
+  weight = 3
+  title = "紫塞 ZISAI"
+  hasCJKLanguage = true
+
+[languages.en.params]
+  description = "ZISAI — life, technology and memories of Chengde, China, since 1998."
+  author = "Shen Nan"
+  authorName = "Shen Nan"
+  authorJobTitle = "Vice President and CIO"
+  authorDescription = "Founder of ZISAI; Vice President and CIO of Chengde Kuangguang Holdings Group; a master’s graduate in informatics from J. F. Oberlin University."
+  authorUrl = "https://zisai.com/en/about/"
+  keywords = ["ZISAI", "Shen Nan", "Chengde", "Technology", "Everyday life"]
+
+[languages.en.params.zisai]
+  heroTitle1 = "Places hold stories."
+  heroTitle2 = "Everyday life shines."
+  heroText = "From Chengde, a city in northern China: notes on technology, culture and everyday life, shaped by its landscapes and people."
+  motto = "Notes on everyday life"
+  heroMotto1 = "Since 1998"
+  heroMotto2 = "Still curious"
+  aboutText = "ZISAI is a personal space for Chengde, everyday life, technology and memories. Created in 1998 and still evolving."
+
+[[languages.en.menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[languages.en.menus.main]]
+  name = "Articles"
+  url = "/posts/"
+  weight = 20
+
+[[languages.en.menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 30
+
+[languages.ja.params]
+  description = "1998年に始まった承徳のウェブサイト「紫塞」。技術、暮らし、街の記憶を綴ります。"
+  author = "沈楠"
+  authorName = "沈楠"
+  authorJobTitle = "副社長・CIO"
+  authorDescription = "紫塞網の創設者。承徳寛広控股集団の副社長・CIO。桜美林大学大学院で情報学修士号を取得。"
+  authorUrl = "https://zisai.com/ja/about/"
+  keywords = ["紫塞", "沈楠", "承徳", "技術", "暮らし"]
+
+[languages.ja.params.zisai]
+  heroTitle1 = "土地には物語がある"
+  heroTitle2 = "日々の暮らしには光がある"
+  heroText = "中国北方の街、承徳から。山河と人々、日々の暮らしを見つめながら、技術と文化について綴ります。"
+  motto = "日々を綴る"
+  heroMotto1 = "1998年から"
+  heroMotto2 = "好奇心とともに"
+  aboutText = "承徳の風景、日々の暮らし、技術と人への思いを綴る個人サイトです。1998年から、少しずつ書き続けています。"
+
+[[languages.ja.menus.main]]
+  name = "ホーム"
+  url = "/"
+  weight = 10
+
+[[languages.ja.menus.main]]
+  name = "記事"
+  url = "/posts/"
+  weight = 20
+
+[[languages.ja.menus.main]]
+  name = "プロフィール"
+  url = "/about/"
+  weight = 30

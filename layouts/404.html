@@ -1,11 +1,11 @@
 {{ define "main" }}
 <section class="zisai-not-found">
   <p class="zisai-eyebrow">ZISAI · 404</p>
-  <h1>这页故事暂未找到</h1>
-  <p>链接可能已变更，回到首页或搜索，继续寻找想读的内容。</p>
+  <h1>{{ i18n "zisai_notFound" }}</h1>
+  <p>{{ i18n "zisai_notFoundText" }}</p>
   <div class="zisai-not-found__links">
-    <a class="zisai-cta" href="{{ "/" | relURL }}">回到首页 <span>→</span></a>
-    <a href="{{ "/search/" | relURL }}">搜索文章</a>
+    <a class="zisai-cta" href="{{ "" | relLangURL }}">{{ i18n "zisai_home" }} <span>→</span></a>
+    <a href="{{ "search/" | relLangURL }}">{{ i18n "zisai_searchArticles" }}</a>
   </div>
 </section>
 {{ end }}

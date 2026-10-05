@@ -5,18 +5,19 @@
       <span class="zisai-brand__cn">紫塞</span>
       <span class="zisai-brand__latin">ZISAI<small>SINCE 1998</small></span>
     </a>
-    <button class="zisai-menu-toggle" type="button" aria-label="打开导航" aria-expanded="false" aria-controls="zisai-menu" onclick="this.setAttribute('aria-expanded', this.parentElement.classList.toggle('is-open'))">☰</button>
+    <button class="zisai-menu-toggle" type="button" aria-label="{{ i18n "zisai_menu" }}" aria-expanded="false" aria-controls="zisai-menu" onclick="this.setAttribute('aria-expanded', this.parentElement.classList.toggle('is-open'))">☰</button>
     <div class="zisai-nav__right">
+      {{ partial "zisai-languages.html" . }}
       <ul id="zisai-menu" class="zisai-menu">
         {{- range site.Menus.main }}
-        <li><a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">{{ .Name }}</a></li>
+        <li><a href="{{ strings.TrimPrefix "/" .URL | absLangURL }}" title="{{ .Title | default .Name }}">{{ .Name }}</a></li>
         {{- end }}
       </ul>
-      <a class="zisai-search" href="{{ "/search/" | relURL }}" aria-label="搜索">
+      <a class="zisai-search" href="{{ "search/" | relLangURL }}" aria-label="{{ i18n "zisai_search" }}">
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
       </a>
-      <a class="zisai-motto-pill" href="{{ site.Params.zisai.mottoURL | default "/about/" | relURL }}">{{ site.Params.zisai.motto | default "随笔记录生活" }}</a>
-      <button id="zisai-theme-toggle" class="zisai-theme-toggle" type="button" aria-label="切换明暗主题" onclick="window.zisaiToggleTheme && window.zisaiToggleTheme()">◐</button>
+      <a class="zisai-motto-pill" href="{{ site.Params.zisai.mottoURL | default "about/" | relLangURL }}">{{ site.Params.zisai.motto | default "随笔记录生活" }}</a>
+      <button id="zisai-theme-toggle" class="zisai-theme-toggle" type="button" aria-label="{{ i18n "zisai_theme" }}" onclick="window.zisaiToggleTheme && window.zisaiToggleTheme()">◐</button>
     </div>
   </nav>
 </header>

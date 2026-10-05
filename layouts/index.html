@@ -4,6 +4,7 @@
 {{- $pages = $pages.ByDate.Reverse -}}
 {{- $featured := first 4 $pages -}}
 {{- $latest := first 6 (after 4 $pages) -}}
+{{- if lt (len $pages) 5 }}{{ $latest = first 6 $pages }}{{ end -}}
 {{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
 {{- $cats := slice
     (dict "key" "chengde" "name" "承德" "url" "/tags/承德/" )
@@ -12,6 +13,14 @@
     (dict "key" "life" "name" "生活" "url" "/tags/生活/" )
     (dict "key" "tech" "name" "技术" "url" "/tags/技术/" )
     (dict "key" "travel" "name" "旅行" "url" "/tags/旅行/" ) -}}
+{{- if ne site.Language.Lang "zh-cn" -}}
+  {{- $localized := slice -}}
+  {{- range $cats -}}
+    {{- $name := i18n (printf "zisai_%s" .key) -}}
+    {{- $localized = $localized | append (dict "key" .key "name" $name "url" (printf "/tags/%s/" ($name | urlize))) -}}
+  {{- end -}}
+  {{- $cats = $localized -}}
+{{- end -}}
 {{- $counter := newScratch -}}
 {{- range $cat := $cats }}{{- $counter.Set (printf "cat-%s" $cat.key) 0 -}}{{- end -}}
 {{- range $p := $pages -}}
@@ -33,9 +42,9 @@
       <div class="zisai-rule"></div>
       <p>{{ site.Params.zisai.heroText | default "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。" }}</p>
       {{- with first 1 $pages -}}
-        {{- range . -}}<a class="zisai-cta" href="{{ .RelPermalink }}">阅读最新文章 <span>→</span></a>{{- end -}}
+        {{- range . -}}<a class="zisai-cta" href="{{ .RelPermalink }}">{{ i18n "zisai_readLatest" }} <span>→</span></a>{{- end -}}
       {{- else -}}
-        <a class="zisai-cta" href="{{ "/posts/" | relURL }}">浏览文章 <span>→</span></a>
+        <a class="zisai-cta" href="{{ "posts/" | relLangURL }}">{{ i18n "zisai_browse" }} <span>→</span></a>
       {{- end -}}
     </div>
     <div class="zisai-hero__motto" aria-hidden="true">{{ site.Params.zisai.heroMotto1 | default "紫气东来" }}<br>{{ site.Params.zisai.heroMotto2 | default "生生不息" }}<span></span></div>
@@ -75,7 +84,7 @@
               </div>
               <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
               <p>{{ $p.Summary | plainify | truncate 60 }}</p>
-              <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>阅读 {{ $p.ReadingTime }} 分钟</span></div>
+              <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>{{ i18n "zisai_reading" (dict "Count" $p.ReadingTime) }}</span></div>
             </div>
           </article>
         {{- end -}}
@@ -87,10 +96,10 @@
     <div class="zisai-main-col">
       <header class="zisai-section-head zisai-section-head--latest">
         <div>
-          <h2>最新文章</h2>
-          <p>记录故乡的山河、生活的日常与技术的思考</p>
+          <h2>{{ i18n "zisai_latest" }}</h2>
+          <p>{{ i18n "zisai_intro" }}</p>
         </div>
-        <a href="{{ "/posts/" | relURL }}">查看更多 →</a>
+        <a href="{{ "posts/" | relLangURL }}">{{ i18n "zisai_more" }}</a>
       </header>
 
       <div class="zisai-latest-list">
@@ -127,8 +136,8 @@
               <div class="zisai-story-row__meta">
                 <time>{{ $p.Date.Format "2006.01.02" }}</time>
                 <span>·</span>
-                <span>{{ $p.ReadingTime }} 分钟</span>
-                {{- if $p.WordCount }}<span>·</span><span>{{ $p.WordCount }} 字</span>{{- end -}}
+                <span>{{ i18n "zisai_reading" (dict "Count" $p.ReadingTime) }}</span>
+                {{- if $p.WordCount }}<span>·</span><span>{{ i18n "zisai_words" (dict "Count" $p.WordCount) }}</span>{{- end -}}
               </div>
             </div>
           </article>
@@ -139,12 +148,13 @@
     <aside class="zisai-side-col">
       <section class="zisai-panel zisai-panel--cats">
         <header class="zisai-panel__head">
-          <h3>分类浏览</h3>
-          <p>发现更多精彩内容</p>
+          <h3>{{ i18n "zisai_categories" }}</h3>
+          <p>{{ i18n "zisai_discover" }}</p>
         </header>
         <div class="zisai-cat-grid">
           {{- range $cat := $cats -}}
-            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ $cat.url | relURL }}">
+          {{- if or (eq site.Language.Lang "zh-cn") (gt ($counter.Get (printf "cat-%s" $cat.key)) 0) -}}
+            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ strings.TrimPrefix "/" $cat.url | relLangURL }}">
               <span class="zisai-cat-card__icon">
                 {{- if eq $cat.key "chengde" -}}
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 19h18v2H3zm2-1V9l7-4 7 4v9h-2v-2H7v2zm4-4h6V9H9z"/></svg>
@@ -161,18 +171,19 @@
                 {{- end -}}
               </span>
               <div>
-                <strong>{{ $cat.name }}</strong>
-                <small>{{ $counter.Get (printf "cat-%s" $cat.key) }} 篇</small>
+                <strong>{{ i18n (printf "zisai_%s" $cat.key) }}</strong>
+                <small>{{ i18n "zisai_count" (dict "Count" ($counter.Get (printf "cat-%s" $cat.key))) }}</small>
               </div>
             </a>
+          {{- end -}}
           {{- end -}}
         </div>
       </section>
 
       <section class="zisai-panel zisai-panel--about">
         <header class="zisai-panel__head zisai-panel__head--split">
-          <h3>关于紫塞</h3>
-          <a href="{{ site.Params.zisai.aboutURL | default "/about/" | relURL }}">了解更多 →</a>
+          <h3>{{ i18n "zisai_about" }}</h3>
+          <a href="{{ site.Params.zisai.aboutURL | default "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
         </header>
         <div class="zisai-about-card">
           <img src="{{ "/images/zisai/logo-mark.webp" | relURL }}" alt="ZISAI">

@@ -18,7 +18,7 @@ https://zisai.com/#zisai
 */}}
 
 {{- $personID := printf "%s#person" .Site.BaseURL -}}
-{{- $websiteID := printf "%s#website" .Site.BaseURL -}}
+{{- $websiteID := printf "%s#website" .Site.Home.Permalink -}}
 {{- $zisaiID := printf "%s#zisai" .Site.BaseURL -}}
 
 {{- $authorName := .Site.Params.authorName | default .Site.Params.author | default "沈楠" -}}
@@ -99,7 +99,7 @@ https://zisai.com/#zisai
   "@id" $zisaiID
   "name" "紫塞明珠网"
   "alternateName" (slice "紫塞网" "ZISAI")
-  "url" .Site.BaseURL
+  "url" .Site.Home.Permalink
   "foundingDate" "1998"
   "founder" (dict
     "@id" $personID
@@ -114,7 +114,7 @@ https://zisai.com/#zisai
 {{- $website := dict
   "@type" "WebSite"
   "@id" $websiteID
-  "url" .Site.BaseURL
+  "url" .Site.Home.Permalink
   "name" .Site.Title
   "description" .Site.Params.description
   "creator" (dict
@@ -156,7 +156,7 @@ https://zisai.com/#zisai
    ProfilePage + Person + Organization + WebSite
    ======================================================== */}}
 
-{{- else if eq .RelPermalink "/about/" }}
+{{- else if and .File (eq .File.TranslationBaseName "about") }}
 
 {{- $profilePage := dict
   "@type" "ProfilePage"
@@ -269,7 +269,7 @@ https://zisai.com/#zisai
 {{- $articleWebsite := dict
   "@type" "WebSite"
   "@id" $websiteID
-  "url" .Site.BaseURL
+  "url" .Site.Home.Permalink
   "name" .Site.Title
   "creator" (dict
     "@id" $personID
