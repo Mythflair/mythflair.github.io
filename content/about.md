@@ -337,7 +337,7 @@ cover:
 如果希望进一步了解我的职业与公开经历，可以参考：
 
 - [宽广控股集团高管介绍](http://www.ikuanguang.com/archives/220/)
-- [中国科协沈楠事迹介绍](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
+- [中国科学技术协会刊登沈楠介绍](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
 - [河北省科学技术协会相关介绍](https://www.hbast.org.cn/detail.thtml?id=18935)
 - [全国优秀CIO](http://www.ikuanguang.com/archives/366/)
 - [中国通信企业协会：通信行业级 QC 小组活动诊断师相关通知](https://baike.baidu.com/reference/49988317/533aYdO6cr3_z3kATPSPyvr3ZnnANt6k672FAeRzzqIP0XOpX5nyFIsz49Jx8eVgWgjF_7ZHV-VatcefdC9Kv_oYceo)
