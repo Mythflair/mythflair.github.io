@@ -1,0 +1,74 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ .Site.BaseURL }}#website",
+      "url": "{{ .Site.BaseURL }}",
+      "name": "{{ .Site.Title }}",
+      "description": "紫塞明珠网创办人沈楠的个人博客，聚焦技术实践、企业数字化与生活随笔。",
+      "publisher": {
+        "@id": "{{ .Site.BaseURL }}#person"
+      },
+      "inLanguage": "{{ .Site.LanguageCode | default "zh-CN" }}"
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ .Site.BaseURL }}#person",
+      "name": "{{ .Site.Params.authorName | default .Site.Params.author | default "沈楠" }}",
+      "email": "mailto:{{ .Site.Params.authorEmail }}",
+      "url": "{{ .Site.Params.authorUrl | default (absURL "about/") }}",
+      "image": "{{ with .Site.Params.authorSchemaImage }}{{ . | absURL }}{{ else }}{{ with .Site.Params.authorImage }}{{ . | absURL }}{{ end }}{{ end }}",
+      "jobTitle": "{{ .Site.Params.authorJobTitle }}",
+      "description": "{{ .Site.Params.authorDescription }}",
+      "founder": {
+        "@type": "Organization",
+        "name": "紫塞明珠网",
+        "alternateName": "紫塞网",
+        "url": "{{ .Site.BaseURL }}",
+        "foundingDate": "1998"
+      },
+      "sameAs": [
+        {{ range $index, $url := .Site.Params.authorSameAs }}
+          {{ if $index }},{{ end }}"{{ $url }}"
+        {{ end }}
+      ]
+    }
+  ]
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "headline": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "@id": "{{ .Site.BaseURL }}#person",
+    "name": "{{ .Site.Params.authorName | default .Site.Params.author | default "沈楠" }}",
+    "url": "{{ .Site.Params.authorUrl | default (absURL "about/") }}"
+  },
+  "publisher": {
+    "@type": "Person",
+    "@id": "{{ .Site.BaseURL }}#person",
+    "name": "{{ .Site.Params.authorName | default .Site.Params.author | default "沈楠" }}"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "{{ .Site.BaseURL }}#website",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ end }}

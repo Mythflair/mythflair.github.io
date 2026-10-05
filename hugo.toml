@@ -3,13 +3,12 @@
 # Hugo + PaperMod
 # ============================================================
 
-
 # ------------------------------------------------------------
 # 基础全局配置
 # ------------------------------------------------------------
 
 baseURL = "https://zisai.com/"
-title = "紫塞 zisai.com"
+title = "紫塞"
 theme = "PaperMod"
 
 locale = "zh-cn"
@@ -27,7 +26,6 @@ buildExpired = false
 pygmentsUseClasses = true
 
 googleAnalytics = "G-WQ5LVXCGRZ"
-
 
 # ------------------------------------------------------------
 # 分页配置
@@ -65,6 +63,11 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 # PaperMod / 网站公共参数
 # ============================================================
 
+# ------------------------------------------------------------
+# 顶层作者参数（供全站根上下文读取）
+# ------------------------------------------------------------
+author = "沈楠"
+
 [params]
 
   # ----------------------------------------------------------
@@ -73,7 +76,7 @@ googleAnalytics = "G-WQ5LVXCGRZ"
 
   env = "production"
 
-  description = "缘起1998年紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
+  description = "始于1998年紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
 
   keywords = [
     "沈楠",
@@ -102,27 +105,34 @@ googleAnalytics = "G-WQ5LVXCGRZ"
     "侘寂"
   ]
 
-
   # ----------------------------------------------------------
-  # 作者信息
+  # 作者扩展与 Schema.org 结构化数据
   # ----------------------------------------------------------
 
-  author = "SHENNAN 沈楠"
-  authorName = "SHENNAN 沈楠"
+  author = "沈楠"
+  authorName = "沈楠"
   authorEmail = "mythflair@hotmail.com"
-
   authorImage = "/images/shennan.png"
   authorImageTitle = "SHENNAN 沈楠"
   authorImageWidth = 120
   authorImageHeight = 120
 
+  authorJobTitle = "副总裁 & CIO"
+  authorDescription = "承德紫塞明珠网 (zisai.com) 创始人，零售IT数字化，互联网、通信、IDC、ICT与全栈技术践行者"
+  authorUrl = "https://zisai.com/about/"
+  authorSchemaImage = "/images/ashennan-1024-q82.jpg"
+
+  authorSameAs = [
+    "https://github.com/Mythflair",
+    "https://zisai.com/",
+    "https://fuchinobe.com/",
+    "https://erxianju.com/",
+    "https://rehe2.com/",
+    "https://zisai.net/"
+  ]
 
   # ----------------------------------------------------------
   # 默认社交分享图片
-  #
-  # 用于 Open Graph / Twitter Card / 微信分享等
-  # 对应文件：
-  # static/images/zisai-share.png
   # ----------------------------------------------------------
 
   images = ["/images/zisai-share-q88.jpg"]

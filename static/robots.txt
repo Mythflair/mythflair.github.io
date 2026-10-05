@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
 
+# 明确允许 Google AI 与搜索爬虫
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://zisai.com/sitemap.xml
