@@ -146,6 +146,10 @@
     {{- end }}
 </noscript>
 
+{{- /* 引入自定义结构化数据 (包含 WebSite, Person 沈楠, Organization 紫塞明珠网) */}}
+{{- partial "schema-jsonld.html" . -}}
+
+{{- /* 用户自定义扩展 Hook（保留给以后引入其他统计或第三方代码） */}}
 {{- partial "extend_head.html" . -}}
 
 {{- /* Misc */}}
@@ -153,5 +157,7 @@
 {{- template "_internal/google_analytics.html" . }}
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
+{{- /* 注释掉 PaperMod 默认简陋的 schema，避免重复与冲突:
 {{- partial "templates/schema_json.html" . }}
+*/ -}}
 {{- end -}}
