@@ -341,7 +341,7 @@ cover:
 - [河北省科学技术协会相关介绍](https://www.hbast.org.cn/detail.thtml?id=18935)
 - [全国优秀CIO](http://www.ikuanguang.com/archives/366/)
 - [中国通信企业协会：通信行业级 QC 小组活动诊断师相关通知](https://baike.baidu.com/reference/49988317/533aYdO6cr3_z3kATPSPyvr3ZnnANt6k672FAeRzzqIP0XOpX5nyFIsz49Jx8eVgWgjF_7ZHV-VatcefdC9Kv_oYceo)
-- [中国百货商业协会零售数字化工作委员会](http://www.ikuanguang.com/archives/366/)
+- [中国百货商业协会零售数字化工作委员会](https://mp.weixin.qq.com/s/Z-wSEU3sko0NE8e6SWvujA)
 - [百度百科：沈楠](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
 - [GitHub / Mythflair](https://github.com/Mythflair)
 
