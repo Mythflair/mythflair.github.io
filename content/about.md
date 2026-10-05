@@ -337,7 +337,7 @@ cover:
 如果希望进一步了解我的职业与公开经历，可以参考：
 
 - [承德宽广控股集团高管介绍](http://www.ikuanguang.com/archives/220/)
-- [中国科协：承德市“最美科技工作者”候选人事迹](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
+- [中国科协沈楠事迹介绍](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
 - [河北省科学技术协会相关介绍](https://www.hbast.org.cn/detail.thtml?id=18935)
 - [百度百科：沈楠](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
 - [GitHub / Mythflair](https://github.com/Mythflair)

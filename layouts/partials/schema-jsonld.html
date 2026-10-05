@@ -3,27 +3,16 @@
 ZISAI.COM Schema.org JSON-LD
 ============================================================
 
-实体统一 ID：
+统一实体：
 
-Person
+Person:
 https://zisai.com/#person
 
-WebSite
+WebSite:
 https://zisai.com/#website
 
-紫塞明珠网
+紫塞明珠网:
 https://zisai.com/#zisai
-
-页面类型：
-
-首页：
-WebSite + Person + Organization
-
-/about/：
-ProfilePage + Person + Organization + WebSite
-
-普通文章：
-BlogPosting + Person + WebSite
 
 ============================================================
 */}}
@@ -41,238 +30,178 @@ BlogPosting + Person + WebSite
 
 
 {{/* ========================================================
-   首页
-   WebSite + Person + 紫塞明珠网
+   公共 Person 实体
    ======================================================== */}}
 
-{{ if .IsHome }}
+{{- $person := dict
+  "@type" "Person"
+  "@id" $personID
+  "name" $authorName
+  "alternateName" (slice "Shen Nan" "Mythflair")
+  "url" $authorURL
+  "jobTitle" $authorJobTitle
+  "description" $authorDescription
+  "worksFor" (dict
+    "@type" "Organization"
+    "name" "承德宽广控股集团有限公司"
+    "url" "http://www.ikuanguang.com/"
+  )
+  "alumniOf" (dict
+    "@type" "CollegeOrUniversity"
+    "name" "樱美林大学"
+    "alternateName" "J. F. Oberlin University"
+  )
+  "knowsAbout" (slice
+    "通信网络"
+    "互联网"
+    "IDC"
+    "ICT"
+    "软件研发"
+    "系统集成"
+    "企业信息化"
+    "零售数字化"
+    "云计算"
+    "云原生"
+    "物联网"
+    "大数据"
+    "网络安全"
+    "Go"
+    "Python"
+    "人工智能"
+  )
+-}}
+
+{{- with .Site.Params.authorEmail }}
+  {{- $person = merge $person (dict
+    "email" (printf "mailto:%s" .)
+  ) -}}
+{{- end }}
+
+{{- with $authorImage }}
+  {{- $person = merge $person (dict
+    "image" (. | absURL)
+  ) -}}
+{{- end }}
+
+{{- with .Site.Params.authorSameAs }}
+  {{- $person = merge $person (dict
+    "sameAs" .
+  ) -}}
+{{- end }}
+
+
+{{/* ========================================================
+   紫塞明珠网实体
+   ======================================================== */}}
+
+{{- $zisai := dict
+  "@type" "Organization"
+  "@id" $zisaiID
+  "name" "紫塞明珠网"
+  "alternateName" (slice "紫塞网" "ZISAI")
+  "url" .Site.BaseURL
+  "foundingDate" "1998"
+  "founder" (dict
+    "@id" $personID
+  )
+-}}
+
+
+{{/* ========================================================
+   WebSite 实体
+   ======================================================== */}}
+
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" $websiteID
+  "url" .Site.BaseURL
+  "name" .Site.Title
+  "description" .Site.Params.description
+  "creator" (dict
+    "@id" $personID
+  )
+  "publisher" (dict
+    "@id" $personID
+  )
+  "about" (dict
+    "@id" $zisaiID
+  )
+  "inLanguage" $language
+-}}
+
+
+{{/* ========================================================
+   首页
+   WebSite + Person + Organization
+   ======================================================== */}}
+
+{{- if .IsHome }}
+
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    $website
+    $person
+    $zisai
+  )
+-}}
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebSite",
-      "@id": {{ $websiteID | jsonify }},
-      "url": {{ .Site.BaseURL | jsonify }},
-      "name": {{ .Site.Title | jsonify }},
-      "description": {{ .Site.Params.description | jsonify }},
-      "creator": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "publisher": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "about": {
-        "@id": {{ $zisaiID | jsonify }}
-      },
-      "inLanguage": {{ $language | jsonify }}
-    },
-
-    {
-      "@type": "Person",
-      "@id": {{ $personID | jsonify }},
-      "name": {{ $authorName | jsonify }},
-      "alternateName": [
-        "Shen Nan",
-        "Mythflair"
-      ],
-      "url": {{ $authorURL | jsonify }},
-      "jobTitle": {{ $authorJobTitle | jsonify }},
-      "description": {{ $authorDescription | jsonify }}
-      {{- with .Site.Params.authorEmail }},
-      "email": {{ printf "mailto:%s" . | jsonify }}
-      {{- end }}
-      {{- with $authorImage }},
-      "image": {{ . | absURL | jsonify }}
-      {{- end }},
-      "sameAs": [
-        {{- range $index, $url := .Site.Params.authorSameAs }}
-          {{- if $index }},{{ end }}
-          {{- $url | jsonify }}
-        {{- end }}
-      ],
-      "worksFor": {
-        "@type": "Organization",
-        "name": "承德宽广控股集团有限公司",
-        "url": "http://www.ikuanguang.com/"
-      },
-      "alumniOf": {
-        "@type": "CollegeOrUniversity",
-        "name": "樱美林大学",
-        "alternateName": "J. F. Oberlin University"
-      },
-      "knowsAbout": [
-        "通信网络",
-        "互联网",
-        "IDC",
-        "ICT",
-        "软件研发",
-        "系统集成",
-        "企业信息化",
-        "零售数字化",
-        "云计算",
-        "云原生",
-        "物联网",
-        "大数据",
-        "网络安全",
-        "Go",
-        "Python",
-        "人工智能"
-      ]
-    },
-
-    {
-      "@type": "Organization",
-      "@id": {{ $zisaiID | jsonify }},
-      "name": "紫塞明珠网",
-      "alternateName": [
-        "紫塞网",
-        "ZISAI"
-      ],
-      "url": {{ .Site.BaseURL | jsonify }},
-      "foundingDate": "1998",
-      "founder": {
-        "@id": {{ $personID | jsonify }}
-      }
-    }
-  ]
-}
+{{ jsonify (dict "indent" "  ") $schema | safeJS }}
 </script>
 
 
 {{/* ========================================================
    About 页面
-   ProfilePage + Person + 紫塞明珠网 + WebSite
+   ProfilePage + Person + Organization + WebSite
    ======================================================== */}}
 
-{{ else if eq .RelPermalink "/about/" }}
+{{- else if eq .RelPermalink "/about/" }}
+
+{{- $profilePage := dict
+  "@type" "ProfilePage"
+  "@id" (printf "%s#profilepage" .Permalink)
+  "url" .Permalink
+  "name" .Title
+  "description" (.Description | default (.Summary | plainify | truncate 180))
+  "dateCreated" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "mainEntity" (dict
+    "@id" $personID
+  )
+  "isPartOf" (dict
+    "@id" $websiteID
+  )
+  "inLanguage" $language
+-}}
+
+{{- $personAbout := merge $person (dict
+  "subjectOf" (dict
+    "@id" (printf "%s#profilepage" .Permalink)
+  )
+) -}}
+
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    $profilePage
+    $personAbout
+    $zisai
+    $website
+  )
+-}}
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "ProfilePage",
-      "@id": {{ printf "%s#profilepage" .Permalink | jsonify }},
-      "url": {{ .Permalink | jsonify }},
-      "name": {{ .Title | jsonify }},
-      "description":
-        {{- with .Description }}
-          {{ . | jsonify }}
-        {{- else }}
-          {{ .Summary | plainify | truncate 180 | jsonify }}
-        {{- end }},
-      "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-      "mainEntity": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "isPartOf": {
-        "@id": {{ $websiteID | jsonify }}
-      },
-      "inLanguage": {{ $language | jsonify }}
-    },
-
-    {
-      "@type": "Person",
-      "@id": {{ $personID | jsonify }},
-      "name": {{ $authorName | jsonify }},
-      "alternateName": [
-        "Shen Nan",
-        "Mythflair"
-      ],
-      "url": {{ $authorURL | jsonify }},
-      "jobTitle": {{ $authorJobTitle | jsonify }},
-      "description": {{ $authorDescription | jsonify }}
-      {{- with .Site.Params.authorEmail }},
-      "email": {{ printf "mailto:%s" . | jsonify }}
-      {{- end }}
-      {{- with $authorImage }},
-      "image": {{ . | absURL | jsonify }}
-      {{- end }},
-      "sameAs": [
-        {{- range $index, $url := .Site.Params.authorSameAs }}
-          {{- if $index }},{{ end }}
-          {{- $url | jsonify }}
-        {{- end }}
-      ],
-      "worksFor": {
-        "@type": "Organization",
-        "name": "承德宽广控股集团有限公司",
-        "url": "http://www.ikuanguang.com/"
-      },
-      "alumniOf": {
-        "@type": "CollegeOrUniversity",
-        "name": "樱美林大学",
-        "alternateName": "J. F. Oberlin University"
-      },
-      "knowsAbout": [
-        "通信网络",
-        "互联网",
-        "IDC",
-        "ICT",
-        "软件研发",
-        "系统集成",
-        "企业信息化",
-        "零售数字化",
-        "云计算",
-        "云原生",
-        "物联网",
-        "大数据",
-        "网络安全",
-        "Go",
-        "Python",
-        "人工智能"
-      ],
-      "subjectOf": {
-        "@id": {{ printf "%s#profilepage" .Permalink | jsonify }}
-      }
-    },
-
-    {
-      "@type": "Organization",
-      "@id": {{ $zisaiID | jsonify }},
-      "name": "紫塞明珠网",
-      "alternateName": [
-        "紫塞网",
-        "ZISAI"
-      ],
-      "url": {{ .Site.BaseURL | jsonify }},
-      "foundingDate": "1998",
-      "founder": {
-        "@id": {{ $personID | jsonify }}
-      }
-    },
-
-    {
-      "@type": "WebSite",
-      "@id": {{ $websiteID | jsonify }},
-      "url": {{ .Site.BaseURL | jsonify }},
-      "name": {{ .Site.Title | jsonify }},
-      "description": {{ .Site.Params.description | jsonify }},
-      "creator": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "publisher": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "about": {
-        "@id": {{ $zisaiID | jsonify }}
-      },
-      "inLanguage": {{ $language | jsonify }}
-    }
-  ]
-}
+{{ jsonify (dict "indent" "  ") $schema | safeJS }}
 </script>
 
 
 {{/* ========================================================
-   普通文章页面
+   普通文章
    BlogPosting + Person + WebSite
    ======================================================== */}}
 
-{{ else if .IsPage }}
+{{- else if .IsPage }}
 
 {{- $articleImage := "" -}}
 
@@ -286,82 +215,82 @@ BlogPosting + Person + WebSite
   {{- end }}
 {{- end }}
 
+{{- $article := dict
+  "@type" "BlogPosting"
+  "@id" (printf "%s#article" .Permalink)
+  "url" .Permalink
+  "mainEntityOfPage" (dict
+    "@type" "WebPage"
+    "@id" .Permalink
+  )
+  "headline" .Title
+  "description" (.Description | default (.Summary | plainify | truncate 160))
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "author" (dict
+    "@id" $personID
+  )
+  "publisher" (dict
+    "@id" $personID
+  )
+  "isPartOf" (dict
+    "@id" $websiteID
+  )
+  "inLanguage" $language
+-}}
+
+{{- with $articleImage }}
+  {{- $article = merge $article (dict
+    "image" (slice .)
+  ) -}}
+{{- end }}
+
+{{- with .Params.tags }}
+  {{- $article = merge $article (dict
+    "keywords" .
+  ) -}}
+{{- end }}
+
+{{- $articlePerson := dict
+  "@type" "Person"
+  "@id" $personID
+  "name" $authorName
+  "alternateName" (slice "Shen Nan" "Mythflair")
+  "url" $authorURL
+  "jobTitle" $authorJobTitle
+-}}
+
+{{- with $authorImage }}
+  {{- $articlePerson = merge $articlePerson (dict
+    "image" (. | absURL)
+  ) -}}
+{{- end }}
+
+{{- $articleWebsite := dict
+  "@type" "WebSite"
+  "@id" $websiteID
+  "url" .Site.BaseURL
+  "name" .Site.Title
+  "creator" (dict
+    "@id" $personID
+  )
+  "publisher" (dict
+    "@id" $personID
+  )
+  "inLanguage" $language
+-}}
+
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    $article
+    $articlePerson
+    $articleWebsite
+  )
+-}}
+
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "BlogPosting",
-      "@id": {{ printf "%s#article" .Permalink | jsonify }},
-      "url": {{ .Permalink | jsonify }},
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": {{ .Permalink | jsonify }}
-      },
-      "headline": {{ .Title | jsonify }},
-      "description":
-        {{- with .Description }}
-          {{ . | jsonify }}
-        {{- else }}
-          {{ .Summary | plainify | truncate 160 | jsonify }}
-        {{- end }},
-      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
-      {{- with $articleImage }},
-      "image": [
-        {{ . | jsonify }}
-      ]
-      {{- end }},
-      "author": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "publisher": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "isPartOf": {
-        "@id": {{ $websiteID | jsonify }}
-      },
-      "inLanguage": {{ $language | jsonify }}
-      {{- with .Params.tags }},
-      "keywords": [
-        {{- range $index, $tag := . }}
-          {{- if $index }},{{ end }}
-          {{- $tag | jsonify }}
-        {{- end }}
-      ]
-      {{- end }}
-    },
-
-    {
-      "@type": "Person",
-      "@id": {{ $personID | jsonify }},
-      "name": {{ $authorName | jsonify }},
-      "alternateName": [
-        "Shen Nan",
-        "Mythflair"
-      ],
-      "url": {{ $authorURL | jsonify }}
-      {{- with $authorImage }},
-      "image": {{ . | absURL | jsonify }}
-      {{- end }},
-      "jobTitle": {{ $authorJobTitle | jsonify }}
-    },
-
-    {
-      "@type": "WebSite",
-      "@id": {{ $websiteID | jsonify }},
-      "url": {{ .Site.BaseURL | jsonify }},
-      "name": {{ .Site.Title | jsonify }},
-      "creator": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "publisher": {
-        "@id": {{ $personID | jsonify }}
-      },
-      "inLanguage": {{ $language | jsonify }}
-    }
-  ]
-}
+{{ jsonify (dict "indent" "  ") $schema | safeJS }}
 </script>
 
-{{ end }}
+{{- end }}
