@@ -1,15 +1,23 @@
-```markdown
-+++
-date = "2024-04-14T13:06:25+08:00"
-lastmod = "2026-10-05T16:20:00+08:00"
-draft = false
-title = "关于沈楠"
-description = "沈楠（Shen Nan），日本樱美林大学信息学硕士，承德紫塞明珠网（zisai.com）创始人，现任承德宽广控股集团副总裁、CIO。拥有30余年通信、互联网、IDC、软件研发、云计算、物联网与零售数字化实践经验。"
-tags = ["沈楠", "关于", "紫塞网", "互联网", "通信", "零售数字化", "CIO"]
-[cover]
-    image = "/images/ashennan-1024-q82.jpg"
-    alt = "沈楠 - 紫塞网 zisai.com"
-+++
+---
+date: 2024-04-14T13:06:25+08:00
+lastmod: 2026-10-05T16:20:00+08:00
+draft: false
+title: "关于沈楠"
+description: "沈楠（Shen Nan），日本樱美林大学信息学硕士，承德紫塞明珠网（zisai.com）创始人，现任承德宽广控股集团副总裁、CIO。拥有30余年通信、互联网、IDC、软件研发、云计算、物联网与零售数字化实践经验。"
+
+tags:
+  - "沈楠"
+  - "关于"
+  - "紫塞网"
+  - "互联网"
+  - "通信"
+  - "零售数字化"
+  - "CIO"
+
+cover:
+  image: "/images/ashennan-1024-q82.jpg"
+  alt: "沈楠 - 紫塞网 zisai.com"
+---
 
 # 关于沈楠
 
