@@ -2,167 +2,118 @@
 date = "2024-04-14T13:06:25+08:00"
 draft = false
 title = "关于沈楠"
-description = "沈楠，信息学硕士，30余年IT从业经验，专注通信、IDC、ICT、系统集成、软件研发、物联网、大数据与信息化。探索我的职业历程、技术项目与人生故事。"
-tags = ["关于", "技术", "职业", "物联网", "网络安全"]
+description = "沈楠，日本樱美林大学信息学硕士，30余年IT从业经验，专注全栈研发、通信网络、零售数字化与云原生架构。"
+tags = ["关于", "技术", "职业", "零售数字化", "架构设计"]
 [cover] 
-    image = '/images/shennan-1024-q82.jpg' 
+    image = '/images/ashennan-1024-q82.jpg' 
     alt = '关于沈楠'
 +++
 
 # 关于沈楠
 
-我是沈楠，一位从单边带通信时代走来的技术探索者，拥有日本J. F. Oberlin大学大学院信息学硕士学位。从1994年的点对点通信到2024年的集团物联网体系，我用代码与系统连接世界。业余时间，我是马拉松爱好者、父亲，享受技术与生活的交融。欢迎了解我的故事！
+我是沈楠，一位从单边带通信时代走来的技术探索者与企业数字化践行者，毕业于日本樱美林大学（J. F. Oberlin University）大学院，获信息学硕士学位。
+
+从 1994 年的点对点无线通信、1998 年创办承德早期互联网社区「紫塞明珠网」，到主导大型零售集团的超融合与数智化架构，我始终相信**用最简单的逻辑解决最复杂的问题**。在代码与架构之外，我是马拉松跑者、父亲，也是承德这片山河与日常的记录者。
 
 ---
 
 ## 🚀 职业亮点
 
-以下是我职业生涯中的一些标志性成就，涵盖技术创新与团队领导：
-
-- **2001** **紫塞明珠网**：第一代互联网门户运营和开发。
-- **2002** **热河风云**：本地端游开发运营。
-- **2005** **梦幻西游、大话西游、科洛斯、坦克宝贝**：游戏合作运营。
-- **2006** **魔兽世界动态密保**：开发安全认证系统，保护数百万用户账号。
-- **2016** **澄湖超融合架构**：主导架构设计，系统性能提升25%。
-- **2016** **储值卡系统**：最庞杂的辅助经营外挂系统。。
-- **2021** **二维码储值卡体系**：设计核心加密算法，提升交易安全性。
-- **2023** **集团物联网体系**：构建覆盖数万设备的智能网络，优化运营效率30%。
+- **1998–2001 紫塞明珠网 (zisai.com)**：创办并运营承德最早期的互联网门户、社区论坛与在线聊天室。
+- **2002–2006 本地网游与运营保障**：开发《热河风云》本地端游；主导运营《梦幻西游》《大话西游》《科洛斯》避暑山庄服务器组；研发动态密码安全认证系统。
+- **2014–至今 宽广集团零售数字化转型**：全面主导企业信息化与数字化重构，搭建承德零售业首个混合云超融合架构，自主研发百万级会员储值卡核心加密体系及集团级物联网平台。
+- **2021 全国优秀CIO**：荣获企业网 D1Net 评选的「全国优秀 CIO」称号。
+- **2025 零售数字化标杆实践**：主导建设的「宽广商业数智化管理平台」入选中国百货商业协会（CCAGM）年度优秀零售数字化实践案例。
 
 ---
 
 ## 💻 技术项目
 
-### 早期探索（1994-1999）
+### 早期探索（1994–1999）
 
-{{% project title="单边带SSB、双边带DSB通信" year="1994" desc="参与通信技术研究，探索计算机通信基础。" tech="通信技术" %}}
-{{% project title="点对点通信软件（部分）" year="1995" desc="基于C技术栈开发早期点对点通信工具。" tech="C" %}}
-{{% project title="毒岛论坛点对点BBS测试" year="1996" desc="参与论坛系统的测试与优化。" tech="BBS技术" %}}
-{{% project title="瀛海威时空，新东方故事2，Wiz" year="1997" desc="参与多个早期互联网项目，积累经验。" tech="互联网技术" %}}
-{{% project title="学校网站" year="1998" desc="基于Perl技术栈开发学校官网。" tech="Perl" %}}
-{{% project title="个人网站" year="1999" desc="基于Perl技术栈搭建个人网站，记录技术成长。" tech="Perl" %}}
+{{% project title="单边带SSB、双边带DSB无线通信" year="1994" desc="参与业余电台与军民用无线通信技术研究，探索计算机底层通信基础。" tech="无线电通信" %}}
+{{% project title="点对点通信软件" year="1995" desc="基于 C 语言开发早期点对点数据通信工具。" tech="C" %}}
+{{% project title="毒岛论坛点对点BBS测试" year="1996" desc="参与本地早期拨号 BBS 系统的搭建与压力测试。" tech="BBS, FidoNet" %}}
+{{% project title="瀛海威时空接入与网络探索" year="1997" desc="国内首批接入互联网试验网，探索早期 Web 与信息服务生态。" tech="互联网接入" %}}
+{{% project title="承德早期学校与个人网站" year="1998-1999" desc="基于 Perl 与 CGI 技术栈独立开发学校官网与早期个人技术站点。" tech="Perl, CGI" %}}
 
-### 通信运营商（1998-2014）
+### 电信与宽带数据运营（1998–2014）
 
-{{% project title="紫塞网" year="2001" desc="开发基于PHP的社区平台，服务数万用户。" tech="PHP, MySQL" %}}
-{{% project title="紫塞聊天室" year="2001" desc="基于C++开发在线聊天室功能。" tech="C++" %}}
-{{% project title="紫塞论坛组" year="2001" desc="构建论坛系统，增强用户互动。" tech="PHP" %}}
-{{% project title="笑傲江湖社区" year="2001" desc="基于ASP开发社区平台。" tech="ASP" %}}
-{{% project title="MUD侠客行" year="2001" desc="基于LPC技术栈开发文字冒险游戏。" tech="LPC" %}}
-{{% project title="XX ADSL工单受理系统" year="2001" desc="开发工单系统，提升运营效率。" tech="ASP" %}}
-{{% project title="跳蚤市场" year="2001" desc="基于PHP开发线上交易平台。" tech="PHP" %}}
-{{% project title="FreeICQ" year="2001" desc="二次开发的即时通信软件" tech="Pascal" %}}
-{{% project title="热河风云" year="2002" desc="基于Pascal开发项目，服务本地用户。" tech="Pascal" %}}
-{{% project title="承德宽带流媒体" year="2003" desc="基于RealServer提供流媒体服务。" tech="RealServer, PHP" %}}
-{{% project title="紫塞博客" year="2003" desc="开发博客平台，支持用户内容创作。" tech="PHP" %}}
-{{% project title="国研科洛斯服务器组" year="2003" desc="投入运营避暑山庄服务器组。" tech="服务器运维" %}}
-{{% project title="兆宏坦克宝贝服务器组" year="2004" desc="投入运营避暑山庄服务器组。" tech="服务器运维" %}}
-{{% project title="网易梦幻西游服务器组" year="2005" desc="投入运营避暑山庄服务器组。" tech="服务器运维" %}}
-{{% project title="运维管理系统" year="2005" desc="为中国XX分公司开发运维管理系统。" tech="运维技术" %}}
-{{% project title="搜影客户端" year="2005" desc="基于Pascal开发宽带视频客户端。" tech="Pascal" %}}
-{{% project title="网易大话西游服务器组" year="2006" desc="投入运营避暑山庄服务器组。" tech="服务器运维" %}}
-{{% project title="魔兽世界动态密保" year="2006" desc="设计动态密码系统，提升账号安全。" tech="C++" %}}
-{{% project title="信息魅力业务运营" year="2007" desc="负责信息魅力业务的管理与运营。" tech="业务运营" %}}
-{{% project title="IDC业务受理系统" year="2009" desc="开发IDC业务受理系统，提升效率。" tech="业务系统" %}}
-{{% project title="腾讯、优酷、阿里等IDC业务引入" year="2011" desc="推动多家互联网公司IDC业务合作。" tech="业务拓展" %}}
-{{% project title="中国通信行业级QC小组活动诊断师" year="2012" desc="获得行业认证，参与QC活动。" tech="质量管理" %}}
-{{% project title="分管移动网业务运营" year="2013" desc="负责移动网业务的运营与管理。" tech="业务运营" %}}
+{{% project title="承德紫塞明珠网门户及社区群" year="2001" desc="基于 PHP 与 MySQL 构建本地综合门户，涵盖紫塞论坛、跳蚤市场等，服务承德首批网民。" tech="PHP, MySQL" %}}
+{{% project title="紫塞在线聊天室" year="2001" desc="基于 C++ 开发高并发实时在线聊天服务，承载本地网民早期即时互动。" tech="C++" %}}
+{{% project title="FreeICQ 二次开发" year="2001" desc="基于 Pascal/Delphi 开发本地化即时通信客户端。" tech="Pascal, Delphi" %}}
+{{% project title="ADSL 宽带业务工单受理系统" year="2001" desc="自主开发宽带业务流转平台，大幅提升运营商基层运维效率。" tech="ASP, SQL Server" %}}
+{{% project title="《热河风云》本地端游" year="2002" desc="基于 Pascal 架构自主开发承德本地题材多人在线网络游戏。" tech="Pascal" %}}
+{{% project title="承德宽带流媒体服务平台" year="2003" desc="基于 RealServer 架构搭建本地宽带视频点播流媒体集群。" tech="RealServer, Linux" %}}
+{{% project title="网游高可靠性服务器运营矩阵" year="2003-2006" desc="主导引入并运维网易《梦幻西游》《大话西游》、国研《科洛斯》《坦克宝贝》避暑山庄本地服务器组。" tech="Linux, 架构运维" %}}
+{{% project title="动态密码安全认证系统" year="2006" desc="针对大型网游账号盗窃风险，设计开发动态算法密码认证防御系统。" tech="C++, 密码学" %}}
+{{% project title="通信枢纽 IDC 业务与头部互联网引入" year="2009-2011" desc="负责承德通信枢纽 IDC 机房运营，成功引入腾讯、优酷、阿里等骨干加速与托管业务。" tech="IDC, 骨干网络" %}}
 
-### 宽广集团（2014-今）
+### 宽广控股集团数字化（2014–至今）
 
-{{% project title="宽广购线上购物" year="2014" desc="开发线上购物平台，支持电商业务。" tech="电商技术" %}}
-{{% project title="储值卡管理系统" year="2015" desc="构建储值卡管理系统，提升用户体验。" tech="管理系统" %}}
-{{% project title="BI商业智能体系" year="2016" desc="开发商业智能系统，支持数据分析。" tech="BI, 数据分析" %}}
-{{% project title="澄湖超融合架构体系" year="2016" desc="主导超融合架构设计，整合资源。" tech="虚拟化, Docker, Kubernetes" %}}
-{{% project title="团购券防伪系统" year="2016" desc="开发防伪系统，保障团购业务安全。" tech="防伪技术" %}}
-{{% project title="电子储值卡系统" year="2017" desc="升级储值卡系统，支持电子化管理。" tech="电子支付" %}}
-{{% project title="慧云体系" year="2018" desc="开发云服务平台，提升企业效率。" tech="云计算" %}}
-{{% project title="北师大、日本两年硕士" year="2019" desc="攻读硕士学位，深化技术研究。" tech="教育" %}}
-{{% project title="ESRS疫情检录系统" year="2020" desc="疫情期间开发健康数据管理平台。" tech="PHP, MySQL" %}}
-{{% project title="福云体系" year="2021" desc="开发云服务体系，支持企业数字化转型。" tech="云计算" %}}
-{{% project title="二维码储值卡体系及核心加密算法" year="2021" desc="设计加密算法，提升交易安全。" tech="Go, 加密算法" %}}
-{{% project title="人脸识别体系建设" year="2022" desc="构建人脸识别系统，支持智能应用。" tech="AI, 人脸识别" %}}
-{{% project title="集团物联网体系" year="2023" desc="部署物联网平台，覆盖多场景应用。" tech="IoT, Python" %}}
-{{% project title="基于微信生态的服务小程序集群" year="2023" desc="开发小程序集群，服务用户。" tech="微信小程序" %}}
-{{% project title="集团网络信息安全架构体系建设" year="2023" desc="构建安全架构，保障数据安全。" tech="网络安全" %}}
-{{% project title="集团核心数据灾备体系建设" year="2024" desc="设计数据灾备体系，提升可靠性。" tech="灾备技术" %}}
-{{% project title="基于AI技术的人力资源测评系统" year="2025" desc="LLM自动对员工测评分数进行排序、评价并发送给员工，提升效率。" tech="人工智能" %}}
-{{% project title="宽广商业数智化管理平台" year="2025" desc="中百协优秀零售实践案例" tech="异构分布式架构" %}}
-{{% project title="数字技术创新奖" year="2025" desc="中国国际数字经济博览会。" tech="人工智能" %}}
+{{% project title="宽广购本地电商平台" year="2014" desc="主导自研本地化线上超市购物平台，启动零售线上线下一体化尝试。" tech="电商架构" %}}
+{{% project title="澄湖混合云超融合架构" year="2016" desc="构建企业私有超融合基础设施，整合全集团计算与存储资源，核心系统性能提升25%以上。" tech="超融合, VMware, Docker" %}}
+{{% project title="全渠道电子储值卡及安全防伪体系" year="2016-2017" desc="重构大型零售集团预付卡体系，实现线上线下实时核销与防伪验证。" tech="高并发支付, 交易安全" %}}
+{{% project title="ESRS 疫情健康检录与数据管理系统" year="2020" desc="疫情期间自主紧急攻关研发，赋能商业网点精准无感防疫检录，受党报专项报道。" tech="PHP, MySQL, 安全架构" %}}
+{{% project title="二维码储值卡核心加密交易引擎" year="2021" desc="采用 Go 语言独立设计高安全动态加密算法与核销机制，全面保障线下资金流转安全。" tech="Go, 动态加密" %}}
+{{% project title="集团级商业物联网 (IoT) 智能监控体系" year="2023" desc="部署数万台冷链、能耗与安防设备物联接入平台，实现全业态运营能耗优化与异常预警。" tech="IoT, Python, MQTT" %}}
+{{% project title="核心数据零丢失双活灾备体系" year="2024" desc="设计实施跨机房多副本实时数据容灾架构，实现企业核心财务与交易数据高可靠可用。" tech="灾备架构, 数据容灾" %}}
+{{% project title="宽广商业数智化管理平台" year="2025" desc="整合 AI、分布式架构与全业务链数据，获中百协全国优秀零售实践案例表彰。" tech="异构分布式架构" %}}
 
 ---
 
 ## 📅 人生时间线
 
-我的职业与个人生活交织，记录了成长的点点滴滴：
-
 <div class="timeline">
-  <div class="timeline-item"><span class="timeline-year">1993</span>: 参军 51404</div>
-  <div class="timeline-item"><span class="timeline-year">1994</span>: 51406</div>
-  <div class="timeline-item"><span class="timeline-year">1995</span>: 51406单双边带</div>
-  <div class="timeline-item"><span class="timeline-year">1996</span>: 入党</div>
-  <div class="timeline-item"><span class="timeline-year">1997</span>: 51406计算机和通信</div>
-  <div class="timeline-item"><span class="timeline-year">1998</span>: 央企委培，投身通信运营商</div>
-  <div class="timeline-item"><span class="timeline-year">1999</span>: 负责计算机环境监控</div>
-  <div class="timeline-item"><span class="timeline-year">2001</span>: 进入数据分局</div>
-  <div class="timeline-item"><span class="timeline-year">2003</span>: 父亲去世</div>
-  <div class="timeline-item"><span class="timeline-year">2004</span>: 购买第一辆车</div>
-  <div class="timeline-item"><span class="timeline-year">2006</span>: 步入婚姻</div>
+  <div class="timeline-item"><span class="timeline-year">1993</span>: 服役于解放军无线通信部队（51404部队、51406部队）</div>
+  <div class="timeline-item"><span class="timeline-year">1998</span>: 创立「紫塞明珠网」；投身电信运营商，从事网络运维与数据通信</div>
+  <div class="timeline-item"><span class="timeline-year">2006</span>: 步入婚姻殿堂</div>
   <div class="timeline-item"><span class="timeline-year">2007</span>: 儿子出生</div>
-  <div class="timeline-item"><span class="timeline-year">2008</span>: 准备留学</div>
-  <div class="timeline-item"><span class="timeline-year">2011</span>: 任职主任</div>
-  <div class="timeline-item"><span class="timeline-year">2014</span>: 裸辞央企，加入宽广集团，任VP、CIO</div>
-  <div class="timeline-item"><span class="timeline-year">2015</span>: 完成半马</div>
-  <div class="timeline-item"><span class="timeline-year">2016</span>: 女儿出生</div>
-  <div class="timeline-item"><span class="timeline-year">2016</span>: 完成全马</div>
-  <div class="timeline-item"><span class="timeline-year">2019</span>: 日本留学，攻读硕士</div>
-  <div class="timeline-item"><span class="timeline-year">2021</span>: 硕士毕业</div>
+  <div class="timeline-item"><span class="timeline-year">2014</span>: 告别电信体制，加盟承德宽广控股集团，出任副总裁兼 CIO</div>
+  <div class="timeline-item"><span class="timeline-year">2016</span>: 女儿出生；完成人生首个全程马拉松（42.195 km）</div>
+  <div class="timeline-item"><span class="timeline-year">2019</span>: 赴日留学，就读于日本樱美林大学大学院</div>
+  <div class="timeline-item"><span class="timeline-year">2021</span>: 取得信息学硕士学位，回国深化推进企业数字化战略</div>
 </div>
 
 ---
 
-## 🏃‍♂️‍➡️ 个人经历
+## 🏃‍♂️ 职务与社会任职
 
-- 中国XX通信集团有限公司X分公司团委书记
-- 中国XX通信集团有限公司X分公司团部门主任
-- XX控股集团有限公司董事、副总裁
-- XX超市集团有限公司监事
-- XX市互联网协会副主席
-- XX市XX区电子商务协会会长
-- XX市互联网协会执行主席
-- XX市互联网行业工会联合会主席
-- 中百协会数字化工作委员会委员
-- XX市警察协会理事
-
-## 🏆 荣誉与认证
-
-- 中国通信行业级QC小组活动诊断师
-- 中国国际数字经济博览会数字技术创新奖
-- 全国优秀CIO
-- 省级“知识型员工”
-- 市级“沈楠创新工作室”
-- 市级“优秀青年岗位能手”
-- 市级“最美科技工作者”
-- 市级“商务发展专家”
-- 市级“十佳科普工作者”
+- **现任职务**：承德宽广控股集团有限公司 董事、副总裁、CIO；承德宽广超市集团有限公司 监事 [（集团官网高管介绍）](http://www.ikuanguang.com/archives/220/)
+- **行业任职**：中国百货商业协会（CCAGM）数字化工作委员会 委员
+- **社会职务**：承德市互联网协会 副主席、执行主席；承德市互联网行业工会联合会 主席；承德市双桥区电子商务协会 会长；承德市警察协会 理事
+- **过往经历**：曾任中国联通承德市分公司 部门主任、团委书记
 
 ---
 
-## 👤 关于我的一点小事
+## 🏆 荣誉与公共报道
 
-- **最爱的技术**：Go（简洁优雅）、Kubernetes（云原生基石）
-- **生活爱好**：计算机、音乐、散步、家庭、小圈子聚会
-- **技术信仰**：用最简单的逻辑解决最复杂的问题
-- **2026目标**：处理好牙齿，关注身体健康
+- **国家与行业级表彰**：
+  - [全国优秀 CIO 个人奖（企业网 D1Net）](http://www.d1net.com/)
+  - 中国国际数字经济博览会「数字技术创新奖」
+  - 中国通信企业协会「通信行业级 QC 小组活动诊断师」
+- **省市级科技与人才表彰**：
+  - [承德市“最美科技工作者”候选人事迹（中国科学技术协会官方报道）](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
+  - [承德市“最美科技工作者”事迹简介（河北省科协官网）](https://www.hbast.org.cn/detail.thtml?id=18935)
+  - 承德市“十佳科普工作者”
+  - 承德市劳模与工匠人才「沈楠创新工作室」
+  - 河北省级“知识型员工” / 承德市“商务发展专家”
+- **党报与权威档案**：
+  - 《承德日报》专题报道：研发检录系统助力科学防疫
+  - [百度百科：沈楠（词条ID: 49988317）](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
+
+---
+
+## 👤 技术与生活
+
+- **编程语言**：Go、Python、Pascal/Delphi、SQL
+- **技术信仰**：以工程思维解构复杂问题，让架构回归业务本质。
+- **日常生活**：长跑、自驾、养鱼种兰、在紫塞网记录故乡与日常思考。
 
 ---
 
 ## 🔗 联系我
 
-- **博客订阅**：RSS Feed
-- **邮箱**：mythflair@hotmail.com
-
-> 欢迎留言或通过社交媒体与我交流技术、运动或生活！
-
----
-
-*最后更新：2026年10月03日 增加一些内容
+- **个人主页**：[紫塞网 (zisai.com)](https://zisai.com/)
+- **代码仓库**：[GitHub / Mythflair](https://github.com/Mythflair)
+- **电子邮箱**：[mythflair@hotmail.com](mailto:mythflair@hotmail.com)
