@@ -123,12 +123,14 @@ author = "沈楠"
   authorSchemaImage = "/images/ashennan-1024-q82.jpg"
 
   authorSameAs = [
+    # github
     "https://github.com/Mythflair",
+    # 紫塞网
     "https://zisai.com/",
-    "https://fuchinobe.com/",
-    "https://erxianju.com/",
-    "https://rehe2.com/",
-    "https://zisai.net/"
+    # 宽广集团官网高管介绍
+    "http://www.ikuanguang.com/archives/220/",
+    # 百度百科专属人物词条
+    "https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317"
   ]
 
   # ----------------------------------------------------------
