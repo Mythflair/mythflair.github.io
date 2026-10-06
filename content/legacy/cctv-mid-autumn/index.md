@@ -12,7 +12,8 @@ tags:
   - "央视"
   - "承德"
   - "山庄月中华情"
-
+  - "遗址"
+type: "page"
 ShowReadingTime: false
 ShowWordCount: false
 ShowShareButtons: false

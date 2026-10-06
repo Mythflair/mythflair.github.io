@@ -13,13 +13,11 @@ tags:
   - "网易"
   - "承德"
   - "遗址"
-  
 type: "page"
 ShowReadingTime: false
 ShowWordCount: false
 ShowShareButtons: false
 ShowPostNavLinks: false
-
 showToc: false
 ShowBreadCrumbs: true
 cover:
