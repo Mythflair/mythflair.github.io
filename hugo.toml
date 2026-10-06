@@ -254,6 +254,12 @@ googleAnalytics = "G-5L9GMDCNHD"
   weight = 50
 
 [[languages.zh-cn.menus.main]]
+  identifier = "legacy"
+  name = "遗址"
+  url = "/tags/遗址/"
+  weight = 50
+
+[[languages.zh-cn.menus.main]]
   identifier = "about"
   name = "关于"
   url = "/about/"
