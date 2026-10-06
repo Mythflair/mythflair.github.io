@@ -94,20 +94,24 @@
   "dateModified": {{ .Lastmod }},
   {{- with (.Params.author | default site.Params.author) }}
   "author":
-    {{- if (or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}")) -}}
+  {{- if (or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}")) -}}
   [{{- range $i, $v := . -}}
   {{- if $i }}, {{end -}}
   {
-    "@type": "Person",
-    "name": {{ $v }}
+  "@type": "Person",
+  "name": {{ $v }}{{ if eq $v "沈楠" }},
+  "@id": "https://zisai.com/about/#person",
+  "url": "https://zisai.com/about/"{{ end }}
   }
   {{- end }}],
-    {{- else -}}
+  {{- else -}}
   {
-    "@type": "Person",
-    "name": {{ . }}
+  "@type": "Person",
+  "name": {{ . }}{{ if eq . "沈楠" }},
+  "@id": "https://zisai.com/about/#person",
+  "url": "https://zisai.com/about/"{{ end }}
   },
-    {{- end -}}
+  {{- end -}}
   {{- end }}
   "mainEntityOfPage": {
     "@type": "WebPage",

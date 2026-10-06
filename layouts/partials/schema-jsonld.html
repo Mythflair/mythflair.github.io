@@ -6,7 +6,7 @@ ZISAI.COM Schema.org JSON-LD
 统一实体：
 
 Person:
-https://zisai.com/#person
+https://zisai.com/about/#person
 
 WebSite:
 https://zisai.com/#website
@@ -17,13 +17,13 @@ https://zisai.com/#zisai
 ============================================================
 */}}
 
-{{- $personID := printf "%s#person" .Site.BaseURL -}}
+{{- $authorURL := .Site.Params.authorUrl | default "https://zisai.com/about/" -}}
+{{- $personID := printf "%s#person" $authorURL -}}
+
 {{- $websiteID := printf "%s#website" .Site.Home.Permalink -}}
 {{- $zisaiID := printf "%s#zisai" .Site.BaseURL -}}
 
-{{- $authorName := .Site.Params.authorName | default .Site.Params.author | default "沈楠" -}}
-{{- $authorURL := .Site.Params.authorUrl | default (absURL "about/") -}}
-{{- $authorDescription := .Site.Params.authorDescription | default .Site.Params.description -}}
+{{- $authorName := .Site.Params.authorName | default .Site.Params.author | default "沈楠" -}}{{- $authorDescription := .Site.Params.authorDescription | default .Site.Params.description -}}
 {{- $authorJobTitle := .Site.Params.authorJobTitle | default "副总裁、CIO" -}}
 {{- $authorImage := .Site.Params.authorSchemaImage | default .Site.Params.authorImage -}}
 {{- $language := .Site.Language.Lang | default "zh-cn" -}}

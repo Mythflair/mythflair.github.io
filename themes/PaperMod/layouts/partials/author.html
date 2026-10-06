@@ -1,9 +1,30 @@
-{{- if or .Params.author site.Params.author }}
-{{- $author := (.Params.author | default site.Params.author) }}
-{{- $author_type := (printf "%T" $author) }}
-{{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
-{{- (delimit $author ", " ) }}
-{{- else }}
-{{- $author }}
-{{- end }}
+<!--{{- if or .Params.author site.Params.author }}-->
+<!--{{- $author := (.Params.author | default site.Params.author) }}-->
+<!--{{- $author_type := (printf "%T" $author) }}-->
+<!--{{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}-->
+<!--{{- (delimit $author ", " ) }}-->
+<!--{{- else }}-->
+<!--{{- $author }}-->
+<!--{{- end }}-->
+<!--{{- end -}}-->
+
+{{- $author := (.Params.author | default site.Params.author) -}}
+
+{{- with $author -}}
+  {{- if (or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}")) -}}
+    {{- range $i, $v := . -}}
+      {{- if $i }}, {{ end -}}
+      {{- if eq $v "沈楠" -}}
+        <a href="{{ "/about/" | relURL }}" rel="author">{{ $v }}</a>
+      {{- else -}}
+        {{ $v }}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- if eq . "沈楠" -}}
+      <a href="{{ "/about/" | relURL }}" rel="author">{{ . }}</a>
+    {{- else -}}
+      {{ . }}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
