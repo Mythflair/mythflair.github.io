@@ -23,8 +23,8 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/netease-zisai-2005-5.jpg"
-  alt: "会员免费洗车房"
+  image: "/images/history/netease-zisai-2005-5.webp"
+  alt: "避暑山庄专区开服预告页面"
 ---
 
 ## 一处留下来的互联网地址
