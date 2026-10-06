@@ -105,7 +105,7 @@ Three yuan does not even take you very far on a shared bike these days.
 
 Of course, the benefit only matters if you actually use it.
 
-![Looking at membership value differently](/images/supermarket-membership-car-wash/images/6430.webp)
+![Looking at membership value differently](/images/supermarket-membership-car-wash/6430.webp)
 
 The worst kind of membership is one that makes people spend money simply because they want to “get their money’s worth.”
 
@@ -123,7 +123,7 @@ The retailer gains traffic and goodwill.
 
 The customer gets genuine convenience.
 
-![Rooftop area at Kuanguang Supermarket Lishui flagship store](/images/supermarket-membership-car-wash/images/64340.webp)
+![Rooftop area at Kuanguang Supermarket Lishui flagship store](/images/supermarket-membership-car-wash/64340.webp)
 
 If both sides benefit, why not?
 

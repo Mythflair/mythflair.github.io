@@ -92,7 +92,7 @@ cover:
 
 当然，前提是你确实用得上。
 
-![换一种算法看会员价值](/images/supermarket-membership-car-wash/images/6430.webp)
+![换一种算法看会员价值](/images/supermarket-membership-car-wash/6430.webp)
 
 会员制最怕的就是为了“占便宜”而消费。
 
@@ -107,7 +107,7 @@ cover:
 让顾客感觉来这里挺方便，挺舒服，挺划算，然后愿意多来几次。
 
 企业得到了客流和口碑，消费者得到了实实在在的便利。
-![宽广超市丽水旗舰店天台](/images/supermarket-membership-car-wash/images/64340.webp)
+![宽广超市丽水旗舰店天台](/images/supermarket-membership-car-wash/64340.webp)
 
 你情我愿，何乐不为。
 

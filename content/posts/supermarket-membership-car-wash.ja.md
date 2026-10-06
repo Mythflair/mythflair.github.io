@@ -113,7 +113,7 @@ cover:
 
 もちろん、実際に使う人にとって価値がある、というのが前提です。
 
-![会員特典の価値を別の計算で見る](/images/supermarket-membership-car-wash/images/6430.webp)
+![会員特典の価値を別の計算で見る](/images/supermarket-membership-car-wash/6430.webp)
 
 会員制度で一番もったいないのは、「元を取らなければ」と考えて、必要のない買い物までしてしまうことです。
 
@@ -131,7 +131,7 @@ cover:
 
 企業は来店客と評判を得て、消費者は実際の便利さを得る。
 
-![寛広スーパー麗水旗艦店の屋上](/images/supermarket-membership-car-wash/images/64340.webp)
+![寛広スーパー麗水旗艦店の屋上](/images/supermarket-membership-car-wash/64340.webp)
 
 双方にメリットがあるなら、それでいいのだと思います。
 
