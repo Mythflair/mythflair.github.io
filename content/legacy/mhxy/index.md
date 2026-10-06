@@ -23,7 +23,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/netease-zisai-2005-2.jpg"
+  image: "/images/history/netease-zisai-2005-5.jpg"
   alt: "会员免费洗车房"
 ---
 
