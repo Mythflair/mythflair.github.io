@@ -20,13 +20,6 @@
 {{- if not .IsHome -}}{{- print " zisai-inner" -}}{{- end -}}
 " id="top">
 
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCVR5FXN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) -->
-
     {{- partialCached "header.html" . .Page -}}
 
     <main class="main{{ if .IsHome }} main--home{{ else }} main--inner{{ if and .IsPage (ne .Layout "search") (ne .Layout "archives") }} main--reading{{ end }}{{ end }}">
