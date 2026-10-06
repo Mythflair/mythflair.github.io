@@ -22,7 +22,7 @@ categories:
   - "Retail Notes"
 
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/supermarket-membership-car-wash/64022.webp"
   alt: "Complimentary car wash for members"
   relative: false
 ---

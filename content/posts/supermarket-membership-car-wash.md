@@ -21,7 +21,7 @@ categories:
   - "零售小事"
 
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/supermarket-membership-car-wash/64022.webp"
   alt: "会员免费洗车房"
   relative: false
 ---

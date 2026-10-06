@@ -22,7 +22,7 @@ categories:
   - "小売の小話"
 
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/supermarket-membership-car-wash/64022.webp"
   alt: "会員向け無料洗車サービス"
   relative: false
 ---
