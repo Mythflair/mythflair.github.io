@@ -4,7 +4,7 @@ description: "2011年，中国新闻网报道《和合承德》城市形象宣�
 date: 2026-10-07T09:06:00+08:00
 lastmod: 2026-10-07T09:06:00+08:00
 draft: false
-url: "/cctv-mid-autumn/"
+url: "/hecheng-chengde-2011/"
 
 tags:
   - "紫塞网"
