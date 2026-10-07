@@ -80,28 +80,16 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = [
     "沈楠",
     "紫塞",
-    "ShenNan",
-    "zisai",
+    "ZISAI",
     "承德",
-    "承德旅游",
-    "承德生活",
-    "避暑山庄",
-    "外八庙",
-    "小布达拉",
-    "二仙居",
-    "坝上草原",
-    "木兰围场",
     "热河",
-    "承德人",
-    "承德博客",
+    "互联网",
     "技术",
     "生活",
-    "互联网",
+    "零售数字化",
     "Hugo",
     "Go",
-    "物哀",
-    "幽玄",
-    "侘寂"
+    "人工智能"
   ]
 
   # ----------------------------------------------------------
@@ -116,16 +104,17 @@ googleAnalytics = "G-5L9GMDCNHD"
   authorImageWidth = 120
   authorImageHeight = 120
 
-  authorJobTitle = "副总裁、CIO"
-  authorDescription = "沈楠，承德紫塞明珠网（zisai.com）创始人，承德宽广控股集团副总裁、CIO，日本樱美林大学信息学硕士，长期从事通信、互联网、IDC、ICT、软件研发、云计算、物联网与零售数字化实践。"
+  # Person 全站统一规范实体
+  authorCanonicalUrl = "https://zisai.com/about/"
   authorUrl = "https://zisai.com/about/"
+
+  authorJobTitle = "董事、副总裁、CIO"
+  authorDescription = "沈楠，紫塞明珠网（zisai.com）创始人，日本樱美林大学信息学硕士，现任承德宽广控股集团董事、副总裁、CIO，长期从事通信网络、互联网、软件工程、企业信息化与零售数字化实践。"
   authorSchemaImage = "/images/shennan-1024-q82.jpg"
 
   authorSameAs = [
     # github
     "https://github.com/Mythflair",
-    # 紫塞网
-    "https://zisai.com/",
     # 宽广集团官网高管介绍
     "http://www.ikuanguang.com/archives/220/",
     # 百度百科专属人物词条
@@ -256,8 +245,8 @@ googleAnalytics = "G-5L9GMDCNHD"
 [[languages.zh-cn.menus.main]]
   identifier = "legacy"
   name = "遗址"
-  url = "/tags/遗址/"
-  weight = 50
+  url = "/legacy/"
+  weight = 55
 
 [[languages.zh-cn.menus.main]]
   identifier = "about"
@@ -334,8 +323,8 @@ googleAnalytics = "G-5L9GMDCNHD"
   description = "ZISAI — life, technology and memories of Chengde, China, since 1998."
   author = "Shen Nan"
   authorName = "Shen Nan"
-  authorJobTitle = "Vice President and CIO"
-  authorDescription = "Founder of ZISAI; Vice President and CIO of Chengde Kuangguang Holdings Group; a master’s graduate in informatics from J. F. Oberlin University."
+  authorJobTitle = "Director, Vice President and CIO"
+  authorDescription = "Founder of ZISAI; Director, Vice President and CIO of Chengde Kuangguang Holdings Group; master's graduate in informatics from J. F. Oberlin University, with long-term experience in telecommunications, internet technology, software engineering, enterprise IT and retail digitalization."
   authorUrl = "https://zisai.com/en/about/"
   keywords = ["ZISAI", "Shen Nan", "Chengde", "Technology", "Everyday life"]
 
@@ -367,8 +356,8 @@ googleAnalytics = "G-5L9GMDCNHD"
   description = "1998年に始まった承徳のウェブサイト「紫塞」。技術、暮らし、街の記憶を綴ります。"
   author = "沈楠"
   authorName = "沈楠"
-  authorJobTitle = "副社長・CIO"
-  authorDescription = "紫塞網の創設者。承徳寛広控股集団の副社長・CIO。桜美林大学大学院で情報学修士号を取得。"
+  authorJobTitle = "取締役・副社長・CIO"
+  authorDescription = "紫塞網の創設者。承徳寛広控股集団の取締役・副社長・CIO。桜美林大学大学院で情報学修士号を取得し、通信、インターネット、ソフトウェア工学、企業情報化、小売DXに長年携わっている。"
   authorUrl = "https://zisai.com/ja/about/"
   keywords = ["紫塞", "沈楠", "承徳", "技術", "暮らし"]
 

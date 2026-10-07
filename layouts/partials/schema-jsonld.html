@@ -17,14 +17,15 @@ https://zisai.com/#zisai
 ============================================================
 */}}
 
-{{- $authorURL := .Site.Params.authorUrl | default "https://zisai.com/about/" -}}
-{{- $personID := printf "%s#person" $authorURL -}}
+{{- $authorCanonicalURL := .Site.Params.authorCanonicalUrl | default "https://zisai.com/about/" -}}
+{{- $personID := printf "%s#person" $authorCanonicalURL -}}
 
 {{- $websiteID := printf "%s#website" .Site.Home.Permalink -}}
 {{- $zisaiID := printf "%s#zisai" .Site.BaseURL -}}
 
-{{- $authorName := .Site.Params.authorName | default .Site.Params.author | default "沈楠" -}}{{- $authorDescription := .Site.Params.authorDescription | default .Site.Params.description -}}
-{{- $authorJobTitle := .Site.Params.authorJobTitle | default "副总裁、CIO" -}}
+{{- $authorName := .Site.Params.authorName | default .Site.Params.author | default "沈楠" -}}
+{{- $authorDescription := .Site.Params.authorDescription | default .Site.Params.description -}}
+{{- $authorJobTitle := .Site.Params.authorJobTitle | default "董事、副总裁、CIO" -}}
 {{- $authorImage := .Site.Params.authorSchemaImage | default .Site.Params.authorImage -}}
 {{- $language := .Site.Language.Lang | default "zh-cn" -}}
 
@@ -37,8 +38,11 @@ https://zisai.com/#zisai
   "@type" "Person"
   "@id" $personID
   "name" $authorName
-  "alternateName" (slice "Shen Nan" "Mythflair")
-  "url" $authorURL
+  "alternateName" (slice
+    "Shen Nan"
+    "Mythflair"
+  )
+  "url" $authorCanonicalURL
   "jobTitle" $authorJobTitle
   "description" $authorDescription
   "worksFor" (dict
@@ -46,27 +50,32 @@ https://zisai.com/#zisai
     "name" "承德宽广控股集团有限公司"
     "url" "http://www.ikuanguang.com/"
   )
-  "alumniOf" (dict
+
+   "alumniOf" (dict
     "@type" "CollegeOrUniversity"
     "name" "樱美林大学"
     "alternateName" "J. F. Oberlin University"
   )
+
+  "memberOf" (slice
+    (dict
+      "@type" "Organization"
+      "name" "中国百货商业协会零售数字化工作委员会"
+      "alternateName" "中百协会数字化工作委员会"
+    )
+  )
+
   "knowsAbout" (slice
     "通信网络"
     "互联网"
-    "IDC"
-    "ICT"
-    "软件研发"
-    "系统集成"
+    "软件工程"
+    "系统架构"
     "企业信息化"
     "零售数字化"
     "云计算"
-    "云原生"
     "物联网"
     "大数据"
     "网络安全"
-    "Go"
-    "Python"
     "人工智能"
   )
 -}}
@@ -98,7 +107,10 @@ https://zisai.com/#zisai
   "@type" "Organization"
   "@id" $zisaiID
   "name" "紫塞明珠网"
-  "alternateName" (slice "紫塞网" "ZISAI")
+  "alternateName" (slice
+    "紫塞网"
+    "ZISAI"
+  )
   "url" .Site.Home.Permalink
   "foundingDate" "1998"
   "founder" (dict
@@ -175,11 +187,133 @@ https://zisai.com/#zisai
   "inLanguage" $language
 -}}
 
+
+{{/* --------------------------------------------------------
+   About 页面 Person 的外部记录
+   -------------------------------------------------------- */}}
+
 {{- $personAbout := merge $person (dict
-  "subjectOf" (dict
-    "@id" (printf "%s#profilepage" .Permalink)
+
+  "subjectOf" (slice
+
+    (dict
+      "@id" (printf "%s#profilepage" .Permalink)
+    )
+
+    (dict
+      "@type" "NewsArticle"
+      "name" "承德宽广控股集团副总裁沈楠：以营商环境之优 育城市烟火之旺"
+      "url" "https://paper.hehechengde.cn/cdrb/pad/content/202609/17/content_202118.html"
+      "datePublished" "2026-09-17"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "承德日报"
+      )
+    )
+
+    (dict
+      "@type" "WebPage"
+      "name" "关于第一批商务发展专家库人员名单的公示"
+      "url" "https://www.chengde.gov.cn/art/2016/9/1/art_9943_306551.html"
+      "datePublished" "2016-09-01"
+      "publisher" (dict
+        "@type" "GovernmentOrganization"
+        "name" "承德市商务局"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "疫情中，优秀CIO们做了什么让线上流量大增？——线上线下融合研讨会综述（下）"
+      "url" "http://www.ccagm.org.cn/bg-yj/4819.html"
+      "datePublished" "2020-04-17"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国百货商业协会"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "大咖云集+CIO齐聚+会员免费->“零售数字化年会“火热报名中（ 9.4-6重庆）"
+      "url" "http://www.ccagm.org.cn/xh-activity/activities-huiyi/9382.html"
+      "datePublished" "2024-08-22"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国百货商业协会"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "2025中国零售数字化年会之快消行业数字化论坛召开"
+      "url" "http://www.ccagm.org.cn/association-news/9754.html"
+      "datePublished" "2025-08-25"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国百货商业协会"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "第九届零售业数字化年会暨数智生态论坛（8月底杭州）"
+      "url" "http://www.ccagm.org.cn/xh-activity/activities-huiyi/10178.html"
+      "datePublished" "2026-07-20"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国百货商业协会"
+      )
+    )
+
+    (dict
+      "@type" "NewsArticle"
+      "name" "承德市联通公司团委开展“五四”青年节活动"
+      "url" "https://zhuanti.hebnews.cn/2013/2013-05/20/content_3261109.htm"
+      "datePublished" "2013-05-20"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "河北新闻网"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "科技兴市我争先 立足岗位作贡献——承德市“最美科技工作者”候选人沈楠事迹简介"
+      "url" "https://www.hbast.org.cn/detail.thtml?id=18935"
+      "datePublished" "2020-06-17"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "河北省科学技术协会"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "河北承德市科协团体会员单位互联网协会发挥技术优势助力疫情防控"
+      "url" "https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html"
+      "datePublished" "2020-02-28"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国科学技术协会"
+      )
+    )
+
+    (dict
+      "@type" "Article"
+      "name" "新一届“中国百货商业协会零售数字化工作委员会”组织结构公示"
+      "url" "https://mp.weixin.qq.com/s/Z-wSEU3sko0NE8e6SWvujA"
+      "datePublished" "2024-12-03"
+      "publisher" (dict
+        "@type" "Organization"
+        "name" "中国百货商业协会"
+      )
+    )
+
   )
+
 ) -}}
+
 
 {{- $schema := dict
   "@context" "https://schema.org"
@@ -215,6 +349,7 @@ https://zisai.com/#zisai
   {{- end }}
 {{- end }}
 
+
 {{- $article := dict
   "@type" "BlogPosting"
   "@id" (printf "%s#article" .Permalink)
@@ -239,11 +374,13 @@ https://zisai.com/#zisai
   "inLanguage" $language
 -}}
 
+
 {{- with $articleImage }}
   {{- $article = merge $article (dict
     "image" (slice .)
   ) -}}
 {{- end }}
+
 
 {{- with .Params.tags }}
   {{- $article = merge $article (dict
@@ -251,20 +388,26 @@ https://zisai.com/#zisai
   ) -}}
 {{- end }}
 
+
 {{- $articlePerson := dict
   "@type" "Person"
   "@id" $personID
   "name" $authorName
-  "alternateName" (slice "Shen Nan" "Mythflair")
-  "url" $authorURL
+  "alternateName" (slice
+    "Shen Nan"
+    "Mythflair"
+  )
+  "url" $authorCanonicalURL
   "jobTitle" $authorJobTitle
 -}}
+
 
 {{- with $authorImage }}
   {{- $articlePerson = merge $articlePerson (dict
     "image" (. | absURL)
   ) -}}
 {{- end }}
+
 
 {{- $articleWebsite := dict
   "@type" "WebSite"
@@ -279,6 +422,7 @@ https://zisai.com/#zisai
   )
   "inLanguage" $language
 -}}
+
 
 {{- $schema := dict
   "@context" "https://schema.org"
