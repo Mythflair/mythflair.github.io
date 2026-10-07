@@ -454,8 +454,8 @@ cover:
 - [2013｜河北新闻网：承德市联通公司团委开展“五四”青年节活动](https://zhuanti.hebnews.cn/2013/2013-05/20/content_3261109.htm)
 - [百度百科：沈楠](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
 - [GitHub：Mythflair](https://github.com/Mythflair)
-- 
-> **2013年之前的荣誉、佐证，时代因素，纸质资料较多，正在整理中**
+
+> **2013年之前的荣誉、佐证，时代因素，纸质资料较多，正在整理中。**
 
 ---
 
