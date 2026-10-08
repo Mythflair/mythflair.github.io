@@ -1,43 +1,46 @@
-const CACHE_NAME = "zisai-v1";
+const CACHE_NAME = "zisai-pwa-v1";
 
-const STATIC_CACHE = [
+const PRECACHE = [
   "/",
   "/manifest.webmanifest",
   "/icons/pwa-192.png",
   "/icons/pwa-512.png"
 ];
 
-self.addEventListener("install", event => {
+// 安装：缓存基本资源
+self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(STATIC_CACHE))
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE))
   );
-
   self.skipWaiting();
 });
 
-self.addEventListener("activate", event => {
+// 激活：清理旧版本缓存
+self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then(keys =>
+    caches.keys().then((keys) =>
       Promise.all(
         keys
-          .filter(key => key !== CACHE_NAME)
-          .map(key => caches.delete(key))
+          .filter((key) => key.startsWith("zisai-pwa-") && key !== CACHE_NAME)
+          .map((key) => caches.delete(key))
       )
     )
   );
-
   self.clients.claim();
 });
 
-self.addEventListener("fetch", event => {
+// 请求：网络优先，失败后尝试缓存
+self.addEventListener("fetch", (event) => {
+  const request = event.request;
 
-  if (event.request.method !== "GET") {
-    return;
-  }
+  if (request.method !== "GET") return;
+
+  const url = new URL(request.url);
+
+  // 只处理紫塞自身的资源
+  if (url.origin !== self.location.origin) return;
 
   event.respondWith(
-    fetch(event.request)
-      .catch(() => caches.match(event.request))
+    fetch(request).catch(() => caches.match(request))
   );
 });

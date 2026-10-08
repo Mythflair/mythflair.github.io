@@ -143,12 +143,14 @@
 </script>
 <script>
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", function () {
-    navigator.serviceWorker
-      .register("/sw.js")
-      .catch(function (error) {
-        console.error("Service Worker registration failed:", error);
-      });
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("/sw.js", {
+      scope: "/"
+    }).then((registration) => {
+      console.log("ZISAI PWA registered:", registration.scope);
+    }).catch((error) => {
+      console.error("ZISAI PWA registration failed:", error);
+    });
   });
 }
 </script>
