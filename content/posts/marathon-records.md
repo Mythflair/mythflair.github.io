@@ -13,6 +13,10 @@ showToc: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
 
+build:
+  list: never
+  render: always
+
 cover:
   image: "/images/www-runchina-org-cn.webp"
   alt: "中国马拉松官方网站收录的沈楠全程马拉松成绩记录"
