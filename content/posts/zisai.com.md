@@ -15,6 +15,8 @@ tags:
 cover:
   image: "/images/zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.png"
   alt: "紫塞明珠网历史页面"
+legacy: true
+hiddenInHomeList: true
 ---
 
 1998年，紫塞明珠网在承德诞生。
