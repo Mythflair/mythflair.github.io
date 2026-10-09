@@ -1,6 +1,6 @@
 ---
 date: 2024-04-14T13:06:25+08:00
-lastmod: 2026-10-07T23:54:00+08:00
+lastmod: 2026-10-09T23:16:00+08:00
 draft: false
 title: "关于沈楠"
 description: "沈楠（Shen Nan），紫塞明珠网（zisai.com）创始人，日本樱美林大学信息学硕士，现任承德宽广控股集团董事、副总裁、CIO，长期从事通信网络、互联网、软件工程、企业信息化与零售数字化实践。"
@@ -490,24 +490,32 @@ cover:
 
 ## 外部资料与参考
 
-以下汇总文中引用的公开资料，并附个人资料与代码主页入口：
+以下按年份倒序汇总正文引用的第三方公开资料，并附个人资料及代码主页入口。部分早期资料的活动发生时间与网页发布日期可能不同，以原始报道为准。
 
 - [2026｜《承德日报》：承德宽广控股集团副总裁沈楠——以营商环境之优 育城市烟火之旺](https://paper.hehechengde.cn/cdrb/pad/content/202609/17/content_202118.html)
 - [2026｜中国百货商业协会：第九届零售业数字化年会暨数智生态论坛](http://www.ccagm.org.cn/xh-activity/activities-huiyi/10178.html)
 - [2025｜大数跨境：宽广集团数智化管理平台荣获“数字技术创新奖”](https://www.10100.com/article/148266567)
 - [2025｜中国百货商业协会：年度优秀零售数字化实践案例](http://www.ccagm.org.cn/bg-yj/9695.html)
-- [2025｜中国百货商业协会：2025中国零售数字化年会之快消行业数字化论坛](http://www.ccagm.org.cn/association-news/9754.html)
+- [2025｜中国百货商业协会：2025中国零售数字化年会快消行业数字化论坛](http://www.ccagm.org.cn/association-news/9754.html)
 - [2024｜中国百货商业协会：零售数字化年会嘉宾介绍](http://www.ccagm.org.cn/xh-activity/activities-huiyi/9382.html)
 - [2024｜中国百货商业协会：零售数字化工作委员会组织结构公示](https://mp.weixin.qq.com/s/Z-wSEU3sko0NE8e6SWvujA)
+- [2024｜承德市政府大事记：承德市互联网行业工会联合会成立相关记录](https://www.chengde.gov.cn/art/2024/3/29/art_9946_1012253.html)
+- [2023｜承德仲裁委员会秘书处：走进宽广集团开展仲裁宣传交流（承德市政府搜索转链）](https://www.chengde.gov.cn/jrobot/plugin/link/show.do?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmzRwLHjtTf1PGMI6JibC5g&q=%E6%B2%88%E6%A5%A0&webid=1&id=1_12354_954508)
+- [2023｜百度百科：承德市互联网行业工会联合会](https://baike.baidu.com/item/承德市互联网行业工会联合会/63888792)
 - [2020｜河北省科学技术协会：承德市“最美科技工作者”候选人沈楠事迹简介](https://www.hbast.org.cn/detail.thtml?id=18935)
 - [2020｜中国科学技术协会：承德市互联网协会技术团队助力疫情防控](https://www.cast.org.cn/xkx/xw/dfkx/hb/art/2020/art_3ffd0b8830784ec5ae66ee13abbe336f.html)
+- [2020｜相关报道：ESRS疫情检录系统研发与应用](https://baijiahao.baidu.com/s?id=1659675521441658801&wfr=spider&for=pc)
 - [2020｜中国百货商业协会：疫情中，优秀CIO们做了什么让线上流量大增？](http://www.ccagm.org.cn/bg-yj/4819.html)
+- [2018｜梅特勒-托利多：三大业态深耕市场，这家区域龙头企业叫“宽广”](https://www.sohu.com/a/254477854_100229059)
+- [2018｜承德市文物局网站：承德市第一届互联网年会圆满落幕](https://wwj.chengde.gov.cn/art/2018/11/8/art_962_47370.html)
+- [2016｜媒体报道：承德宽广集团等多家公司为荒地小学开展捐助活动](https://www.sohu.com/a/71235941_388393)
 - [2016｜承德市商务局：第一批商务发展专家库人员名单公示](https://www.chengde.gov.cn/art/2016/9/1/art_9943_306551.html)
 - [2013｜河北新闻网：承德市联通公司团委开展“五四”青年节活动](https://zhuanti.hebnews.cn/2013/2013-05/20/content_3261109.htm)
+- [中国马拉松官方网站：赛事成绩查询](https://www.runchina.org.cn/)
 - [百度百科：沈楠](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
 - [GitHub：Mythflair](https://github.com/Mythflair)
-- 
-> **2013年之前的荣誉、佐证，时代因素，纸质资料较多，正在整理中**
+
+> 2013 年以前的部分荣誉与经历主要保存在纸质证书及历史档案中，相关资料正在陆续整理。
 
 ---
 
@@ -522,3 +530,5 @@ cover:
 ---
 
 *页面创建于 2014 年 4 月，最后更新于 2026 年 10 月。*
+
+```
