@@ -12,6 +12,11 @@ tags:
 showToc: false
 ShowReadingTime: false
 ShowBreadCrumbs: true
+
+cover:
+  image: "/images/www-runchina-org-cn.webp"
+  alt: "中国马拉松官方网站收录的沈楠全程马拉松成绩记录"
+  relative: false
 ---
 
 # 马拉松参赛记录
@@ -35,7 +40,7 @@ PB（Personal Best）为个人最好成绩。
 
 ## 官方成绩记录
 
-![中国马拉松官方网站收录的沈楠全程马拉松成绩记录](/images/www-runchina-org-cn.webp)
+![中国马拉松官方网站收录的沈楠全程马拉松成绩记录截图](/images/www-runchina-org-cn.webp)
 
 *图片来源：中国马拉松官方网站，2026年10月9日查询。*
 
