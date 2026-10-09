@@ -324,6 +324,12 @@ cover:
 
 [疫情中，优秀CIO们做了什么让线上流量大增？](http://www.ccagm.org.cn/bg-yj/4819.html)
 
+2023 年｜承德仲裁委员会秘书处：走进宽广集团开展仲裁宣传交流
+
+2023 年 6 月 8 日，承德仲裁委员会秘书处一行到访宽广集团，围绕企业合同履行、仲裁机制及相关法律问题开展座谈。公开报道记载，宽广控股集团有限公司副总裁沈楠参加交流。  
+
+[查看原始报道](https://www.chengde.gov.cn/jrobot/plugin/link/show.do?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmzRwLHjtTf1PGMI6JibC5g&q=%E6%B2%88%E6%A5%A0&webid=1&id=1_12354_954508)
+
 2024 年，以承德宽广集团副总裁身份参加零售数字化年会：
 
 [零售数字化年会相关介绍](http://www.ccagm.org.cn/xh-activity/activities-huiyi/9382.html)
