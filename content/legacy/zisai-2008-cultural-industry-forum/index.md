@@ -43,7 +43,7 @@ cover:
 
 - [搜狐新闻｜第三届“创意中国·和谐世界”文化产业论坛召开（2008年12月15日）](https://news.sohu.com/20081215/n261218970.shtml)
 - [中国传媒大学｜第三届“创意中国·和谐世界”文化产业论坛召开（历史页面）](https://by.cuc.edu.cn/oldnews/2008/1222/c1841a30620/page.psp)
-- [天津旧网站页面](http://hhjyy.tjl.tj.cn/cydt/cyzixun/cyzx-00.html)
+- [天津旧网站页面](http://hhjyy.tjl.tj.cn/cydt/cyzixun/0812/081216-dsjc.html)
 
 ---
 
