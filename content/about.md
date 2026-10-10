@@ -525,7 +525,7 @@ cover:
 - **GitHub**：[Mythflair](https://github.com/Mythflair)
 - **电子邮箱**：[mythflair@hotmail.com](mailto:mythflair@hotmail.com)
 
-如果你也曾经访问过紫塞明珠网，或者对技术、承德、互联网往事和生活中的小问题感兴趣，欢迎留言交流。
+如果你也曾经访问过紫塞明珠网，或者对技术、承德、互联网往事和生活中的小问题感兴趣，欢迎邮件交流。
 
 ---
 
