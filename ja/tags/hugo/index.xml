@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 紫塞 ZISAI</title>
+    <link>https://zisai.com/ja/tags/hugo/</link>
+    <description>Recent content in Hugo on 紫塞 ZISAI</description>
+    <image>
+      <title>紫塞 ZISAI</title>
+      <url>https://zisai.com/images/zisai-share-q88.jpg</url>
+      <link>https://zisai.com/images/zisai-share-q88.jpg</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 04 Oct 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/ja/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>紫塞28年目に思うこと——技術は変わっても、習慣は残る</title>
+      <link>https://zisai.com/ja/posts/national-day-zisai-rebuild/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/posts/national-day-zisai-rebuild/</guid>
+      <description>国慶節の休みに、紫塞をもう一度作り直しました。仕事には責任があり、紫塞には自分の好奇心がある。技術も見た目も細部も、いつしか一つの作品の一部になっていました。</description>
+    </item>
+  </channel>
+</rss>

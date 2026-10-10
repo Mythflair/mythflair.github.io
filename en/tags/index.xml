@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on ZISAI</title>
+    <link>https://zisai.com/en/tags/</link>
+    <description>Recent content in Tags on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/zisai-share-q88.jpg</url>
+      <link>https://zisai.com/images/zisai-share-q88.jpg</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 06 Oct 2026 20:23:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Car Wash</title>
+      <link>https://zisai.com/en/tags/car-wash/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/car-wash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kuanguang Supermarket</title>
+      <link>https://zisai.com/en/tags/kuanguang-supermarket/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/kuanguang-supermarket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Membership</title>
+      <link>https://zisai.com/en/tags/membership/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/membership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retail</title>
+      <link>https://zisai.com/en/tags/retail/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/retail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retail Notes</title>
+      <link>https://zisai.com/en/tags/retail-notes/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/retail-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://zisai.com/en/tags/hugo/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://zisai.com/en/tags/technology/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Websites</title>
+      <link>https://zisai.com/en/tags/websites/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/websites/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ZISAI</title>
+      <link>https://zisai.com/en/tags/zisai/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/tags/zisai/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

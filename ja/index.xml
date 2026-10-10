@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>紫塞 ZISAI</title>
+    <link>https://zisai.com/ja/</link>
+    <description>Recent content on 紫塞 ZISAI</description>
+    <image>
+      <title>紫塞 ZISAI</title>
+      <url>https://zisai.com/images/zisai-share-q88.jpg</url>
+      <link>https://zisai.com/images/zisai-share-q88.jpg</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 06 Oct 2026 20:23:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1回約3元の洗車——スーパーの会員特典を別の角度から考える</title>
+      <link>https://zisai.com/ja/posts/supermarket-membership-car-wash/</link>
+      <pubDate>Tue, 06 Oct 2026 20:23:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/posts/supermarket-membership-car-wash/</guid>
+      <description>スーパーの会員向け洗車サービスをきっかけに、単体では採算が合わなくても、小売全体では意味を持つサービスについて考えました。</description>
+    </item>
+    <item>
+      <title>紫塞28年目に思うこと——技術は変わっても、習慣は残る</title>
+      <link>https://zisai.com/ja/posts/national-day-zisai-rebuild/</link>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/posts/national-day-zisai-rebuild/</guid>
+      <description>国慶節の休みに、紫塞をもう一度作り直しました。仕事には責任があり、紫塞には自分の好奇心がある。技術も見た目も細部も、いつしか一つの作品の一部になっていました。</description>
+    </item>
+    <item>
+      <title>沈楠について</title>
+      <link>https://zisai.com/ja/about/</link>
+      <pubDate>Sun, 14 Apr 2024 13:06:25 +0800</pubDate>
+      <guid>https://zisai.com/ja/about/</guid>
+      <description>紫塞網の創設者、沈楠のプロフィール。承徳寛広控股集団の副社長・CIO。桜美林大学大学院で情報学修士号を取得し、通信・インターネット・小売業のデジタル化に携わっています。</description>
+    </item>
+  </channel>
+</rss>

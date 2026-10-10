@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活观察 on 紫塞</title>
+    <link>https://zisai.com/tags/%E7%94%9F%E6%B4%BB%E8%A7%82%E5%AF%9F/</link>
+    <description>Recent content in 生活观察 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/zisai-share-q88.jpg</url>
+      <link>https://zisai.com/images/zisai-share-q88.jpg</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 25 Sep 2026 17:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E7%94%9F%E6%B4%BB%E8%A7%82%E5%AF%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>护栏旁的“呼呼声”，原来不只是风声</title>
+      <link>https://zisai.com/posts/why-cars-make-rhythmic-noise-near-railings/</link>
+      <pubDate>Fri, 25 Sep 2026 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/why-cars-make-rhythmic-noise-near-railings/</guid>
+      <description>开车经过护栏时，为什么会听到有节奏的“呼呼声”？从一次日常疑问出发，了解声音反射与散射背后的物理趣味。</description>
+    </item>
+  </channel>
+</rss>
