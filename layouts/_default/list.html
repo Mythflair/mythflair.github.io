@@ -41,8 +41,12 @@
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
+  {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true }}
+{{- else if and (eq .Kind "section") (eq .Section "legacy") }}
+  {{- $legacyPages := where site.RegularPages "Params.legacy" true }}
+  {{- $legacyPages = where $legacyPages "Lang" .Lang }}
+  {{- $pages = union $pages $legacyPages }}
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
