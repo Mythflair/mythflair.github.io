@@ -10,6 +10,8 @@ tags:
   - "城市观察"
   - "商业随笔"
   - "宽广集团"
+categories:
+  - "零售小事"
 cover:
   image: "/images/persimmon-market/01.webp"
   alt: "甜柿集夜市"
