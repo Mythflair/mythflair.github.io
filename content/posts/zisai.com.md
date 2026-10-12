@@ -39,9 +39,9 @@ hiddenInHomeList: true
 
 ### 1998年：早期页面
 
-![紫塞早期首页](/images/zisai_images/1714017068643-cae479af-702e-401c-a02a-89699971d4e2.png)
+![紫塞早期首页](/images/zisai_images/1714017068643-cae479af-702e-401c-a02a-89699971d4e2.jpg)
 
-![紫塞早期论坛页面](/images/zisai_images/1714017170059-1ecfd2bb-028a-42a4-b1e6-5a287527fd23.png)
+![紫塞早期论坛页面](/images/zisai_images/1714017170059-1ecfd2bb-028a-42a4-b1e6-5a287527fd23.jpg)
 
 早期网站的设计十分简单，但信息发布与互动交流已经成为重要内容。
 
@@ -49,9 +49,9 @@ hiddenInHomeList: true
 
 ### 1999年：网站内容与用户功能
 
-![紫塞历史首页](/images/zisai_images/1714017242292-d5b1196b-5ca2-4529-9092-7a1f37b6d9e6.png)
+![紫塞历史首页](/images/zisai_images/1714017242292-d5b1196b-5ca2-4529-9092-7a1f37b6d9e6.jpg)
 
-![用户注册页面](/images/zisai_images/1714017408159-d83ac9ad-8e23-44d2-86e7-3506218d7142.png)
+![用户注册页面](/images/zisai_images/1714017408159-d83ac9ad-8e23-44d2-86e7-3506218d7142.jpg)
 
 随着互联网用户逐渐增加，网站的导航、信息分类与用户管理功能也不断发展。
 
@@ -69,9 +69,9 @@ hiddenInHomeList: true
 
 ### 2000年：个人主页与网站服务
 
-![2000年历史页面](/images/zisai_images/1714017468421-f0a28e3c-4fa4-4bec-b440-df8723c2ccfc.png)
+![2000年历史页面](/images/zisai_images/1714017468421-f0a28e3c-4fa4-4bec-b440-df8723c2ccfc.jpg)
 
-![个人主页页面](/images/zisai_images/1714017677080-2adfd228-a420-4270-b670-9c1286fdeb87.png)
+![个人主页页面](/images/zisai_images/1714017677080-2adfd228-a420-4270-b670-9c1286fdeb87.jpg)
 
 个人主页曾是互联网用户展示自我的重要方式。
 
@@ -79,9 +79,9 @@ hiddenInHomeList: true
 
 ### 2001年：论坛与社区交流
 
-![2001年历史页面](/images/zisai_images/1714017695272-6d3be757-b700-4be7-9cd2-3ff0b76cb8c8.png)
+![2001年历史页面](/images/zisai_images/1714017695272-6d3be757-b700-4be7-9cd2-3ff0b76cb8c8.jpg)
 
-![论坛帖子页面](/images/zisai_images/1714018108217-171a2b3d-715c-4740-9d56-9d2118309d7e.png)
+![论坛帖子页面](/images/zisai_images/1714018108217-171a2b3d-715c-4740-9d56-9d2118309d7e.jpg)
 
 论坛曾是地方互联网最具活力的空间之一。
 
@@ -89,9 +89,9 @@ hiddenInHomeList: true
 
 ### 2002年：在线交流
 
-![2002年历史页面](/images/zisai_images/1714018145785-60b6f70f-90c4-413b-987c-02ee94e97606.png)
+![2002年历史页面](/images/zisai_images/1714018145785-60b6f70f-90c4-413b-987c-02ee94e97606.jpg)
 
-![聊天室页面](/images/zisai_images/1714018308756-a81577cb-b401-40bb-af19-15e5fb455c9a.png)
+![聊天室页面](/images/zisai_images/1714018308756-a81577cb-b401-40bb-af19-15e5fb455c9a.jpg)
 
 聊天室与即时交流功能，代表着早期互联网对实时互动的探索。
 
@@ -99,9 +99,9 @@ hiddenInHomeList: true
 
 ### 2003年：图片与多媒体内容
 
-![2003年历史页面](/images/zisai_images/1714018291173-3047b78a-7fca-47c3-b044-80f17e312401.png)
+![2003年历史页面](/images/zisai_images/1714018291173-3047b78a-7fca-47c3-b044-80f17e312401.jpg)
 
-![图片展示页面](/images/zisai_images/1714018414761-9a033d05-0b1e-42ed-ad98-50edabdd4a07.png)
+![图片展示页面](/images/zisai_images/1714018414761-9a033d05-0b1e-42ed-ad98-50edabdd4a07.jpg)
 
 随着网络接入条件改善，网页开始承载更加丰富的图片和多媒体内容。
 
@@ -109,9 +109,9 @@ hiddenInHomeList: true
 
 ### 2004年：网站运营与商业探索
 
-![2004年历史页面](/images/zisai_images/1714018449978-1b489ec5-2753-43ac-85fa-8315f4fd9e2e.png)
+![2004年历史页面](/images/zisai_images/1714018449978-1b489ec5-2753-43ac-85fa-8315f4fd9e2e.jpg)
 
-![网站广告页面](/images/zisai_images/1714018490850-1d7bca6b-41c4-41aa-b9b1-e7a3a3bd0933.png)
+![网站广告页面](/images/zisai_images/1714018490850-1d7bca6b-41c4-41aa-b9b1-e7a3a3bd0933.jpg)
 
 这一时期，地方网站逐渐探索广告合作、信息服务等运营方式。
 
@@ -119,9 +119,9 @@ hiddenInHomeList: true
 
 ### 2005年：视频与多媒体尝试
 
-![2005年历史页面](/images/zisai_images/1714018560710-a5d02f2e-c992-4220-a187-e997d76fbc25.png)
+![2005年历史页面](/images/zisai_images/1714018560710-a5d02f2e-c992-4220-a187-e997d76fbc25.jpg)
 
-![视频播放页面](/images/zisai_images/1714018599980-3b557496-4ea8-4855-b9e0-e77bbf68816f.png)
+![视频播放页面](/images/zisai_images/1714018599980-3b557496-4ea8-4855-b9e0-e77bbf68816f.jpg)
 
 视频内容开始进入互联网用户的视野。
 
@@ -129,9 +129,9 @@ hiddenInHomeList: true
 
 ### 2006年：Web 2.0时代
 
-![2006年历史页面](/images/zisai_images/1714018666451-2bcae070-b8ee-4cb2-b381-199bd9f765a4.png)
+![2006年历史页面](/images/zisai_images/1714018666451-2bcae070-b8ee-4cb2-b381-199bd9f765a4.jpg)
 
-![用户动态页面](/images/zisai_images/1714018795318-a1e06b9c-e9a7-4fdc-a75f-aa426874afb4.png)
+![用户动态页面](/images/zisai_images/1714018795318-a1e06b9c-e9a7-4fdc-a75f-aa426874afb4.jpg)
 
 随着Web 2.0理念兴起，用户参与、内容分享和互动体验成为网站发展的重要方向。
 
@@ -139,9 +139,9 @@ hiddenInHomeList: true
 
 ### 2007年：兴趣与社区
 
-![2007年历史页面](/images/zisai_images/1714019254578-7e7e7cb5-99a7-41e6-b10c-2662431389c0.png)
+![2007年历史页面](/images/zisai_images/1714019254578-7e7e7cb5-99a7-41e6-b10c-2662431389c0.jpg)
 
-![兴趣小组页面](/images/zisai_images/1714019526248-6945b797-58a2-404b-b0e4-5affd74befdc.png)
+![兴趣小组页面](/images/zisai_images/1714019526248-6945b797-58a2-404b-b0e4-5affd74befdc.jpg)
 
 以共同兴趣聚集用户，是早期网络社区的重要特点。
 
@@ -157,25 +157,25 @@ hiddenInHomeList: true
 
 ### 2008年：移动访问的探索
 
-![2008年历史页面](/images/zisai_images/1714019674750-fea23038-56fb-499f-b701-366b1c272264.png)
+![2008年历史页面](/images/zisai_images/1714019674750-fea23038-56fb-499f-b701-366b1c272264.jpg)
 
-![移动页面](/images/zisai_images/1714020506337-30d022e7-ea56-47ac-b314-2b14ab3e5706.png)
+![移动页面](/images/zisai_images/1714020506337-30d022e7-ea56-47ac-b314-2b14ab3e5706.jpg)
 
 移动设备的发展，推动网站重新考虑屏幕尺寸、页面结构和访问效率。
 
 ### 2009年：内容组织与推荐
 
-![2009年历史页面](/images/zisai_images/1714020628745-0589cb51-08f8-4bfa-aeac-12df176e888a.png)
+![2009年历史页面](/images/zisai_images/1714020628745-0589cb51-08f8-4bfa-aeac-12df176e888a.jpg)
 
-![内容推荐页面](/images/zisai_images/1714021213099-f4450e1e-04a3-43ed-9781-ba9a22568dd5.png)
+![内容推荐页面](/images/zisai_images/1714021213099-f4450e1e-04a3-43ed-9781-ba9a22568dd5.jpg)
 
 随着互联网信息量不断增加，如何帮助用户找到感兴趣的内容，成为网站设计的重要课题。
 
 ### 2010年：传统社区面临变化
 
-![2010年历史页面](/images/zisai_images/1714021260925-8143e354-773e-4364-8ca6-28b97ed52d4c.png)
+![2010年历史页面](/images/zisai_images/1714021260925-8143e354-773e-4364-8ca6-28b97ed52d4c.jpg)
 
-![论坛投票页面](/images/zisai_images/1714021456675-92ae3a37-1a86-4936-b824-2dbf6e088372.png)
+![论坛投票页面](/images/zisai_images/1714021456675-92ae3a37-1a86-4936-b824-2dbf6e088372.jpg)
 
 社交网络的发展，逐渐改变了传统论坛的用户习惯。
 
@@ -183,33 +183,33 @@ hiddenInHomeList: true
 
 ### 2011年：界面与用户体验
 
-![2011年历史页面](/images/zisai_images/1714021756344-d57c344c-fb64-40e2-809a-794532f5e792.png)
+![2011年历史页面](/images/zisai_images/1714021756344-d57c344c-fb64-40e2-809a-794532f5e792.jpg)
 
-![用户中心页面](/images/zisai_images/1714021767294-30a6580a-6203-4ff7-b20f-0cd568da2b73.png)
+![用户中心页面](/images/zisai_images/1714021767294-30a6580a-6203-4ff7-b20f-0cd568da2b73.jpg)
 
 网页技术持续发展，页面布局、用户中心和交互设计逐渐成为网站建设的重要组成部分。
 
 ### 2012年：跨设备访问
 
-![2012年历史页面](/images/zisai_images/1714022415850-3b6d73bf-0183-4ec7-b1e3-aa332ac869ac.png)
+![2012年历史页面](/images/zisai_images/1714022415850-3b6d73bf-0183-4ec7-b1e3-aa332ac869ac.jpg)
 
-![网站搜索页面](/images/zisai_images/1714022487941-eb2b4d59-446e-4910-8353-ac75a0460f0a.png)
+![网站搜索页面](/images/zisai_images/1714022487941-eb2b4d59-446e-4910-8353-ac75a0460f0a.jpg)
 
 随着PC与移动设备并行使用，响应式设计和网站搜索体验受到更多关注。
 
 ### 2013年：社区功能与信息管理
 
-![2013年历史页面](/images/zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.png)
+![2013年历史页面](/images/zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.jpg)
 
-![通知中心页面](/images/zisai_images/1714022673715-971d2925-dd54-43f7-8ee1-966c92e83e82.png)
+![通知中心页面](/images/zisai_images/1714022673715-971d2925-dd54-43f7-8ee1-966c92e83e82.jpg)
 
 这一阶段，传统社区网站仍在探索更加便捷的信息组织和用户互动方式。
 
 ### 2014年：回望早期互联网
 
-![2014年历史页面](/images/zisai_images/1714022718481-96496e72-4447-4d49-a8e2-00f215334090.png)
+![2014年历史页面](/images/zisai_images/1714022718481-96496e72-4447-4d49-a8e2-00f215334090.jpg)
 
-![怀旧风格页面](/images/zisai_images/1714022766372-c1e70d8a-f944-444b-9d2a-413db8590b49.png)
+![怀旧风格页面](/images/zisai_images/1714022766372-c1e70d8a-f944-444b-9d2a-413db8590b49.jpg)
 
 当互联网逐渐进入移动时代，早期网页的设计风格也开始成为一种独特的数字记忆。
 
@@ -223,15 +223,15 @@ hiddenInHomeList: true
 
 ### 2015年：个人博客阶段
 
-![博客首页](/images/zisai_images/1714023092388-6b6d359b-8a3a-4dd5-8ab3-8e20db200ced.png)
+![博客首页](/images/zisai_images/1714023092388-6b6d359b-8a3a-4dd5-8ab3-8e20db200ced.jpg)
 
-![博客文章页面](/images/zisai_images/1714023138036-3bb9eb5a-03be-474d-b924-7e2d3c4f7c77.png)
+![博客文章页面](/images/zisai_images/1714023138036-3bb9eb5a-03be-474d-b924-7e2d3c4f7c77.jpg)
 
-![文章归档页面](/images/zisai_images/1714023193955-5c638d90-1144-494b-b281-284f4727a3b7.png)
+![文章归档页面](/images/zisai_images/1714023193955-5c638d90-1144-494b-b281-284f4727a3b7.jpg)
 
-![关于页面](/images/zisai_images/1714023510703-8f9176a2-402c-43d9-a287-15ff3641c93e.png)
+![关于页面](/images/zisai_images/1714023510703-8f9176a2-402c-43d9-a287-15ff3641c93e.jpg)
 
-![联系页面](/images/zisai_images/1714023601670-b973d685-1328-461b-bafc-163a2cd306ca.png)
+![联系页面](/images/zisai_images/1714023601670-b973d685-1328-461b-bafc-163a2cd306ca.jpg)
 
 从门户网站到个人博客，改变的是内容形式和服务对象。
 

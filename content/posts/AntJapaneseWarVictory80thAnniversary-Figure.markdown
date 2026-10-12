@@ -12,8 +12,8 @@ cover:
 
 这个人工智能生成的手办模型设计精美，细节如军装、旗帜和站姿都展现了阅兵的庄严感，如果是真的，绝对爱不释手，是不是很有收藏价值？
 
-![](/images/3army.png)
-![](/images/landforce.png)
-![](/images/seaforce.png)
-![](/images/airforce.png)
-![](/images/womenforce.png)
+![](/images/3army.jpg)
+![](/images/landforce.jpg)
+![](/images/seaforce.jpg)
+![](/images/airforce.jpg)
+![](/images/womenforce.jpg)

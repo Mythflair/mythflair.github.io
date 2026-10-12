@@ -7,4 +7,4 @@ title: "🙈 曲终人不见，江上数峰青"
     #params:
     #  icon: "fas fa-book"
 ---
-![youugen](/images/yuugen.png)
+![youugen](/images/yuugen.jpg)

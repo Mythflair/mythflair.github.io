@@ -40,7 +40,7 @@ cover:
 
 - 台式机（AX210）（后微调了频率、功率等网卡细节设置）
 Speedtest：1100+ Mbps / 240+ Mbps
-![](/images/814eb007e2b034baa7763d180e20a507.png)
+![](/images/814eb007e2b034baa7763d180e20a507.jpg)
 
 - MacBook Pro M4 Max
 全球网测：1400+ Mbps
@@ -48,7 +48,7 @@ Speedtest：1100+ Mbps / 240+ Mbps
 
 - iPhone 13
 全球网测：700+ Mbps
-![](/images/963bff3c-d5cf-4617-a350-4bc8f834d4ab.png)
+![](/images/963bff3c-d5cf-4617-a350-4bc8f834d4ab.jpg)
 
 - 华为手机
 全球网测：1600+ Mbps

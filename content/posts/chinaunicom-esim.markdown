@@ -11,7 +11,7 @@ cover:
 
 重大的行业进展！中国联通获得工信部颁发的卫星移动通信业务经营许可证，意味着联通用户未来将能使用卫星通信服务。这对于偏远地区或紧急情况下的通信覆盖是个大利好。卫星通信能突破传统地面网络的限制，提供更广泛的信号覆盖，特别是在自然灾害或偏远地区，作用尤为显著。
 
-![卫星图像](/images/Gemini_Generated_Image_x7np5cx7np5cx7np.png)
+![卫星图像](/images/Gemini_Generated_Image_x7np5cx7np5cx7np.jpg)
 
 另外，中国联通率先支持eSIM也是一大亮点。eSIM技术虽然只是省去了物理SIM卡的空间，但其影响深远。它优化了手机内部设计，让有限的空间可以容纳更多功能模块，同时提升了设备的防水性能。随着苹果全系支持eSIM，其他手机品牌也会受到推动，加速eSIM的普及。这对用户来说，意味着更便捷的网络切换和更高效的设备设计。
 
@@ -19,5 +19,5 @@ cover:
 
 总的来说，联通在卫星通信和eSIM领域的双重突破，将进一步推动中国通信行业的创新与发展。
 
-![esim图像](/images/Gemini_Generated_Image_30d86k30d86k30d8.png)
+![esim图像](/images/Gemini_Generated_Image_30d86k30d86k30d8.jpg)
 

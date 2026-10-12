@@ -16,7 +16,7 @@ cover:
 
 ---
 
-![](/images/Gemini_Generated_Image_6eftqr6eftqr6eft.png)
+![](/images/Gemini_Generated_Image_6eftqr6eftqr6eft.jpg)
 
 ## 水调歌头·明月几时有  
 **[宋] 苏轼**
