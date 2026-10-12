@@ -518,9 +518,10 @@ cover:
 
 ### 个人经历与延伸阅读
 
-- [从邮电局到知识型员工：职业生涯回忆](https://zisai.com/posts/my-career-journey/)
-- [给年轻人多一点机会](https://zisai.com/posts/give_young_people_a_chance/)
-- [2008年杭州培训回忆](https://zisai.com/posts/recollections-of-hangzhou-training-2008/)
+- [一张尘封的字条：从邮电局到知识型员工：职业生涯回忆](https://zisai.com/posts/my-career-journey/)
+- [给年轻人多一点机会：一个运营商与网易合作的经典往事](https://zisai.com/posts/give_young_people_a_chance/)
+- [2008年杭州华为培训回忆](https://zisai.com/posts/recollections-of-hangzhou-training-2008/)
+- [岁月诗篇：从云端到沃土，厦门IBM智慧城市会议回忆](https://zisai.com/posts/reflections-through-the-years/)
 - [当世界连上网的时候：一个“工程师”的三十年](https://zisai.com//posts/the-network-beneath-the-world/)
 - [石基集团年度客户大会感想](https://zisai.com/posts/shiji-conference-reflections/)
 - 
