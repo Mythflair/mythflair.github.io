@@ -6,5 +6,7 @@ title: "🙈 曲终人不见，江上数峰青"
     # weight: 40
     #params:
     #  icon: "fas fa-book"
+cover:
+    image: "/images/yuugen.jpg"
+    alt: "youugen"
 ---
-![youugen](/images/yuugen.jpg)
