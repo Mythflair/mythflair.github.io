@@ -516,6 +516,14 @@ cover:
 - [百度百科：沈楠](https://baike.baidu.com/item/%E6%B2%88%E6%A5%A0/49988317)
 - [GitHub：Mythflair](https://github.com/Mythflair)
 
+### 个人经历与延伸阅读
+
+- [从邮电局到知识型员工：职业生涯回忆](https://zisai.com/posts/my-career-journey/)
+- [给年轻人多一点机会](https://zisai.com/posts/give_young_people_a_chance/)
+- [2008年杭州培训回忆](https://zisai.com/posts/recollections-of-hangzhou-training-2008/)
+- [当世界连上网的时候：一个“工程师”的三十年](https://zisai.com//posts/the-network-beneath-the-world/)
+- [石基集团年度客户大会感想](https://zisai.com/posts/shiji-conference-reflections/)
+- 
 > 2013 年以前的部分荣誉与经历主要保存在纸质证书及历史档案中，相关资料正在陆续整理。
 
 ---
