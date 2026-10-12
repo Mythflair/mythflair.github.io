@@ -13,7 +13,7 @@ tags:
 categories:
   - 生活
 cover:
-    image: "/images/ScreenShot_2026-09-29_163241_526.png"
+    image: "/images/ScreenShot_2026-09-29_163241_526.webp"
     alt: "避暑山庄里的大象滑梯"
 ---
 

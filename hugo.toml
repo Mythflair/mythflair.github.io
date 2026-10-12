@@ -75,7 +75,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
   env = "production"
 
-  description = "始于1998年紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
+  description = "这是始于1998年的紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
 
   keywords = [
     "沈楠",
@@ -99,7 +99,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   author = "沈楠"
   authorName = "沈楠"
   authorEmail = "mythflair@hotmail.com"
-  authorImage = "/images/shennan.png"
+  authorImage = "/images/shennan-1024-q82.jpg"
   authorImageTitle = "SHENNAN 沈楠"
   authorImageWidth = 120
   authorImageHeight = 120
@@ -198,7 +198,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   favicon16x16 = "/favicon-16x16.png"
   favicon32x32 = "/favicon-32x32.png"
 
-  apple_touch_icon = "/apple-touch-icon.png"
+  apple_touch_icon = "/icons/apple-touch-icon.png"
 
   theme_color = "#7b167c"
 
