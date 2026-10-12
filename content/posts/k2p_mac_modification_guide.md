@@ -12,6 +12,9 @@ categories:
   - "网络技术"
   - "极客折腾"
 toc: true
+cover:
+    image: "/images/phicomm-k2p.webp"
+    alt: "斐讯K2P设备"
 ---
 
 ## 🏛️ 一、核心破局思路：基因改造法

@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/ChatGPT Image 14_54_21.png"
+  image: "/images/ChatGPT Image 14_54_21.jpg"
   alt: "How Organizations Survive a Technological Generation Shift"
 ---
 
