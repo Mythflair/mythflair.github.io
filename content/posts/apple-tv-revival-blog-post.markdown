@@ -6,7 +6,7 @@ tags: ["Apple", "Tech", "Product Design", "Apple TV"]
 categories: ["Tech Stories"]
 draft: false
 cover:
-    image: "/images/2025-09-19_172440_077.png"
+    image: "/images/2025-09-19_172440_077.jpg"
     alt: "Apple TV"
 ---
 

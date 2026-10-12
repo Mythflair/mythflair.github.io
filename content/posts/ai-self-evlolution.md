@@ -5,7 +5,7 @@ description: "讨论人工智能是否已经在自我迭代、为什么现在看
 tags: ["人工智能", "技术趋势", "安全", "未来"]
 draft: false
 cover:
-  image: "/images/2cc0f599-b624-4163-9b57-6e071efbc0b8.png"
+  image: "/images/2cc0f599-b624-4163-9b57-6e071efbc0b8.jpg"
   alt: "人工智能"
 ---
 

@@ -6,7 +6,7 @@ tags: ["品牌营销", "数据分析", "RFM", "商业模式", "用户运营", "�
 categories: ["商业观察", "品牌策略"]
 draft: false
 cover: 
-  image: "/images/2025-10-01_163200_786.png"
+  image: "/images/2025-10-01_163200_786.jpg"
   alt: "美的空气净化器"
 ---
 

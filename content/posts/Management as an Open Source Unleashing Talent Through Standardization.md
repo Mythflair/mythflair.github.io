@@ -18,7 +18,7 @@ tags:
   - "组织管理"
 toc: true
 cover:
-    image: "/images/70cd453e-c96c-4f12-8d0e-10cfe5da1d6f.png"
+    image: "/images/70cd453e-c96c-4f12-8d0e-10cfe5da1d6f.jpg"
     alt: "顶级的企业管理，本质上是一场开源"
 ---
 

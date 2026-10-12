@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-05-02_204856_106.png"
+  image: "/images/2026-05-02_204856_106.jpg"
   alt: "Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI"
 ---
 

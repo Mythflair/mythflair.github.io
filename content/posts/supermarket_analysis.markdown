@@ -5,7 +5,7 @@ draft: false
 tags: ["统计分析", "消费者行为", "超市运营", "数据分析"]
 categories: ["数据分析教程"]
 cover:
-    image: "/images/v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.png" 
+    image: "/images/v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.jpg" 
     alt: "如何通过统计分析洞察超市消费者行为：以宽广超市为例"
 ---
 

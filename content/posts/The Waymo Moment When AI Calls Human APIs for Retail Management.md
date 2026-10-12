@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-06_113446_958.png"
+  image: "/images/2026-03-06_113446_958.jpg"
   alt: "Whymo"
 ---
 

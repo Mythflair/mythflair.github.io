@@ -21,7 +21,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/hehechengde-logo.png"
+  image: "/images/history/hehechengde-logo.jpg"
   alt: "紫塞明珠网等省市级重点网站"
 ---
 

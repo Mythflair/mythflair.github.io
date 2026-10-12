@@ -5,7 +5,7 @@ draft: false
 tags: ["哲学", "自我", "自由", "人生"]
 categories: ["随笔"]
 cover:
-    image: "/images/2025-06-30_091750_138.png" 
+    image: "/images/2025-06-30_091750_138.jpg" 
     alt: "挣脱枷锁：寻找灵魂的自由"
 ---
 

@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-01-28_122509_656.png"
+  image: "/images/2026-01-28_122509_656.jpg"
   alt: "给年轻人多一点机会：一个运营商与网易合作的经典往事"
 ---
 

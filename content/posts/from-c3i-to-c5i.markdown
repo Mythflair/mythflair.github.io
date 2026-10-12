@@ -6,7 +6,7 @@ draft: false
 tags: ["C3I", "C5I", "系统化思维", "军事技术", "企业管理", "数字化转型"]
 categories: ["技术随笔", "职业感悟"]
 cover: 
-    image: "/images/2025-08-16_170201_830.png"
+    image: "/images/2025-08-16_170201_830.jpg"
     alt: "5G通信"
 ---
 

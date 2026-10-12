@@ -6,7 +6,7 @@ tags: ["AI", "建筑", "建模", "未来工作"]
 categories: ["科技", "随笔"]
 description: "只需几张照片，AI 就能生成逼真的建筑沙盘模型。它到底会不会让建模师失业？🤔"
 cover:
-    image: "/images/1756718336583-f4c15f47-51b2-48b9-acd7-6862113b583c.png"
+    image: "/images/1756718336583-f4c15f47-51b2-48b9-acd7-6862113b583c.jpg"
     alt: "AI生成的模型"
 ---
 # AI 生成建筑模型的震撼体验 🏙️

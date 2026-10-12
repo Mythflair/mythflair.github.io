@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-05-11_173245_279.png"
+  image: "/images/2026-05-11_173245_279.jpg"
   alt: "At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw the Greatest Confidence in Education"
 ---
 

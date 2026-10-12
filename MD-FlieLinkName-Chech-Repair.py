@@ -1,73 +1,63 @@
 import os
 import re
 
-CONTENT_DIR = "./content"
-STATIC_IMAGES_DIR = "./static/images"
-
-# 支持的文档格式
+CONTENT_DIR = r"./content"
+STATIC_IMAGES_DIR = r"./static/images"
 DOC_EXTS = {".md", ".markdown"}
 
-
-def scan_existing_images(images_dir):
+def scan_static_images(images_dir):
     """
-    扫描 static/images 目录，建立映射：
-    - 按纯文件名映射: basename.lower() -> 真实后缀集合 (例如 'banner': {'.jpg'})
-    - 按相对路径映射: rel_path_without_ext.lower() -> 真实后缀 (用于解决不同子目录同名冲突)
+    扫描 static/images 目录建立两套映射表：
+    1. stem_map: 纯文件名主干(小写) -> 包含的后缀集合，如 {'20250726104830': {'.jpg'}}
+    2. rel_map: 规范化相对子路径(小写) -> 实际后缀，如 {'europe/20250726104830': '.jpg'}
     """
     stem_map = {}
     rel_map = {}
 
     for root, _, files in os.walk(images_dir):
         for f in files:
-            name, ext = os.path.splitext(f)
+            stem, ext = os.path.splitext(f)
             ext_lower = ext.lower()
             if ext_lower not in {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}:
                 continue
 
-            stem_lower = name.lower()
+            stem_lower = stem.lower()
             stem_map.setdefault(stem_lower, set()).add(ext_lower)
 
+            # 计算相对 static/images 的归一化路径
             rel_file = os.path.relpath(os.path.join(root, f), images_dir)
-            rel_no_ext = os.path.splitext(rel_file)[0].replace("\\", "/").lower()
-            rel_map[rel_no_ext] = ext_lower
+            rel_stem = os.path.splitext(rel_file)[0].replace("\\", "/").lower()
+            rel_map[rel_stem] = ext_lower
 
     return stem_map, rel_map
 
-
-def get_corrected_ext(path_str, stem_map, rel_map):
+def should_fix_to_jpg(full_match_path, stem_map, rel_map):
     """
-    判断该路径如果原先是 .png，现在是否应该改成真实存在的扩展名（如 .jpg）。
-    如果不需要改动或找不到明确对应，返回 None。
+    判断匹配到的 png 路径在 static 目录中是否实际为 jpg
     """
-    # 去除 query 参数和 hash（如 ?v=123 或 #center）
-    clean_path = path_str.split("?")[0].split("#")[0]
+    # 清洗：去除 URL 参数/锚点，双斜杠合并为单斜杠
+    clean = full_match_path.split("?")[0].split("#")[0]
+    clean = re.sub(r'/+', '/', clean)
 
-    # 提取纯文件名与后缀
-    base_file = os.path.basename(clean_path)
-    stem, ext = os.path.splitext(base_file)
-    ext_lower = ext.lower()
-
-    # 只关注原链接指向 .png 的情况
-    if ext_lower != ".png":
-        return None
-
+    filename = os.path.basename(clean)
+    stem, _ = os.path.splitext(filename)
     stem_lower = stem.lower()
 
-    # 1. 优先尝试从路径中匹配 static/images 后面的相对子路径
-    norm_path = clean_path.replace("\\", "/").lower()
+    # 1. 尝试通过相对子目录路径精准比对（如 /images/Europe/xxx.png）
+    norm_path = clean.replace("\\", "/").lower()
     for prefix in ["/images/", "images/", "/static/images/", "static/images/"]:
         if prefix in norm_path:
             rel_part = norm_path.split(prefix, 1)[1]
-            rel_no_ext = os.path.splitext(rel_part)[0]
-            if rel_no_ext in rel_map:
-                actual_ext = rel_map[rel_no_ext]
-                if actual_ext != ext_lower:
+            rel_stem = os.path.splitext(rel_part)[0]
+            if rel_stem in rel_map:
+                actual_ext = rel_map[rel_stem]
+                if actual_ext in {".jpg", ".jpeg"}:
                     return actual_ext
 
-    # 2. 回退：通过纯文件名比对
+    # 2. 兜底匹配：纯文件名主干比对
     if stem_lower in stem_map:
         exts = stem_map[stem_lower]
-        # 如果对应的文件已经没有 .png 了，并且存在 .jpg / .jpeg
+        # 如果物理磁盘上已经没有 .png，且存在 .jpg 或 .jpeg
         if ".png" not in exts:
             if ".jpg" in exts:
                 return ".jpg"
@@ -76,14 +66,16 @@ def get_corrected_ext(path_str, stem_map, rel_map):
 
     return None
 
+def main():
+    if not os.path.exists(STATIC_IMAGES_DIR) or not os.path.exists(CONTENT_DIR):
+        print("错误: 目标目录不存在，请检查路径。")
+        return
 
-def fix_markdown_links():
-    stem_map, rel_map = scan_existing_images(STATIC_IMAGES_DIR)
+    stem_map, rel_map = scan_static_images(STATIC_IMAGES_DIR)
 
-    # 正则匹配 1: Markdown 语法 ![alt](url)
-    md_img_pattern = re.compile(r'(!\[.*?\]\()([^\s\)]+)(.*?\))')
-    # 正则匹配 2: HTML <img> 标签 src="url" 或 src='url'
-    html_img_pattern = re.compile(r'(<img\b[^>]*?\bsrc=["\'])([^"\'>]+)(["\'])', re.IGNORECASE)
+    # 匹配各类场景下以 .png 结尾的图片路径/文件名
+    # 兼容: image: "...", ![](...), <img src="...">, ![[...]]
+    pattern = re.compile(r'([^\s"\'\(\)\[\]<>]+\.png)', re.IGNORECASE)
 
     total_files_changed = 0
     total_links_fixed = 0
@@ -99,33 +91,18 @@ def fix_markdown_links():
 
             file_fixed_count = 0
 
-            # 替换 Markdown 图片语法
-            def md_replace(match):
+            def replace_callback(match):
                 nonlocal file_fixed_count
-                prefix, url, suffix = match.groups()
-                new_ext = get_corrected_ext(url, stem_map, rel_map)
+                raw_path = match.group(1)
+                new_ext = should_fix_to_jpg(raw_path, stem_map, rel_map)
                 if new_ext:
-                    # 仅替换扩展名部分，保留前后路径和 query 字符串
-                    updated_url = re.sub(r'\.png(?=($|[?#]))', new_ext, url, flags=re.IGNORECASE)
-                    if updated_url != url:
-                        file_fixed_count += 1
-                        return f"{prefix}{updated_url}{suffix}"
-                return match.group(0)
+                    # 仅把末尾的 .png 换为实际对应的 .jpg / .jpeg
+                    fixed_path = re.sub(r'\.png$', new_ext, raw_path, flags=re.IGNORECASE)
+                    file_fixed_count += 1
+                    return fixed_path
+                return raw_path
 
-            # 替换 HTML img src 语法
-            def html_replace(match):
-                nonlocal file_fixed_count
-                prefix, url, suffix = match.groups()
-                new_ext = get_corrected_ext(url, stem_map, rel_map)
-                if new_ext:
-                    updated_url = re.sub(r'\.png(?=($|[?#]))', new_ext, url, flags=re.IGNORECASE)
-                    if updated_url != url:
-                        file_fixed_count += 1
-                        return f"{prefix}{updated_url}{suffix}"
-                return match.group(0)
-
-            new_content = md_img_pattern.sub(md_replace, content)
-            new_content = html_img_pattern.sub(html_replace, new_content)
+            new_content = pattern.sub(replace_callback, content)
 
             if file_fixed_count > 0:
                 with open(md_path, "w", encoding="utf-8") as file:
@@ -133,11 +110,10 @@ def fix_markdown_links():
                 total_files_changed += 1
                 total_links_fixed += file_fixed_count
                 rel_doc = os.path.relpath(md_path, CONTENT_DIR)
-                print(f"[已修复] {rel_doc} (修正 {file_fixed_count} 处链接)")
+                print(f"[已修复] {rel_doc} -> 修复了 {file_fixed_count} 处链接")
 
-    print("-" * 50)
-    print(f"处理完成！共更新 {total_files_changed} 个文件，修复了 {total_links_fixed} 处图片链接。")
-
+    print("=" * 60)
+    print(f"执行完毕！共修复了 {total_files_changed} 个文件中的 {total_links_fixed} 处图片链接。")
 
 if __name__ == "__main__":
-    fix_markdown_links()
+    main()

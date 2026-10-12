@@ -5,7 +5,7 @@ draft: false
 tags: ["诗歌", "哲学", "育儿"]
 categories: ["文学"]
 cover:
-  image: '/images/shennan15.png'
+  image: '/images/shennan15.jpg'
   alt: '15岁的自己'
 ---
 

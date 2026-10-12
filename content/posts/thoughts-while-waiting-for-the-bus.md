@@ -5,7 +5,7 @@ description: "何必在意来与不来，人生的公交车，总有一辆为你
 tags: ["人生感悟", "公交车", "得与失"]
 draft: false
 cover:
-  image: "/images/2025-10-22_104448_236.png"
+  image: "/images/2025-10-22_104448_236.jpg"
   alt: "公交车"
 ---
 

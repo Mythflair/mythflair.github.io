@@ -6,7 +6,7 @@ draft: false
 tags: [诗歌, 成人礼, 家庭, 中文文学]
 categories: [个人, 庆典]
 cover:
-  image: "/images/2025-07-21_123600_043.png"
+  image: "/images/2025-07-21_123600_043.jpg"
   alt: "贺佳航吾儿十八岁成人礼"
 ---
 ![折扇书法](/images/8728f1d8a0e65ae7e27d8055d02a9d24.jpg)

@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/b44c5c1b57bae229adf31f810ef53f19.png"
+  image: "/images/b44c5c1b57bae229adf31f810ef53f19.jpg"
   alt: "How to Avoid Falling Into the “Self-Justification Trap"
 ---
 

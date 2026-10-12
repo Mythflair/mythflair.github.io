@@ -5,7 +5,7 @@ description: "中秋之夜，明月高悬，举杯问天。苏轼的《水调歌
 tags: ["中秋节", "古诗词", "水调歌头", "苏轼", "节日随笔"]
 categories: ["生活随笔", "诗词感悟"]
 cover:
-  image: "/images/Gemini_Generated_Image_bosyxbbosyxbbosy.png"
+  image: "/images/Gemini_Generated_Image_bosyxbbosyxbbosy.jpg"
   alt: "中秋夜怀古：明月几时有"
 ---
 

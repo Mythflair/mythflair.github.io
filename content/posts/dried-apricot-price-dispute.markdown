@@ -6,7 +6,7 @@ draft: false
 tags: ["超市运营", "价格调整", "消费者权益", "系统优化"]
 categories: ["零售管理"]
 cover:
-  image: "/images/2025-07-31_204307_140.png"
+  image: "/images/2025-07-31_204307_140.jpg"
   alt: "吊干杏"
 ---
 

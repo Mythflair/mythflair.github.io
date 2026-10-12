@@ -6,7 +6,7 @@ categories: ["技术分享"]
 author: "SHENNAN 沈楠"
 draft: false
 cover:
-    image: "/images/Configuration_examples_l2tp_over_ipsec_scheme.png" 
+    image: "/images/Configuration_examples_l2tp_over_ipsec_scheme.jpg" 
     alt: "修复Windows 11下L2TP/IPsec VPN连接失败问题"
 ---
 

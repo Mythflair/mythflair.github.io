@@ -14,7 +14,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-02-05_175628_227.png"
+  image: "/images/2026-02-05_175628_227.jpg"
   alt: "荣誉证书"
 ---
 很多年前，我在整理旧物时翻出一张泛黄的证书。

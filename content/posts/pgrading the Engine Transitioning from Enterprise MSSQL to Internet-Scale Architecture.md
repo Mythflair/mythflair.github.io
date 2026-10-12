@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-02-09_231258_430.png"
+  image: "/images/2026-02-09_231258_430.jpg"
   alt: "MSSQL"
 ---
 

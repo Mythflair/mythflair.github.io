@@ -11,7 +11,7 @@ tags:
   - 思考
   - 管理心得
 cover:
-    image: "/images/ScreenShot_2026-08-27_115919_089.png"
+    image: "/images/ScreenShot_2026-08-27_115919_089.jpg"
     alt: "商业的本质，终究是价值交换，而不是籍贯交换"
 ---
 

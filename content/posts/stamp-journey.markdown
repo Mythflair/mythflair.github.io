@@ -5,7 +5,7 @@ draft: false
 tags: ["集邮", "通信", "文化传承", "人生感悟", "部队"]
 categories: ["生活随笔"]
 cover:
-  image: "images/2025-07-20_141800_175.png"
+  image: "images/2025-07-20_141800_175.jpg"
   alt: "title: 从邮票到互联网：岁月中的缘分之旅"
 ---
 

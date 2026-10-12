@@ -5,7 +5,7 @@ draft: false
 description: "强大的Nano Banana AI，用它来生成各种手办模型。🌟"
 tags: ["AI", "人工智能", "手办"]
 cover:
-  image: "/images/3army.png"
+  image: "/images/3army.jpg"
   alt: "用Nano Banana AI设计阅兵手办"
 ---
 

@@ -5,7 +5,7 @@ description: "这么多年，我一直没有勇气写父亲。不是因为忘记
 tags: ["随笔", "纪念", "沈国辉", "父亲","散文","白描"]
 draft: false
 cover:
-  image: "/images/9a2bad303df9800d1ddd725cf155a541.png"
+  image: "/images/9a2bad303df9800d1ddd725cf155a541.jpg"
   alt: "父亲 沈国辉"
 ---
 

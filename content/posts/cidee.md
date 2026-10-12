@@ -6,7 +6,7 @@ tags: ["宽广集团", "数博会", "石家庄", "正定国际会议中心"]
 draft: false
 categories: ["宽广集团", "数博会", "石家庄", "正定国际会议中心"]
 cover: 
-  image: "images/7461c374d978a850a857d86eff91e027.png"
+  image: "images/7461c374d978a850a857d86eff91e027.jpg"
   alt: "数字技术创新奖"
 ---
 # 宽广集团荣获中国国际数字经济博览会“数字技术创新奖”！

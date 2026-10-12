@@ -13,7 +13,7 @@ tags:
   - "承德"
   - "网站档案"
 cover:
-  image: "/images/zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.png"
+  image: "/images/zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.jpg"
   alt: "紫塞明珠网历史页面"
 legacy: true
 hiddenInHomeList: true

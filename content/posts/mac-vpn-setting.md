@@ -6,7 +6,7 @@ tags: ["macOS", "VPN", "L2TP", "故障排除"]
 draft: false
 categories: ["macOS", "VPN", "L2TP", "故障排除"]
 cover: 
-  image: "images/2025-10-18_134122_463.png"
+  image: "images/2025-10-18_134122_463.jpg"
   alt: "Mac L2TP VPN连接故障排除：快速修复指南"
 ---
 

@@ -11,7 +11,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-30_152538_061.png"
+  image: "/images/2026-03-30_152538_061.jpg"
   alt: "AI Agents in the Real World: From Hype to System-Level Execution"
 ---
 

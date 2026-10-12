@@ -13,7 +13,7 @@ tags:
 categories:
   - 零售观察
 cover:
-    image: "/images/ScreenShot_2026-09-17_152735_711.png"
+    image: "/images/ScreenShot_2026-09-17_152735_711.jpg"
     alt: "日本留学时期与现在的个人形象对比"
 ---
 

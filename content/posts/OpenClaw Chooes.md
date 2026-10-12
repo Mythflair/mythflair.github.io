@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-04-30_190752_995.png"
+  image: "/images/2026-04-30_190752_995.jpg"
   alt: "AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection"
 ---
 

@@ -13,7 +13,7 @@ categories:
   - 科普
 slug: "alcohol-test-8-hours"
 cover:
-  image: "/images/2025-09-26_105110_039.png"
+  image: "/images/2025-09-26_105110_039.jpg"
   alt: "酒精测试仪"
 ---
 

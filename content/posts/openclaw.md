@@ -12,7 +12,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-11_120714_212.png"
+  image: "/images/2026-03-11_120714_212.jpg"
   alt: "OpenClaw"
 ---
 

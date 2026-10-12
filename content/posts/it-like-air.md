@@ -5,7 +5,7 @@ description: "IT 在传统企业中常常被忽视，但正如空气一般，它
 tags: ["数字化转型", "企业IT", "管理思考"]
 categories: ["技术洞察"]
 cover:
-  image: "/images/2025-10-05_154813_536.png"
+  image: "/images/2025-10-05_154813_536.jpg"
   alt: "IT 就像空气"
 ---
 

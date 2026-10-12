@@ -11,7 +11,7 @@ categories:
 toc: false
 draft: false
 cover:
-  image: "/images/20260413001401_134_575.png"
+  image: "/images/20260413001401_134_575.jpg"
   alt: "You Think You’re Fast — You’re Actually Going Nowhere"
 ---
 ![](/images/20260413001401_134_575.jpg)

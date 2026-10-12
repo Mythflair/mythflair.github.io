@@ -5,7 +5,7 @@ description: "宽广超市推出的‘KuangGuang Select’系列，不仅帮顾�
 tags: ["零售", "自有品牌", "商超战略", "品牌分析"]
 categories: ["商业洞察"]
 cover:
-  image: "/images/2025-08-11_103952_835.png"
+  image: "/images/2025-08-11_103952_835.jpg"
   alt: "宽广优选"
 ---
 

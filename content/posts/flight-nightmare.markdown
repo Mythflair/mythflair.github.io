@@ -5,7 +5,7 @@ draft: false
 tags: ["旅行", "航空", "投诉", "华夏航空"]
 categories: ["旅行经历"]
 cover:
-    image: "/images/2025-07-08_102541_134.png"
+    image: "/images/2025-07-08_102541_134.jpg"
     alt: "华夏航空的噩梦：欺骗与失望"
 ---
 

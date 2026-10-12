@@ -5,7 +5,7 @@ description: "去过很多次青岛，今年是人生中第四次。也许，这
 tags: ["人生感悟", "缘分", "信息会议"]
 draft: false
 cover:
-  image: "/images/2025-11-10_180246_515.png"
+  image: "/images/2025-11-10_180246_515.jpg"
   alt: "Four Encounters with Qingdao"
 ---
 

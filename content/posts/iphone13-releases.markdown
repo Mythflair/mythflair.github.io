@@ -5,7 +5,7 @@ date: 2025-09-11T17:43:00+09:00
 draft: false
 tags: [Iphone, Apple]
 cover:
-    image: "/images/2025-09-11_184024_923.png"
+    image: "/images/2025-09-11_184024_923.jpg"
     alt: "IPhone17"
 ---
 

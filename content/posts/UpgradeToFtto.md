@@ -5,7 +5,7 @@ description: "这几天，我把家里的 FTTR 网络、Wi-Fi 和各种设备的
 tags: ["WIFI", "无线", "光纤"]
 draft: false
 cover:
-  image: "/images/2025-11-27_172556_129.png"
+  image: "/images/2025-11-27_172556_129.jpg"
   alt: "折腾了几天 Wi-Fi终于跑满了千兆"
 ---
 

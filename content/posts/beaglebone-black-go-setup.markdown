@@ -6,7 +6,7 @@ tags: ["BeagleBone Black", "Go语言", "嵌入式开发", "Debian", "环境配�
 categories: ["技术分享", "嵌入式系统"]
 description: "记录在 BeagleBone Black 的 Debian 10.3 环境中配置 Go 1.20.2 语言环境的完整流程，包含下载、安装和优化国内镜像源。"
 cover:
-    image: "/images/v2-a9a4ea4818577e02e739b4bc0e3147b7_1440w.png" 
+    image: "/images/v2-a9a4ea4818577e02e739b4bc0e3147b7_1440w.jpg" 
     alt: "BeagleBone Black 配置 Go 语言环境"
 ---
 

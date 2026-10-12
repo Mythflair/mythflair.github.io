@@ -13,7 +13,7 @@ tags:
   - 企业管理
   - 区域零售
 cover:
-    image: "/images/ScreenShot_2026-08-16_212458_438.png"
+    image: "/images/ScreenShot_2026-08-16_212458_438.jpg"
     alt: "商业的本质，终究是价值交换，而不是籍贯交换"
 ---
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["服务行业", "二维码工牌", "反馈机制", "社会监督", "用户体验"]
 categories: ["思考与建议"]
 cover:
-    image: "/images/2025-07-18_090931_598.png"
+    image: "/images/2025-07-18_090931_598.jpg"
     alt: "二维码工牌"
 ---
 

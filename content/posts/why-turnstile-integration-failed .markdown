@@ -5,7 +5,7 @@ draft: false
 tags: ["Cloudflare", "Turnstile", "Go", "前端", "后端", "人机验证"]
 categories: ["技术", "Web 开发"]
 cover:
-    image: "/images/2025-07-14_082604_033.png" 
+    image: "/images/2025-07-14_082604_033.jpg" 
     alt: "物流生鲜系统数据泄露风险分析与整改"
 ---
 

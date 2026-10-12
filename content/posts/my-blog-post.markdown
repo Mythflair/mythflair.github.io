@@ -5,7 +5,7 @@ draft: false
 description: "🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！"
 tags: ["AI", "手办", "Gemini", "技术", "人工智能"]
 cover:
-    image: "/images/cc7bb926f9d2dc52dc70647771cf123b.png"
+    image: "/images/cc7bb926f9d2dc52dc70647771cf123b.jpg"
     alt: "Gemini 3D hand-drawn character"
 ---
 

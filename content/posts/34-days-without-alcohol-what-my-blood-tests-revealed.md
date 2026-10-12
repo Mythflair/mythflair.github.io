@@ -13,7 +13,7 @@ tags:
 categories:
   - 生活随笔
 cover:
-    image: "/images/ScreenShot_2026-09-12_155302_136.png"
+    image: "/images/ScreenShot_2026-09-12_155302_136.jpg"
     alt: "日本留学时期与现在的个人形象对比"
 ---
 

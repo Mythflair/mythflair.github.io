@@ -7,7 +7,7 @@ description: "真正的淘汰，从来不是某种工具淘汰了某种职业，
 tags: ["AI", "思维", "改革", "变化","创新"]
 draft: false
 cover:
-  image: "/images/ScreenShot_2026-08-04_160007_020.png"
+  image: "/images/ScreenShot_2026-08-04_160007_020.jpg"
   alt: "法定，术变，技常新"
 ---
 
