@@ -384,3 +384,20 @@ googleAnalytics = "G-5L9GMDCNHD"
   name = "プロフィール"
   url = "/about/"
   weight = 30
+
+# ============================================================
+# Responsive article covers: expose existing static images to Hugo Pipes
+# Keep static/images mounted to preserve old URLs.
+# ============================================================
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "static/images"
+    target = "assets/images"
+
+  [[module.mounts]]
+    source = "static"
+    target = "static"

@@ -75,7 +75,7 @@
           {{- end -}}
           <article class="zisai-feature-card">
             <a class="zisai-feature-card__image" href="{{ $p.RelPermalink }}" aria-label="{{ $p.Title }}">
-              <img src="{{ $img | relURL }}" alt="{{ $p.Title }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+              {{ partial "zisai-thumbnail.html" (dict "src" $img "alt" $p.Title "loading" (cond (eq $i 0) "eager" "lazy") "sizes" "112px" "widths" (slice 160 240 320) "page" $p) }}
             </a>
             <div class="zisai-feature-card__body">
               <div class="zisai-feature-card__kicker">
@@ -126,7 +126,7 @@
             {{- end -}}
           {{- end -}}
           <article class="zisai-story-row">
-            <a class="zisai-story-row__thumb" href="{{ $p.RelPermalink }}"><img src="{{ $img | relURL }}" alt="{{ $p.Title }}" loading="lazy"></a>
+            <a class="zisai-story-row__thumb" href="{{ $p.RelPermalink }}">{{ partial "zisai-thumbnail.html" (dict "src" $img "alt" $p.Title "loading" "lazy" "sizes" "(max-width: 768px) 40vw, 263px" "widths" (slice 320 480 640) "page" $p) }}</a>
             <div class="zisai-story-row__body">
               <div class="zisai-story-row__top">
                 {{- with $p.Params.tags }}<span class="zisai-pill">{{ index . 0 }}</span>{{- end -}}
@@ -186,7 +186,7 @@
           <a href="{{ site.Params.zisai.aboutURL | default "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
         </header>
         <div class="zisai-about-card">
-          <img src="{{ "/images/zisai/logo-mark.webp" | relURL }}" alt="ZISAI">
+          {{ partial "zisai-thumbnail.html" (dict "src" "/images/zisai/logo-mark.webp" "alt" "ZISAI" "loading" "lazy" "sizes" "112px" "widths" (slice 160 240 320)) }}
           <p>{{ $aboutText }}</p>
         </div>
       </section>
