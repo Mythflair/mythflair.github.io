@@ -149,59 +149,6 @@ body.dark{--zisai-paper:#17141a;--zisai-ink:#f4ebf2;--zisai-line:rgba(255,255,25
   color: var(--secondary);
 }
 
-/* ZISAI · 山间流云 V2 | 局部雾带，纯 CSS */
-.zisai-hero__veil{z-index:0;pointer-events:none}
-.zisai-hero__fog{
-  position:absolute;
-  top:17%;right:0;bottom:25%;left:0;
-  z-index:1;
-  overflow:hidden;
-  pointer-events:none;
-  isolation:isolate;
-}
-.zisai-hero__fog::before,
-.zisai-hero__fog::after{
-  content:"";
-  position:absolute;
-  width:105%;
-  height:47%;
-  left:-22%;
-  border-radius:50%;
-  pointer-events:none;
-  /* 不规则的多段薄雾：透明空隙令漂移清晰可见 */
-  background:
-    radial-gradient(ellipse 24% 40% at 18% 66%,rgba(249,248,243,.51),transparent 100%),
-    radial-gradient(ellipse 32% 36% at 48% 49%,rgba(249,248,243,.65),transparent 100%),
-    radial-gradient(ellipse 24% 48% at 79% 62%,rgba(249,248,243,.47),transparent 100%);
-  transform:translate3d(0,0,0);
-}
-.zisai-hero__fog::before{
-  top:24%;
-  animation:zisai-cloud-a 38s ease-in-out infinite alternate;
-}
-.zisai-hero__fog::after{
-  top:52%;
-  left:-2%;
-  opacity:.68;
-  transform:scaleX(-1);
-  animation:zisai-cloud-b 52s ease-in-out infinite alternate;
-}
-@keyframes zisai-cloud-a{
-  0%{transform:translate3d(-8%,0,0);opacity:.55}
-  100%{transform:translate3d(17%,-3%,0);opacity:.92}
-}
-@keyframes zisai-cloud-b{
-  0%{transform:translate3d(10%,0,0) scaleX(-1);opacity:.38}
-  100%{transform:translate3d(-13%,2%,0) scaleX(-1);opacity:.72}
-}
-.dark .zisai-hero__fog{opacity:.48}
-@media(max-width:760px){
-  .zisai-hero__fog{top:20%;bottom:29%;opacity:.55}
-}
-@media(prefers-reduced-motion:reduce){
-  .zisai-hero__fog::before,.zisai-hero__fog::after{animation:none}
-}
-
 /* 响应式 */
 
 @media(max-width:1320px){.zisai-nav{min-height:96px;padding:12px 20px 10px}.zisai-brand__cn{font-size:25px}.zisai-brand__latin{display:none}.zisai-menu{display:none}.zisai-menu-toggle{display:block;margin-left:auto}.zisai-nav__right{margin-left:0}.zisai-nav.is-open .zisai-menu{display:flex;position:absolute;top:100%;left:18px;right:18px;flex-wrap:wrap;padding:13px;background:rgba(255,253,249,.96);border-radius:16px;box-shadow:0 16px 36px rgba(44,26,42,.14)}.dark .zisai-nav.is-open .zisai-menu{background:rgba(28,23,30,.97)}.zisai-hero{min-height:1030px;padding-top:135px}.zisai-hero__content{width:min(600px,76vw);margin-left:7vw}.zisai-hero__motto{display:none}.zisai-featured{grid-template-columns:repeat(2,1fr)}.zisai-feature-card:nth-child(2){border-right:0}.zisai-feature-card:nth-child(-n+2){border-bottom:1px solid rgba(20,33,63,.08)}.zisai-magazine{grid-template-columns:1fr}.zisai-story-row h3{font-size:28px}}
