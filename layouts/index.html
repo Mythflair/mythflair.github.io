@@ -75,8 +75,7 @@
           {{- end -}}
           <article class="zisai-feature-card">
             <a class="zisai-feature-card__image" href="{{ $p.RelPermalink }}" aria-label="{{ $p.Title }}">
-              {{ partial "zisai-thumbnail.html" (dict "src" $img "alt" $p.Title "loading" (cond (eq $i 0) "eager" "lazy") "sizes" "112px" "widths" (slice 160 240 320) "page" $p) }}
-            </a>
+                {{ partial "zisai-thumbnail.html" (dict "src" $img "alt" $p.Title "loading" (cond (eq $i 0) "eager" "lazy") "sizes" "(max-width: 768px) 82vw, (max-width: 1200px) 24vw, 360px" "widths" (slice 320 480 640 800) "page" $p) }}            </a>
             <div class="zisai-feature-card__body">
               <div class="zisai-feature-card__kicker">
                 {{- with $p.Params.tags }}<span>{{ index . 0 }}</span>{{ else }}<span>紫塞</span>{{ end -}}
