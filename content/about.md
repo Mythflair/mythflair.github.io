@@ -15,7 +15,7 @@ tags:
   - "CIO"
 
 cover:
-  image: "/images/shennan-1024-q82.jpg"
+  image: "/images/ShenNan-1.webp"
   alt: "沈楠 - 紫塞网 zisai.com"
 
 ShowToc: true
