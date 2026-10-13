@@ -149,48 +149,54 @@ body.dark{--zisai-paper:#17141a;--zisai-ink:#f4ebf2;--zisai-line:rgba(255,255,25
   color: var(--secondary);
 }
 
-/* ZISAI · 山间薄雾 V1 | 首页 Hero，仅 transform 动画 */
+/* ZISAI · 山间流云 V2 | 局部雾带，纯 CSS */
 .zisai-hero__veil{z-index:0;pointer-events:none}
 .zisai-hero__fog{
   position:absolute;
-  top:22%;right:0;bottom:24%;left:0;
+  top:17%;right:0;bottom:25%;left:0;
   z-index:1;
   overflow:hidden;
   pointer-events:none;
+  isolation:isolate;
 }
 .zisai-hero__fog::before,
 .zisai-hero__fog::after{
   content:"";
   position:absolute;
-  left:-25%;
-  width:150%;
-  height:58%;
+  width:105%;
+  height:47%;
+  left:-22%;
   border-radius:50%;
-  background:radial-gradient(ellipse at center,
-    rgba(250,248,244,.24) 0%,
-    rgba(250,248,244,.13) 38%,
-    rgba(250,248,244,0) 73%);
+  pointer-events:none;
+  /* 不规则的多段薄雾：透明空隙令漂移清晰可见 */
+  background:
+    radial-gradient(ellipse 24% 40% at 18% 66%,rgba(249,248,243,.51),transparent 100%),
+    radial-gradient(ellipse 32% 36% at 48% 49%,rgba(249,248,243,.65),transparent 100%),
+    radial-gradient(ellipse 24% 48% at 79% 62%,rgba(249,248,243,.47),transparent 100%);
+  transform:translate3d(0,0,0);
 }
 .zisai-hero__fog::before{
-  bottom:20%;
-  animation:zisai-fog-a 52s ease-in-out infinite alternate;
+  top:24%;
+  animation:zisai-cloud-a 38s ease-in-out infinite alternate;
 }
 .zisai-hero__fog::after{
-  bottom:0;
-  opacity:.65;
-  animation:zisai-fog-b 68s ease-in-out infinite alternate;
+  top:52%;
+  left:-2%;
+  opacity:.68;
+  transform:scaleX(-1);
+  animation:zisai-cloud-b 52s ease-in-out infinite alternate;
 }
-@keyframes zisai-fog-a{
-  from{transform:translate3d(-5%,0,0)}
-  to{transform:translate3d(5%,0,0)}
+@keyframes zisai-cloud-a{
+  0%{transform:translate3d(-8%,0,0);opacity:.55}
+  100%{transform:translate3d(17%,-3%,0);opacity:.92}
 }
-@keyframes zisai-fog-b{
-  from{transform:translate3d(5%,0,0)}
-  to{transform:translate3d(-5%,0,0)}
+@keyframes zisai-cloud-b{
+  0%{transform:translate3d(10%,0,0) scaleX(-1);opacity:.38}
+  100%{transform:translate3d(-13%,2%,0) scaleX(-1);opacity:.72}
 }
-.dark .zisai-hero__fog{opacity:.6}
+.dark .zisai-hero__fog{opacity:.48}
 @media(max-width:760px){
-  .zisai-hero__fog{top:18%;bottom:25%;opacity:.5}
+  .zisai-hero__fog{top:20%;bottom:29%;opacity:.55}
 }
 @media(prefers-reduced-motion:reduce){
   .zisai-hero__fog::before,.zisai-hero__fog::after{animation:none}
