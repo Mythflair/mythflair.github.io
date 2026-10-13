@@ -6,7 +6,7 @@ tags: ["企业文化", "爱国主义", "宽广集团"]
 categories: ["社会评论"]
 description: "宽广集团组织员工观看抗战胜利80周年大会直播，彰显企业担当与爱国精神。🌟"
 cover: 
-    image: "/images/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg"
+    image: "/images/8b7cb33567d297e8fdba1a9271c54898.jpg"
     alt: "2025年9月3日上午，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会隆重举行。"
 ---
 
