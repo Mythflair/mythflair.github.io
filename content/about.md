@@ -34,7 +34,7 @@ ShowWordCount: false
 
 我喜欢写代码，也喜欢把一个具体问题想明白。技术名称不断变化，我做的事情始终围绕着一个朴素的想法：**理解问题，拆解问题，然后尽可能用简单、可靠的技术把它解决。**
 
-[邮件联系](mailto:shennan@zisai.com) · [GitHub](https://github.com/Mythflair) · [简短介绍](#简短介绍) · [完整经历与资料](#完整经历与资料)
+[数字名片](/card/) · [邮件联系](mailto:shennan@zisai.com) · [GitHub](https://github.com/Mythflair) · [简短介绍](#简短介绍) · [完整经历与资料](#完整经历与资料)
 
 ## 我现在关注什么
 
