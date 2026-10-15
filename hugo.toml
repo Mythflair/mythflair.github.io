@@ -180,10 +180,11 @@ googleAnalytics = "G-5L9GMDCNHD"
 
   heroTitle1 = "紫塞歌明月"
   heroTitle2 = "万户庆升平"
+  heroSubtitle = "山河入卷，岁月留痕"
 
   heroText = "从一座北方小城承德出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。"
 
-  motto = "随笔记录生活"
+  motto = "关于沈楠"
   mottoURL = "/about/"
 
 
@@ -329,10 +330,11 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["ZISAI", "Shen Nan", "Chengde", "Technology", "Everyday life"]
 
 [languages.en.params.zisai]
-  heroTitle1 = "Places hold stories."
-  heroTitle2 = "Everyday life shines."
+  heroSubtitle = "Landscapes in words. Time leaves its traces."
+  heroTitle1 = "Moonlight over Zisai."
+  heroTitle2 = "Peace in every home."
   heroText = "From Chengde, a city in northern China: notes on technology, culture and everyday life, shaped by its landscapes and people."
-  motto = "Notes on everyday life"
+  motto = "About Shen Nan"
   heroMotto1 = "Since 1998"
   heroMotto2 = "Still curious"
   aboutText = "ZISAI is a personal space for Chengde, everyday life, technology and memories. Created in 1998 and still evolving."
@@ -362,10 +364,11 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["紫塞", "沈楠", "承徳", "技術", "暮らし"]
 
 [languages.ja.params.zisai]
-  heroTitle1 = "土地には物語がある"
-  heroTitle2 = "日々の暮らしには光がある"
+  heroSubtitle = "山河を綴り、歳月を刻む。"
+  heroTitle1 = "紫塞に月は輝き"
+  heroTitle2 = "家々に太平を祝う"
   heroText = "中国北方の街、承徳から。山河と人々、日々の暮らしを見つめながら、技術と文化について綴ります。"
-  motto = "日々を綴る"
+  motto = "沈楠について"
   heroMotto1 = "1998年から"
   heroMotto2 = "好奇心とともに"
   aboutText = "承徳の風景、日々の暮らし、技術と人への思いを綴る個人サイトです。1998年から、少しずつ書き続けています。"

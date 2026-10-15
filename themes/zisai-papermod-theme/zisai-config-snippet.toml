@@ -3,10 +3,10 @@
 # 你当前已经 theme = "PaperMod"，无需更换主题。
 
 [params.zisai]
-  heroTitle1 = "山河有故事"
-  heroTitle2 = "生活自有光"
+  heroTitle1 = "山河入卷"
+  heroTitle2 = "岁月留痕"
   heroText = "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。"
-  motto = "随笔记录生活"
+  motto = "关于沈楠"
   mottoURL = "/about/"
 
 # 建议关闭 PaperMod 原 profileMode：首页由本主题接管

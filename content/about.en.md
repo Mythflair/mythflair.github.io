@@ -139,7 +139,7 @@ Today, **zisai.com** is my personal digital space. I write about:
 
 Not everything worth recording has to be a major event. Much of what makes up a life consists of small things that seemed ordinary at the time.
 
-**Places hold stories. Everyday life shines.**
+**Landscapes in words. Time leaves its traces.**
 
 ## Technology and life
 

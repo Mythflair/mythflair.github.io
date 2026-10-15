@@ -38,7 +38,8 @@
     <div class="zisai-hero__veil"></div>
     <div class="zisai-hero__content">
       <div class="zisai-eyebrow">CHENGDE <span>A BRIGHTER TOMORROW</span></div>
-      <h1>{{ site.Params.zisai.heroTitle1 | default "山河有故事" }}<br>{{ site.Params.zisai.heroTitle2 | default "生活自有光" }}</h1>
+      <h1>{{ site.Params.zisai.heroTitle1 | default "紫塞歌明月" }}<br>{{ site.Params.zisai.heroTitle2 | default "万户庆升平" }}</h1>
+      <p class="zisai-hero__subtitle">{{ site.Params.zisai.heroSubtitle | default "山河入卷，岁月留痕" }}</p>
       <div class="zisai-rule"></div>
       <p>{{ site.Params.zisai.heroText | default "从一座北方小城出发，在山河、人与日常之间，记录技术、文化与生活的更多可能。" }}</p>
       {{- with first 1 $pages -}}
@@ -47,7 +48,6 @@
         <a class="zisai-cta" href="{{ "posts/" | relLangURL }}">{{ i18n "zisai_browse" }} <span>→</span></a>
       {{- end -}}
     </div>
-    <div class="zisai-hero__motto" aria-hidden="true">{{ site.Params.zisai.heroMotto1 | default "山河入卷" }}<br>{{ site.Params.zisai.heroMotto2 | default "岁月留痕" }}<span></span></div>
 
     <div class="zisai-featured-wrap">
       <div class="zisai-featured">
