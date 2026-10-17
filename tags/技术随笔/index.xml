@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术随笔 on 紫塞</title>
+    <link>https://zisai.com/tags/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 技术随笔 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/zisai-share-q88.jpg</url>
+      <link>https://zisai.com/images/zisai-share-q88.jpg</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 30 Mar 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%8A%80%E6%9C%AF%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力</title>
+      <link>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</link>
+    <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</guid>
+      <description>AI Agents in the Real World: From Hype to System-Level Execution</description>
+    </item>
+    <item>
+      <title>人工智能时代的认知错位：当表达能力不再等于认知能力</title>
+      <link>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</link>
+    <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</guid>
+      <description>Artificial Intelligence and Cognitive Misalignment</description>
+    </item>
+    <item>
+      <title>从 C3I 到 C5I：系统化思维的30年传承 🚀</title>
+      <link>https://zisai.com/posts/from-c3i-to-c5i/</link>
+    <pubDate>Fri, 15 Aug 2025 15:02:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/from-c3i-to-c5i/</guid>
+      <description>从30年前部队的C3I系统到现代C5I，回顾150瓦单边带、长城286/386和C语言通信程序的岁月，探索系统化思维如何从战场延伸到企业管理，驱动数字化转型。🌐💻</description>
+    </item>
+  </channel>
+</rss>

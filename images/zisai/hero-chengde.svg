@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+<title id="title">紫塞山河</title><desc id="desc">以承德山河、磬锤峰、亭阁、长城与水面为意象的淡雅插画。</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e8dcff"/><stop offset=".48" stop-color="#ffd7ba"/><stop offset="1" stop-color="#fff2cf"/></linearGradient>
+  <linearGradient id="m1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8e7da9"/><stop offset="1" stop-color="#b38a91"/></linearGradient>
+  <linearGradient id="m2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6b6087"/><stop offset="1" stop-color="#8b6c78"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4dfc4"/><stop offset="1" stop-color="#b9bfd2"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#fffbe5"/><stop offset="1" stop-color="#ffd6a3" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1920" height="1080" fill="url(#sky)"/>
+<circle cx="1560" cy="270" r="230" fill="url(#sun)"/><circle cx="1600" cy="282" r="34" fill="#fff8d8" opacity=".92"/>
+<g opacity=".38" fill="#fff"><ellipse cx="720" cy="325" rx="320" ry="60" filter="url(#blur)"/><ellipse cx="1260" cy="405" rx="370" ry="74" filter="url(#blur)"/></g>
+<path d="M0 535 L180 455 330 505 525 410 730 500 900 430 1090 500 1315 390 1500 500 1710 410 1920 520 1920 760 0 760Z" fill="#a89fb5" opacity=".55"/>
+<path d="M0 635 L220 510 420 615 610 485 810 615 1010 520 1210 630 1420 500 1620 600 1815 500 1920 560 1920 805 0 805Z" fill="url(#m1)" opacity=".75"/>
+<path d="M0 700 L260 590 450 685 700 565 950 700 1210 585 1460 680 1720 570 1920 645 1920 860 0 860Z" fill="url(#m2)" opacity=".9"/>
+<!-- 磬锤峰 -->
+<path d="M1165 550 C1150 495 1157 440 1190 398 C1218 365 1250 360 1265 395 C1280 430 1266 485 1275 525 C1285 575 1310 595 1350 615 L1260 640 L1185 612Z" fill="#5d506b"/>
+<path d="M1185 410 C1200 375 1245 365 1262 397 C1271 419 1267 438 1261 455 L1190 458Z" fill="#6d5a71"/>
+<!-- 长城 -->
+<g fill="none" stroke="#725f6a" stroke-width="10" stroke-linecap="round" opacity=".85"><path d="M1380 545 C1490 500 1545 505 1620 535 S1770 565 1920 510"/></g>
+<g fill="#68545f"><path d="M1500 485 h48 v46 h-48zM1494 476 h60 l-8 12h-44z"/><path d="M1715 510 h48 v46 h-48zM1709 501 h60 l-8 12h-44z"/><path d="M1850 468 h46 v44 h-46zM1844 460 h58 l-8 11h-42z"/></g>
+<!-- 湖面 -->
+<path d="M0 755 C340 705 620 735 940 760 C1290 785 1550 745 1920 770 L1920 1080 0 1080Z" fill="url(#water)"/>
+<g opacity=".45" stroke="#fff" stroke-width="3"><path d="M120 830h520M980 855h620M450 930h820M90 1010h1080"/></g>
+<!-- 古建亭阁 -->
+<g transform="translate(600 640)"><rect x="-90" y="55" width="180" height="80" fill="#9c503d"/><rect x="-110" y="42" width="220" height="18" fill="#472d38"/><path d="M-130 38 Q0 -40 130 38 L100 48 H-100Z" fill="#2f3a45"/><rect x="-52" y="68" width="26" height="67" fill="#e3b66a"/><rect x="26" y="68" width="26" height="67" fill="#e3b66a"/></g>
+<g transform="translate(1470 675) scale(.8)"><rect x="-75" y="48" width="150" height="70" fill="#a1513a"/><path d="M-110 40 Q0 -30 110 40 L82 50 H-82Z" fill="#303948"/><rect x="-35" y="58" width="20" height="60" fill="#e0ad62"/><rect x="15" y="58" width="20" height="60" fill="#e0ad62"/></g>
+<!-- 石桥 -->
+<path d="M820 755 Q1000 660 1180 755 L1160 790 Q1000 720 840 790Z" fill="#d4c5b5" opacity=".92"/><path d="M900 774 q45-75 90 0M1005 770q45-72 90 0" fill="none" stroke="#998f8e" stroke-width="9"/>
+<!-- 前景松与花 -->
+<g fill="#38534b" opacity=".96"><path d="M70 950 l70-240 70 240zM135 970l90-310 90 310zM1730 1010l85-300 85 300z"/></g>
+<g fill="#c46d83" opacity=".65"><circle cx="210" cy="935" r="12"/><circle cx="250" cy="920" r="9"/><circle cx="292" cy="946" r="11"/><circle cx="1580" cy="940" r="10"/><circle cx="1620" cy="920" r="8"/></g>
+<!-- 左侧阅读区柔化 -->
+<rect x="0" y="0" width="760" height="1080" fill="url(#fade)" opacity="0"/>
+</svg>
