@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["中年", "自我改变", "家庭", "人生反思"]
 title: "半百将至，改变从己开始：一则中年随想"
 date: 2025-05-22T12:40:00+08:00
 draft: false
-tags: ["中年", "自我改变", "家庭", "人生反思"]
-categories: ["生活"]
+
 cover:
     image: "/images/file434.jpeg" 
     alt: "四十不惑，初心不改：毕业后的中年反思"

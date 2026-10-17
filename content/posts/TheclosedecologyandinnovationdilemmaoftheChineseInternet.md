@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["互联网", "技术创新", "大语言模型", "开放式发展", "科技观察"]
 title: 中文互联网的封闭生态与创新困境
 date: 2025-05-14T12:38:00+08:00
 draft: false
-tags: [互联网, 技术创新, 大语言模型, 开放式发展]
-categories: [科技观察]
+
 description: 探讨中文互联网的封闭生态如何导致内容质量下降、技术创新受限，以及对开放式发展的深远影响。
 cover:
   image: '/images/chinaInternet.png'

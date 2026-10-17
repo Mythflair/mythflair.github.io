@@ -1,4 +1,6 @@
 ---
+categories: ["生活"]
+tags: ["Retail Notes", "Kuanguang Supermarket", "Membership", "Car Wash", "Retail"]
 date: 2026-10-06T20:23:00+08:00
 lastmod: 2026-10-06T20:23:00+08:00
 draft: false
@@ -10,16 +12,6 @@ title: "A Three-Yuan Car Wash—and Why the Math Actually Works"
 
 description: "A supermarket car-wash benefit offers a glimpse into why retailers sometimes provide services that make little sense as standalone businesses."
 summary: "An annual membership costs 188 yuan, with 30 yuan returned. Use the weekly car wash regularly and it works out to roughly 3 yuan per visit. What looks like a loss on paper can make perfect sense in retail."
-
-tags:
-  - "Retail Notes"
-  - "Kuanguang Supermarket"
-  - "Membership"
-  - "Car Wash"
-  - "Retail"
-
-categories:
-  - "Retail Notes"
 
 cover:
   image: "/images/supermarket-membership-car-wash/64022.webp"

@@ -1,9 +1,11 @@
 ---
+categories: ["生活"]
+tags: ["高管沟通", "职场心理学", "STAR法则"]
 title: 技术高管为何更倾向于文字沟通？原因与改进 📢
 date: 2025-09-18T13:35:00+09:00
 draft: false
 description: 分析技术背景高管口头沟通不畅的原因，结合职场心理学和2025年中国高管趋势，提出STAR法则等实用建议。 🚀
-tags: [高管沟通, 职场心理学, STAR法则]
+
 cover:
     image: "/images/2025-09-18_164111_392.jpg" 
     alt: "STAR法则"

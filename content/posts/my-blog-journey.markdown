@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["博客", "技术", "写作", "Hugo", "DIY", "个人成长", "技术实践"]
 title: "紫塞zisai.com博客：坚持写作与技术DIY的思考"
 date: 2025-07-09T07:54:00+08:00
 draft: false
-tags: ["博客", "技术", "写作", "Hugo", "DIY"]
-categories: ["个人成长", "技术实践"]
+
 description: "记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。"
 cover:
     image: "/images/2025-07-09_080523_075.jpg" 

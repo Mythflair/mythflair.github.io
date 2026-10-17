@@ -1,13 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["互联网", "人工智能", "随笔", "技术随笔"]
 title: "人工智能时代的认知错位：当表达能力不再等于认知能力"
 date: 2026-03-23T08:30:00+08:00
 description: "Artificial Intelligence and Cognitive Misalignment"
-tags:
-  - 互联网
-  - 人工智能
-categories:
-  - 随笔
-  - 技术随笔
+
 toc: false
 draft: false
 cover:

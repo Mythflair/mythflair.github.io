@@ -1,14 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["MSSQL", "互联网", "线上线下", "随笔", "职业思考"]
 title: "一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）"
 date: 2026-02-09T08:30:00+08:00
 description: "文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。"
-tags:
-  - MSSQL
-  - 互联网
-  - 线上线下
-categories:
-  - 随笔
-  - 职业思考
+
 toc: false
 draft: false
 cover:

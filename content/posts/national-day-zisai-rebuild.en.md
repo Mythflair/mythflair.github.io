@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["ZISAI", "Hugo", "Technology", "Websites"]
 title: "ZISAI at 28: Technology Changes, Habits Stay"
 date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"
 draft: false
-tags: ["ZISAI", "Hugo", "Technology", "Websites"]
+
 summary: "During the National Day holiday, I rebuilt ZISAI once again. Work carries responsibility; this website runs on personal curiosity. Technology, design and small details became part of something I wanted to make well."
 cover:
   image: "/images/zisai-national-day-q82.webp"

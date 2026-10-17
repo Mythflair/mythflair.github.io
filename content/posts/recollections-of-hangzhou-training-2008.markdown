@@ -1,8 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["培训", "技术", "回忆"]
 title: "17年前在杭州华为大学培训回忆"
 date: 2025-08-02T15:18:00+09:00
 draft: false
-tags: ["培训", "技术", "回忆"]
+
 description: "17年前在杭州华为大学参加的SmartAX MA5300培训回忆，记录技术成长与西湖美景的难忘时光。"
 cover:
   image: "/images/shennan_huaweirenzheng.jpg"

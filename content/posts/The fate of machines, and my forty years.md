@@ -1,13 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["机械工业", "汽车", "随笔", "随想"]
 title: "机械的宿命，与我的四十年"
 date: 2026-03-31T08:30:00+08:00
 description: "The fate of machines, and my forty years"
-tags:
-  - 机械工业
-  - 汽车
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

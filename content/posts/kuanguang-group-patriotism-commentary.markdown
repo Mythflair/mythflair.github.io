@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["企业文化", "爱国主义", "宽广集团", "社会评论"]
 title: "评论：宽广集团直播盛会，展现家国情怀"
 date: 2025-08-29T11:32:00+08:00
 draft: false
-tags: ["企业文化", "爱国主义", "宽广集团"]
-categories: ["社会评论"]
+
 description: "宽广集团组织员工观看抗战胜利80周年大会直播，彰显企业担当与爱国精神。🌟"
 cover: 
     image: "/images/8b7cb33567d297e8fdba1a9271c54898.jpg"

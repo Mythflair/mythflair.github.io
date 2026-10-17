@@ -16,10 +16,12 @@
     {{- range $key, $value := .Data.Terms.Alphabetical }}
     {{- $name := .Name }}
     {{- $count := .Count }}
+    {{- if or (ne $type "categories") (in (slice "承德" "生活" "技术") $name) }}
     {{- with site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
         <a href="{{ .Permalink }}"><span>{{ .Name }}</span><span class="zisai-term-count">{{ $count }}</span></a>
     </li>
+    {{- end }}
     {{- end }}
     {{- end }}
 </ul>

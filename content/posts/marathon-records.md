@@ -1,14 +1,12 @@
 ---
+categories: ["生活"]
+tags: ["沈楠", "马拉松", "运动", "个人档案"]
 title: "马拉松参赛记录"
 date: 2026-10-09T18:00:00+08:00
 draft: false
 description: "沈楠历年马拉松参赛记录，包括2016年承德国际马拉松、2017年石家庄（正定）国际马拉松赛及半程马拉松经历。"
 summary: "两次全程马拉松官方成绩，以及承德、北京等地的半程马拉松参赛经历。"
-tags:
-  - "沈楠"
-  - "马拉松"
-  - "运动"
-  - "个人档案"
+
 showToc: false
 ShowReadingTime: false
 ShowBreadCrumbs: true

@@ -1,4 +1,5 @@
 +++
+categories = ["技术"]
 date = '2025-04-24T16:29:25+08:00'
 draft = false
 title = '如何将Windows11的中文用户名改为英文？'

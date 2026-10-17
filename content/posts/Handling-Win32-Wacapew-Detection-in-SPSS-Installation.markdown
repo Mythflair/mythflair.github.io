@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["SPSS", "网络安全", "软件安装", "恶意软件检测", "技术分享"]
 title: "刚刚处理了 SPSS 安装中的 Win32/Wacapew.C!ml 病毒检测误报"
 date: 2025-06-21T21:57:00+09:00
 draft: false
-tags: ["SPSS", "网络安全", "软件安装", "恶意软件检测"]
-categories: ["技术分享"]
+
 description: "个人分享在安装 SPSS 时遇到 Win32/Wacapew.C!ml 检测的经历，包括验证和安全处理步骤，以及 SPSS 软件的简要介绍。"
 cover:
     image: "/images/33883688.jpg" 

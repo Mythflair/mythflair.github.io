@@ -396,6 +396,10 @@ https://zisai.com/#zisai
 {{- end }}
 
 
+{{- range first 1 (.GetTerms "categories") }}
+  {{- $article = merge $article (dict "articleSection" .LinkTitle) -}}
+{{- end }}
+
 {{- with .Params.tags }}
   {{- $article = merge $article (dict
     "keywords" .

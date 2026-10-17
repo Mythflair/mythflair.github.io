@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["人生", "哲理", "情感", "循环", "随想"]
 title: "人生的回响：开头与结尾的循环"
 date: 2025-05-28T10:37:00+08:00
 draft: false
-tags: ["人生", "哲理", "情感", "循环"]
-categories: ["随想"]
+
 description: "从出生到死亡，人生的开头与结尾似乎总有某种神秘的回响。几句话，串起生命的起点与终点，诉说人世间的温暖与无常。"
 cover:
     image: "/images/Image-2.jpeg" 

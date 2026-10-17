@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["随感", "青春", "回忆", "心情"]
 title: "致青春，致那个夏天"
 date: 2025-05-19T23:54:00+08:00
 draft: false
-tags: ["随感", "青春", "回忆"]
-categories: ["心情"]
+
 cover:
     image: "/images/shennan20250519.png" 
     alt: "致青春，致那个夏天"

@@ -1,4 +1,6 @@
 ---
+categories: ["生活"]
+tags: ["企业管理", "标准化", "开放度", "开源", "互联网", "组织管理", "管理思考"]
 title: "从1996年的“9600bps猫”说起：顶级的企业管理，本质上是一场开源"
 subtitle: "企业究竟应该依靠控制运转，还是依靠系统与人才共同进化？"
 date: 2026-08-14T08:00:00+08:00
@@ -7,15 +9,7 @@ draft: false
 author: "沈楠"
 description: "从拨号上网、技术标准与开源精神出发，重新思考企业管理中标准化、开放度与人才自主性的关系。"
 slug: "management-as-open-source"
-categories:
-  - "管理思考"
-tags:
-  - "企业管理"
-  - "标准化"
-  - "开放度"
-  - "开源"
-  - "互联网"
-  - "组织管理"
+
 toc: true
 cover:
     image: "/images/70cd453e-c96c-4f12-8d0e-10cfe5da1d6f.jpg"

@@ -1,16 +1,13 @@
 ---
+categories: ["生活"]
+tags: ["生活观察", "科普", "声学"]
 title: "护栏旁的“呼呼声”，原来不只是风声"
 date: 2026-09-25T17:00:00+08:00
 draft: false
 author: "沈楠"
 slug: "why-cars-make-rhythmic-noise-near-railings"
 description: "开车经过护栏时，为什么会听到有节奏的“呼呼声”？从一次日常疑问出发，了解声音反射与散射背后的物理趣味。"
-categories:
-  - 生活观察
-tags:
-  - 生活观察
-  - 科普
-  - 声学
+
 cover:
     image: "/images/ScreenShot_2026-09-28_155831_022.jpg"
     alt: "了解声音反射与散射背后的物理趣味"

@@ -1,13 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["机械工业", "汽车", "随笔", "随想"]
 title: "你以为你在加速，其实你在原地打转"
 date: 2026-04-14T08:30:00+08:00
 description: "You Think You’re Fast — You’re Actually Going Nowhere"
-tags:
-  - 机械工业
-  - 汽车
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

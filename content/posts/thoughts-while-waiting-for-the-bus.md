@@ -1,15 +1,11 @@
 ---
+categories: ["生活"]
+tags: ["人生感悟", "公交车", "得与失", "承德"]
 title: "终会等到为你而行的那辆公交汽车"
 date: 2025-10-21T18:00:00+08:00
 description: "何必在意来与不来，人生的公交车，总有一辆为你而行。"
 draft: false
-tags:
-  - "人生感悟"
-  - "公交车"
-  - "得与失"
-  - "承德"
-categories:
-  - "网络技术"
+
 toc: true
 cover:
     image: "/images/2025-10-22_104448_236.jpg"

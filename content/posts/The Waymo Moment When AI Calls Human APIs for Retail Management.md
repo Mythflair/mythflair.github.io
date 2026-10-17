@@ -1,14 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["零售", "互联网", "人工智能", "随笔", "职业思考"]
 title: "零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”"
 date: 2026-03-06T08:30:00+08:00
 description: "这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。"
-tags:
-  - 零售
-  - 互联网
-  - 人工智能
-categories:
-  - 随笔
-  - 职业思考
+
 toc: false
 draft: false
 cover:

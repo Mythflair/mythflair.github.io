@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["AI", "人工智能", "手办"]
 title: "用Nano Banana AI设计阅兵手办，看看效果如何 🎉"
 date: 2025-09-03T10:50:00+09:00
 draft: false
 description: "强大的Nano Banana AI，用它来生成各种手办模型。🌟"
-tags: ["AI", "人工智能", "手办"]
+
 cover:
   image: "/images/3army.jpg"
   alt: "用Nano Banana AI设计阅兵手办"

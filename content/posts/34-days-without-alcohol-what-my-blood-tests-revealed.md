@@ -1,17 +1,12 @@
 ---
+categories: ["生活"]
+tags: ["戒酒", "生活记录", "饮食", "训练", "身体管理", "生活随笔"]
 title: "48岁，戒酒、限食、训练34天：两次验血给了我答案"
 date: 2026-09-12T14:00:00+08:00
 draft: false
 slug: "34-days-without-alcohol-what-my-blood-tests-revealed"
 description: "戒酒、调整饮食、坚持训练34天，体重下降约3.4公斤，LDL-C下降约19%。记录身体的变化，也记录一次生活习惯的调整。"
-tags:
-  - 戒酒
-  - 生活记录
-  - 饮食
-  - 训练
-  - 身体管理
-categories:
-  - 生活随笔
+
 cover:
     image: "/images/ScreenShot_2026-09-12_155302_136.jpg"
     alt: "日本留学时期与现在的个人形象对比"

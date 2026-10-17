@@ -1,4 +1,5 @@
 +++
+categories = ["技术"]
 date = '2024-05-05T14:47:50+08:00'
 draft = false
 title = 'TMT是什么？'

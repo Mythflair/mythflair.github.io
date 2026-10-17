@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["eSIM", "卫星通信", "SIM卡", "智能手机"]
 title: 中国联通获得卫星移动通信业务经营许可证，同时率先支持eSIM技术。✨
 description: 重大的行业进展！中国联通获得工信部颁发的卫星移动通信业务经营许可证，同时率先支持eSIM卡。🖼️
 date: 2025-09-08T10:00:00+09:00
 draft: false
-tags: [eSIM, 卫星通信, SIM卡, 智能手机]
+
 cover:
     image: "/images/Gemini_Generated_Image_x7np5cx7np5cx7np.jpg"
     alt: "卫星通信"

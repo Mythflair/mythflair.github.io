@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["中国文化", "IT", "健康", "睡眠", "生活随想", "科技与文化"]
 title: "闭目养神：从IT视角看中国传统智慧"
 date: 2025-06-30T01:55:00+09:00
 draft: false
-tags: ["中国文化", "IT", "健康", "睡眠"]
-categories: ["生活随想", "科技与文化"]
+
 description: "从IT视角解读中国传统闭目养神，探讨其与现代科学的契合，以及如何通过这一智慧改善睡眠与生活。"
 cover:
     image: "/images/bimuyangshen.jpg" 

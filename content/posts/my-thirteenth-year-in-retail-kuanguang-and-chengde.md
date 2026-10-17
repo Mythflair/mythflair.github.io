@@ -1,18 +1,13 @@
 ---
+categories: ["生活"]
+tags: ["宽广超市", "承德", "本土零售", "数字化", "工作随笔", "零售观察"]
 title: "走进零售集团的十三年：写给宽广超市，也写给伴随它长大的承德人"
 date: 2026-09-23T10:00:00+08:00
 draft: false
 author: "沈楠"
 slug: "my-thirteenth-year-in-retail-kuanguang-and-chengde"
 description: "从通信行业走进零售集团，在宽广的第十三个年头，写下对商品、价格、服务与本土零售的理解，也记录一家超市与承德人日常生活的连接。"
-categories:
-  - 零售观察
-tags:
-  - 宽广超市
-  - 承德
-  - 本土零售
-  - 数字化
-  - 工作随笔
+
 cover:
     image: "/images/ScreenShot_2026-09-23_123720_484.jpg"
     alt: "创造顾客最喜爱与员工最具幸福感的百年企业"

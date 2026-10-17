@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["紫塞", "Hugo", "技術", "ウェブサイト"]
 title: "紫塞28年目に思うこと——技術は変わっても、習慣は残る"
 date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"
 draft: false
-tags: ["紫塞", "Hugo", "技術", "ウェブサイト"]
+
 summary: "国慶節の休みに、紫塞をもう一度作り直しました。仕事には責任があり、紫塞には自分の好奇心がある。技術も見た目も細部も、いつしか一つの作品の一部になっていました。"
 cover:
   image: "/images/zisai-national-day-q82.webp"

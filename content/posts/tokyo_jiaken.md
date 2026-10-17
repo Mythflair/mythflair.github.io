@@ -1,4 +1,5 @@
 ---
+categories: ["生活"]
 title: "日本街头乐队的回忆"
 date: 2025-05-15
 cover:

@@ -1,8 +1,9 @@
 ---
+categories: ["技术"]
+tags: ["人工智能", "计算机视觉", "大数据", "技术前沿"]
 title: "从单张照片中窥见个人信息：Google Vision API的多维度分析"
 date: 2025-04-27T21:26:00+08:00
-tags: ["人工智能", "计算机视觉", "大数据"]
-categories: ["技术前沿"]
+
 cover:
     image: "/images/GoogleVisionAPIImages.jpg" 
     alt: "Google Vision API视觉分析示意图"

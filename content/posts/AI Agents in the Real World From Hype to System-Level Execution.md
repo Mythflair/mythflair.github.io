@@ -1,13 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["互联网", "人工智能", "随笔", "技术随笔"]
 title: "OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力"
 date: 2026-03-30T08:30:00+08:00
 description: "AI Agents in the Real World: From Hype to System-Level Execution"
-tags:
-  - 互联网
-  - 人工智能
-categories:
-  - 随笔
-  - 技术随笔
+
 toc: false
 draft: false
 cover:

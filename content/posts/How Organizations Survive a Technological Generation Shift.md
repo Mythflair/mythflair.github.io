@@ -1,14 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["AI", "Developer", "Programer", "随笔", "随想"]
 title: "企业组织，如何面对技术代际革命？"
 date: 2026-05-19T08:30:00+08:00
 description: "How Organizations Survive a Technological Generation Shift"
-tags:
-  - AI
-  - Developer
-  - Programer
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

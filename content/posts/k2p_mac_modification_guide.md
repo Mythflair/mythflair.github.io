@@ -1,16 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["斐讯K2P", "Padavan", "MAC修改", "硬改", "嵌入式Linux", "网络技术", "极客折腾"]
 title: "斐讯 K2P 硬件级修改无线 MAC 地址全历程复盘与逆向思维实录"
 date: 2026-06-05T08:40:00+08:00
 draft: false
-tags:
-  - "斐讯K2P"
-  - "Padavan"
-  - "MAC修改"
-  - "硬改"
-  - "嵌入式Linux"
-categories:
-  - "网络技术"
-  - "极客折腾"
+
 toc: true
 cover:
     image: "/images/phicomm-k2p.webp"

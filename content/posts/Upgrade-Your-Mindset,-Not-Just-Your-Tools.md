@@ -1,10 +1,12 @@
 ---
+categories: ["技术"]
+tags: ["AI", "思维", "改革", "变化", "创新"]
 title: "法定，术变，技常新 —— AI时代，真正需要升级的，不是工具，而是思维"
 permalink: /posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/
 url: "/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/"
 date: 2026-08-04T08:00:00+08:00
 description: "真正的淘汰，从来不是某种工具淘汰了某种职业，而是拒绝成长的思维方式被时代抛下。  "
-tags: ["AI", "思维", "改革", "变化","创新"]
+
 draft: false
 cover:
   image: "/images/ScreenShot_2026-08-04_160007_020.jpg"

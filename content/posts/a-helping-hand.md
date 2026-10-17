@@ -1,16 +1,12 @@
 ---
+categories: ["生活"]
+tags: ["生活随笔", "承德", "城市"]
 title: "力所能及"
 date: 2026-10-16T10:00:00+08:00
 draft: false
 description: "早晨在流水沟口，一位问路的老人，让我重新留意那些平日匆匆走过的人行道、栏杆和盲道，也想到我们都会老去。"
 summary: "她在用几十年前的记忆，一步一试探地走着今天的路。"
-tags:
-  - "生活随笔"
-  - "承德"
-  - "城市"
-categories:
-  - "承德"
-  - "生活"
+
 showToc: false
 cover: 
     image: "/images/AHelpingHand.webp"

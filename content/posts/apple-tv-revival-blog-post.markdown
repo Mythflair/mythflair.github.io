@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["Apple", "Tech", "Product Design", "Apple TV", "Tech Stories"]
 title: "十多年前的Apple TV复活：那时乔布斯还活着，那时苹果的品控让我惊叹不已 🖥️✨"
 date: 2025-09-19T17:08:00+09:00
 description: "尘封十年的2009年Apple TV竟然还能用！从硬件耐用到软件支持，苹果的产品生命周期设计让人叹为观止。记录我的这次意外发现和对苹果设计理念的思考。 🚀"
-tags: ["Apple", "Tech", "Product Design", "Apple TV"]
-categories: ["Tech Stories"]
+
 draft: false
 cover:
     image: "/images/2025-09-19_172440_077.jpg"

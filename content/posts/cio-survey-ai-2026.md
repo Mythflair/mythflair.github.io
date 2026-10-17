@@ -1,15 +1,13 @@
 ---
+categories: ["技术"]
+tags: ["AI", "CIO", "企业信息化", "大模型"]
 title: "从2026中国CIO调研，看AI进入企业的现实"
 date: 2026-10-15T14:00:00+08:00
 draft: false
 author: "沈楠"
 description: "参与2026中国CIO调研，记录对国内大模型、企业AI投入与实际应用价值的一些思考。"
 summary: "AI百花齐放，企业需要考虑的，是能力、成本与业务价值之间的平衡。"
-tags:
-  - "AI"
-  - "CIO"
-  - "企业信息化"
-  - "大模型"
+
 cover: 
     image: "/images/cio-survey-ai-2026.webp"
     alt: "AI进入企业的现实"

@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["毕业", "自我反思", "人生旅程", "个人成长"]
 title: "毕业之后，拥抱自由：一段人生的回望与展望"
 date: 2021-09-05T12:22:00+08:00
 draft: false
-tags: ["毕业", "自我反思", "人生旅程", "个人成长"]
-categories: ["生活"]
+
 cover:
     image: "/images/obirin.jpg" 
     alt: "毕业之后，拥抱自由：一段人生的回望与展望"

@@ -1,16 +1,12 @@
 ---
+categories: ["生活"]
+tags: ["管理", "组织", "思考", "管理心得"]
 outputs: ["HTML", "Markdown"]
 title: "管理，是一种成全——让正确的事情更容易发生"
 date: 2026-08-27T08:00:00+08:00
 draft: false
 description: "好的管理，是让事情更容易发生"
-categories:
-  - 管理
-tags:
-  - 管理
-  - 组织
-  - 思考
-  - 管理心得
+
 cover:
     image: "/images/ScreenShot_2026-08-27_115919_089.jpg"
     alt: "商业的本质，终究是价值交换，而不是籍贯交换"

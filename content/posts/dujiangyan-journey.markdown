@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["旅行", "冒险", "反思"]
 title: "成都“渡劫”记 🌧️🚆：暴雨、救人与航班波折"
 date: 2025-07-09T17:22:00+08:00
 draft: false
-tags: ["旅行", "冒险", "反思"]
-categories: ["生活"]
+
 description: "记录一次充满暴雨🌧️、救人🏊和航班波折✈️的成都之旅"
 cover:
     image: "/images/20250709174609.png"

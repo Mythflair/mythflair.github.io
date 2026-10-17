@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["诗歌", "哲学", "育儿", "文学"]
 title: "论孩子 - 纪伯伦"
 date: 2025-05-14T11:38:00+08:00
 draft: false
-tags: ["诗歌", "哲学", "育儿"]
-categories: ["文学"]
+
 cover:
   image: '/images/shennan15.jpg'
   alt: '15岁的自己'

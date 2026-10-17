@@ -1,14 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["成人礼", "高三", "高考", "随笔", "随想"]
 title: "在一场“发型不羁”的成人礼上，我看到了教育最高的自信——记儿子十八岁成人礼上的一些真实瞬间”"
 date: 2026-05-11T09:30:00+08:00
 description: "At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw the Greatest Confidence in Education”"
-tags:
-  - 成人礼
-  - 高三
-  - 高考
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

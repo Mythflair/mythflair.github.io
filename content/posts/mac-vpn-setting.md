@@ -1,10 +1,12 @@
 ---
+categories: ["技术"]
+tags: ["macOS", "VPN", "L2TP", "故障排除"]
 title: "MacbookPRO OSX Tahoe 26.0.1 L2TP VPN连接故障排除：快速修复指南🚀"
 date: 2025-10-18T12:05:00+09:00
 description: "Mac L2TP VPN连接失败？记录从无响应到内网畅游的排查：编辑PPP文件禁用IPSec + 全流量路由。附步骤！🔧"
-tags: ["macOS", "VPN", "L2TP", "故障排除"]
+
 draft: false
-categories: ["macOS", "VPN", "L2TP", "故障排除"]
+
 cover: 
   image: "images/2025-10-18_134122_463.jpg"
   alt: "Mac L2TP VPN连接故障排除：快速修复指南"

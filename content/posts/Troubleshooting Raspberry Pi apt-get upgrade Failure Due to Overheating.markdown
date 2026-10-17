@@ -1,10 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["单板机", "树莓派", "Linux"]
 title: "树莓派 apt-get upgrade 失败的故障排查：过热问题"
 date: 2025-05-25T13:34:00+08:00
 description: "树莓派 Upgrade 失败，处理过程"
 draft: false
-tags: ["单板机", "树莓派", "Linux"]
-categories: ["技术"]
+
 cover:
     image: "/images/01374b11639c7611dd1e20c72c7dd8f.jpg" 
     alt: "USB小风扇散热"

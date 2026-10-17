@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["统计学", "消费者分析", "数据科学", "企业决策", "技术分析"]
 title: "统计学中心趋势度量在企业消费者分析中的应用误区与纠正"
 date: 2025-06-18
 author: "SHENNAN 沈楠"
-tags: ["统计学", "消费者分析", "数据科学", "企业决策"]
-categories: ["技术分析"]
+
 math: true
 draft: false
 cover:

@@ -43,6 +43,8 @@
 {{- if .IsHome }}
   {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true }}
+{{- else if and (eq .Kind "section") (eq .Section "posts") }}
+  {{- $pages = where $pages "Params.legacy" "!=" true }}
 {{- else if and (eq .Kind "section") (eq .Section "legacy") }}
   {{- $legacyPages := where site.RegularPages "Params.legacy" true }}
   {{- $legacyPages = where $legacyPages "Lang" .Lang }}
@@ -71,7 +73,7 @@
 <article class="{{ $class }} zisai-entry{{ if and (or .Params.cover.image .Params.cover.video) (not $isHidden) }} zisai-entry--cover{{ end }}">
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <div class="zisai-entry__body">
-    {{- with .Params.categories }}<div class="zisai-entry__kicker">{{ index . 0 }}</div>{{ else }}{{ with .Params.tags }}<div class="zisai-entry__kicker">{{ index . 0 }}</div>{{ end }}{{ end -}}
+    {{- range first 1 (.GetTerms "categories") }}<div class="zisai-entry__kicker">{{ .LinkTitle }}</div>{{ end -}}
   <header class="entry-header">
     <h2 class="entry-hint-parent">
       {{- .Title }}

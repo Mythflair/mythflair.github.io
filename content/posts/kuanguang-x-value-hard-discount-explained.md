@@ -1,17 +1,13 @@
 ---
+categories: ["承德"]
+tags: ["宽广X超值", "硬折扣", "天天低价", "超市升级", "零售观察"]
 title: "宽广X超值：这个“X”是什么意思，这家店有多“硬”？"
 date: 2026-09-17T10:00:00+08:00
 draft: false
 author: "沈楠"
 description: "从品牌里的“X”到硬折扣的经营逻辑，聊聊宽广超市天山店如何通过精选商品、提高效率，让品质低价融入日常购物。"
 slug: "kuanguang-x-value-hard-discount-explained"
-tags:
-  - 宽广X超值
-  - 硬折扣
-  - 天天低价
-  - 超市升级
-categories:
-  - 零售观察
+
 cover:
     image: "/images/ScreenShot_2026-09-17_152735_711.jpg"
     alt: "日本留学时期与现在的个人形象对比"

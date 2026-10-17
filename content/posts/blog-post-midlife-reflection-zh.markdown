@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["人生反思", "中年", "学习", "个人成长"]
 title: "四十不惑，初心不改：毕业后的中年反思"
 date: 2022-05-22T12:31:00+08:00
 draft: false
-tags: ["人生反思", "中年", "学习", "个人成长"]
-categories: ["生活"]
+
 cover:
     image: "/images/kgsn.jpg" 
     alt: "四十不惑，初心不改：毕业后的中年反思"

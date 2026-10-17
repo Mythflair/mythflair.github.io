@@ -1,16 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["零售", "人工智能", "AI落地", "供应链", "门店系统", "零售未来考古"]
 title: "AI 在零售的真实落地"
 subtitle: "从需求预测、自动补货到客服系统的现实边界"
 date: 2026-01-12T09:36:00+09:00
 slug: ai-in-retail-real-practice
-tags:
-  - 零售
-  - 人工智能
-  - AI落地
-  - 供应链
-  - 门店系统
-categories:
-  - 零售未来考古
+
 description: "基于一线零售 IT 管理实践，复盘 AI 在需求预测、自动补货和智能客服中的真实作用，以及它为何更多暴露系统问题而非直接创造效率。"
 draft: false
 cover:

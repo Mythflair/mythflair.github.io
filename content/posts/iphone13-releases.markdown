@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["Iphone", "Apple"]
 title: IPhone17发布了，高度概括一下这一代的特点。 📸✨
 description: IPhone17发布了，由于还在用IPhone13，所以关注了一下，总结下特点。🖼️
 date: 2025-09-11T17:43:00+09:00
 draft: false
-tags: [Iphone, Apple]
+
 cover:
     image: "/images/2025-09-11_184024_923.jpg"
     alt: "IPhone17"

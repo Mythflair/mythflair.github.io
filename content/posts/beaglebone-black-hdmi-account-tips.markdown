@@ -1,9 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["BeagleBone Black", "嵌入式开发", "MicroHDMI", "账号配置", "Debian", "技术分享", "嵌入式系统"]
 title: "BeagleBone Black 补充笔记：MicroHDMI 与账号配置"
 date: 2025-06-15T14:15:00+09:00
 draft: false
-tags: ["BeagleBone Black", "嵌入式开发", "MicroHDMI", "账号配置", "Debian"]
-categories: ["技术分享", "嵌入式系统"]
+
 description: "补充 BeagleBone Black 的 MicroHDMI 接口调试和账号配置经验，解决视频输出与 root 远程登录问题。"
 cover:
     image: "/images/pr_01_1900.jpg" 

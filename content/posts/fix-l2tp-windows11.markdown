@@ -1,8 +1,9 @@
 ---
+categories: ["技术"]
+tags: ["VPN", "Windows 11", "L2TP", "IPsec", "网络配置", "技术分享"]
 title: "修复Windows 11下L2TP/IPsec VPN连接失败问题"
 date: 2025-06-05T21:44:00+08:00
-tags: ["VPN", "Windows 11", "L2TP", "IPsec", "网络配置"]
-categories: ["技术分享"]
+
 author: "SHENNAN 沈楠"
 draft: false
 cover:

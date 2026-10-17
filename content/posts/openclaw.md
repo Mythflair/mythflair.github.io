@@ -1,14 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["OpenClaw", "互联网", "人工智能", "随笔", "职业思考"]
 title: "目前，真心不建议普通人使用 小龙虾 OpenClaw"
 date: 2026-03-11T08:30:00+08:00
 description: "近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。"
-tags:
-  - OpenClaw
-  - 互联网
-  - 人工智能
-categories:
-  - 随笔
-  - 职业思考
+
 toc: false
 draft: false
 cover:

@@ -1,9 +1,11 @@
 ---
+categories: ["生活"]
+tags: ["文化", "社会", "和谐"]
 title: "国泰民安：从国家阅兵到百姓生活的和谐景象 🎉"
 date: 2025-09-03T10:42:00+09:00
 draft: false
 description: "抗战胜利80周年阅兵与百姓生活，展现国家强盛与人民幸福并存的‘国泰民安’意象。🌟"
-tags: ["文化", "社会", "和谐"]
+
 cover:
   image: "/images/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg"
   alt: "国泰民安：从国家阅兵到百姓生活的和谐景象"

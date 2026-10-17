@@ -186,6 +186,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
   motto = "关于沈楠"
   mottoURL = "/about/"
+  aboutURL = "/posts/zisai.com/"
 
 
 # ============================================================
@@ -228,19 +229,19 @@ googleAnalytics = "G-5L9GMDCNHD"
 [[languages.zh-cn.menus.main]]
   identifier = "chengde"
   name = "承德"
-  url = "/tags/承德/"
+  url = "/categories/chengde/"
   weight = 30
 
 [[languages.zh-cn.menus.main]]
   identifier = "life"
   name = "生活"
-  url = "/tags/生活/"
+  url = "/categories/life/"
   weight = 40
 
 [[languages.zh-cn.menus.main]]
   identifier = "tech"
   name = "技术"
-  url = "/tags/技术/"
+  url = "/categories/tech/"
   weight = 50
 
 [[languages.zh-cn.menus.main]]
@@ -252,7 +253,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 [[languages.zh-cn.menus.main]]
   identifier = "about"
   name = "关于"
-  url = "/about/"
+  url = "/posts/zisai.com/"
   weight = 60
 
 
@@ -263,6 +264,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 [taxonomies]
   series = "series"
   tag = "tags"
+  category = "categories"
 
 
 # ============================================================
@@ -330,6 +332,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["ZISAI", "Shen Nan", "Chengde", "Technology", "Everyday life"]
 
 [languages.en.params.zisai]
+  aboutURL = "/about/"
   heroSubtitle = "Landscapes in words. Time leaves its traces."
   heroTitle1 = "Moonlight over Zisai."
   heroTitle2 = "Peace in every home."
@@ -364,6 +367,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["紫塞", "沈楠", "承徳", "技術", "暮らし"]
 
 [languages.ja.params.zisai]
+  aboutURL = "/about/"
   heroSubtitle = "山河を綴り、歳月を刻む。"
   heroTitle1 = "紫塞に月は輝き"
   heroTitle2 = "家々に太平を祝う"

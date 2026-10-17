@@ -1,14 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["心理学", "科学", "流速", "随笔", "随想"]
 title: "如何避免进入“自证陷阱”"
 date: 2026-05-11T08:30:00+08:00
 description: "How to Avoid Falling Into the “Self-Justification Trap”"
-tags:
-  - 心理学
-  - 科学
-  - 流速
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

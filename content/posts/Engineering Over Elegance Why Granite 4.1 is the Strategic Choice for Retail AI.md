@@ -1,14 +1,10 @@
 ---
+categories: ["技术"]
+tags: ["人工智能", "小龙虾", "零售", "随笔", "随想"]
 title: "从“模型崇拜”到“工程落地”：宽广集团基于IBM Granite 4.1构建零售AI中台的思考"
 date: 2026-05-02T08:30:00+08:00
 description: "Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI"
-tags:
-  - 人工智能
-  - 小龙虾
-  - 零售
-categories:
-  - 随笔
-  - 随想
+
 toc: false
 draft: false
 cover:

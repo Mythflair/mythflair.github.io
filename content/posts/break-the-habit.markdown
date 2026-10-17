@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["习惯", "效率", "反思", "博客", "生活感悟"]
 title: "打破习惯的启示：从复制粘贴到手动输入 🚀"
 date: 2025-07-18T09:15:00+08:00
 draft: false
-tags: ["习惯", "效率", "反思", "博客"]
-categories: ["生活感悟"]
+
 cover:
   image: "images/2025-07-18_094022_073.jpg"
   alt: "A light bulb symbolizing a new idea"

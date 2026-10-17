@@ -1,9 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["AI", "图像生成", "漫画", "照片"]
 title: AI图像生成：一条Prompt指令，形成一个新图像。 📸✨
 description: 一条PromPt，融合另外一个图像，生成一个新动作，产生一个新作品。🖼️
 date: 2025-09-07T10:00:00+09:00
 draft: false
-tags: [AI, 图像生成, 漫画, 照片]
+
 cover:
     image: "/images/GeneratedImageSeptember072025-10_30AM.jpeg"
     alt: "图像动作变化"

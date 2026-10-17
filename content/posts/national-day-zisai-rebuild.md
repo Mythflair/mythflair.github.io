@@ -1,15 +1,11 @@
 ---
+categories: ["技术"]
+tags: ["紫塞", "Hugo", "技术", "网站", "随笔"]
 title: "写在紫塞网第28年：技术会变，习惯会留下来"
 date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"
 draft: false
-tags:
-  - 紫塞
-  - Hugo
-  - 技术
-  - 网站
-categories:
-  - 随笔
+
 summary: "这个国庆，我重新折腾了一遍紫塞网。工作是责任，紫塞是自驱。技术、审美、细节，最后都成了一件作品的一部分。"
 cover:
   image: "/images/zisai-national-day-q82.webp"

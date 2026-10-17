@@ -1,4 +1,5 @@
 +++
+categories = ["生活"]
 date = '2024-05-05T16:11:12+08:00'
 draft = false
 title = '如何达到自己的预期目标？'

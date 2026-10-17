@@ -1,9 +1,10 @@
 ---
+categories: ["生活"]
+tags: ["中秋节", "古诗词", "水调歌头", "苏轼", "节日随笔", "生活随笔", "诗词感悟"]
 title: "中秋夜怀古：明月几时有"
 date: 2025-10-06T10:00:00+08:00
 description: "中秋之夜，明月高悬，举杯问天。苏轼的《水调歌头》穿越千年，依然诉说着人间的离合悲欢，也寄托着人们对团圆的美好愿景。"
-tags: ["中秋节", "古诗词", "水调歌头", "苏轼", "节日随笔"]
-categories: ["生活随笔", "诗词感悟"]
+
 cover:
   image: "/images/Gemini_Generated_Image_bosyxbbosyxbbosy.jpg"
   alt: "中秋夜怀古：明月几时有"
