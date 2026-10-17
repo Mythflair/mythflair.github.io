@@ -1,4 +1,5 @@
 ---
+outputs: ["HTML", "Markdown"]
 date: 2024-04-14T13:06:25+08:00
 lastmod: 2026-10-05T16:20:00+08:00
 draft: false

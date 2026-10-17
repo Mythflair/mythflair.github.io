@@ -1,4 +1,5 @@
 +++
+outputs = ["HTML", "Markdown"]
 title = "宽广集团的软件硬件化实践：基于BBB单板机的金融级储值卡高可用架构设计"
 date = "2025-06-16"
 tags = ["软件硬件化", "高可用", "架构设计", "BeagleBone Black", "加密", "Go"]

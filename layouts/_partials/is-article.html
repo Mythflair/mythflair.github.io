@@ -1,0 +1,2 @@
+{{- /* Only editorial pages, excluding utility layouts, describe articles. */ -}}
+{{- return (and .IsPage (in (slice "posts" "legacy") .Section) (not (in (slice "search" "archives" "card") .Layout))) -}}

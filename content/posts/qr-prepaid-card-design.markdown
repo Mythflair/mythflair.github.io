@@ -1,4 +1,5 @@
 ---
+outputs: ["HTML", "Markdown"]
 title: "创新支付体验：二维码储值卡的设计与未来"
 date: 2025-06-11T17:25:00+09:00
 draft: false

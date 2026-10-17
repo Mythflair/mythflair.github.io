@@ -176,8 +176,6 @@ https://zisai.com/#zisai
   "url" .Permalink
   "name" .Title
   "description" (.Description | default (.Summary | plainify | truncate 180))
-  "dateCreated" (.Date.Format "2006-01-02T15:04:05Z07:00")
-  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
   "mainEntity" (dict
     "@id" $personID
   )
@@ -187,6 +185,13 @@ https://zisai.com/#zisai
   "inLanguage" $language
 -}}
 
+
+{{- if not .Date.IsZero }}
+  {{- $profilePage = merge $profilePage (dict "dateCreated" (.Date.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end }}
+{{- if not .Lastmod.IsZero }}
+  {{- $profilePage = merge $profilePage (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end }}
 
 {{/* --------------------------------------------------------
    About 页面 Person 的外部记录
@@ -335,12 +340,16 @@ https://zisai.com/#zisai
    BlogPosting + Person + WebSite
    ======================================================== */}}
 
-{{- else if .IsPage }}
+{{- else if partial "is-article.html" . }}
 
 {{- $articleImage := "" -}}
 
 {{- with .Params.cover.image }}
-  {{- $articleImage = . | absURL -}}
+  {{- if $.Params.cover.relative -}}
+    {{- $articleImage = (path.Join $.RelPermalink .) | absURL -}}
+  {{- else -}}
+    {{- $articleImage = . | absURL -}}
+  {{- end -}}
 {{- else }}
   {{- with .Site.Params.images }}
     {{- with index . 0 }}
@@ -360,8 +369,6 @@ https://zisai.com/#zisai
   )
   "headline" .Title
   "description" (.Description | default (.Summary | plainify | truncate 160))
-  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
   "author" (dict
     "@id" $personID
   )
@@ -374,6 +381,13 @@ https://zisai.com/#zisai
   "inLanguage" $language
 -}}
 
+
+{{- if not .PublishDate.IsZero }}
+  {{- $article = merge $article (dict "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end }}
+{{- if not .Lastmod.IsZero }}
+  {{- $article = merge $article (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end }}
 
 {{- with $articleImage }}
   {{- $article = merge $article (dict
@@ -435,6 +449,21 @@ https://zisai.com/#zisai
 
 <script type="application/ld+json">
 {{ jsonify (dict "indent" "  ") $schema | safeJS }}
+</script>
+
+{{- else }}
+{{- $pageType := "WebPage" -}}
+{{- if eq .Layout "search" }}{{ $pageType = "SearchResultsPage" }}{{ end -}}
+{{- $webpage := dict
+  "@type" $pageType
+  "@id" (printf "%s#webpage" .Permalink)
+  "url" .Permalink
+  "name" .Title
+  "inLanguage" $language
+  "isPartOf" (dict "@id" $websiteID)
+-}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" (slice $webpage $website) | jsonify | safeJS }}
 </script>
 
 {{- end }}

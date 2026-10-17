@@ -16,7 +16,7 @@
   <meta property="og:locale" content="{{ replace . "-" "_" }}">
 {{- end }}
 
-{{- if .IsPage }}
+{{- if partial "is-article.html" . }}
   <meta property="og:type" content="article">
   {{- with .Section }}
     <meta property="article:section" content="{{ . }}">

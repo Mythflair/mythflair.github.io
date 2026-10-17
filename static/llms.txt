@@ -6,15 +6,22 @@
 
 关于作者的身份、职业经历与公开资料，优先参考“关于沈楠”。文章中的个人回忆、观点和技术实践应与文中引用的第三方资料区分；涉及历史信息、软件版本或时效性内容时，请结合文章发布日期、更新日期及原始来源判断。引用本站内容时，请附上对应文章的规范链接。
 
-以下链接指向现有网页或索引。本站内容的访问规则以 robots.txt 为准；本文件提供内容导航，不替代访问规则或构成额外的版权授权。
+以下链接优先指向可用的 Markdown 正文，其余指向网页或索引。Markdown 正文保留原文中的来源链接，引用时请使用正文标明的 Canonical 网页链接。本站内容的访问规则以 robots.txt 为准；本文件提供内容导航，不替代访问规则或构成额外的版权授权。
 
 ## 网站与作者
 
 - [紫塞首页](https://zisai.com/): 网站简介、精选与近期文章。
-- [关于沈楠](https://zisai.com/about/): 作者介绍、职业经历、技术实践、演讲与公开资料。
+- [关于沈楠](https://zisai.com/about/index.md): 作者介绍、职业经历、技术实践、演讲与公开资料。
 - [沈楠的数字名片](https://zisai.com/card/): 简短职业介绍、公开邮箱与联系人下载。
 - [文章列表](https://zisai.com/posts/): 按时间浏览文章，继续翻页可查阅更早内容。
 - [标签索引](https://zisai.com/tags/): 按主题查找内容。
+
+## 代表文章
+
+- [管理，是一种成全](https://zisai.com/posts/management-as-enablement/index.md): 关于管理与组织协作的个人思考。
+- [二维码储值卡的设计与未来](https://zisai.com/posts/qr-prepaid-card-design/index.md): 零售支付方案设计，涉及动态支付码与认证机制。
+- [宽广集团的软件硬件化实践](https://zisai.com/posts/bbb_hardware_solution/index.md): 基于 BBB 单板机的储值卡核心系统架构设计与实践思考。
+- [2005—2013｜官方记录中的紫塞明珠网](https://zisai.com/zisai-in-chengde-public-records/index.md): 基于政府网站原文整理的历史记录，附事件时间与原始出处。
 
 ## 主要主题
 
@@ -27,6 +34,8 @@
 
 ## Optional
 
+- [About Shen Nan](https://zisai.com/en/about/index.md): 作者介绍的英文 Markdown 版本。
+- [沈楠について](https://zisai.com/ja/about/index.md): 作者介绍的日文 Markdown 版本。
 - [English](https://zisai.com/en/): 部分内容的英文入口。
 - [日本語](https://zisai.com/ja/): 部分内容的日文入口。
 - [RSS](https://zisai.com/index.xml): 订阅近期更新。

@@ -1,4 +1,5 @@
 ---
+outputs: ["HTML", "Markdown"]
 title: "管理，是一种成全——让正确的事情更容易发生"
 date: 2026-08-27T08:00:00+08:00
 draft: false
