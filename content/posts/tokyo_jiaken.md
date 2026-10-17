@@ -1,5 +1,6 @@
 ---
 categories: ["生活"]
+tags: ["旅行", "日本", "音乐"]
 title: "日本街头乐队的回忆"
 date: 2025-05-15
 cover:

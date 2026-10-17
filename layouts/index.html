@@ -7,13 +7,14 @@
 {{- if lt (len $pages) 5 }}{{ $latest = first 6 $pages }}{{ end -}}
 {{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
 {{- $cats := slice
-    (dict "key" "chengde" "name" "承德")
-    (dict "key" "life" "name" "生活")
-    (dict "key" "tech" "name" "技术") -}}
+    (dict "key" "chengde" "name" "承德" "taxonomy" "categories")
+    (dict "key" "life" "name" "生活" "taxonomy" "categories")
+    (dict "key" "tech" "name" "技术" "taxonomy" "categories")
+    (dict "key" "travel" "name" "旅行" "taxonomy" "tags") -}}
 {{- $counter := newScratch -}}
 {{- range $cat := $cats -}}
   {{- $count := 0 -}}
-  {{- with site.GetPage (printf "/categories/%s" $cat.name) -}}
+  {{- with site.GetPage (printf "/%s/%s" $cat.taxonomy $cat.name) -}}
     {{- $count = len .RegularPages -}}
   {{- end -}}
   {{- $counter.Set (printf "cat-%s" $cat.key) $count -}}
@@ -140,7 +141,7 @@
         <div class="zisai-cat-grid">
           {{- range $cat := $cats -}}
           {{- if or (eq site.Language.Lang "zh-cn") (gt ($counter.Get (printf "cat-%s" $cat.key)) 0) -}}
-            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ (site.GetPage (printf "/categories/%s" $cat.name)).RelPermalink }}">
+            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ (site.GetPage (printf "/%s/%s" $cat.taxonomy $cat.name)).RelPermalink }}">
               <span class="zisai-cat-card__icon">
                 {{- if eq $cat.key "chengde" -}}
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 19h18v2H3zm2-1V9l7-4 7 4v9h-2v-2H7v2zm4-4h6V9H9z"/></svg>
