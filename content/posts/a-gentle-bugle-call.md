@@ -23,7 +23,7 @@ cover:
   image: "/images/6e6a4ddebb886925ded516e3f78b30d7.webp"
   alt: "军训合唱中吹奏单簧管的大学生插画"
   relative: false
-  hiddenInSingle: true
+  hiddenInSingle: false
 ---
 
 今天，儿子大学军训汇报演出。
