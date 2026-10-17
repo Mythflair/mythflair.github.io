@@ -178,6 +178,8 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 [params.zisai]
 
+  heroImage = "/images/zisai/hero-chengde.jpg"
+
   heroTitle1 = "紫塞歌明月"
   heroTitle2 = "万户庆升平"
   heroSubtitle = "山河入卷，岁月留痕"
