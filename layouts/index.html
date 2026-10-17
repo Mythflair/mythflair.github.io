@@ -186,7 +186,7 @@
           <a href="{{ site.Params.zisai.aboutURL | default "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
         </header>
         <div class="zisai-about-card">
-          {{ partial "zisai-thumbnail.html" (dict "src" "/images/zisai/logo-mark.jpg" "alt" "ZISAI" "loading" "lazy" "sizes" "112px" "widths" (slice 160 240 320)) }}
+          {{ partial "logo.html" (dict "alt" "ZISAI" "loading" "lazy" "width" 112 "height" 112 "sizes" "112px") }}
           <p>{{ $aboutText }}</p>
         </div>
       </section>

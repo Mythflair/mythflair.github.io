@@ -7,7 +7,7 @@
 <body class="digital-card">
   {{ $card := .Params.card }}
   <main class="card-shell">
-    <a class="card-brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "/images/zisai/logo-mark.jpg" | relURL }}" alt="" width="48" height="48"><span>紫塞 <small>ZISAI · SINCE 1998</small></span></a>
+    <a class="card-brand" href="{{ "/" | relURL }}">{{ partial "logo.html" (dict "class" "brand-logo" "width" 48 "height" 48 "sizes" "48px") }}<span>紫塞 <small>ZISAI · SINCE 1998</small></span></a>
     <article class="identity-card" aria-labelledby="card-name">
       <div class="card-topline"><span>PERSONAL CARD</span><span>技术 · 生活 · 承德</span></div>
       <div class="card-person">

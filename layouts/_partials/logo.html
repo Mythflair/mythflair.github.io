@@ -1,0 +1,13 @@
+{{- /* One transparent source for every logo placement. Hugo's generated URLs
+     change with the source content, avoiding stale fixed-path image caches. */ -}}
+{{- $source := resources.Get "images/zisai/logo-mark.png" -}}
+{{- $small := $source.Resize "112x webp q85" -}}
+{{- $medium := $source.Resize "224x webp q85" -}}
+{{- $large := $source.Resize "336x webp q85" -}}
+<img src="{{ $medium.RelPermalink }}"
+     srcset="{{ $small.RelPermalink }} 112w, {{ $medium.RelPermalink }} 224w, {{ $large.RelPermalink }} 336w"
+     sizes="{{ .sizes | default "54px" }}"
+     alt="{{ .alt | default "" }}"
+     width="{{ .width | default 54 }}" height="{{ .height | default 54 }}"
+     {{- with .class }} class="{{ . }}"{{ end }}
+     loading="{{ .loading | default "eager" }}" decoding="async">
