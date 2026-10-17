@@ -94,3 +94,15 @@
 
 - id: zisai_travel
   translation: "Travel"
+
+- id: zisai_legacy
+  translation: "Legacy"
+
+- id: zisai_posts
+  translation: "Articles"
+
+- id: zisai_zisai
+  translation: "ZISAI"
+
+- id: zisai_shennan
+  translation: "Shen Nan"

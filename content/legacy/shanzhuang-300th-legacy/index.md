@@ -13,6 +13,7 @@ tags:
   - "避暑山庄"
   - "承德"
   - "互联网历史"
+  - "紫塞"
 categories:
   - "遗址"
 ShowReadingTime: true

@@ -1,6 +1,6 @@
 ---
 categories: ["技术"]
-tags: ["ZISAI", "Hugo", "Technology", "Websites"]
+tags: ["ZISAI", "Hugo", "Technology", "Websites", "紫塞"]
 title: "ZISAI at 28: Technology Changes, Habits Stay"
 date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"

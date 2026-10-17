@@ -7,15 +7,19 @@
 {{- if lt (len $pages) 5 }}{{ $latest = first 6 $pages }}{{ end -}}
 {{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
 {{- $cats := slice
-    (dict "key" "chengde" "name" "承德" "taxonomy" "categories")
-    (dict "key" "life" "name" "生活" "taxonomy" "categories")
-    (dict "key" "tech" "name" "技术" "taxonomy" "categories")
-    (dict "key" "travel" "name" "旅行" "taxonomy" "tags") -}}
+    (dict "key" "chengde" "name" "承德" "path" "/categories/承德")
+    (dict "key" "life" "name" "生活" "path" "/categories/生活")
+    (dict "key" "tech" "name" "技术" "path" "/categories/技术")
+    (dict "key" "travel" "name" "旅行" "path" "/tags/旅行")
+    (dict "key" "legacy" "name" "遗址" "path" "/legacy")
+    (dict "key" "posts" "name" "文章" "path" "/posts")
+    (dict "key" "zisai" "name" "紫塞" "path" "/tags/紫塞")
+    (dict "key" "shennan" "name" "沈楠" "path" "/tags/沈楠") -}}
 {{- $counter := newScratch -}}
 {{- range $cat := $cats -}}
   {{- $count := 0 -}}
-  {{- with site.GetPage (printf "/%s/%s" $cat.taxonomy $cat.name) -}}
-    {{- $count = len .RegularPages -}}
+  {{- with site.GetPage $cat.path -}}
+    {{- $count = len (partial "listing-pages.html" .) -}}
   {{- end -}}
   {{- $counter.Set (printf "cat-%s" $cat.key) $count -}}
 {{- end -}}
@@ -140,8 +144,9 @@
         </header>
         <div class="zisai-cat-grid">
           {{- range $cat := $cats -}}
-          {{- if or (eq site.Language.Lang "zh-cn") (gt ($counter.Get (printf "cat-%s" $cat.key)) 0) -}}
-            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ (site.GetPage (printf "/%s/%s" $cat.taxonomy $cat.name)).RelPermalink }}">
+          {{- $target := site.GetPage $cat.path -}}
+          {{- if and $target (or (eq site.Language.Lang "zh-cn") (gt ($counter.Get (printf "cat-%s" $cat.key)) 0)) -}}
+            <a class="zisai-cat-card zisai-cat-card--{{ $cat.key }}" href="{{ $target.RelPermalink }}">
               <span class="zisai-cat-card__icon">
                 {{- if eq $cat.key "chengde" -}}
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 19h18v2H3zm2-1V9l7-4 7 4v9h-2v-2H7v2zm4-4h6V9H9z"/></svg>
@@ -155,6 +160,14 @@
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m8 8-4 4 4 4m8-8 4 4-4 4M10 19l4-14"/></svg>
                 {{- else if eq $cat.key "travel" -}}
                   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16a2 2 0 0 1 2 2v8H2v-8a2 2 0 0 1 2-2m4 0V6a4 4 0 1 1 8 0v2" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+                {{- else if eq $cat.key "legacy" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h18v5H3zm2 7h14v10H5zm4 2v2h6v-2z"/></svg>
+                {{- else if eq $cat.key "posts" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 2h10l4 4v16H5zm2 7v2h10V9zm0 4v2h10v-2zm0 4v2h7v-2z"/></svg>
+                {{- else if eq $cat.key "zisai" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h18v18H3zm3 3v3h12V6zm0 6v6h5v-6zm8 0v2h4v-2zm0 4v2h4v-2z"/></svg>
+                {{- else if eq $cat.key "shennan" -}}
+                  <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a5 5 0 1 1 0 10 5 5 0 0 1 0-10m0 12c5 0 9 3 9 7H3c0-4 4-7 9-7"/></svg>
                 {{- end -}}
               </span>
               <div>

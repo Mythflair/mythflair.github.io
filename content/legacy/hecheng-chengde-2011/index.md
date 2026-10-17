@@ -14,6 +14,7 @@ tags:
   - "承德"
   - "和合承德"
   - "遗址"
+  - "紫塞"
 type: "page"
 ShowReadingTime: false
 ShowWordCount: false

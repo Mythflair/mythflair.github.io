@@ -13,6 +13,7 @@ tags:
   - "互联网遗址"
   - "承德"
   - "土豆映像节"
+  - "紫塞"
 categories:
   - "遗址"
 ShowReadingTime: true

@@ -127,3 +127,15 @@
 
 - id: zisai_travel
   translation: "旅行"
+
+- id: zisai_legacy
+  translation: "遗址"
+
+- id: zisai_posts
+  translation: "文章"
+
+- id: zisai_zisai
+  translation: "紫塞"
+
+- id: zisai_shennan
+  translation: "沈楠"

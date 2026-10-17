@@ -14,6 +14,7 @@ tags:
   - "承德"
   - "山庄月中华情"
   - "遗址"
+  - "紫塞"
 type: "page"
 ShowReadingTime: false
 ShowWordCount: false

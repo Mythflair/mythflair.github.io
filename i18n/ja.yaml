@@ -94,3 +94,15 @@
 
 - id: zisai_travel
   translation: "旅"
+
+- id: zisai_legacy
+  translation: "遺跡"
+
+- id: zisai_posts
+  translation: "記事"
+
+- id: zisai_zisai
+  translation: "紫塞"
+
+- id: zisai_shennan
+  translation: "沈楠"
