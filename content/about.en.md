@@ -260,3 +260,11 @@ If you once visited the original ZISAI, or share an interest in technology, Chen
 
 
 *Updated 19 October 2026, aligned with the Chinese profile. Organization names and titles are descriptive translations.*
+
+### Autumn 2026 | A Life Update
+
+This year, I have gradually found a rhythm for writing and sharing. ZISAI is where I keep my everyday notes and reflections; on my WeChat public account, I share a selection of them with a wider audience. Some pieces begin simply as a way to think something through. Reading them again a while later, I can also see how I have changed.
+
+In daily life, I have become more deliberate about making exercise part of my routine. Walking and doing some strength exercises help me set aside time to look after myself outside work. I ran marathons when I was younger; these days, I care more about whether I can sustain these small habits over time.
+
+As my children grow up, I am also coming to understand my role as a father anew. While I still have the ability and resources to help, I want to support them as much as I can, giving them more paths to choose from. Which path they take is ultimately their decision.
