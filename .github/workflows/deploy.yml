@@ -3,15 +3,24 @@ name: Deploy
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: site-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           submodules: recursive
-          fetch-depth: 0 # 确保完整历史，方便子模块同步
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -19,8 +28,35 @@ jobs:
           hugo-version: '0.167.0' # 改为你的本地版本
           extended: true
 
-      - name: Build
-        run: hugo --minify
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build and reject warnings
+        run: hugo --minify --printI18nWarnings --printPathWarnings --panicOnWarning
+
+      - name: Check internal links and assets
+        run: |
+          python -m unittest discover -s scripts -p 'test_*.py'
+          python scripts/check_site.py public
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: validated-site
+          path: public/
+          retention-days: 1
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: validated-site
+          path: public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

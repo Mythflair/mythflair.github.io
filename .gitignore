@@ -6,3 +6,4 @@ server/
 *.tmp
 .codex-preview/
 .hugo-cache/
+__pycache__/
