@@ -1,5 +1,5 @@
 ---
-categories: ["生活"]
+categories: ["生活", "承德"]
 tags: ["Everyday life", "承德", "Cities"]
 title: "A Helping Hand"
 date: 2026-10-16T10:00:00+08:00
