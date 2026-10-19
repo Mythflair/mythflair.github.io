@@ -25,7 +25,7 @@ During the holiday, I spent a night at Muyunshe, a hot-spring retreat opened by 
 
 Compared with the livelier hot-spring resorts along the roadside in Qijia, I actually prefer this place.
 
-The property covers several thousand square meters, with gardens, vegetable plots, tents, hot springs, barbecue areas, and even a basketball court. Everything is spread out naturally, with plenty of space to slow down.
+The property covers five to six thousand square meters, with gardens, vegetable plots, tents, hot springs, barbecue areas, and even a basketball court. Everything is spread out naturally, with plenty of space to slow down.
 
 I stayed for one night and headed home the next day.
 

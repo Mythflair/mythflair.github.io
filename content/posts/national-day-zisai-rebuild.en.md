@@ -1,6 +1,6 @@
 ---
 categories: ["技术"]
-tags: ["ZISAI", "Hugo", "Technology", "Websites", "紫塞"]
+tags: ["ZISAI", "Hugo", "Technology", "Websites", "紫塞", "Essays"]
 title: "ZISAI at 28: Technology Changes, Habits Stay"
 date: 2026-10-04T10:00:00+08:00
 slug: "national-day-zisai-rebuild"
@@ -35,11 +35,11 @@ I may forget the number one day. I am less likely to forget the process of track
 
 Technical details are often like that. The answer may fade; the way you found it stays.
 
-## Work is a responsibility; ZISAI is self-directed
+## Work is a mission; ZISAI is self-directed
 
 I spent much of the holiday sitting at my computer. From the outside, it probably looked much like being at work. It felt quite different.
 
-Work brings goals, deadlines and collaboration. A sense of responsibility drives me to deliver.
+Work feels more like a mission. It brings goals, deadlines and collaboration, and a sense of purpose drives me to deliver.
 
 With ZISAI, nobody tells me what the site should look like or when it needs to be finished. If the hero image feels wrong, I change it. If the logo is almost right, I adjust it again. If I do not understand a problem, I try a few more things.
 

@@ -334,7 +334,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["ZISAI", "Shen Nan", "Chengde", "Technology", "Everyday life"]
 
 [languages.en.params.zisai]
-  aboutURL = "/about/"
+  aboutURL = "/posts/zisai.com/"
   heroSubtitle = "Landscapes in words. Time leaves its traces."
   heroTitle1 = "Moonlight over Zisai."
   heroTitle2 = "Peace in every home."
@@ -342,7 +342,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   motto = "About Shen Nan"
   heroMotto1 = "Since 1998"
   heroMotto2 = "Still curious"
-  aboutText = "ZISAI is a personal space for Chengde, everyday life, technology and memories. Created in 1998 and still evolving."
+  aboutText = "ZISAI records Chengde, everyday life, and reflections on technology and culture in our time. May the landscapes endure and life keep bringing something new."
 
 [[languages.en.menus.main]]
   name = "Home"
@@ -356,8 +356,28 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 [[languages.en.menus.main]]
   name = "About"
-  url = "/about/"
+  url = "/posts/zisai.com/"
+  weight = 60
+
+[[languages.en.menus.main]]
+  name = "Chengde"
+  url = "/categories/chengde/"
   weight = 30
+
+[[languages.en.menus.main]]
+  name = "Life"
+  url = "/categories/life/"
+  weight = 40
+
+[[languages.en.menus.main]]
+  name = "Technology"
+  url = "/categories/tech/"
+  weight = 50
+
+[[languages.en.menus.main]]
+  name = "Internet heritage"
+  url = "/legacy/"
+  weight = 55
 
 [languages.ja.params]
   description = "1998年に始まった承徳のウェブサイト「紫塞」。技術、暮らし、街の記憶を綴ります。"
@@ -369,7 +389,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   keywords = ["紫塞", "沈楠", "承徳", "技術", "暮らし"]
 
 [languages.ja.params.zisai]
-  aboutURL = "/about/"
+  aboutURL = "/posts/zisai.com/"
   heroSubtitle = "山河を綴り、歳月を刻む。"
   heroTitle1 = "紫塞に月は輝き"
   heroTitle2 = "家々に太平を祝う"
@@ -377,7 +397,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   motto = "沈楠について"
   heroMotto1 = "1998年から"
   heroMotto2 = "好奇心とともに"
-  aboutText = "承徳の風景、日々の暮らし、技術と人への思いを綴る個人サイトです。1998年から、少しずつ書き続けています。"
+  aboutText = "承徳、日々の暮らし、そしてこの時代の技術と文化への思いを綴る紫塞 ZISAI。山河がいつまでもあり、暮らしに新しい発見が続きますように。"
 
 [[languages.ja.menus.main]]
   name = "ホーム"
@@ -390,9 +410,29 @@ googleAnalytics = "G-5L9GMDCNHD"
   weight = 20
 
 [[languages.ja.menus.main]]
-  name = "プロフィール"
-  url = "/about/"
+  name = "紫塞について"
+  url = "/posts/zisai.com/"
+  weight = 60
+
+[[languages.ja.menus.main]]
+  name = "承徳"
+  url = "/categories/chengde/"
   weight = 30
+
+[[languages.ja.menus.main]]
+  name = "暮らし"
+  url = "/categories/life/"
+  weight = 40
+
+[[languages.ja.menus.main]]
+  name = "技術"
+  url = "/categories/tech/"
+  weight = 50
+
+[[languages.ja.menus.main]]
+  name = "ネットの足跡"
+  url = "/legacy/"
+  weight = 55
 
 # ============================================================
 # Responsive article covers: expose existing static images to Hugo Pipes
