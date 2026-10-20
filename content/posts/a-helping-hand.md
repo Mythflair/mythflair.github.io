@@ -6,6 +6,7 @@ date: 2026-10-16T10:00:00+08:00
 draft: false
 description: "早晨在流水沟口，一位问路的老人，让我重新留意那些平日匆匆走过的人行道、栏杆和盲道，也想到我们都会老去。"
 summary: "她在用几十年前的记忆，一步一试探地走着今天的路。"
+wechatPublished: true
 
 showToc: false
 cover: 

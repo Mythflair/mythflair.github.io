@@ -5,6 +5,7 @@ lastmod: 2026-10-17T19:30:00+08:00
 draft: false
 description: "儿子在大学军训汇演中，用单簧管吹响了一支与众不同的冲锋号。悠扬的旋律与激昂的独白交织，让我听到了音乐之外的东西。"
 slug: "a-gentle-bugle-call"
+wechatPublished: true
 categories:
   - "生活"
 tags:

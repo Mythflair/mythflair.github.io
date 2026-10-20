@@ -160,3 +160,11 @@ body.dark{--zisai-paper:#17141a;--zisai-ink:#f4ebf2;--zisai-line:rgba(255,255,25
 
 /* Preserve the founding date in both color themes. */
 .dark .zisai-brand__latin small{color:#d8c4dd}
+
+/* 已发表于微信公众号 */
+.wechat-published {
+  display: inline-block;
+  margin-left: 6px;
+  font-size: 14px;
+  line-height: 1;
+}

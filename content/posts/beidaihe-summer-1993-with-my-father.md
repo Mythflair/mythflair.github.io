@@ -7,6 +7,7 @@ categories: ["生活"]
 tags: ["家庭", "父亲", "老照片", "旅行", "北戴河"]
 description: "一张约摄于1993年6月的北戴河合影，留下了十五岁的我和四十二岁的父亲。三十三年后再看照片，才发现父亲比现在的我还要年轻。"
 summary: "技术可以修复影像，却无法让时间倒流。1993年的夏天，父亲坐在我身边。那时候，我们都还年轻。"
+wechatPublished: true
 showToc: false
 cover:
     image: "/images/beidaihe-summer-1993-with-my-father.webp"

@@ -8,6 +8,8 @@ categories: ["生活", "承德"]
 tags: ["承德", "四面钟", "承德大桥", "武烈河", "父亲", "城市记忆", "随笔"]
 description: "承德大桥桥头的四面钟，陪着我从自行车上的童年走到今天。一座报时的建筑，慢慢站进了一座城的记忆里。"
 summary: "小时候看它，是为了知道几点了。如今再看，常常想起坐在自行车上的自己，和前面蹬车的父亲。"
+wechatPublished: true
+
 cover:
   image: "/images/four-faced-clock/clock-by-the-bridge.webp"
   alt: "承德大桥桥头的四面钟，夜色中钟面泛着绿光"

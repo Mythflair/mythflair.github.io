@@ -13,6 +13,8 @@ title: "老房子小酒馆：藏在马市街里的承德味道"
 description: "承德火神庙附近的马市街，有一家开了二十多年的老房子小酒馆。传统熘菜、家常味道，还有一位热情随和的老板，留下了不少朋友相聚的记忆。"
 summary: "一家藏在承德老城区的小馆子，二十多年的烟火气，熟悉的味道，还有人与人之间的那份随和与亲切。"
 
+wechatPublished: true
+
 cover:
   image: "/images/laofangzi.webp"
   alt: "老房子小酒馆"

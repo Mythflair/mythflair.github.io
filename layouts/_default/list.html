@@ -82,8 +82,10 @@
   </div>
   {{- end }}
   {{- if not (.Param "hideMeta") }}
+
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
+    {{- partial "wechat-status.html" . }}
   </footer>
   {{- end }}
   </div>

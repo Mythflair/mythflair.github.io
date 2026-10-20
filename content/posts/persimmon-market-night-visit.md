@@ -6,6 +6,7 @@ date: 2026-10-11T00:38:00+08:00
 draft: false
 description: "再次走进承德甜柿集，从停车难、夜市人潮和摊主对话，聊聊城市烟火气与一个从零到一的商业项目。"
 summary: "一个多月没去甜柿集，停车场已经一位难求。逛夜市、排队买吃的，也聊聊这个新商业街区的来之不易。"
+wechatPublished: true
 
 cover:
   image: "/images/persimmon-market/01.webp"

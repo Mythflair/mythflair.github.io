@@ -7,6 +7,7 @@ draft: false
 author: "沈楠"
 description: "参与2026中国CIO调研，记录对国内大模型、企业AI投入与实际应用价值的一些思考。"
 summary: "AI百花齐放，企业需要考虑的，是能力、成本与业务价值之间的平衡。"
+wechatPublished: true
 
 cover: 
     image: "/images/cio-survey-ai-2026.webp"
