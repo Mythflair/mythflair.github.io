@@ -7,7 +7,10 @@ categories: ["生活", "承德"]
 tags: ["承德", "城市记忆", "人生感悟", "随笔"]
 description: "一场秋雨过后，再望向承德这座小城，学校、旧日工作的楼宇、家与医院，几乎串起了自己大半生的生活轨迹。"
 toc: false
+
 wechatPublished: true
+homePinned: true
+homeWeight: 2
 
 cover:
     image: "/images/chengde-rainy-city-panorama.webp"

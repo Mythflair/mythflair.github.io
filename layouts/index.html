@@ -2,8 +2,26 @@
 {{- $pages := where site.RegularPages "Params.categories" "intersect" (slice "承德" "生活" "技术") -}}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true -}}
 {{- $pages = $pages.ByDate.Reverse -}}
-{{- $featured := first 4 $pages -}}
-{{- $latest := first 6 (after 4 $pages) -}}
+{{/* 首页推荐：固定文章优先，其余按发布时间补齐四篇。 */}}
+{{- $pinnedEntries := slice -}}
+{{- range where $pages "Params.homePinned" true -}}
+  {{- $weight := 9999 -}}
+  {{- if isset .Params "homeweight" -}}
+    {{- $weight = int .Params.homeweight -}}
+  {{- end -}}
+  {{- $pinnedEntries = $pinnedEntries | append (dict "page" . "weight" $weight) -}}
+{{- end -}}
+{{- $featured := slice -}}
+{{- range first 4 (sort $pinnedEntries "weight" "asc") -}}
+  {{- $featured = $featured | append .page -}}
+{{- end -}}
+{{- $remaining := sub 4 (len $featured) -}}
+{{- range first $remaining (where $pages "Params.homePinned" "!=" true) -}}
+  {{- $featured = $featured | append . -}}
+{{- end -}}
+
+{{/* 最新文章排除实际出现在推荐区的文章，避免固定旧文后漏掉新文。 */}}
+{{- $latest := first 6 ($pages | complement $featured) -}}
 {{- if lt (len $pages) 5 }}{{ $latest = first 6 $pages }}{{ end -}}
 {{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
 {{- $cats := slice
@@ -73,7 +91,12 @@
                 {{- range first 1 ($p.GetTerms "categories") }}<span>{{ .LinkTitle }}</span>{{ end -}}
                 <em>{{ with $p.Params.tags }}{{ index . 0 }}{{ else }}ZISAI{{ end }}</em>
               </div>
-              <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+              <h2>
+                <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
+                {{- if $p.Params.homePinned }}
+                <span title="首页固定推荐" aria-label="首页固定推荐">📌</span>
+                {{- end }}
+              </h2>
               <p>{{ $p.Summary | plainify | truncate 60 }}</p>
               <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>{{ i18n "zisai_reading" (dict "Count" $p.ReadingTime) }}{{- partial "wechat-status.html" . -}}</span></div>
             </div>
