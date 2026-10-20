@@ -1,0 +1,49 @@
+{{- if .IsPage -}}
+  {{- $items := slice -}}
+  {{- $homeName := "主页" -}}
+
+  {{- if eq .Language.Lang "en" -}}
+    {{- $homeName = "Home" -}}
+  {{- else if eq .Language.Lang "ja" -}}
+    {{- $homeName = "ホーム" -}}
+  {{- end -}}
+
+  {{/* 按首页、上级栏目、当前文章的顺序生成 */}}
+  {{- range .Ancestors.Reverse -}}
+    {{- $name := .LinkTitle | plainify | strings.TrimSpace -}}
+    {{- if .IsHome -}}
+      {{- $name = $homeName -}}
+    {{- end -}}
+
+    {{- if $name -}}
+      {{- $items = $items | append (dict
+        "@type" "ListItem"
+        "position" (add (len $items) 1)
+        "name" $name
+        "item" .Permalink
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $title := .Title | plainify | strings.TrimSpace -}}
+  {{- if $title -}}
+    {{- $items = $items | append (dict
+      "@type" "ListItem"
+      "position" (add (len $items) 1)
+      "name" $title
+      "item" .Permalink
+    ) -}}
+
+    {{- if ge (len $items) 2 -}}
+      {{- $schema := dict
+        "@context" "https://schema.org"
+        "@type" "BreadcrumbList"
+        "@id" (printf "%s#breadcrumb" .Permalink)
+        "itemListElement" $items
+      -}}
+<script type="application/ld+json">
+{{ $schema | jsonify | safeJS }}
+</script>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

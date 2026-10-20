@@ -2,6 +2,7 @@
 title: "一眼望去，半生光阴"
 date: 2026-10-18T16:28:00+08:00
 draft: false
+
 slug: "chengde-half-a-lifetime-in-one-glance"
 categories: ["生活", "承德"]
 tags: ["承德", "城市记忆", "人生感悟", "随笔"]

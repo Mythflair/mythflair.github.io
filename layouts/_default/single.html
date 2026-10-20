@@ -3,6 +3,7 @@
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
+    {{ partial "breadcrumb-schema.html" . }}
     <h1 class="post-title entry-hint-parent">
       {{ .Title }}
       {{- if .Draft }}
