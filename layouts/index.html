@@ -94,7 +94,7 @@
               <h2>
                 <a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a>
                 {{- if $p.Params.homePinned }}
-                <span title="首页固定推荐" aria-label="首页固定推荐">🉑</span>
+                <span title="首页固定推荐" aria-label="首页固定推荐">🆙</span>
                 {{- end }}
               </h2>
               <p>{{ $p.Summary | plainify | truncate 60 }}</p>
