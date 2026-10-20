@@ -75,7 +75,7 @@
               </div>
               <h2><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
               <p>{{ $p.Summary | plainify | truncate 60 }}</p>
-              <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>{{ i18n "zisai_reading" (dict "Count" $p.ReadingTime) }}{{- partial "wechat-status.html" . }}</span></div>
+              <div class="zisai-meta"><time>{{ $p.Date.Format "2006.01.02" }}</time><span>|</span><span>{{ i18n "zisai_reading" (dict "Count" $p.ReadingTime) }}{{- partial "wechat-status.html" . -}}</span></div>
             </div>
           </article>
         {{- end -}}
@@ -85,7 +85,7 @@
 
   <section class="zisai-magazine">
     <div class="zisai-main-col">
-      <header class="zisai-section-head zisai-section-head--latest">
+      <header class="zisai-section-head zisai-section-head--latest">s
         <div>
           <h2>{{ i18n "zisai_latest" }}</h2>
           <p>{{ i18n "zisai_intro" }}</p>

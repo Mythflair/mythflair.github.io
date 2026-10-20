@@ -168,3 +168,10 @@ body.dark{--zisai-paper:#17141a;--zisai-ink:#f4ebf2;--zisai-line:rgba(255,255,25
   font-size: 14px;
   line-height: 1;
 }
+
+/* 详情页：火箭标记略微下移，与文字对齐 */
+.post-single .post-meta .wechat-published {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+}
