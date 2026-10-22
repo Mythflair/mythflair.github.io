@@ -10,7 +10,7 @@ description: "一场秋雨过后，再望向承德这座小城，学校、旧日
 toc: false
 
 wechatPublished: true
-homePinned: true
+homePinned: false
 homeWeight: 2
 
 cover:

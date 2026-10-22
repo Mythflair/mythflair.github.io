@@ -7,8 +7,8 @@ categories: ["工作"]
 tags: ["人工智能", "零售", "宽广集团", "项目建设", "思维方式"]
 description: "介绍宽广 AI Agent 时，董事长一句“这不就是宽广的豆包嘛”，让原本费力的技术解释有了一个通俗的答案。记录一次人工智能进入零售经营的建设尝试，以及关于技术表达的体会。"
 summary: "我试图把系统的功能和细节讲清楚，董事长却用一句“这不就是宽广的豆包嘛”，让大家明白了。系统建设需要深入，解释它，有时只需要一个恰当的比喻。"
-wechatPublished: false
-homePinned: true
+wechatPublished: true
+homePinned: false
 homeWeight: 1
 
 showToc: false
@@ -46,7 +46,7 @@ cover:
 
 “宽广豆包”这四个字，给了大家一个容易进入的入口。
 
-[宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp](/static/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%88%86%E6%9E%90%E6%9F%90%E5%BA%97%E6%AF%8F%E5%B0%8F%E6%97%B6%E4%BA%A4%E6%98%93%E9%87%8F%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%90%88%E7%90%86%E5%88%86%E9%85%8D%E7%94%A8%E5%B7%A5%E4%BA%BA%E5%8A%9B%E6%95%B0%E9%87%8F.webp)
+[宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%88%86%E6%9E%90%E6%9F%90%E5%BA%97%E6%AF%8F%E5%B0%8F%E6%97%B6%E4%BA%A4%E6%98%93%E9%87%8F%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%90%88%E7%90%86%E5%88%86%E9%85%8D%E7%94%A8%E5%B7%A5%E4%BA%BA%E5%8A%9B%E6%95%B0%E9%87%8F.webp)
 
 ## 让查数据，像提问题一样自然
 
@@ -64,7 +64,7 @@ cover:
 
 使用者不必先学习数据库语言，可以从自己熟悉的业务问题开始。
 
-[宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp](/static/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E8%A7%A3%E8%AF%BB%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%80%9D%E8%80%83%E3%80%81%E6%8F%90%E5%8F%96%E8%BF%87%E7%A8%8B%EF%BC%8C%E7%94%A8%E6%97%B6133%E7%A7%92.webp)
+[宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E8%A7%A3%E8%AF%BB%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%80%9D%E8%80%83%E3%80%81%E6%8F%90%E5%8F%96%E8%BF%87%E7%A8%8B%EF%BC%8C%E7%94%A8%E6%97%B6133%E7%A7%92.webp)
 
 ## 一问一答背后，是不少细活
 
