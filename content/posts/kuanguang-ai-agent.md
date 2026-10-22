@@ -28,7 +28,7 @@ cover:
 
 我一下觉得，前面许多解释，都可以省去了。
 
-![宽广AI Agent用自然语言做会员数据查询返回结果.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%81%9A%E4%BC%9A%E5%91%98%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C.webp)
+![宽广AI Agent用自然语言做会员数据查询返回的结果.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%81%9A%E4%BC%9A%E5%91%98%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E8%BF%94%E5%9B%9E%E7%9A%84%E7%BB%93%E6%9E%9C.webp)
 
 ## 一个名字，让人明白了
 
