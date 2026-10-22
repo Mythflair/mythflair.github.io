@@ -1,6 +1,6 @@
 ---
 title: "我们做了一个“宽广豆包”"
-date: 2026-10-22T00:00:00+08:00
+date: 2026-10-22T13:00:00+08:00
 draft: false
 slug: "kuanguang-ai-agent"
 categories: ["工作"]
