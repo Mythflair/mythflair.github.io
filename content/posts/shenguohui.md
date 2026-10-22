@@ -5,6 +5,10 @@ title: "父亲从江苏走来：留给我的精神故乡"
 date: 2026-07-29T08:00:00+08:00
 description: "这么多年，我一直没有勇气写父亲。不是因为忘记，而是因为那些记忆太过深刻，每一次触碰，都伴随着难以言说的疼痛。  "
 
+wechatPublished: true
+homePinned: true
+homeWeight: 4
+
 draft: false
 cover:
   image: "/images/9a2bad303df9800d1ddd725cf155a541.jpg"
