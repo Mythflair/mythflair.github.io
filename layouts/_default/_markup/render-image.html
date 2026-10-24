@@ -1,0 +1,2 @@
+{{- $image := partial "responsive-image.html" (dict "src" .Destination "page" .Page) -}}
+<img src="{{ $image.src }}"{{ with $image.srcset }} srcset="{{ . }}" sizes="(max-width: 920px) calc(100vw - 48px), 872px"{{ end }}{{ if $image.width }} width="{{ $image.width }}" height="{{ $image.height }}"{{ end }} alt="{{ .Text | plainify }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">

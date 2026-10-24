@@ -11,7 +11,8 @@
     <article class="identity-card" aria-labelledby="card-name">
       <div class="card-topline"><span>PERSONAL CARD</span><span>技术 · 生活 · 承德</span></div>
       <div class="card-person">
-        <img class="card-portrait" src="{{ $card.photo | relURL }}" width="144" height="144" alt="沈楠的个人照片" fetchpriority="high">
+        {{- $portrait := partial "responsive-image.html" (dict "src" $card.photo "page" . "widths" (slice 144 288 432)) -}}
+        <img class="card-portrait" src="{{ $portrait.src }}"{{ with $portrait.srcset }} srcset="{{ . }}" sizes="(max-width: 380px) 100px, 120px"{{ end }} width="144" height="144" alt="沈楠的个人照片" fetchpriority="high" decoding="async">
         <div><p class="card-eyebrow">很高兴认识你</p><h1 id="card-name">{{ $card.name }}</h1><p class="card-english">{{ $card.englishName }}</p></div>
       </div>
       <div class="card-work"><p>{{ $card.company }}</p><p class="card-role">{{ $card.role }}</p></div>

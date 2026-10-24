@@ -1,0 +1,44 @@
+{{- /* Return responsive image attributes; original files remain available. */ -}}
+{{- $src := .src -}}
+{{- $result := dict "src" ($src | relURL) "srcset" "" "width" 0 "height" 0 -}}
+{{- $url := urls.Parse $src -}}
+{{- if and (not $url.Host) (not $url.Scheme) -}}
+  {{- $path := strings.TrimPrefix "/" $url.Path -}}
+  {{- $res := resources.Get $path -}}
+  {{- if and (not $res) .page -}}
+    {{- $res = .page.Resources.GetMatch $path -}}
+  {{- end -}}
+  {{- if and (not $res) .page -}}
+    {{- $res = .page.Resources.GetMatch (path.Base $path) -}}
+  {{- end -}}
+  {{- with $res -}}
+    {{- $result = merge $result (dict "src" .RelPermalink) -}}
+    {{- if reflect.IsImageResourceProcessable . -}}
+      {{- $result = merge $result (dict "width" .Width "height" .Height) -}}
+      {{- /* Keep GIF, APNG and animated WebP originals to avoid losing animation. */ -}}
+      {{- $animated := or (eq .MediaType.SubType "gif") (and (eq .MediaType.SubType "png") (strings.Contains .Content "acTL")) (and (eq .MediaType.SubType "webp") (strings.Contains .Content "ANIM")) -}}
+      {{- if and (in (slice "jpg" "jpeg" "png" "webp") (lower (strings.TrimPrefix "." (path.Ext $path)))) (not $animated) -}}
+        {{- $widths := $.widths | default (slice 480 768 960 1440 1920) -}}
+        {{- $limit := index $widths (sub (len $widths) 1) -}}
+        {{- if and (lt .Width $limit) (not (in $widths .Width)) -}}
+          {{- $widths = $widths | append .Width | sort -}}
+        {{- end -}}
+        {{- $srcset := slice -}}
+        {{- $selected := "" -}}
+        {{- range $width := $widths -}}
+          {{- if le $width $res.Width -}}
+            {{- $image := $res.Resize (printf "%dx webp q%d" $width ($.quality | default 85)) -}}
+            {{- $srcset = $srcset | append (printf "%s %dw" (replace $image.RelPermalink "," "%2C") $image.Width) -}}
+            {{- if or (eq $selected "") (le $width ($.preferred | default 960)) -}}
+              {{- $selected = $image.RelPermalink -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if $selected -}}
+          {{- $result = merge $result (dict "src" $selected "srcset" (delimit $srcset ", ")) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $result -}}

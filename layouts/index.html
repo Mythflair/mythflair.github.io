@@ -43,7 +43,7 @@
 {{- end -}}
 
 <section class="zisai-home zisai-home--v2">
-  {{- $heroImage := site.Params.zisai.heroImage | default "/images/site/hero-chengde.jpg" -}}
+  {{- $heroImage := partial "hero-image.html" . -}}
   <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage | relURL }}')">
     <div class="zisai-hero__veil"></div>
     <div class="zisai-hero__content">
