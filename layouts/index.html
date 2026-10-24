@@ -46,6 +46,7 @@
   {{- $heroImage := partial "hero-image.html" . -}}
   <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage.desktop }}');--zisai-hero-tablet:url('{{ $heroImage.tablet }}');--zisai-hero-mobile:url('{{ $heroImage.mobile }}')">
     <div class="zisai-hero__veil"></div>
+    <div class="zisai-hero__inner">
     <div class="zisai-hero__content">
       <div class="zisai-eyebrow">CHENGDE <span>A BRIGHTER TOMORROW</span></div>
       <h1>{{ site.Params.zisai.heroTitle1 | default "紫塞歌明月" }}<br>{{ site.Params.zisai.heroTitle2 | default "万户庆升平" }}</h1>
@@ -59,6 +60,7 @@
       {{- end -}}
     </div>
 
+    </div>
     <div class="zisai-featured-wrap">
       <div class="zisai-featured">
         {{- range $i, $p := $featured -}}

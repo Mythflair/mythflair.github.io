@@ -3,3 +3,12 @@
 /* Keep the brand visible and controls on a second row. The home header stays
    absolute so the hero background reaches the top; inset only its content. */
 @media(max-width:760px){.zisai-brand__latin{font-size:11px;letter-spacing:.08em}.zisai-brand__latin small{font-size:8px;letter-spacing:.1em;margin-top:1px}.zisai-nav__right{flex:1 1 100%;margin-left:0;justify-content:flex-end}.zisai-header--home{padding-top:env(safe-area-inset-top,0px)}.zisai-hero{padding-top:calc(115px + env(safe-area-inset-top,0px))}}
+
+/* Keep translated menus on one row and override PaperMod's .nav a display. */
+.zisai-nav__right{flex-wrap:nowrap}
+.zisai-nav .zisai-motto-pill{white-space:nowrap;flex-shrink:0}
+html[lang^=en] .zisai-menu a,html[lang^=ja] .zisai-menu a{padding-inline:8px;font-size:14px;letter-spacing:.04em}
+.zisai-nav a[aria-current=page]{color:var(--zisai-purple);background:rgba(125,23,127,.07)}
+.zisai-nav a:focus-visible,.zisai-nav button:focus-visible{outline:2px solid var(--zisai-purple);outline-offset:4px}
+@media(max-width:760px){.zisai-nav .zisai-motto-pill{display:none}.zisai-hero{padding-top:calc(136px + env(safe-area-inset-top,0px))}}
+@media(min-width:1321px) and (max-width:1440px){html[lang^=en] .zisai-nav .zisai-motto-pill{display:none}}

@@ -5,12 +5,13 @@
       <span class="zisai-brand__cn">紫塞</span>
       <span class="zisai-brand__latin">ZISAI.COM<small>SINCE 1998</small></span>
     </a>
-    <button class="zisai-menu-toggle" type="button" aria-label="{{ i18n "zisai_menu" }}" aria-expanded="false" aria-controls="zisai-menu" onclick="this.setAttribute('aria-expanded', this.parentElement.classList.toggle('is-open'))">☰</button>
+    <button class="zisai-menu-toggle" type="button" aria-label="{{ i18n "zisai_menu" }}" aria-expanded="false" aria-controls="zisai-menu">☰</button>
     <div class="zisai-nav__right">
       {{ partial "zisai-languages.html" . }}
       <ul id="zisai-menu" class="zisai-menu">
         {{- range site.Menus.main }}
-        <li><a href="{{ strings.TrimPrefix "/" .URL | absLangURL }}" title="{{ .Title | default .Name }}">{{ .Name }}</a></li>
+        {{- $target := strings.TrimPrefix "/" .URL | absLangURL -}}
+        <li><a href="{{ $target }}"{{ if eq $.Permalink $target }} aria-current="page"{{ end }} title="{{ .Title | default .Name }}">{{ .Name }}</a></li>
         {{- end }}
       </ul>
       <a class="zisai-search" href="{{ "search/" | relLangURL }}" aria-label="{{ i18n "zisai_search" }}">
@@ -42,5 +43,25 @@
     applyTheme(theme);
     try { localStorage.setItem('pref-theme', theme); } catch (_) {}
   };
+  var nav = document.querySelector('.zisai-nav');
+  var menuButton = nav.querySelector('.zisai-menu-toggle');
+  function setMenu(open) {
+    nav.classList.toggle('is-open', open);
+    menuButton.setAttribute('aria-expanded', String(open));
+  }
+  menuButton.addEventListener('click', function () { setMenu(!nav.classList.contains('is-open')); });
+  nav.querySelector('.zisai-menu').addEventListener('click', function (event) {
+    if (event.target.closest('a')) setMenu(false);
+  });
+  document.addEventListener('click', function (event) { if (!nav.contains(event.target)) setMenu(false); });
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && nav.classList.contains('is-open')) {
+      setMenu(false);
+      menuButton.focus();
+    }
+  });
+  window.matchMedia('(min-width: 1321px)').addEventListener('change', function (event) {
+    if (event.matches) setMenu(false);
+  });
 })();
 </script>
