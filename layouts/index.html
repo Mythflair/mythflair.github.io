@@ -44,7 +44,7 @@
 
 <section class="zisai-home zisai-home--v2">
   {{- $heroImage := partial "hero-image.html" . -}}
-  <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage | relURL }}')">
+  <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage.desktop }}');--zisai-hero-tablet:url('{{ $heroImage.tablet }}');--zisai-hero-mobile:url('{{ $heroImage.mobile }}')">
     <div class="zisai-hero__veil"></div>
     <div class="zisai-hero__content">
       <div class="zisai-eyebrow">CHENGDE <span>A BRIGHTER TOMORROW</span></div>

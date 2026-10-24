@@ -1,3 +1,5 @@
 {{- $src := site.Params.zisai.heroImage | default "/images/site/zisai_hero_winter.webp" -}}
-{{- $image := partial "responsive-image.html" (dict "src" $src "widths" (slice 1920) "preferred" 1920) -}}
-{{- return $image.src -}}
+{{- $desktop := partial "responsive-image.html" (dict "src" $src "widths" (slice 1920) "preferred" 1920 "quality" 82) -}}
+{{- $tablet := partial "responsive-image.html" (dict "src" $src "widths" (slice 1280) "preferred" 1280 "quality" 80) -}}
+{{- $mobile := partial "responsive-image.html" (dict "src" $src "widths" (slice 960) "preferred" 960 "quality" 78) -}}
+{{- return (dict "desktop" $desktop.src "tablet" $tablet.src "mobile" $mobile.src) -}}

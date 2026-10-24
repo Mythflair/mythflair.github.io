@@ -1,6 +1,8 @@
 {{- if .IsHome }}
 {{- $heroImage := partial "hero-image.html" . -}}
-<link rel="preload" href="{{ $heroImage | relURL }}" as="image">
+<link rel="preload" href="{{ $heroImage.mobile }}" as="image" media="(max-width: 760px)">
+<link rel="preload" href="{{ $heroImage.tablet }}" as="image" media="(min-width: 761px) and (max-width: 1320px)">
+<link rel="preload" href="{{ $heroImage.desktop }}" as="image" media="(min-width: 1321px)">
 {{- end }}
 <link rel="describedby" href="{{ "llms.txt" | absURL }}" type="text/plain">
 
