@@ -11,6 +11,10 @@
 
 修改位置时，应同时更新正文、各语种封面、页面元数据、站点配置、模板、样式及 Hugo Pipes 中的资源路径。不要手工修改 `public/` 和 `resources/` 中的生成文件。
 
+## 季节主题
+
+四季 Hero 与 Logo 使用 `static/images/site/zisai_hero_<season>.webp`、`zisai_logo_<season>.webp`。在 `hugo.toml` 的 `[params.zisai]` 中，通过 `heroImage`、`logoImage` 两项统一切换；当前使用 `winter` 冬季组合，不按日期自动切换。Logo 的顶部导航、首页关于卡片和数字名片共用同一配置。
+
 ## 自动图片优化
 
 正文中的 Markdown 图片和文章页封面自动生成 480、768、960、1440、1920 像素宽的 WebP 候选图，质量参数为 85；只生成不超过原图宽度的尺寸，小图也会生成原尺寸的 WebP，不会放大。浏览器通过 `srcset` 按显示宽度和屏幕像素密度选择。正文图片延迟加载，文章封面优先加载，并设置图片宽高以减少布局跳动。

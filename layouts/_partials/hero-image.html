@@ -1,3 +1,3 @@
-{{- $src := site.Params.zisai.heroImage | default "/images/site/hero-chengde.jpg" -}}
+{{- $src := site.Params.zisai.heroImage | default "/images/site/zisai_hero_winter.webp" -}}
 {{- $image := partial "responsive-image.html" (dict "src" $src "widths" (slice 1920) "preferred" 1920) -}}
 {{- return $image.src -}}

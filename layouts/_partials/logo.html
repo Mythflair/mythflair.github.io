@@ -1,6 +1,7 @@
 {{- /* One transparent source for every logo placement. Hugo's generated URLs
      change with the source content, avoiding stale fixed-path image caches. */ -}}
-{{- $source := resources.Get "images/site/logo-mark.png" -}}
+{{- $logoPath := site.Params.zisai.logoImage | default "/images/site/zisai_logo_winter.webp" -}}
+{{- $source := resources.Get (strings.TrimPrefix "/" $logoPath) -}}
 {{- $small := $source.Resize "112x webp q85" -}}
 {{- $medium := $source.Resize "224x webp q85" -}}
 {{- $large := $source.Resize "336x webp q85" -}}

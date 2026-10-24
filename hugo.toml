@@ -178,7 +178,8 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 [params.zisai]
 
-  heroImage = "/images/site/hero-chengde.jpg"
+  heroImage = "/images/site/zisai_hero_winter.webp"
+  logoImage = "/images/site/zisai_logo_winter.webp"
 
   heroTitle1 = "紫塞歌明月"
   heroTitle2 = "万户庆升平"
