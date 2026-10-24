@@ -125,7 +125,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   # 默认社交分享图片
   # ----------------------------------------------------------
 
-  images = ["/images/site/zisai-share-q88.jpg"]
+  images = ["/images/site/zisai-share-q88.webp"]
 
 
   # ----------------------------------------------------------
