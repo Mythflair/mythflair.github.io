@@ -179,7 +179,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 [params.zisai]
 
   heroImage = "/images/site/zisai_hero_winter.webp"
-  logoImage = "/images/site/zisai_logo_winter.webp"
+  logoImage = "/images/site/zisai-logo-image-256-q82.webp"
 
   heroTitle1 = "紫塞歌明月"
   heroTitle2 = "万户庆升平"
@@ -198,7 +198,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 [params.assets]
 
-  favicon = "/favicon.ico"
+  favicon = "/favicon.png"
 
   favicon16x16 = "/favicon-16x16.png"
   favicon32x32 = "/favicon-32x32.png"

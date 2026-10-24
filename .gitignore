@@ -1,6 +1,7 @@
 **/.DS_Store
 public/
 resources/
+material/
 server/
 .hugo_build.lock
 *.tmp
