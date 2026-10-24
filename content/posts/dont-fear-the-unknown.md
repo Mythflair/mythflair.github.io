@@ -7,13 +7,13 @@ draft: false
 description: "跟随我的行李箱和跑鞋，探索十余年的旅行与跑步故事，感悟‘不要害怕未知’的哲理。✨"
 
 cover:
-    image: "/images/2025-08-18_122626_596.jpg"
+    image: "/images/dont-fear-the-unknown/2025-08-18_122626_596.jpg"
     alt: "行李箱和跑鞋的旅行故事"
 ---
 
 # 不要害怕未知：行李箱与跑鞋的旅程 🧳🏃‍♂️
 
-![行李箱](/images/2025-08-18_121030_021.jpg)
+![行李箱](/images/dont-fear-the-unknown/2025-08-18_121030_021.jpg)
 
 ## 老伙计：十年的行李箱 🌍
 

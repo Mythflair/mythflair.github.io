@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 showToc: true
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/tudou.webp"
+  image: "/images/2012-chengde-tudou-image-festival/tudou.webp"
   alt: "承德·土豆映像节"
   relative: false
 ---

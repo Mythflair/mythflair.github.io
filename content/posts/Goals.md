@@ -4,7 +4,7 @@ date = '2024-05-05T16:11:12+08:00'
 draft = false
 title = '如何达到自己的预期目标？'
 [cover] 
-    image = '/images/f20ade6c30ce9819190f12fc7753fdd.jpg' 
+    image = '/images/goals/f20ade6c30ce9819190f12fc7753fdd.jpg' 
     alt = '如何达到自己的预期目标？'
 +++
 ### 朋友问，如何达到自己的预期目标？避免错误？

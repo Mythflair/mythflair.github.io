@@ -21,7 +21,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/cai-zhi-da-ying-jia-intro.webp"
+  image: "/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-intro.webp"
   alt: "2004年《才智大赢家》栏目介绍页面"
   relative: false
 ---
@@ -42,27 +42,27 @@ cover:
 
 ### 栏目介绍
 
-![2004年《才智大赢家》栏目介绍，说明节目参与方式及现场选拔流程](/images/history/cai-zhi-da-ying-jia-intro.webp)
+![2004年《才智大赢家》栏目介绍，说明节目参与方式及现场选拔流程](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-intro.webp)
 
 ### 答题规则
 
-![《才智大赢家》答题说明页面，介绍限时答题、单轮积分与累计积分规则](/images/history/cai-zhi-da-ying-jia-rules.webp)
+![《才智大赢家》答题说明页面，介绍限时答题、单轮积分与累计积分规则](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-rules.webp)
 
 ### 留言簿
 
-![《才智大赢家》网站留言簿，保留观众留言与栏目组回复](/images/history/cai-zhi-da-ying-jia-guestbook.webp)
+![《才智大赢家》网站留言簿，保留观众留言与栏目组回复](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-guestbook.webp)
 
 ### 选手积分榜
 
-![《才智大赢家》选手总积分与单轮答题积分排行榜](/images/history/cai-zhi-da-ying-jia-rankings.webp)
+![《才智大赢家》选手总积分与单轮答题积分排行榜](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-rankings.webp)
 
 ### 选手介绍
 
-![《才智大赢家》选手梁枫的个人介绍页面](/images/history/cai-zhi-da-ying-jia-host-profile.webp)
+![《才智大赢家》选手梁枫的个人介绍页面](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-host-profile.webp)
 
 ### 央视《挑战主持人》相关记录
 
-![央视《挑战主持人》网站2004年文章《往期参赛选手至今去向》，其中记录梁枫参加《才智大赢家》并成为栏目主持人](/images/history/cai-zhi-da-ying-jia-cctv-reference.webp)
+![央视《挑战主持人》网站2004年文章《往期参赛选手至今去向》，其中记录梁枫参加《才智大赢家》并成为栏目主持人](/images/cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-cctv-reference.webp)
 
 ## 资料来源
 

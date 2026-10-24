@@ -6,7 +6,7 @@ date: 2025-06-28T22:45:00+08:00
 draft: false
 
 cover:
-    image: "/images/20250628225327.png" 
+    image: "/images/customer_flow_analysis/20250628225327.png" 
     alt: "宽广集团客流分析系统的实施与价值"
 ---
 

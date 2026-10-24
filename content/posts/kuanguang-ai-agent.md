@@ -13,7 +13,7 @@ homeWeight: 1
 
 showToc: false
 cover:
-    image: "/images/kuanguang-ai-agent.webp"
+    image: "/images/kuanguang-ai-agent/kuanguang-ai-agent.webp"
     alt: "宽广豆包标志，将豆包、对话气泡与数据柱状图融为一体"
     caption: "宽广 AI Agent，一个能够查询经营数据的“宽广豆包”。"
 ---
@@ -28,7 +28,7 @@ cover:
 
 我一下觉得，前面许多解释，都可以省去了。
 
-![宽广AI Agent用自然语言做会员数据查询返回的结果.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%81%9A%E4%BC%9A%E5%91%98%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E8%BF%94%E5%9B%9E%E7%9A%84%E7%BB%93%E6%9E%9C.webp)
+![宽广AI Agent用自然语言做会员数据查询返回的结果.webp](/images/kuanguang-ai-agent/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%81%9A%E4%BC%9A%E5%91%98%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E8%BF%94%E5%9B%9E%E7%9A%84%E7%BB%93%E6%9E%9C.webp)
 
 ## 一个名字，让人明白了
 
@@ -46,7 +46,7 @@ cover:
 
 “宽广豆包”这四个字，给了大家一个容易进入的入口。
 
-![宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%88%86%E6%9E%90%E6%9F%90%E5%BA%97%E6%AF%8F%E5%B0%8F%E6%97%B6%E4%BA%A4%E6%98%93%E9%87%8F%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%90%88%E7%90%86%E5%88%86%E9%85%8D%E7%94%A8%E5%B7%A5%E4%BA%BA%E5%8A%9B%E6%95%B0%E9%87%8F.webp)
+![宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp](/images/kuanguang-ai-agent/%E5%AE%BD%E5%B9%BFAI%20Agent%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%88%86%E6%9E%90%E6%9F%90%E5%BA%97%E6%AF%8F%E5%B0%8F%E6%97%B6%E4%BA%A4%E6%98%93%E9%87%8F%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%90%88%E7%90%86%E5%88%86%E9%85%8D%E7%94%A8%E5%B7%A5%E4%BA%BA%E5%8A%9B%E6%95%B0%E9%87%8F.webp)
 
 ## 让查数据，像提问题一样自然
 
@@ -64,7 +64,7 @@ cover:
 
 使用者不必先学习数据库语言，可以从自己熟悉的业务问题开始。
 
-![宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp](/images/%E5%AE%BD%E5%B9%BFAI%20Agent%E8%A7%A3%E8%AF%BB%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%80%9D%E8%80%83%E3%80%81%E6%8F%90%E5%8F%96%E8%BF%87%E7%A8%8B%EF%BC%8C%E7%94%A8%E6%97%B6133%E7%A7%92.webp)
+![宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp](/images/kuanguang-ai-agent/%E5%AE%BD%E5%B9%BFAI%20Agent%E8%A7%A3%E8%AF%BB%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E6%80%9D%E8%80%83%E3%80%81%E6%8F%90%E5%8F%96%E8%BF%87%E7%A8%8B%EF%BC%8C%E7%94%A8%E6%97%B6133%E7%A7%92.webp)
 
 ## 一问一答背后，是不少细活
 

@@ -7,7 +7,7 @@ draft: false
 
 description: "通过丰田、茑屋书店和任天堂的案例，探索创新的本质——差异化、前瞻性和适应需求的进化。"
 cover:
-    image: "/images/v2-7edb67bb5c76e7842fd1af22b85fdd90_1440w.jpg" 
+    image: "/images/the_essence_of_innovation/v2-7edb67bb5c76e7842fd1af22b85fdd90_1440w.jpg" 
     alt: "有感日本企业的创新：做不一样的事"
 ---
 

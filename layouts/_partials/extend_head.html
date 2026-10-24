@@ -1,5 +1,5 @@
 {{- if .IsHome }}
-{{- $heroImage := site.Params.zisai.heroImage | default "/images/zisai/hero-chengde.webp" -}}
+{{- $heroImage := site.Params.zisai.heroImage | default "/images/site/hero-chengde.jpg" -}}
 <link rel="preload" href="{{ $heroImage | relURL }}" as="image">
 {{- end }}
 <link rel="describedby" href="{{ "llms.txt" | absURL }}" type="text/plain">

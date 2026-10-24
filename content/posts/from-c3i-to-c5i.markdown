@@ -7,7 +7,7 @@ description: "从30年前部队的C3I系统到现代C5I，回顾150瓦单边带�
 draft: false
 
 cover: 
-    image: "/images/2025-08-16_170201_830.jpg"
+    image: "/images/from-c3i-to-c5i/2025-08-16_170201_830.jpg"
     alt: "5G通信"
 ---
 

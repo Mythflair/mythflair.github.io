@@ -5,11 +5,11 @@ title: "从单张照片中窥见个人信息：Google Vision API的多维度分�
 date: 2025-04-27T21:26:00+08:00
 
 cover:
-    image: "/images/GoogleVisionAPIImages.jpg" 
+    image: "/images/googlevisionapi/GoogleVisionAPIImages.jpg" 
     alt: "Google Vision API视觉分析示意图"
 ---
 
-![Google Vision API多维度分析示例](/images/GoogleVisionAPIImages.jpg)
+![Google Vision API多维度分析示例](/images/googlevisionapi/GoogleVisionAPIImages.jpg)
 
 在计算机视觉领域，一个突破性进展正在悄然发生：通过**Google Vision API**，我们首次实现了从**单张照片**中系统化提取个人特征信息的能力。这种技术突破不仅限于传统的人脸识别，更开辟了更高维度的分析路径。
 

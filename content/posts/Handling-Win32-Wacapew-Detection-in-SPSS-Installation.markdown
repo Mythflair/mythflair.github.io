@@ -7,7 +7,7 @@ draft: false
 
 description: "个人分享在安装 SPSS 时遇到 Win32/Wacapew.C!ml 检测的经历，包括验证和安全处理步骤，以及 SPSS 软件的简要介绍。"
 cover:
-    image: "/images/33883688.jpg" 
+    image: "/images/handling-win32-wacapew-detection-in-spss-installation/33883688.jpg" 
     alt: "处理 SPSS 安装中的 Win32/Wacapew.C!ml 检测"
 ---
 

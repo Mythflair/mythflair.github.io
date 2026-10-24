@@ -99,7 +99,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   author = "沈楠"
   authorName = "沈楠"
   authorEmail = "mythflair@hotmail.com"
-  authorImage = "/images/shennan-1024-q82.jpg"
+  authorImage = "/images/site/shennan-1024-q82.jpg"
   authorImageTitle = "SHENNAN 沈楠"
   authorImageWidth = 120
   authorImageHeight = 120
@@ -110,7 +110,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
   authorJobTitle = "董事、副总裁、CIO"
   authorDescription = "沈楠，紫塞明珠网（zisai.com）创始人，日本樱美林大学信息学硕士，现任承德宽广控股集团董事、副总裁、CIO，长期从事通信网络、互联网、软件工程、企业信息化与零售数字化实践。"
-  authorSchemaImage = "/images/shennan-1024-q82.jpg"
+  authorSchemaImage = "/images/site/shennan-1024-q82.jpg"
 
   authorSameAs = [
     # github
@@ -125,7 +125,7 @@ googleAnalytics = "G-5L9GMDCNHD"
   # 默认社交分享图片
   # ----------------------------------------------------------
 
-  images = ["/images/zisai-share-q88.jpg"]
+  images = ["/images/site/zisai-share-q88.jpg"]
 
 
   # ----------------------------------------------------------
@@ -178,7 +178,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 [params.zisai]
 
-  heroImage = "/images/zisai/hero-chengde.jpg"
+  heroImage = "/images/site/hero-chengde.jpg"
 
   heroTitle1 = "紫塞歌明月"
   heroTitle2 = "万户庆升平"
@@ -436,7 +436,7 @@ googleAnalytics = "G-5L9GMDCNHD"
 
 # ============================================================
 # Responsive article covers: expose existing static images to Hugo Pipes
-# Keep static/images mounted to preserve old URLs.
+# Mount organized static/images for responsive image processing.
 # ============================================================
 [module]
   [[module.mounts]]

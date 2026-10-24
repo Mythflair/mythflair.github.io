@@ -10,7 +10,7 @@ wechatPublished: true
 
 showToc: false
 cover: 
-    image: "/images/AHelpingHand.webp"
+    image: "/images/a-helping-hand/AHelpingHand.webp"
     alt: "清晨，一位老人沿着盲道缓缓前行"
 ---
 
@@ -42,7 +42,7 @@ cover:
 
 “谢谢您，祝您发大财、长命百岁，活到一百岁。”
 
-![清晨，一位老人沿着盲道缓缓前行](/images/AHelpingHand.webp)
+![清晨，一位老人沿着盲道缓缓前行](/images/a-helping-hand/AHelpingHand.webp)
 
 *AI生成配图，非现场照片。*
 

@@ -6,7 +6,7 @@ date: 2025-10-05T10:00:00+08:00
 description: "IT is often overlooked in traditional businesses. Like air, it provides the foundations for operations, innovation and growth. This reflection explores its practical value and strategic role."
 
 cover:
-  image: "/images/2025-10-05_154813_536.jpg"
+  image: "/images/it-like-air/2025-10-05_154813_536.jpg"
   alt: "IT is like air"
 summary: "Invisible systems keep orders, inventory, payments and decisions moving. IT’s purpose is to give a business the ability to keep breathing."
 slug: "it-like-air"

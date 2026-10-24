@@ -7,7 +7,7 @@ draft: false
 
 description: 探讨宽广集团在新零售时代下的转型路径，结合其信息化优势与传统零售基因的挑战，展望未来智能化与科技驱动的零售新生态。
 cover: 
-    image: "/images/07fc4aae4b4d68ff9bdcd8627b55d2b.jpg" 
+    image: "/images/transformation_of_traditional_fmcg_retail_insights_from_kuangguang_group/07fc4aae4b4d68ff9bdcd8627b55d2b.jpg" 
     alt: "传统快消品零售超市行业转型思考：以宽广集团为例"
 ---
 

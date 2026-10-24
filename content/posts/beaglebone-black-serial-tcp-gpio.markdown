@@ -7,7 +7,7 @@ draft: false
 
 description: "记录使用 BeagleBone Black 实现串口服务器 TCP 数据采集、屏幕输出及 GPIO 控制红黄绿灯的开发过程，分享踩坑经验与解决方案。"
 cover:
-    image: "/images/v2-1c7cfd932d637812f57f33699360243e_1440w.jpg" 
+    image: "/images/beaglebone-black-serial-tcp-gpio/v2-1c7cfd932d637812f57f33699360243e_1440w.jpg" 
     alt: "BeagleBone Black 开发笔记：串口 TCP 数据采集与 GPIO 告警控制"
 ---
 

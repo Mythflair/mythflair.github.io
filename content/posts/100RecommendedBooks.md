@@ -6,7 +6,7 @@ draft = false
 title = '100本激发思考的书籍推荐'
 
 [cover] 
-    image = '/images/0a9bfb9c22a04408a17ccea1d685cac6.jpg' 
+    image = '/images/100recommendedbooks/0a9bfb9c22a04408a17ccea1d685cac6.jpg' 
     alt = '优化涉密案件证据数据分析方案'
 +++
 

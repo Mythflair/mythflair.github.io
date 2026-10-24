@@ -7,7 +7,7 @@ date: 2025-06-05T21:44:00+08:00
 author: "SHENNAN 沈楠"
 draft: false
 cover:
-    image: "/images/Configuration_examples_l2tp_over_ipsec_scheme.jpg" 
+    image: "/images/fix-l2tp-windows11/Configuration_examples_l2tp_over_ipsec_scheme.jpg" 
     alt: "修复Windows 11下L2TP/IPsec VPN连接失败问题"
 ---
 

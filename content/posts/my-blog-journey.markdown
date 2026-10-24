@@ -7,7 +7,7 @@ draft: false
 
 description: "记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。"
 cover:
-    image: "/images/2025-07-09_080523_075.jpg" 
+    image: "/images/my-blog-journey/2025-07-09_080523_075.jpg" 
     alt: "紫塞zisai.com博客：坚持写作与技术DIY的思考"
 ---
 

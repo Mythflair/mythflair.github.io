@@ -7,7 +7,7 @@ draft: false
 
 description: "补充 BeagleBone Black 的 MicroHDMI 接口调试和账号配置经验，解决视频输出与 root 远程登录问题。"
 cover:
-    image: "/images/pr_01_1900.jpg" 
+    image: "/images/beaglebone-black-hdmi-account-tips/pr_01_1900.jpg" 
     alt: "BeagleBone Black 补充笔记：MicroHDMI 与账号配置"
 ---
 

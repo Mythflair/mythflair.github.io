@@ -8,7 +8,7 @@ description: "How Organizations Survive a Technological Generation Shift"
 toc: false
 draft: false
 cover:
-  image: "/images/ChatGPT Image 14_54_21.jpg"
+  image: "/images/how-organizations-survive-a-technological-generation-shift/ChatGPT Image 14_54_21.jpg"
   alt: "How Organizations Survive a Technological Generation Shift"
 ---
 

@@ -9,7 +9,7 @@ draft = false
 
 description = "一次由储值卡核心加解密程序授权故障引发的深度思考，探讨如何通过将核心软件功能固化到单板计算机（SBC）中，打造一个稳定、可靠且具备商业潜力的硬件级解决方案。"
 [cover] 
-    image = "/images/BBBdanbanji.png" 
+    image = "/images/bbb_hardware_solution/BBBdanbanji.png" 
     alt = "“软件硬件化”：用 BeagleBone Black 打造高可用的加密认证核心"
 +++
 

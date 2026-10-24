@@ -8,7 +8,7 @@ description: "AI-Powered Retail Decision Making: From Intuition to Data-Driven P
 toc: false
 draft: false
 cover:
-  image: "/images/2026-04-30_190752_995.jpg"
+  image: "/images/openclaw-chooes/2026-04-30_190752_995.jpg"
   alt: "AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection"
 ---
 

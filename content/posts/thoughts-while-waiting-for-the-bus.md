@@ -8,7 +8,7 @@ draft: false
 
 toc: true
 cover:
-    image: "/images/2025-10-22_104448_236.jpg"
+    image: "/images/thoughts-while-waiting-for-the-bus/2025-10-22_104448_236.jpg"
     alt: "公交车"
 ---
 
@@ -18,7 +18,7 @@ cover:
 
 抛开司机不谈，看着略显拥挤的车厢，没赶上这趟车，略显失落。看来并非努力奔跑就可以有结果。
 
-![](/images/2025-10-22_104506_967.jpg)
+![](/images/thoughts-while-waiting-for-the-bus/2025-10-22_104506_967.jpg)
 
 失落之余，向来车方向眺望，居然紧跟了一辆1路公交车，要知道1路车的间隔可是不短，这算是幸运么？
 

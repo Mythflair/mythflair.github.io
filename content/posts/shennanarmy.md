@@ -6,7 +6,7 @@ date = 2025-05-12T11:00:00+08:00
 draft = true
 
 [cover] 
-    image = '/images/shennan17.png' 
+    image = '/images/shennanarmy/shennan17.png' 
     alt = '我的军旅生涯：五年沉甸甸的回忆'
 +++
 

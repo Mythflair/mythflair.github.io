@@ -9,7 +9,7 @@ description: "1994年，父亲不顾家人反对，花费1.8万元给我买了�
 toc: false
 draft: false
 cover:
-  image: "/images/2026-01-29_180720_311.jpg"
+  image: "/images/it-30-years/2026-01-29_180720_311.jpg"
   alt: "宽广十二年"
 ---
 

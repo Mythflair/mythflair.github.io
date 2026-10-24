@@ -7,7 +7,7 @@ draft: false
 
 description: "本文详细介绍了宽广集团在物联网建设中的实践经验，涵盖网络建设、数据库选择、边缘计算、数据展示等方面，并分析了后期优化与合作模式的选择。"
 cover:
-    image: "/images/iotworlds_what_is_iot.jpg" 
+    image: "/images/iot-construction-guide/iotworlds_what_is_iot.jpg" 
     alt: "宽广集团物联网建设实践与优化"
 ---
 

@@ -7,7 +7,7 @@ draft: false
 
 description: "探索INFJ人格在IT领域的孤独创造，剖析时间晶体锻造与非典型成功的价值，守护人类痛苦的清醒。"
 cover:
-    image: "/images/2025-06-20_102427_359.jpg"
+    image: "/images/infj_think/2025-06-20_102427_359.jpg"
     alt: "锻造时间晶体：INFJ的先知困境与IT苦修者的价值绿洲"
 ---
 

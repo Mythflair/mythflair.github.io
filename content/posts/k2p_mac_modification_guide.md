@@ -7,7 +7,7 @@ draft: false
 
 toc: true
 cover:
-    image: "/images/phicomm-k2p.webp"
+    image: "/images/k2p_mac_modification_guide/phicomm-k2p.webp"
     alt: "斐讯K2P设备"
 ---
 

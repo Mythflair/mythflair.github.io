@@ -4,7 +4,7 @@ date = '2024-05-06T11:46:35+08:00'
 draft = false
 title = '没有是非观的人，可能会更成功。'
 [cover] 
-    image = '/images/constellation.jpg' 
+    image = '/images/constellation/constellation.jpg' 
     alt = '没有是非观的人，可能会更成功。'
 +++
 ### 没有是非观的人，可能会更成功。

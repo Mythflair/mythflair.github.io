@@ -6,7 +6,7 @@ date: 2025-07-08T10:11:00+08:00
 draft: false
 
 cover:
-    image: "/images/2025-07-08_102541_134.jpg"
+    image: "/images/flight-nightmare/2025-07-08_102541_134.jpg"
     alt: "华夏航空的噩梦：欺骗与失望"
 ---
 

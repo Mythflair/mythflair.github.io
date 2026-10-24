@@ -7,7 +7,7 @@ draft: false
 description: "从一场区域零售舆情出发，谈消费者批评、地域叙事、商业竞争、企业自省，以及传统零售真正应该面对的问题。"
 
 cover:
-    image: "/images/ScreenShot_2026-08-16_212458_438.jpg"
+    image: "/images/consumers-are-not-fools-retail-pr-reflection/ScreenShot_2026-08-16_212458_438.jpg"
     alt: "商业的本质，终究是价值交换，而不是籍贯交换"
 ---
 

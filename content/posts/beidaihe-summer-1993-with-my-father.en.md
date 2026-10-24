@@ -9,7 +9,7 @@ description: "A photograph taken around June 1993 shows me at fifteen beside my 
 summary: "Technology can restore a photograph, but it cannot turn back time. In the summer of 1993, my father sat beside me. We were both still young."
 showToc: false
 cover:
-    image: "/images/beidaihe-summer-1993-with-my-father.webp"
+    image: "/images/beidaihe-summer-1993-with-my-father/beidaihe-summer-1993-with-my-father.webp"
     alt: "Around June 1993, Beidaihe, Qinhuangdao: my father and me, after photo restoration."
     caption: "Around June 1993, Beidaihe, Qinhuangdao: my father and me, after photo restoration."
 lastmod: 2026-10-19T12:00:00+08:00

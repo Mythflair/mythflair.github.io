@@ -7,6 +7,6 @@ title: "🙈 秋阴不散霜飞晚，留得枯荷听雨声"
     #params:
     #  icon: "fas fa-book"
 cover:
-    image: "/images/mononoaware.jpg"
+    image: "/images/mononoaware/mononoaware.jpg"
     alt: "mononoaware物哀"
 ---

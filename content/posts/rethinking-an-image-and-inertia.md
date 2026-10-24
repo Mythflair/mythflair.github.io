@@ -8,7 +8,7 @@ tags: ["紫塞", "思维惯性", "创新", "网站", "随笔"]
 description: "优化紫塞网首页图片时，一个“为什么不去掉”的念头，让我重新审视习以为常的前提，以及持续改进与重新选择之间的关系。"
 summary: "我一直在想如何优化它，却没有再问，它是不是必要的。一张首页图片的取舍，让我想到经验、习惯，以及重新理解问题的可能。"
 cover:
-  image: "/images/rethinking-an-image-and-inertia.webp"
+  image: "/images/rethinking-an-image-and-inertia/rethinking-an-image-and-inertia.webp"
   alt: "承德山水主题插画，湖水、亭台、寺庙与远山映在晚霞之中"
   relative: false
 ---

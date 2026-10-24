@@ -6,7 +6,7 @@ date: 2025-07-18T08:59:00+08:00
 draft: false
 
 cover:
-    image: "/images/2025-07-18_090931_598.jpg"
+    image: "/images/suggestion-for-service-feedback/2025-07-18_090931_598.jpg"
     alt: "二维码工牌"
 ---
 

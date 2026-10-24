@@ -7,7 +7,7 @@ draft: false
 description: "在行业不确定性加剧的背景下，传统零售商业集团如何通过向内生长，完成一次真正意义上的转型升级。"
 
 cover:
-    image: "/images/IMG_4858.JPG"
+    image: "/images/how-retail-groups-transform-in-times-of-uncertainty/IMG_4858.JPG"
     alt: "鄂尔多斯百货协会分享"
 ---
 

@@ -8,7 +8,7 @@ slug: "chengde-elephant-slide-childhood-memory"
 description: "从避暑山庄里的大象滑梯出发，借助老照片、记忆与AI，重新拼起几代承德人的童年。"
 
 cover:
-    image: "/images/ScreenShot_2026-09-29_163241_526.webp"
+    image: "/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163241_526.webp"
     alt: "避暑山庄里的大象滑梯"
 ---
 
@@ -46,7 +46,7 @@ cover:
 
 **登月火箭，还有那座大象滑梯。**
 
-![儿童乐园里的大象滑梯](/images/ScreenShot_2026-09-29_163501_120.jpg)
+![儿童乐园里的大象滑梯](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163501_120.jpg)
 
 动物园里的那些动物，也足够大家聊上很久。
 
@@ -62,7 +62,7 @@ cover:
 
 走进去，对成年人来说是在看古迹；对小孩子来说，却完全是另外一个世界。
 
-![春游时的儿童乐园](/images/ScreenShot_2026-09-29_163522_004.jpg)
+![春游时的儿童乐园](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163522_004.jpg)
 
 哪里能跑，哪里有动物，哪里有滑梯，哪里可以买吃的，这些才是我们真正关心的事。
 
@@ -76,7 +76,7 @@ cover:
 
 ## 后来，那个儿童乐园慢慢消失了
 
-![避暑山庄成为世界文化遗产](/images/ScreenShot_2026-09-29_163545_678.jpg)
+![避暑山庄成为世界文化遗产](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163545_678.jpg)
 
 1994年，承德避暑山庄及其周围寺庙正式列入世界文化遗产名录。
 
@@ -98,7 +98,7 @@ cover:
 
 这几天晚上，我开始在网上找资料。
 
-![寻找老照片和资料](/images/ScreenShot_2026-09-29_163606_690.jpg)
+![寻找老照片和资料](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163606_690.jpg)
 
 找老照片，翻过去的图片，也努力回忆它原来的样子。
 
@@ -112,7 +112,7 @@ cover:
 
 然后又一点点把周围的环境补回来。
 
-![AI复原的大象滑梯与周边场景](/images/ScreenShot_2026-09-29_163628_143.jpg)
+![AI复原的大象滑梯与周边场景](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163628_143.jpg)
 
 远处，是当年的青少年宫，也就是避暑山庄宫殿一带的建筑。
 
@@ -128,7 +128,7 @@ cover:
 
 它未必百分之百符合当年的真实比例和位置，但我希望第一眼看到它的人，能够马上想起来：
 
-![记忆中的大象滑梯](/images/ScreenShot_2026-09-29_163652_259.jpg)
+![记忆中的大象滑梯](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163652_259.jpg)
 
 **“对，就是这个。”**
 
@@ -148,7 +148,7 @@ AI 会随意改变人物的动作，也会改变建筑的形状。
 
 做完以后，我把它发到了视频号。
 
-![Final Cut Pro后期调整](/images/ScreenShot_2026-09-29_163720_668.jpg)
+![Final Cut Pro后期调整](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163720_668.jpg)
 
 原本只是想记录一下自己的这段记忆。
 
@@ -168,7 +168,7 @@ AI 会随意改变人物的动作，也会改变建筑的形状。
 
 还有人说，当年学校春游，就去那里。
 
-![不同年龄的人隔着屏幕回忆童年](/images/ScreenShot_2026-09-29_163740_342.jpg)
+![不同年龄的人隔着屏幕回忆童年](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163740_342.jpg)
 
 其中有一位已经80岁的老人，也留下了一段很长的回忆。
 
@@ -192,7 +192,7 @@ AI 会随意改变人物的动作，也会改变建筑的形状。
 
 大家一下子又回到了小时候。
 
-![记忆跨越时间重新被唤醒](/images/ScreenShot_2026-09-29_163802_321.jpg)
+![记忆跨越时间重新被唤醒](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163802_321.jpg)
 
 ## 这也许就是 AI 真正有意思的地方
 

@@ -8,11 +8,11 @@ description: "无论是在家庭里，还是在组织中，我始终有一个非
 toc: false
 draft: false
 cover:
-  image: "/images/2026-01-28_122509_656.jpg"
+  image: "/images/give_young_people_a_chance/2026-01-28_122509_656.jpg"
   alt: "给年轻人多一点机会：一个运营商与网易合作的经典往事"
 ---
 
-![](/images/2026-01-28_123832_103.jpg)
+![](/images/give_young_people_a_chance/2026-01-28_123832_103.jpg)
 
 无论是在家庭里，还是在组织中，我始终有一个非常坚定的判断：
 

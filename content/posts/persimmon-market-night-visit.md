@@ -9,7 +9,7 @@ summary: "一个多月没去甜柿集，停车场已经一位难求。逛夜市�
 wechatPublished: true
 
 cover:
-  image: "/images/persimmon-market/01.webp"
+  image: "/images/persimmon-market-night-visit/01.webp"
   alt: "甜柿集夜市"
 ---
 
@@ -26,7 +26,7 @@ cover:
 嚯，原来冷冷清清的地方，现在真是人气爆棚。
 
 <!-- 图片 02：奥体中心停车场 -->
-![奥体中心停车场](/images/persimmon-market/02.webp)
+![奥体中心停车场](/images/persimmon-market-night-visit/02.webp)
 
 奥体中心那么大的地方，行人如织，车水马龙。
 
@@ -43,7 +43,7 @@ cover:
 摩肩接踵，知道吧？小学时候学过的词儿，今天算是有了切身体会。肩膀挨着肩膀，想快走两步都费劲。
 
 <!-- 图片 03：夜市人流 -->
-![甜柿集人流](/images/persimmon-market/03.webp)
+![甜柿集人流](/images/persimmon-market-night-visit/03.webp)
 
 要知道，这地方几个月前还是一圈冷冷清清的荒地。
 
@@ -58,7 +58,7 @@ cover:
 结果，好家伙，几乎每走几步，就能看见有人举着手机直播。
 
 <!-- 图片 04：商户直播 -->
-![甜柿集商户直播](/images/persimmon-market/04.webp)
+![甜柿集商户直播](/images/persimmon-market-night-visit/04.webp)
 
 看来，宣传这事儿，商户们自己已经干起来了。
 
@@ -73,7 +73,7 @@ cover:
 扫码付完款，显示我排20号，现在做到12号。
 
 <!-- 图片 05：扫码排队 -->
-![小吃摊扫码排队](/images/persimmon-market/05.webp)
+![小吃摊扫码排队](/images/persimmon-market-night-visit/05.webp)
 
 得，前面还有八个人。
 
@@ -90,7 +90,7 @@ cover:
 这是原话。
 
 <!-- 图片 06：忙碌的小吃摊位 -->
-![忙碌的小吃摊位](/images/persimmon-market/06.webp)
+![忙碌的小吃摊位](/images/persimmon-market-night-visit/06.webp)
 
 我差点笑出来。
 
@@ -107,7 +107,7 @@ cover:
 摊主笑笑：“那得给钱啊。”
 
 <!-- 图片 07：集装箱商铺、网红餐车 -->
-![甜柿集商铺与餐车](/images/persimmon-market/07.webp)
+![甜柿集商铺与餐车](/images/persimmon-market-night-visit/07.webp)
 
 也是。
 
@@ -128,7 +128,7 @@ cover:
 这几年做商业不容易。
 
 <!-- 图片 08：街区全景 -->
-![甜柿集街区全景](/images/persimmon-market/08.webp)
+![甜柿集街区全景](/images/persimmon-market-night-visit/08.webp)
 
 承德也尝试过不少商业创新，有的热闹一时，有的始终不温不火，还有一些，最终没能坚持下来。
 
@@ -141,19 +141,19 @@ cover:
 从项目定位、商业模式、招商组织，到空间规划、资金投入、施工建设、后续运营，很多事情都要重新摸索。
 
 <!-- 图片 09：街区设施与商业场景 -->
-![甜柿集商业场景](/images/persimmon-market/09.webp)
+![甜柿集商业场景](/images/persimmon-market-night-visit/09.webp)
 
 这是一次真正意义上的从零到一。
 
 甜柿集是宽广集团打造的一个全新的商业项目。
 
 <!-- 图片 10：商业街区场景 -->
-![甜柿集商业街区](/images/persimmon-market/10.webp)
+![甜柿集商业街区](/images/persimmon-market-night-visit/10.webp)
 
 这不是简单的小吃街，也不是把几百个商户聚在一起就能简单做到的。
 
 <!-- 图片 11：夜市景观 -->
-![甜柿集夜市景观](/images/persimmon-market/11.webp)
+![甜柿集夜市景观](/images/persimmon-market-night-visit/11.webp)
 
 真正不容易的，是从无到有创造一个新的商业场景，并且让消费者愿意来。
 
@@ -168,7 +168,7 @@ cover:
 **良好的营商环境，给了企业敢于投入的底气。**
 
 <!-- 图片 12：甜柿集夜景 -->
-![甜柿集夜景](/images/persimmon-market/12.webp)
+![甜柿集夜景](/images/persimmon-market-night-visit/12.webp)
 
 几个月前还是门可罗雀，如今成了灯火通明、人流如织的特色商业街区。
 
@@ -183,7 +183,7 @@ cover:
 人多是一回事，能不能一直有人，是另一回事。
 
 <!-- 图片 13：夜市活动与人气 -->
-![甜柿集夜间人气](/images/persimmon-market/13.webp)
+![甜柿集夜间人气](/images/persimmon-market-night-visit/13.webp)
 
 对于运营主体宽广集团来说，真正的考验，或许才刚刚开始。
 
@@ -204,7 +204,7 @@ cover:
 还要不断创造值得拍照、值得分享的场景，让人每次来，都能发现一点新东西。
 
 <!-- 图片 14：特色活动及打卡场景 -->
-![甜柿集特色活动](/images/persimmon-market/14.webp)
+![甜柿集特色活动](/images/persimmon-market-night-visit/14.webp)
 
 但归根结底，热闹只是开始。
 
@@ -225,7 +225,7 @@ cover:
 看着那些举着手机直播的年轻人、带着孩子逛街的家长，还有排着队等小吃的顾客，我突然觉得，城市的烟火气，有时候就是这样一点点聚起来的。
 
 <!-- 图片 15：市民逛街和夜市氛围 -->
-![甜柿集市民夜游](/images/persimmon-market/15.webp)
+![甜柿集市民夜游](/images/persimmon-market-night-visit/15.webp)
 
 而对我来说，比眼前的人山人海更值得感慨的，是一个商业构想真正变成现实的过程。
 

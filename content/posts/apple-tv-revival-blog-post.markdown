@@ -7,13 +7,13 @@ description: "尘封十年的2009年Apple TV竟然还能用！从硬件耐用到
 
 draft: false
 cover:
-    image: "/images/2025-09-19_172440_077.jpg"
+    image: "/images/apple-tv-revival-blog-post/2025-09-19_172440_077.jpg"
     alt: "Apple TV"
 ---
 
 # 十多年前的Apple TV复活：那时乔布斯还活着，那时苹果的品控让我惊叹不已 🖥️✨
 
-![](/images/2025-09-19_172730_429.jpg)
+![](/images/apple-tv-revival-blog-post/2025-09-19_172730_429.jpg)
 
 ## 一个意外的发现 🔍
 

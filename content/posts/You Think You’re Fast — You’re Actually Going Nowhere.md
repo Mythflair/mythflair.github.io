@@ -8,10 +8,10 @@ description: "You Think You’re Fast — You’re Actually Going Nowhere"
 toc: false
 draft: false
 cover:
-  image: "/images/20260413001401_134_575.jpg"
+  image: "/images/you-think-youre-fast--youre-actually-going-nowhere/20260413001401_134_575.jpg"
   alt: "You Think You’re Fast — You’re Actually Going Nowhere"
 ---
-![](/images/20260413001401_134_575.jpg)
+![](/images/you-think-youre-fast--youre-actually-going-nowhere/20260413001401_134_575.jpg)
 这次三天假期往返两千多公里，回十四年没回去的老家看看。
 
 一台 CLS，一段不短的路。
@@ -99,7 +99,7 @@ cover:
 👉 
 看起来没那么拼，但一直在推进。
 
-![](/images/20260413002509_142_575.jpg)
+![](/images/you-think-youre-fast--youre-actually-going-nowhere/20260413002509_142_575.jpg)
 
 ### 六、一个更难接受的真相
 很多时候，问题不在能力。
@@ -143,6 +143,6 @@ cover:
 
 只是没有停下来。
 
-![](/images/2026-04-14_145441_051.jpg)
+![](/images/you-think-youre-fast--youre-actually-going-nowhere/2026-04-14_145441_051.jpg)
 
 道法自然

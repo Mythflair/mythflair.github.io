@@ -23,7 +23,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/cctv-mid-autumn.webp"
+  image: "/images/cctv-mid-autumn/cctv-mid-autumn.webp"
   alt: "山庄月中华情"
 ---
 
@@ -47,7 +47,7 @@ cover:
 二十多年后，这个链接仍然保留在央视的历史页面中。
 
 [查看央视原始页面](https://big5.cctv.com/gate/big5/www.cctv.cn/viponline/27/01/22/50/index.shtml)
-![2007年中央电视台CCTV央视，与紫塞明珠网合作直播山庄月中华情的历史记录](/images/history/cctv-mid-autumn-1.webp)
+![2007年中央电视台CCTV央视，与紫塞明珠网合作直播山庄月中华情的历史记录](/images/cctv-mid-autumn/cctv-mid-autumn-1.webp)
 ---
 
 ## 主会场：承德

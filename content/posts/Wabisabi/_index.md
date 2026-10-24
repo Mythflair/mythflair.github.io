@@ -7,6 +7,6 @@ title: "🙊 春潮带雨晚来急，野渡无人舟自横"
     #params:
     #  icon: "fas fa-book"
 cover:
-    image: "/images/wabisabi.jpg"
+    image: "/images/wabisabi/wabisabi.jpg"
     alt: "Wabisabi"
 ---

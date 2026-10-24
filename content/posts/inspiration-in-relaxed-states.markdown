@@ -6,7 +6,7 @@ date: 2025-07-05T09:10:00+08:00
 draft: false
 
 cover:
-    image: "/images/2025-07-05_092804_036.jpg" 
+    image: "/images/inspiration-in-relaxed-states/2025-07-05_092804_036.jpg" 
     alt: "放松环境中的创造力迸发：从认知科学到实践启示"
 ---
 

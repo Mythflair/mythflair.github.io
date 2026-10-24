@@ -8,7 +8,7 @@ description: "Mac L2TP VPN连接失败？记录从无响应到内网畅游的排
 draft: false
 
 cover: 
-  image: "images/2025-10-18_134122_463.jpg"
+  image: "images/mac-vpn-setting/2025-10-18_134122_463.jpg"
   alt: "Mac L2TP VPN连接故障排除：快速修复指南"
 ---
 
@@ -43,7 +43,7 @@ plugin L2TP.ppp
 l2tpnoipsec
 ```
 
-![](/images/2025-10-18_134222_559.jpg)
+![](/images/mac-vpn-setting/2025-10-18_134222_559.jpg)
 
 执行：
 ```bash
@@ -54,7 +54,7 @@ sudo pkill pppd
 ###步骤2：VPN高级设置
 系统设置 > 网络 > VPN > 高级 > 勾选“通过VPN连接发送所有流量”。重连！🎉
 
-![](/images/2025-10-18_134238_129.jpg)
+![](/images/mac-vpn-setting/2025-10-18_134238_129.jpg)
 
 优化（可选）
 ```bash

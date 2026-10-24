@@ -6,7 +6,7 @@ date: 2025-06-26T23:20:00+08:00
 draft: false
 
 cover:
-    image: "/images/v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.jpg" 
+    image: "/images/supermarket_analysis/v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.jpg" 
     alt: "如何通过统计分析洞察超市消费者行为：以宽广超市为例"
 ---
 
@@ -72,7 +72,7 @@ plt.show()
 
 运行上述代码后，生成的箱线图如下：
 
-![宽广超市消费金额箱线图](/images/20250626231441.png)
+![宽广超市消费金额箱线图](/images/supermarket_analysis/20250626231441.png)
 
 **箱线图说明**：
 - **底部横线（下须线末端）**：最低非异常值（约20元）。

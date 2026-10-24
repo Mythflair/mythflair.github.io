@@ -8,7 +8,7 @@ draft: false
 
 summary: "国慶節の休みに、紫塞をもう一度作り直しました。仕事には責任があり、紫塞には自分の好奇心がある。技術も見た目も細部も、いつしか一つの作品の一部になっていました。"
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/national-day-zisai-rebuild/zisai-national-day-q82.webp"
   alt: "2026年国慶節、紫塞ウェブサイトのリニューアル"
   relative: false
 ---

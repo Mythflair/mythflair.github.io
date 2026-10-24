@@ -6,7 +6,7 @@ date = 2025-05-09T17:00:00+08:00
 draft = false
 
 [cover] 
-    image = '/images/middleaged.jpg' 
+    image = '/images/middleaged/middleaged.jpg' 
     alt = '半山暮色：一程烟雨一程叹'
 +++
 

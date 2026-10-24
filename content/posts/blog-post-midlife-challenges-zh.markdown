@@ -6,7 +6,7 @@ date: 2025-05-22T12:40:00+08:00
 draft: false
 
 cover:
-    image: "/images/file434.jpeg" 
+    image: "/images/blog-post-midlife-challenges-zh/file434.jpeg" 
     alt: "四十不惑，初心不改：毕业后的中年反思"
 ---
 

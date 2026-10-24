@@ -8,7 +8,7 @@ draft: false
 author: SHENNAN 沈楠
 description: "回顾宽广集团11年信息化建设历程，探索如何通过顶层设计与技术创新，从传统零售蜕变为科技驱动的现代化企业，并展望人工智能与大数据引领的未来。"
 cover:
-    image: "/images/94abff761efad89d50ecef0457621f4.jpg" 
+    image: "/images/shared/94abff761efad89d50ecef0457621f4.jpg" 
     alt: "从跑步到骑行：意外解决的健康难题"
 ---
 

@@ -9,7 +9,7 @@ draft: false
 description: "探讨固态电池技术突破如何改变手机电池容量及充电宝未来，结合安全提示与发展展望。"
 keywords: ["固态电池", "手机电池", "充电宝安全", "科技趋势"]
 cover:
-    image: "/images/romoss_20250629105659.png" 
+    image: "/images/no-worry-about-battery-on-flight/romoss_20250629105659.png" 
     alt: "坐飞机不用担心，手机电池即将突破一万毫安时，充电宝或将被淘汰"
 comments: true
 toc: true

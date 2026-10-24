@@ -7,7 +7,7 @@ draft: false
 
 description: "记录一次充满暴雨🌧️、救人🏊和航班波折✈️的成都之旅"
 cover:
-    image: "/images/20250709174609.png"
+    image: "/images/dujiangyan-journey/20250709174609.png"
     alt: "成都暴雨中的街道"
 ---
 

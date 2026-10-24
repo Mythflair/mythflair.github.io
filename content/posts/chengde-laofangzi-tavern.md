@@ -18,7 +18,7 @@ homePinned: true
 homeWeight: 3
 
 cover:
-  image: "/images/laofangzi.webp"
+  image: "/images/chengde-laofangzi-tavern/laofangzi.webp"
   alt: "老房子小酒馆"
   relative: false
 ---

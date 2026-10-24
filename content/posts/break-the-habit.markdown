@@ -6,7 +6,7 @@ date: 2025-07-18T09:15:00+08:00
 draft: false
 
 cover:
-  image: "images/2025-07-18_094022_073.jpg"
+  image: "images/break-the-habit/2025-07-18_094022_073.jpg"
   alt: "A light bulb symbolizing a new idea"
 ---
 

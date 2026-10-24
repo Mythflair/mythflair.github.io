@@ -8,7 +8,7 @@ draft: false
 description: "回顾90年代中国计算机技术的发展趋势，结合个人使用Compaq 386DX的经历，探讨DOS游戏、编程、硬件升级、早期互联网及BIOS芯片维护的演进与挑战。"
 archived: true
 cover:
-    image: "/images/2025-06-26_132911_199.png" 
+    image: "/images/1990s-pc-trends-/2025-06-26_132911_199.png" 
     alt: "90年代中国计算机技术趋势与个人实践"
 ---
 

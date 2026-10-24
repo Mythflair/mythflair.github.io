@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 showToc: true
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/shanzhuang-300th-ceremony.webp"
+  image: "/images/shanzhuang-300th-legacy/shanzhuang-300th-ceremony.webp"
   alt: "避暑山庄肇建300周年庆典现场"
   relative: false
 ---
@@ -34,19 +34,19 @@ cover:
 
 这是我记忆很深的一次现场报道。那时网络直播还远没有今天这样便利，图片、文字和视频怎样从现场传回网站，背后都需要具体的人和设备。如今，直播页面和当年的图文内容已经找不到了，留下来的，是几张现场照片、旧网页截图，以及我对那段工作的记忆。因此，本文只记录能够确认的事实，不尝试复原已经遗失的直播内容。
 
-![避暑山庄肇建300周年庆典现场](/images/history/shanzhuang-300th-ceremony.webp)
+![避暑山庄肇建300周年庆典现场](/images/shanzhuang-300th-legacy/shanzhuang-300th-ceremony.webp)
 
 ## 留存下来的网页痕迹
 
 旧紫塞明珠网首页曾将“避暑山庄肇建300周年”列为新闻入口。现存截图还保留着当年网站的页面样式，以及避暑山庄专题页面的一部分。专题页面以景点图片和文字介绍为主，呈现了紫塞明珠网当时对本地文化与旅游内容的整理方式。
 
-![旧紫塞明珠网首页中的“避暑山庄肇建300周年”新闻入口](/images/history/zisai-homepage-2003.webp)
+![旧紫塞明珠网首页中的“避暑山庄肇建300周年”新闻入口](/images/shanzhuang-300th-legacy/zisai-homepage-2003.webp)
 
-![紫塞明珠网旧版避暑山庄专题页面](/images/history/shanzhuang-heritage-page.webp)
+![紫塞明珠网旧版避暑山庄专题页面](/images/shanzhuang-300th-legacy/shanzhuang-heritage-page.webp)
 
 另有一张开幕仪式现场照片，记录了庆典期间的迎宾场景。照片本身不能替代当年的直播记录，却让这段经历重新有了具体的画面。
 
-![避暑山庄肇建300周年开幕仪式现场](/images/history/shanzhuang-300th-opening.webp)
+![避暑山庄肇建300周年开幕仪式现场](/images/shanzhuang-300th-legacy/shanzhuang-300th-opening.webp)
 
 ## 一段个人记忆
 
@@ -58,6 +58,6 @@ cover:
 
 现存资料中还包括一则承德日报报道，内容涉及避暑山庄肇建300周年期间的宾客接待工作。报道提到，2003年8月7日，承德市召开接待工作调度会，对宾客接待进行部署。它从另一侧面保留了当年庆典筹备和城市接待工作的记录。
 
-![承德日报关于避暑山庄肇建300周年接待工作的报道截图](/images/history/chengde-news-300th-reception.webp)
+![承德日报关于避暑山庄肇建300周年接待工作的报道截图](/images/shanzhuang-300th-legacy/chengde-news-300th-reception.webp)
 
 > 本文依据现存网页截图、现场照片及个人回忆整理。原始图文直播内容未能找到，相关细节不作推测。

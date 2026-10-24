@@ -8,15 +8,15 @@ description: "这篇文章通过 Waymo 的例子切入，直接触达零售管�
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-06_113446_958.jpg"
+  image: "/images/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113446_958.jpg"
   alt: "Whymo"
 ---
 
 最近，美国自动驾驶公司 Waymo 发生了一件趣闻：由于无人车无法自行关上没关严的车门或后备箱，导致车辆卡在路边无法驶离。
-![](/images/2026-03-06_113349_359.jpg)
+![](/images/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113349_359.jpg)
 奇怪的是，这家高科技公司没有通过研发机械臂来解决，而是想出了一个极其“另类”的方案：
 它在平台上给外卖小哥下了一张 6.25 美元的订单，要求他赶到 1 公里外，帮路边的无人车关一下门，完成后再付5美元。
-![](/images/2026-03-06_113524_120.jpg)
+![](/images/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113524_120.jpg)
 
 ## 1. 程序的“新能力”：调动人力 API
 这件事的本质，不是“高科技遇上土办法”，而是

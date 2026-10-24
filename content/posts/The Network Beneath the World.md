@@ -8,7 +8,7 @@ description: "有些职业，在刚开始选择的时候，并不会意识到它
 toc: false
 draft: false
 cover:
-  image: "/images/2026-02-05_175628_227.jpg"
+  image: "/images/shared/2026-02-05_175628_227.jpg"
   alt: "“河北联通知识型员工”荣誉称号证书"
 ---
 很多年前，我在整理旧物时翻出一张泛黄的证书。

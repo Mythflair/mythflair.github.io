@@ -6,7 +6,7 @@ date: 2025-07-20T14:11:00+08:00
 draft: false
 
 cover:
-  image: "images/2025-07-20_141800_175.jpg"
+  image: "images/stamp-journey/2025-07-20_141800_175.jpg"
   alt: "title: 从邮票到互联网：岁月中的缘分之旅"
 ---
 

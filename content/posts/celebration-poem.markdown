@@ -7,10 +7,10 @@ date: 2025-08-02T18:45:00+09:00
 draft: false
 
 cover:
-  image: "/images/2025-07-21_123600_043.jpg"
+  image: "/images/celebration-poem/2025-07-21_123600_043.jpg"
   alt: "贺佳航吾儿十八岁成人礼"
 ---
-![折扇书法](/images/8728f1d8a0e65ae7e27d8055d02a9d24.jpg)
+![折扇书法](/images/celebration-poem/8728f1d8a0e65ae7e27d8055d02a9d24.jpg)
 
 # 贺佳航吾儿成人礼 🎂
 
@@ -50,7 +50,7 @@ cover:
 
 ——父贺爱子沈佳航十八岁成人志庆 🙏
 
-![清风书法长卷](/images/9bd872bd622cc8fbe16917cf7a8a4a10.jpg)
+![清风书法长卷](/images/celebration-poem/9bd872bd622cc8fbe16917cf7a8a4a10.jpg)
 
 ## 跋 📜
 
@@ -77,4 +77,4 @@ cover:
 **时乙巳年荷月**  
 **父书于佳航冠礼之夜** 🌙
 
-![清风书法长卷尾](/images/0f07007a32095a6177cd53bbf9f8d6e3.jpg)
+![清风书法长卷尾](/images/celebration-poem/0f07007a32095a6177cd53bbf9f8d6e3.jpg)

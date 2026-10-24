@@ -7,7 +7,7 @@ title: "About Shen Nan"
 description: "Shen Nan, founder of ZISAI and Director, Vice President and CIO of Chengde Kuangguang Holdings Group. More than three decades in communications, the internet and retail digitalization."
 slug: "about"
 cover:
-  image: "/images/ShenNan-Cartoon.webp"
+  image: "/images/site/ShenNan-Cartoon.webp"
   alt: "Shen Nan — ZISAI"
 
 ShowToc: true

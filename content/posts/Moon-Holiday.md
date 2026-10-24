@@ -6,7 +6,7 @@ date: 2025-10-06T10:00:00+08:00
 description: "中秋之夜，明月高悬，举杯问天。苏轼的《水调歌头》穿越千年，依然诉说着人间的离合悲欢，也寄托着人们对团圆的美好愿景。"
 
 cover:
-  image: "/images/Gemini_Generated_Image_bosyxbbosyxbbosy.jpg"
+  image: "/images/moon-holiday/Gemini_Generated_Image_bosyxbbosyxbbosy.jpg"
   alt: "中秋夜怀古：明月几时有"
 ---
 
@@ -17,7 +17,7 @@ cover:
 
 ---
 
-![](/images/Gemini_Generated_Image_6eftqr6eftqr6eft.jpg)
+![](/images/moon-holiday/Gemini_Generated_Image_6eftqr6eftqr6eft.jpg)
 
 ## 水调歌头·明月几时有  
 **[宋] 苏轼**

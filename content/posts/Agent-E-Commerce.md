@@ -7,7 +7,7 @@ description: "从一线零售与信息化实践出发，重新思考 AI 与交�
 
 draft: false
 cover:
-  image: "/images/2026-01-14_174606_408.jpg"
+  image: "/images/agent-e-commerce/2026-01-14_174606_408.jpg"
   alt: "未来零售"
 ---
 

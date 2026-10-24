@@ -7,7 +7,7 @@ draft: false
 
 description: "分析一起物流生鲜业务系统因弱口令和安全疏忽导致的数据泄露风险事件，探讨管理、技术、运维问题，结合石基 ERP 系统对比，提出整改措施和后续要求。🔍"
 cover:
-    image: "/images/20250712213100.png" 
+    image: "/images/data-breach-risk-analysis/20250712213100.png" 
     alt: "物流生鲜系统数据泄露风险分析与整改"
 ---
 

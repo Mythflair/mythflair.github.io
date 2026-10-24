@@ -7,7 +7,7 @@ draft: false
 
 description: "通过微信扫码抽奖活动 📱，以低成本点燃用户活跃度，培养消费习惯，助力商家实现复购增长！"
 cover: 
-    image: "/images/20250722141500.png"
+    image: "/images/wechat-lucky-draw/20250722141500.png"
     alt: "微信扫码抽奖：点燃用户活跃度 🔥，助力复购！"
 ---
 

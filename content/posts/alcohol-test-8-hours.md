@@ -8,7 +8,7 @@ description: "用几十块钱的微型酒精测试仪做出的饮酒代谢实测
 
 slug: "alcohol-test-8-hours"
 cover:
-  image: "/images/2025-09-26_105110_039.jpg"
+  image: "/images/alcohol-test-8-hours/2025-09-26_105110_039.jpg"
   alt: "酒精测试仪"
 ---
 
@@ -43,7 +43,7 @@ cover:
 
 ---
 
-![](/images/2025-09-26_105543_031.jpg)
+![](/images/alcohol-test-8-hours/2025-09-26_105543_031.jpg)
 
 ## 🧪 我的“酒后实测”全过程
 
@@ -71,7 +71,7 @@ cover:
 
 👉 **结论**：在本次饮酒量下，我的身体大约需要 **7 小时** 才能降到“非饮酒”标准以下，**约 8 小时** 才能彻底代谢完毕。
 
-![](/images/2025-09-26_105601_412.jpg)
+![](/images/alcohol-test-8-hours/2025-09-26_105601_412.jpg)
 
 ---
 
@@ -83,7 +83,7 @@ cover:
 
 ---
 
-![](/images/2025-09-26_105617_841.jpg)
+![](/images/alcohol-test-8-hours/2025-09-26_105617_841.jpg)
 
 ## 🎑 最后一句最重要的话
 

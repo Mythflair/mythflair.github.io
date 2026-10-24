@@ -23,7 +23,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/hehechengde-logo.jpg"
+  image: "/images/hecheng-chengde-2011/hehechengde-logo.jpg"
   alt: "紫塞明珠网等省市级重点网站"
 ---
 
@@ -40,7 +40,7 @@ cover:
 > **紫塞明珠网**
 
 [查看中国新闻网2011年原始报道](https://www.chinanews.com.cn/df/2011/03-15/2907656.shtml)
-![2007年中央电视台CCTV央视，与紫塞明珠网合作直播山庄月中华情的历史记录](/images/history/hecheng-chengde-2011.webp)
+![2007年中央电视台CCTV央视，与紫塞明珠网合作直播山庄月中华情的历史记录](/images/hecheng-chengde-2011/hecheng-chengde-2011.webp)
 
 ---
 

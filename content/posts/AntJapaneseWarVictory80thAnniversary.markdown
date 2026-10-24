@@ -7,27 +7,27 @@ draft: false
 description: "抗战胜利80周年阅兵与百姓生活，展现国家强盛与人民幸福并存的‘国泰民安’意象。🌟"
 
 cover:
-  image: "/images/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg"
+  image: "/images/antjapanesewarvictory80thanniversary/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg"
   alt: "国泰民安：从国家阅兵到百姓生活的和谐景象"
 ---
 
-![](/images/2025-09-03_105045_211.jpg)
+![](/images/antjapanesewarvictory80thanniversary/2025-09-03_105045_211.jpg)
 ## 国泰民安：从国家阅兵到百姓生活的和谐景象 🌺
 今天是抗战胜利80周年，阅兵式在天空中展示了国家力量的凝聚与对历史的敬仰。💪 屏幕内的场景，不仅象征着军队守护人民幸福生活的坚定担当，更传递了和平与稳定的深远意义。
 
-![](/images/3cef690fba6f4ee290bb750a151df54c.jpg)
-![](/images/bc44081d3adc668e32765699b33bd390.jpg)
-![](/images/2025-09-03_105045_211.jpg)
+![](/images/antjapanesewarvictory80thanniversary/3cef690fba6f4ee290bb750a151df54c.jpg)
+![](/images/antjapanesewarvictory80thanniversary/bc44081d3adc668e32765699b33bd390.jpg)
+![](/images/antjapanesewarvictory80thanniversary/2025-09-03_105045_211.jpg)
 
 
 与此同时，屏幕外的生活场景却充满了平和日常生活的气息。🍎 琳琅满目的商品、忙碌却安宁的人群，展现了人民安居乐业的日常幸福。两者相辅相成，完美诠释了“国泰民安”的美好愿景。🎈
-![](/images/f0d9276d37b04395bcfa087740e4fb4a.jpg)
-![](/images/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg)
-![](/images/01d31a33ac7ee7b2bf269520800df42f.jpg)
+![](/images/antjapanesewarvictory80thanniversary/f0d9276d37b04395bcfa087740e4fb4a.jpg)
+![](/images/antjapanesewarvictory80thanniversary/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg)
+![](/images/antjapanesewarvictory80thanniversary/01d31a33ac7ee7b2bf269520800df42f.jpg)
 
 国家守卫的是人民的衣食住行，是家人朋友，是日常生活。国家强盛与人民幸福并存，这种和谐景象，正是我们对未来的期许。✨ 珍惜当下，共同守护这份繁荣与安宁！🌈
-![](/images/6957d1b9311388254700ba1d200e40fd.jpg)
-![](/images/723f4d49723a330707a8e3e780006913.jpg)
-![](/images/8b7cb33567d297e8fdba1a9271c54898.jpg)
+![](/images/antjapanesewarvictory80thanniversary/6957d1b9311388254700ba1d200e40fd.jpg)
+![](/images/antjapanesewarvictory80thanniversary/723f4d49723a330707a8e3e780006913.jpg)
+![](/images/shared/8b7cb33567d297e8fdba1a9271c54898.jpg)
 
 此时此刻，具象了“国泰民安”，具象了“安居乐业”，具象了国家强大是人民幸福的必然关系。

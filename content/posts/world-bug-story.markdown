@@ -6,7 +6,7 @@ date: 2025-06-22T00:00:06+09:00
 draft: false
 
 cover:
-    image: "/images/v2-ad6b3c617eb4efc376587138933761b3_1440w.jpg" 
+    image: "/images/world-bug-story/v2-ad6b3c617eb4efc376587138933761b3_1440w.jpg" 
     alt: "雾中Bug：从广告牌死机到虚拟宇宙的哲思”"
 ---
 

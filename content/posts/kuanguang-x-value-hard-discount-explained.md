@@ -9,13 +9,13 @@ description: "从品牌里的“X”到硬折扣的经营逻辑，聊聊宽广�
 slug: "kuanguang-x-value-hard-discount-explained"
 
 cover:
-    image: "/images/ScreenShot_2026-09-17_152735_711.jpg"
+    image: "/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152735_711.jpg"
     alt: "日本留学时期与现在的个人形象对比"
 ---
 
 最近路过天山店的朋友，大概都注意到了外立面、店招和场内的变化。
 
-![宽广X超值天天低价](/images/ScreenShot_2026-09-17_152539_064.jpg)
+![宽广X超值天天低价](/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152539_064.jpg)
 
 随着宽广超市天山店升级改造的消息陆续发布，微信里找我“打探消息”的老朋友也多了起来。大家问得最多的，是两个问题：
 
@@ -39,7 +39,7 @@ cover:
 
 简单一些就是：这家店，**天天低价（EDLP），天天折扣**。
 
-![宽广X超值品牌展示](/images/ScreenShot_2026-09-17_152652_555.jpg)
+![宽广X超值品牌展示](/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152652_555.jpg)
 
 ## 再说“硬折扣”
 
@@ -53,7 +53,7 @@ cover:
 
 这就是 **EDLP（Everyday Low Price，天天低价）**。低价本身，就是**宽广X超值**经营策略的一部分。
 
-![宽广X超值天天低价](/images/ScreenShot_2026-09-17_152735_711.jpg)
+![宽广X超值天天低价](/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152735_711.jpg)
 
 说来也巧，这个**“硬”**字，承德人听着很熟悉吧。
 
@@ -71,7 +71,7 @@ cover:
 
 专业的经营模式，最后要落到这些实在的**“硬”**感受上。
 
-![承德话里的“硬”](/images/ScreenShot_2026-09-17_152903_345.jpg)
+![承德话里的“硬”](/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152903_345.jpg)
 
 ## 具体怎么做？先从精选5000个SKU开始
 
@@ -87,7 +87,7 @@ cover:
 
 价格往低做，是明确的方向；实惠有多少，等你来体验。
 
-![宽广X超值精选商品](/images/ScreenShot_2026-09-17_152926_318.jpg)
+![宽广X超值精选商品](/images/kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152926_318.jpg)
 
 **宽广X超值，即将与大家见面。**
 

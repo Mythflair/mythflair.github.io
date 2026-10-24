@@ -9,7 +9,7 @@ slug: ai-in-retail-real-practice
 description: "基于一线零售 IT 管理实践，复盘 AI 在需求预测、自动补货和智能客服中的真实作用，以及它为何更多暴露系统问题而非直接创造效率。"
 draft: false
 cover:
-    image: "/images/Gemini_Generated_Image_c3fdq7c3fdq7c3fd.jpg"
+    image: "/images/ai-in-retail-real-practice/Gemini_Generated_Image_c3fdq7c3fdq7c3fd.jpg"
     alt: "AI 在零售的真实落地"
 ---
 

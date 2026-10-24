@@ -8,7 +8,7 @@ description: "Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice
 toc: false
 draft: false
 cover:
-  image: "/images/2026-05-02_204856_106.jpg"
+  image: "/images/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/2026-05-02_204856_106.jpg"
   alt: "Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI"
 ---
 

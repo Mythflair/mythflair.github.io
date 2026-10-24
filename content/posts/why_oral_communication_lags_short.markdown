@@ -7,7 +7,7 @@ draft: false
 description: 分析技术背景高管口头沟通不畅的原因，结合职场心理学和2025年中国高管趋势，提出STAR法则等实用建议。 🚀
 
 cover:
-    image: "/images/2025-09-18_164111_392.jpg" 
+    image: "/images/why_oral_communication_lags_short/2025-09-18_164111_392.jpg" 
     alt: "STAR法则"
 ---
 

@@ -7,13 +7,13 @@ date: 2025-09-07T10:00:00+09:00
 draft: false
 
 cover:
-    image: "/images/GeneratedImageSeptember072025-10_30AM.jpeg"
+    image: "/images/ai_image_generation-action/GeneratedImageSeptember072025-10_30AM.jpeg"
     alt: "图像动作变化"
 ---
 
 只要一条Prompt：“Hold the hat in your hand”。🎨 AI能自动将帽子和原始图像相结合，生成令人惊艳的新图像。相比之下，照片细节依然丰富，光影、纹理都毫无违和感，也没有触发“诡谷效应”。😊
 
-![原始图像](/images/Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg)
-![增加图像](/images/725c1701-c52f-469b-9393-82cde7539711.jpg)
-![生成图像](/images/GeneratedImageSeptember072025-10_30AM.jpeg)
+![原始图像](/images/shared/Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg)
+![增加图像](/images/ai_image_generation-action/725c1701-c52f-469b-9393-82cde7539711.jpg)
+![生成图像](/images/ai_image_generation-action/GeneratedImageSeptember072025-10_30AM.jpeg)
 

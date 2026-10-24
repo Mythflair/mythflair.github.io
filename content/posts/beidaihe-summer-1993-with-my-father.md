@@ -13,7 +13,7 @@ homeWeight: 1
 
 showToc: false
 cover:
-    image: "/images/beidaihe-summer-1993-with-my-father.webp"
+    image: "/images/beidaihe-summer-1993-with-my-father/beidaihe-summer-1993-with-my-father.webp"
     alt: "约1993年6月，十五岁的我戴着潜水镜、套着绿色游泳圈，与四十二岁的父亲坐在北戴河海边"
     caption: "约1993年6月，秦皇岛北戴河。父亲和我（修复后的照片）。"
 ---

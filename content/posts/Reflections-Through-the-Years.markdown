@@ -7,7 +7,7 @@ draft: false
 
 description: "回望十五年，从IBM智慧城市会议的意气风发到零售深耕的沃土，融入古诗词意象，诉说人生无常与选择，分享一升一平的哲理与家庭事业的平衡之美。"
 cover:
-    image: "/images/2025-07-21_121252_098.jpg"
+    image: "/images/reflections-through-the-years/2025-07-21_121252_098.jpg"
     alt: "沃土上的新芽，象征人生坚守与希望"
 ---
 

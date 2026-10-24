@@ -8,7 +8,7 @@ description: "近期，不少朋友都在问我，小龙虾OpenClaw的问题。�
 toc: false
 draft: false
 cover:
-  image: "/images/2026-03-11_120714_212.jpg"
+  image: "/images/openclaw/2026-03-11_120714_212.jpg"
   alt: "OpenClaw"
 ---
 

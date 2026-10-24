@@ -21,7 +21,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/6e6a4ddebb886925ded516e3f78b30d7.webp"
+  image: "/images/a-gentle-bugle-call/6e6a4ddebb886925ded516e3f78b30d7.webp"
   alt: "军训合唱中吹奏单簧管的大学生插画"
   relative: false
   hiddenInSingle: false
@@ -47,7 +47,7 @@ cover:
 
 倒也没错。
 
-![军训主题配图：吹奏单簧管的章鱼哥](/images/8e1f12dd3b0c3fbd866689a4a02c7977.webp)
+![军训主题配图：吹奏单簧管的章鱼哥](/images/a-gentle-bugle-call/8e1f12dd3b0c3fbd866689a4a02c7977.webp)
 
 一件有着悠久历史、演奏技巧复杂的木管乐器，在年轻人的认知里，竟然通过一只动画片里的章鱼获得了普及。
 
@@ -67,7 +67,7 @@ cover:
 
 效果却出乎我的预料。
 
-![军训合唱中吹奏单簧管的大学生插画](/images/6e6a4ddebb886925ded516e3f78b30d7.webp)
+![军训合唱中吹奏单簧管的大学生插画](/images/a-gentle-bugle-call/6e6a4ddebb886925ded516e3f78b30d7.webp)
 
 单簧管并没有刻意追求小号那种高亢嘹亮的声音。悠扬婉转的旋律，在合唱与慷慨激昂的独白之间缓缓展开，反而形成了一种奇妙的反差。
 

@@ -26,7 +26,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/sohu.webp"
+  image: "/images/zisai-2008-cultural-industry-forum/sohu.webp"
   alt: "搜狐网新闻页面"
 ---
 

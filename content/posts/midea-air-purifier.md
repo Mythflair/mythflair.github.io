@@ -7,7 +7,7 @@ description: "一次看似简单的赠品行动，背后却隐藏着美的在用
 
 draft: false
 cover: 
-  image: "/images/2025-10-01_163200_786.jpg"
+  image: "/images/midea-air-purifier/2025-10-01_163200_786.jpg"
   alt: "美的空气净化器"
 ---
 
@@ -23,7 +23,7 @@ cover:
 
 ---
 
-![](/images/2025-10-01_163200_786.jpg)
+![](/images/midea-air-purifier/2025-10-01_163200_786.jpg)
 
 ### 一、精准识别忠诚用户：用数据驱动的“惊喜式服务”
 
@@ -39,7 +39,7 @@ cover:
 
 ---
 
-![](/images/2025-10-01_163013_839.jpg)
+![](/images/midea-air-purifier/2025-10-01_163013_839.jpg)
 
 ### 二、滤芯标准化策略：激活“耗材型长期收益”
 

@@ -10,11 +10,11 @@ description: "从体制内到经营型企业，十二年的路径、学习与建
 toc: false
 draft: false
 cover:
-  image: "/images/2026-01-20_163405_147.jpg"
+  image: "/images/kuangguang-12-years/2026-01-20_163405_147.jpg"
   alt: "宽广十二年"
 ---
 
-![](/images/2026-01-20_175157_638.jpg)
+![](/images/kuangguang-12-years/2026-01-20_175157_638.jpg)
 
 
 ## 引言

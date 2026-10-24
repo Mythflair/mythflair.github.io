@@ -9,7 +9,7 @@ description: "真正的淘汰，从来不是某种工具淘汰了某种职业，
 
 draft: false
 cover:
-  image: "/images/ScreenShot_2026-08-04_160007_020.jpg"
+  image: "/images/Upgrade-Your-Mindset%2C-Not-Just-Your-Tools/ScreenShot_2026-08-04_160007_020.jpg"
   alt: "法定，术变，技常新"
 ---
 

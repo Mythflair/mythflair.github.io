@@ -7,7 +7,7 @@ draft: false
 
 description: "善恶得失，皆心造幻影。冷漠不染尘，慈悲自本心，逆世俗而觅真我。🌊"
 cover: 
-  image: "/images/2025-08-07_010033_393.jpg"
+  image: "/images/nomindnokarma/2025-08-07_010033_393.jpg"
   alt: "无念无果：笑看世俗荒谬"
 ---
 

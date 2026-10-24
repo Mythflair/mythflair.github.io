@@ -7,7 +7,7 @@ draft: false
 
 description: "探讨语雀与有道云笔记的使用体验，分析语雀的轻灵优势及未来AI结合的可能性 🚀"
 cover:
-    image: "/images/2025-07-16_080521_839.jpg" 
+    image: "/images/yuque-vs-notion/2025-07-16_080521_839.jpg" 
     alt: "物流生鲜系统数据泄露风险分析与整改"
 ---
 

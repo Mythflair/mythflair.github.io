@@ -7,7 +7,7 @@ draft: false
 
 description: "分析2025年传统零售行业的现状、机遇与转型路径，结合某零售集团的实践，展望行业未来发展趋势 🚀"
 cover:  
-    image: "/images/20250717170817.png"
+    image: "/images/retail-industry-observation-2025/20250717170817.png"
     alt: "2025年传统零售行业观察：转型机遇与启示"
 ---
 

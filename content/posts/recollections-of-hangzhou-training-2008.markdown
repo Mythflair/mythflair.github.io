@@ -7,7 +7,7 @@ draft: false
 
 description: "17年前在杭州华为大学参加的SmartAX MA5300培训回忆，记录技术成长与西湖美景的难忘时光。"
 cover:
-  image: "/images/shennan_huaweirenzheng.jpg"
+  image: "/images/recollections-of-hangzhou-training-2008/shennan_huaweirenzheng.jpg"
   alt: "2008年11月17日，我在杭州华为大学参加的SmartAX MA5300培训"
 ---
 

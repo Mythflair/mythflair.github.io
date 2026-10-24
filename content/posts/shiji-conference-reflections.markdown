@@ -6,7 +6,7 @@ date: 2025-07-06T00:02:00+08:00
 draft: false
 
 cover:
-    image: "/images/2025-07-06_000943_948.jpg"
+    image: "/images/shiji-conference-reflections/2025-07-06_000943_948.jpg"
     alt: "石基集团年度客户大会感想：数智化转型的启示与展望"
 ---
 

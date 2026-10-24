@@ -8,7 +8,7 @@ description: "什么是“引导程序” (Bootloader)？在计算机科学中�
 toc: false
 draft: false
 cover:
-  image: "/images/2026-01-25_111142_461.jpg"
+  image: "/images/musk-human-as-ai-bootloader-2029/2026-01-25_111142_461.jpg"
   alt: "宽广十二年"
 ---
 

@@ -8,7 +8,7 @@ draft: false
 
 summary: "这个国庆，我重新折腾了一遍紫塞网。工作是责任，紫塞是自驱。技术、审美、细节，最后都成了一件作品的一部分。"
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/national-day-zisai-rebuild/zisai-national-day-q82.webp"
   alt: "2026年国庆紫塞网改版记录"
   relative: false
 ---

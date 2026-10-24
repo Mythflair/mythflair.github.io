@@ -6,7 +6,7 @@ date: 2022-05-22T12:31:00+08:00
 draft: false
 
 cover:
-    image: "/images/kgsn.jpg" 
+    image: "/images/blog-post-midlife-reflection-zh/kgsn.jpg" 
     alt: "四十不惑，初心不改：毕业后的中年反思"
 ---
 

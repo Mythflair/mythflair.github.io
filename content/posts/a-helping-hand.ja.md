@@ -9,7 +9,7 @@ summary: "何十年も前の記憶を頼りに、今の道を、一歩ずつ確�
 
 showToc: false
 cover: 
-    image: "/images/AHelpingHand.webp"
+    image: "/images/a-helping-hand/AHelpingHand.webp"
     alt: "朝、点字ブロックに沿ってゆっくり歩く高齢の女性。AI生成の挿絵で、現場写真ではありません"
 slug: "a-helping-hand"
 lastmod: 2026-10-19T12:00:00+08:00
@@ -43,7 +43,7 @@ lastmod: 2026-10-19T12:00:00+08:00
 
 「ありがとうございます。お金に恵まれて、長生きなさいますように。百歳まで生きられますように」
 
-![朝、点字ブロックに沿ってゆっくり歩く高齢の女性](/images/AHelpingHand.webp)
+![朝、点字ブロックに沿ってゆっくり歩く高齢の女性](/images/a-helping-hand/AHelpingHand.webp)
 
 *AI生成の挿絵です。現場の写真ではありません。*
 

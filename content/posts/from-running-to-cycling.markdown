@@ -7,7 +7,7 @@ draft: false
 
 description: "从马拉松到骑行的个人经历，意外解决了困扰多年的健康问题，并感悟到放下执着的力量。"
 cover:
-    image: "/images/v2-4995ecb0d7bdef2b5e7fa76ddc47f672_1440w.jpg" 
+    image: "/images/from-running-to-cycling/v2-4995ecb0d7bdef2b5e7fa76ddc47f672_1440w.jpg" 
     alt: "从跑步到骑行：意外解决的健康难题"
 ---
 

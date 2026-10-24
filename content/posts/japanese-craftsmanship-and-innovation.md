@@ -7,7 +7,7 @@ draft: false
 
 description: "通过日本酒‘獭祭’和日本企业文化的视角，探索工匠精神的深度、热爱与创新，以及其在全球化背景下的挑战。"
 cover:
-    image: "/images/v2-714df4610668dfb3e02e8938376cd25a_1440w.jpg" 
+    image: "/images/japanese-craftsmanship-and-innovation/v2-714df4610668dfb3e02e8938376cd25a_1440w.jpg" 
     alt: "日本工匠精神与创新之道：从獭祭到企业文化"
 ---
 

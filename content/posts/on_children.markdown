@@ -6,7 +6,7 @@ date: 2025-05-14T11:38:00+08:00
 draft: false
 
 cover:
-  image: '/images/shennan15.jpg'
+  image: '/images/on_children/shennan15.jpg'
   alt: '15岁的自己'
 ---
 

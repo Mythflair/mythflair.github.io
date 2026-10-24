@@ -6,7 +6,7 @@ date: 2025-06-30T09:05:00+09:00
 draft: false
 
 cover:
-    image: "/images/2025-06-30_091750_138.jpg" 
+    image: "/images/breaking-the-chains/2025-06-30_091750_138.jpg" 
     alt: "挣脱枷锁：寻找灵魂的自由"
 ---
 

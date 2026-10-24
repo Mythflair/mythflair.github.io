@@ -7,7 +7,7 @@ draft: false
 
 description: "探索内向性格与孤独如何激发创造力和卓越成就，结合INFJ/INTJ视角的个人感悟 🌟"
 cover:  
-    image: "/images/20250715121022.png"
+    image: "/images/reflections-on-introverted-thinking/20250715121022.png"
     alt: "非IT公司IT团队建设：技术与管理的融合之道"
 ---
 

@@ -1,0 +1,6355 @@
+[
+  {
+    "old": "01374b11639c7611dd1e20c72c7dd8f.jpg",
+    "new": "troubleshooting-raspberry-pi-apt-get-upgrade-failure-due-to-overheating/01374b11639c7611dd1e20c72c7dd8f.jpg",
+    "owners": [
+      "troubleshooting-raspberry-pi-apt-get-upgrade-failure-due-to-overheating"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Troubleshooting Raspberry Pi apt-get upgrade Failure Due to Overheating.markdown"
+    ],
+    "unknown": [],
+    "sha256": "344d52ef7ec094ea90fa0fff08d285d052f501ca189c148a2f1466576664a18a"
+  },
+  {
+    "old": "01_甜柿集夜市长廊俯瞰.webp",
+    "new": "tianshiji-beyond-a-food-street/01_甜柿集夜市长廊俯瞰.webp",
+    "owners": [
+      "tianshiji-beyond-a-food-street"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tianshiji-beyond-a-food-street.md"
+    ],
+    "unknown": [],
+    "sha256": "8c618295d52427dbd3f6c6a6fb65e1b951edbd94f9674cc3451678a488481d00"
+  },
+  {
+    "old": "01d31a33ac7ee7b2bf269520800df42f.jpg",
+    "new": "antjapanesewarvictory80thanniversary/01d31a33ac7ee7b2bf269520800df42f.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e92f8bf100589ecfe55a45c6629d123b5125f119adfacb406a07c1fc1f1126ca"
+  },
+  {
+    "old": "02_热气球一生所求爱与自由夜景.webp",
+    "new": "tianshiji-beyond-a-food-street/02_热气球一生所求爱与自由夜景.webp",
+    "owners": [
+      "tianshiji-beyond-a-food-street"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tianshiji-beyond-a-food-street.md"
+    ],
+    "unknown": [],
+    "sha256": "48c32cb17d420b34b4c8be1f239b1543d693c3bc60d24c0814d30fa96703572f"
+  },
+  {
+    "old": "03_奥体中心热气球与夜市全景.webp",
+    "new": "tianshiji-beyond-a-food-street/03_奥体中心热气球与夜市全景.webp",
+    "owners": [
+      "tianshiji-beyond-a-food-street"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tianshiji-beyond-a-food-street.md"
+    ],
+    "unknown": [],
+    "sha256": "4c43d4033b2ddeaf3b783f64297ba253a00f9ae20757478d85f2ca54e0ed465d"
+  },
+  {
+    "old": "04_甜柿集入口门头近景.webp",
+    "new": "tianshiji-beyond-a-food-street/04_甜柿集入口门头近景.webp",
+    "owners": [
+      "tianshiji-beyond-a-food-street"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tianshiji-beyond-a-food-street.md"
+    ],
+    "unknown": [],
+    "sha256": "098818cc6a367eae9ad85be94e692315187395cfe8594a1ed37a65333cc77db9"
+  },
+  {
+    "old": "05_奥体中心商街日景航拍.webp",
+    "new": "tianshiji-beyond-a-food-street/05_奥体中心商街日景航拍.webp",
+    "owners": [
+      "tianshiji-beyond-a-food-street"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tianshiji-beyond-a-food-street.md"
+    ],
+    "unknown": [],
+    "sha256": "bb5ba03293355982459a1dc06c96077a6a00d151360d39e0b24c788ed8d6a7e9"
+  },
+  {
+    "old": "0778e8a97f6ee227a51405920b9a112d.jpg",
+    "new": "0778e8a97f6ee227a51405920b9a112d.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "ea9fdd6e823df603fab177fe440ab38bb02ae7b274884ca327d2d6f18375bb75"
+  },
+  {
+    "old": "07fc4aae4b4d68ff9bdcd8627b55d2b.jpg",
+    "new": "transformation_of_traditional_fmcg_retail_insights_from_kuangguang_group/07fc4aae4b4d68ff9bdcd8627b55d2b.jpg",
+    "owners": [
+      "transformation_of_traditional_fmcg_retail_insights_from_kuangguang_group"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Transformation_of_Traditional_FMCG_Retail_Insights_from_Kuangguang_Group.md"
+    ],
+    "unknown": [],
+    "sha256": "f1c5519818a2338bea07ddf4da5b618106127bfab6eee1f2755760ee52ed8bdf"
+  },
+  {
+    "old": "0a9bfb9c22a04408a17ccea1d685cac6.jpg",
+    "new": "100recommendedbooks/0a9bfb9c22a04408a17ccea1d685cac6.jpg",
+    "owners": [
+      "100recommendedbooks"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/100RecommendedBooks.md"
+    ],
+    "unknown": [],
+    "sha256": "4cb74118468aeeab945f6aaaaff08145f4e1aeb1432ef94fe47bc9c24dfa1a02"
+  },
+  {
+    "old": "0b3bd41486a349fda71f92a22b7bdcf.jpg",
+    "new": "0b3bd41486a349fda71f92a22b7bdcf.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "1f0277d45ec38209183eaf2d7a7f97a906d25cf1fee5a816e6881d6d7bd6bdb3"
+  },
+  {
+    "old": "0f07007a32095a6177cd53bbf9f8d6e3.jpg",
+    "new": "celebration-poem/0f07007a32095a6177cd53bbf9f8d6e3.jpg",
+    "owners": [
+      "celebration-poem"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/celebration-poem.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2a338bba6663f4346aede9c8ef86ab5d9a1c904e605daf61581a5275e57124e1"
+  },
+  {
+    "old": "168802716645261.jpg",
+    "new": "windows11changeusername/168802716645261.jpg",
+    "owners": [
+      "windows11changeusername"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/windows11changeusername.md"
+    ],
+    "unknown": [],
+    "sha256": "c915305f524f2c87872a215fe7857278142144d0d0169de2821657e0c74cb9da"
+  },
+  {
+    "old": "1756717710577-98deef24-43e5-48c0-b989-485b443155bd.jpg",
+    "new": "ai-building-model-experience/1756717710577-98deef24-43e5-48c0-b989-485b443155bd.jpg",
+    "owners": [
+      "ai-building-model-experience"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-building-model-experience.md"
+    ],
+    "unknown": [],
+    "sha256": "68f2c190ad64f725d686e2b9c9e504642db6f718beffd3480ff51e2330911b25"
+  },
+  {
+    "old": "1756718268429-45be99b7-8eca-4e34-ab35-830f63c7bf0b.jpg",
+    "new": "ai-building-model-experience/1756718268429-45be99b7-8eca-4e34-ab35-830f63c7bf0b.jpg",
+    "owners": [
+      "ai-building-model-experience"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-building-model-experience.md"
+    ],
+    "unknown": [],
+    "sha256": "b9b1ef71db8269fb60cc35e7615a226b120882d15214fa4851ce586ef79e0d28"
+  },
+  {
+    "old": "1756718336583-f4c15f47-51b2-48b9-acd7-6862113b583c.jpg",
+    "new": "ai-building-model-experience/1756718336583-f4c15f47-51b2-48b9-acd7-6862113b583c.jpg",
+    "owners": [
+      "ai-building-model-experience"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-building-model-experience.md"
+    ],
+    "unknown": [],
+    "sha256": "a7e97c5b0d5eaafe429189272beaa359cc116a3bc9c9fb16d39cce8cfb0777ff"
+  },
+  {
+    "old": "1756718626553-021abf31-2e74-4801-aae8-a81955347842.jpg",
+    "new": "ai-building-model-experience/1756718626553-021abf31-2e74-4801-aae8-a81955347842.jpg",
+    "owners": [
+      "ai-building-model-experience"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-building-model-experience.md"
+    ],
+    "unknown": [],
+    "sha256": "9b0d783a8c4ce85332884863cad4f671b61755e7bfc6d3fe8d19a8766e464401"
+  },
+  {
+    "old": "1756719739500-9a26ea0b-bc31-4c48-a13b-5ef9a209e184.jpg",
+    "new": "ai-building-model-experience/1756719739500-9a26ea0b-bc31-4c48-a13b-5ef9a209e184.jpg",
+    "owners": [
+      "ai-building-model-experience"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-building-model-experience.md"
+    ],
+    "unknown": [],
+    "sha256": "b7f6f8c3d0cf07744d1fe0ab98d027a9e6d1755a0cebad58c6c9907abd7c13f9"
+  },
+  {
+    "old": "18d9419850299c383af0030ed167833.jpg",
+    "new": "18d9419850299c383af0030ed167833.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "c6f00d4af352519b76be8249c6a9e09bf4e1e7cdea90a82348393385d3105c48"
+  },
+  {
+    "old": "1f48733f8f4e76de4cbeb1e91d1501b.jpg",
+    "new": "guangkuan-hebei-partnership/1f48733f8f4e76de4cbeb1e91d1501b.jpg",
+    "owners": [
+      "guangkuan-hebei-partnership"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/guangkuan-hebei-partnership.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9acc85654341a88a7e5160d4a6b479622ed8f95e3f39d7aecb3624780ec69c23"
+  },
+  {
+    "old": "20200430174653.jpg",
+    "new": "2023_reflections/20200430174653.jpg",
+    "owners": [
+      "2023_reflections"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2023_reflections.md"
+    ],
+    "unknown": [],
+    "sha256": "b655ee04cdcfdfffa765ca83ee8ace7df89b3c91a42ddba0d562718c5cff2008"
+  },
+  {
+    "old": "20210712090003_30352.jpg",
+    "new": "my-blog-post/20210712090003_30352.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "23b0195f431775940cda6d8107697faf50bfe1356779602f1dba4eeb2040057a"
+  },
+  {
+    "old": "20220729122520.jpg",
+    "new": "20220729122520.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "d57326ac686ce21caf5217c2100924a56832e32059c2792675fdd14343a34ac9"
+  },
+  {
+    "old": "2025-06-20 013921.jpg",
+    "new": "2025-06-20 013921.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "c4ae44f38612d32f35c331d7400450a6c43850e7e457c56caa1804833a0665a8"
+  },
+  {
+    "old": "2025-06-20_102427_359.jpg",
+    "new": "infj_think/2025-06-20_102427_359.jpg",
+    "owners": [
+      "infj_think"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/infj_think.markdown"
+    ],
+    "unknown": [],
+    "sha256": "55f38f947f4bfcd0f1b6f1053a0cb99e13ac3f1a272763a166c6e3d26deaa5e6"
+  },
+  {
+    "old": "2025-06-26_122758_637.jpg",
+    "new": "future_trends/2025-06-26_122758_637.jpg",
+    "owners": [
+      "future_trends"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/future_trends.markdown"
+    ],
+    "unknown": [],
+    "sha256": "206ad6a6af83dd4aea87c6f433e3a58d16d25bdef1dc2b60bf781a520a92371c"
+  },
+  {
+    "old": "2025-06-26_132911_199.png",
+    "new": "1990s-pc-trends-/2025-06-26_132911_199.png",
+    "owners": [
+      "1990s-pc-trends-"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/1990s-pc-trends .markdown"
+    ],
+    "unknown": [],
+    "sha256": "b197816aa0bf0666b6beeef1e2fdeb35c9dd3ccd6b37f92d2c3e51a84bbd7ea2"
+  },
+  {
+    "old": "2025-06-30_091750_138.jpg",
+    "new": "breaking-the-chains/2025-06-30_091750_138.jpg",
+    "owners": [
+      "breaking-the-chains"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/breaking-the-chains.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d8aae5b6d20b603a46437b5787dfcc67de5b0121ebf6b0a00ad99d3a65d8fbea"
+  },
+  {
+    "old": "2025-07-03_011304_137.jpg",
+    "new": "kunguang-group-insights/2025-07-03_011304_137.jpg",
+    "owners": [
+      "kunguang-group-insights"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kunguang-group-insights.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d91ed7788edb9483608f0966e759fdb66462207135801f13a3e04677b892d054"
+  },
+  {
+    "old": "2025-07-03_075635_823.jpg",
+    "new": "philosophical_reflections/2025-07-03_075635_823.jpg",
+    "owners": [
+      "philosophical_reflections"
+    ],
+    "site": false,
+    "refs": [
+      "content/private/philosophical_reflections.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9ffded449092f178ca0bbcf676b0a439a7616d1c1d3ab318bda6680d98e4692c"
+  },
+  {
+    "old": "2025-07-05_092804_036.jpg",
+    "new": "inspiration-in-relaxed-states/2025-07-05_092804_036.jpg",
+    "owners": [
+      "inspiration-in-relaxed-states"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/inspiration-in-relaxed-states.markdown"
+    ],
+    "unknown": [],
+    "sha256": "06b8133edee7bb29643ac1988754ff15582af0a2d66d2d02468d61e3a46ba20e"
+  },
+  {
+    "old": "2025-07-06_000943_948.jpg",
+    "new": "shiji-conference-reflections/2025-07-06_000943_948.jpg",
+    "owners": [
+      "shiji-conference-reflections"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/shiji-conference-reflections.markdown"
+    ],
+    "unknown": [],
+    "sha256": "b94fbe4b3d7c9d8eaaa4c4d12b4e3b83787f2a5e5d34663d4975beea9e062933"
+  },
+  {
+    "old": "2025-07-07_142948_805.jpg",
+    "new": "drowning_incident_reflection/2025-07-07_142948_805.jpg",
+    "owners": [
+      "drowning_incident_reflection"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/drowning_incident_reflection.markdown"
+    ],
+    "unknown": [],
+    "sha256": "3efb08ad4d702ca013205563b3f01d5884e0254e1286ab059727c90a6da1f6cc"
+  },
+  {
+    "old": "2025-07-08_102541_134.jpg",
+    "new": "flight-nightmare/2025-07-08_102541_134.jpg",
+    "owners": [
+      "flight-nightmare"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/flight-nightmare.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d0d06cd0e8b78da1c0c034d38b5678767ccedd75f72e868236c9300b8d3047d0"
+  },
+  {
+    "old": "2025-07-09_080523_075.jpg",
+    "new": "my-blog-journey/2025-07-09_080523_075.jpg",
+    "owners": [
+      "my-blog-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d1c35ed0f011b389bd8612acbf486f65f8e74172301517506045d978ce67f294"
+  },
+  {
+    "old": "2025-07-14_082604_033.jpg",
+    "new": "why-turnstile-integration-failed-/2025-07-14_082604_033.jpg",
+    "owners": [
+      "why-turnstile-integration-failed-"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/why-turnstile-integration-failed .markdown"
+    ],
+    "unknown": [],
+    "sha256": "7b549f1f1cc29f99293901adb0d0e424f802db31333c66829c477738c7111a9f"
+  },
+  {
+    "old": "2025-07-16_080521_839.jpg",
+    "new": "yuque-vs-notion/2025-07-16_080521_839.jpg",
+    "owners": [
+      "yuque-vs-notion"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/yuque-vs-notion.markdown"
+    ],
+    "unknown": [],
+    "sha256": "1a29deda67c0382265f5503ae2b71cc145b13aa1ef3d65f62bf4d16ff98be04c"
+  },
+  {
+    "old": "2025-07-18_090931_598.jpg",
+    "new": "suggestion-for-service-feedback/2025-07-18_090931_598.jpg",
+    "owners": [
+      "suggestion-for-service-feedback"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/suggestion-for-service-feedback.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2b2273d242b3b061fd5917aa7dffb2d0ddd9fe19310685cdeeb91c24da52c4b6"
+  },
+  {
+    "old": "2025-07-18_094022_073.jpg",
+    "new": "break-the-habit/2025-07-18_094022_073.jpg",
+    "owners": [
+      "break-the-habit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/break-the-habit.markdown"
+    ],
+    "unknown": [],
+    "sha256": "01ba5ddce7477cc296ea957dd7b4a575a5d366837a27abd265f679f8f73964dc"
+  },
+  {
+    "old": "2025-07-20_141800_175.jpg",
+    "new": "stamp-journey/2025-07-20_141800_175.jpg",
+    "owners": [
+      "stamp-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/stamp-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d3490d7e3d90e7ad2a04ae0323f0dfbd47229b2bfc86f20f2fe99c1df02e5e3b"
+  },
+  {
+    "old": "2025-07-21_114357_769.jpg",
+    "new": "2025-07-21_114357_769.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "b3e41ba4b6fb14ca78d1c44759252887fc9072a4aaa32f8d4cfe79d8196182ec"
+  },
+  {
+    "old": "2025-07-21_121252_098.jpg",
+    "new": "reflections-through-the-years/2025-07-21_121252_098.jpg",
+    "owners": [
+      "reflections-through-the-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Reflections-Through-the-Years.markdown"
+    ],
+    "unknown": [],
+    "sha256": "0410bb522240c9a670a501ac91c5ea986cb75fa81a12639b171f94683d8cb43f"
+  },
+  {
+    "old": "2025-07-21_121331_889.jpg",
+    "new": "2025-07-21_121331_889.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "ce470b7cccd0eab635f1e76ae8c4253c5f8167fca8193839aa5a4b5cc3953d13"
+  },
+  {
+    "old": "2025-07-21_121417_761.jpg",
+    "new": "2025-07-21_121417_761.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "99570007556a2ad6c53947eaff763b2217a0e31fd4765f7c798e614fcd6f060a"
+  },
+  {
+    "old": "2025-07-21_121501_007.jpg",
+    "new": "2025-07-21_121501_007.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "8cc982307267655969165d0fa116988e69362f9ad360fe9f2040bf4500ed788c"
+  },
+  {
+    "old": "2025-07-21_122404_728.jpg",
+    "new": "2025-07-21_122404_728.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "08aca03b11b1e3a70eb43e31d2f410c16ba30d9ab501930bd97b1e465fe765bc"
+  },
+  {
+    "old": "2025-07-21_122448_428.jpg",
+    "new": "2025-07-21_122448_428.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "7b3ac70444210af2277ec7f35371cdb7eaaa357d3ae140b352e4df73b1d7b987"
+  },
+  {
+    "old": "2025-07-21_123004_151.jpg",
+    "new": "2025-07-21_123004_151.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "9a22402ced20133d86a13de652e5870c510f3c9a11b457dad997b356bbbe0ea1"
+  },
+  {
+    "old": "2025-07-21_123233_842.jpg",
+    "new": "2025-07-21_123233_842.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "339ba88658f054a62c412e4710c1eecac05ae9d9706e2f270b299badc8ff4bad"
+  },
+  {
+    "old": "2025-07-21_123600_043.jpg",
+    "new": "celebration-poem/2025-07-21_123600_043.jpg",
+    "owners": [
+      "celebration-poem"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/celebration-poem.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a0dc158fd603a1f8b868f3c337cc742cbafb79e12e42d7dd166843f77ff11ddd"
+  },
+  {
+    "old": "2025-07-21_123834_588.jpg",
+    "new": "2025-07-21_123834_588.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "132fc6012abd9d19c3885a5cfc5a9cea2699034c8f3e0c344371fd8406b45b33"
+  },
+  {
+    "old": "2025-07-31_204307_140.jpg",
+    "new": "dried-apricot-price-dispute/2025-07-31_204307_140.jpg",
+    "owners": [
+      "dried-apricot-price-dispute"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/dried-apricot-price-dispute.markdown"
+    ],
+    "unknown": [],
+    "sha256": "abe8a3c4f423fe36294a712c55678b885667c73fc68d548f77a7b119f74ac1be"
+  },
+  {
+    "old": "2025-08-07_010033_393.jpg",
+    "new": "nomindnokarma/2025-08-07_010033_393.jpg",
+    "owners": [
+      "nomindnokarma"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/NoMindNoKarma.markdown"
+    ],
+    "unknown": [],
+    "sha256": "7a4b5265d8f39719bc923c4906f3c42a07319ea0f9067c5383ae53b1bf61aeec"
+  },
+  {
+    "old": "2025-08-11_103952_835.jpg",
+    "new": "kuangguang-selection-strategy/2025-08-11_103952_835.jpg",
+    "owners": [
+      "kuangguang-selection-strategy"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/KuangGuang Selection Strategy.markdown"
+    ],
+    "unknown": [],
+    "sha256": "53a82e6c477df3b19dd85470af5a7a84aea562c171a3ee45f871240c46fb6c8d"
+  },
+  {
+    "old": "2025-08-12_211409_890.jpg",
+    "new": "my-fitness-journey/2025-08-12_211409_890.jpg",
+    "owners": [
+      "my-fitness-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-fitness-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6efe7d3a6fa771cf2311079ca429de03d35015c10b4945c3fc214ead19c6b540"
+  },
+  {
+    "old": "2025-08-12_211518_417.jpg",
+    "new": "my-fitness-journey/2025-08-12_211518_417.jpg",
+    "owners": [
+      "my-fitness-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-fitness-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "285ff423530274b33e8eb879febcbcfe65dc5698e46b32b2c975999f22703eb4"
+  },
+  {
+    "old": "2025-08-12_211841_717.jpg",
+    "new": "my-fitness-journey/2025-08-12_211841_717.jpg",
+    "owners": [
+      "my-fitness-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-fitness-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "91be95490e9fd38611fdf5207247afd168ca2db100ca82667f9e04979e2d3dc9"
+  },
+  {
+    "old": "2025-08-12_212817_732.jpg",
+    "new": "2025-08-12_212817_732.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "b2279d79dd4e4883ed3e47141a15c2e39f36552529b01e9ff66fb2c17b394ef0"
+  },
+  {
+    "old": "2025-08-16_170201_830.jpg",
+    "new": "from-c3i-to-c5i/2025-08-16_170201_830.jpg",
+    "owners": [
+      "from-c3i-to-c5i"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/from-c3i-to-c5i.markdown"
+    ],
+    "unknown": [],
+    "sha256": "63e9f05f5f12350d56b8517573df574f3f5f3d24d296178233a3249ae62af389"
+  },
+  {
+    "old": "2025-08-17_130625_784.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_130625_784.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "de3f93005cda3040eb00b2639db0a921e8e0d5ea26aeaa57d2417de15b70861f"
+  },
+  {
+    "old": "2025-08-17_130753_377.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_130753_377.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "ea0f3f4e3cbd89e3b9e7c402cc2463d4c930816c3e6bc04718df565b73c386fe"
+  },
+  {
+    "old": "2025-08-17_131931_968.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_131931_968.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "c699d24de582df51e7a430da50299c5553a4cbfad556c8febb13a1a3cd0448b5"
+  },
+  {
+    "old": "2025-08-17_132149_874.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_132149_874.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d3e34659cfaf663909f2941e54f560866b861fe2565f407f3ae6144d54e8734b"
+  },
+  {
+    "old": "2025-08-17_133821_624.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_133821_624.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9f413dcdffd6397c0070d1e31e5e16b698d34c027656aea0bf6101828dcd73a2"
+  },
+  {
+    "old": "2025-08-17_133909_703.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_133909_703.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "afd7aa2d7c1922cd159d504e552e22805fd90aa97a77c9d01c6d92457e8503cd"
+  },
+  {
+    "old": "2025-08-17_133936_539.jpg",
+    "new": "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon/2025-08-17_133936_539.jpg",
+    "owners": [
+      "ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ice-cold-wonders-exploring-iceland-geysers-and-blue-lagoon.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2a46becb36df8c57191da49104e54ecafee4304fe9660aca70676ea47a2b0e4b"
+  },
+  {
+    "old": "2025-08-18_121030_021.jpg",
+    "new": "dont-fear-the-unknown/2025-08-18_121030_021.jpg",
+    "owners": [
+      "dont-fear-the-unknown"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/dont-fear-the-unknown.md"
+    ],
+    "unknown": [],
+    "sha256": "a940e18c9abcb94098c481b3ea76308690a05bcf6736b6ee07ffa64fe91db736"
+  },
+  {
+    "old": "2025-08-18_122626_596.jpg",
+    "new": "dont-fear-the-unknown/2025-08-18_122626_596.jpg",
+    "owners": [
+      "dont-fear-the-unknown"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/dont-fear-the-unknown.md"
+    ],
+    "unknown": [],
+    "sha256": "11fda9f487152079b89482c1ad9ad56d9f6e3bc829b04a2d5bada1fd34949584"
+  },
+  {
+    "old": "2025-08-24_204018_489.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_204018_489.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9ed0a831f3b448ea78a3ed74925869ea2af2d96ac360c8f877a3e5d9aaccc8b4"
+  },
+  {
+    "old": "2025-08-24_204222_500.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_204222_500.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2614ccb1a01b7bb84fd860c4e52029cbecbcf0fd77e34a1c4ee2307e3526846c"
+  },
+  {
+    "old": "2025-08-24_204425_397.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_204425_397.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "4b7442cda2431f6b2545b921852c528b88f6dfe55b21047460eca4e38222fca1"
+  },
+  {
+    "old": "2025-08-24_204551_122.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_204551_122.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9ae5ce917f90a540e0a2c8429dac42cb6cf252b4f315438b2f99d100033ade38"
+  },
+  {
+    "old": "2025-08-24_204857_263.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_204857_263.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d23334cadd361f7d06f8b7a5a9a70735a0571cf8d73efe75eb93b1df7c937e72"
+  },
+  {
+    "old": "2025-08-24_205012_434.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205012_434.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "eba8b837d2eb27a31b5b81a7eafa5ab607f244948b53a6bfe69fb98a1f01cee2"
+  },
+  {
+    "old": "2025-08-24_205047_640.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205047_640.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "fbbcab5cea967c9c216b35545d7e69a1714fa064a25512027eee78e19f060c23"
+  },
+  {
+    "old": "2025-08-24_205145_584.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205145_584.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d7860bdeada6a60eb62aa49abbb3d9e3708c9d9768c734d248c76cdd0e647fc6"
+  },
+  {
+    "old": "2025-08-24_205224_224.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205224_224.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e6efc7f23fe51beff059c5516fc4c4d831c30c9982de8e1b13c652a9f98f967c"
+  },
+  {
+    "old": "2025-08-24_205323_727.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205323_727.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "90d00a45403168cb8f22ea384faa20ebf9a76210147e42aebadfc7118dc5da32"
+  },
+  {
+    "old": "2025-08-24_205400_337.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205400_337.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "5b04d91582f2f0949ae89a3c0199056e4a434aa09ceccc6c062f230136034713"
+  },
+  {
+    "old": "2025-08-24_205508_268.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205508_268.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "b4adfb51f4bca9e532b5913f574704772dda55415bca3bbfa3a1dcfeb91908fb"
+  },
+  {
+    "old": "2025-08-24_205709_810.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205709_810.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "f021d8df35929e8ede1c4a643986fc41ffe2d9f8003707e031f57458666e526b"
+  },
+  {
+    "old": "2025-08-24_205939_154.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_205939_154.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "29de38703c2054e60797ec103fa1228e60d21c3dd0d007fc72941d029dc18ad2"
+  },
+  {
+    "old": "2025-08-24_210151_856.jpg",
+    "new": "erduosi-retail-conference-blog/2025-08-24_210151_856.jpg",
+    "owners": [
+      "erduosi-retail-conference-blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/erduosi-retail-conference-blog.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6abe7c4d73af63929706b23eb25578b4181f95e960a18c63469f4a7e418c2694"
+  },
+  {
+    "old": "2025-09-03_105045_211.jpg",
+    "new": "antjapanesewarvictory80thanniversary/2025-09-03_105045_211.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "b66c96d74f37e2764d90a224f7dc0b0319a320ef69539f14c254fc65e29cd6c2"
+  },
+  {
+    "old": "2025-09-06_173647_566.jpg",
+    "new": "ai_image_generation/2025-09-06_173647_566.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "83c50fcaf8ddca4848902d64b2ae12175a3d5a63fe0639b92b328f4c054ccb57"
+  },
+  {
+    "old": "2025-09-06_173955_513.jpg",
+    "new": "ai_image_generation/2025-09-06_173955_513.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e371f1a33241fb549de2c7e136c64f1b3219547972e6021082dfc40ef4bdfcdc"
+  },
+  {
+    "old": "2025-09-06_174718_594.jpg",
+    "new": "ai_image_generation/2025-09-06_174718_594.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a33eeeecfdd54626716f619d1644c946edd62c0a5f9aae86eb15c2b7a23f0649"
+  },
+  {
+    "old": "2025-09-11_183939_864.jpg",
+    "new": "iphone13-releases/2025-09-11_183939_864.jpg",
+    "owners": [
+      "iphone13-releases"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/iphone13-releases.markdown"
+    ],
+    "unknown": [],
+    "sha256": "476931dd6d100e7f4763e6905f577e3120d1921bd45e95b0dcb75d27b13e289a"
+  },
+  {
+    "old": "2025-09-11_184009_451.jpg",
+    "new": "iphone13-releases/2025-09-11_184009_451.jpg",
+    "owners": [
+      "iphone13-releases"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/iphone13-releases.markdown"
+    ],
+    "unknown": [],
+    "sha256": "875df4e0b7b2939d0fb07bf3688a12927a457b26a8071e57112e8b24a3d7809d"
+  },
+  {
+    "old": "2025-09-11_184024_923.jpg",
+    "new": "iphone13-releases/2025-09-11_184024_923.jpg",
+    "owners": [
+      "iphone13-releases"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/iphone13-releases.markdown"
+    ],
+    "unknown": [],
+    "sha256": "31984b06f8bd12d468cd11bda0d0ba83b9f1e38f1afc53f6736e36b397b57965"
+  },
+  {
+    "old": "2025-09-11_184037_520.jpg",
+    "new": "iphone13-releases/2025-09-11_184037_520.jpg",
+    "owners": [
+      "iphone13-releases"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/iphone13-releases.markdown"
+    ],
+    "unknown": [],
+    "sha256": "19a9593ace67258667032292ed43fd884630b8a0a05899b1d266db4f2b1fd1d1"
+  },
+  {
+    "old": "2025-09-18_164111_392.jpg",
+    "new": "why_oral_communication_lags_short/2025-09-18_164111_392.jpg",
+    "owners": [
+      "why_oral_communication_lags_short"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/why_oral_communication_lags_short.markdown"
+    ],
+    "unknown": [],
+    "sha256": "ed7568da1e4cb60317902eb898025f212e747142c5b0f49070cfa903328248e7"
+  },
+  {
+    "old": "2025-09-19_172440_077.jpg",
+    "new": "apple-tv-revival-blog-post/2025-09-19_172440_077.jpg",
+    "owners": [
+      "apple-tv-revival-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/apple-tv-revival-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "1fcfb4fe17e1271064ece3356cc3aa862ad3a666a10125e7f3f8735f571fc400"
+  },
+  {
+    "old": "2025-09-19_172730_429.jpg",
+    "new": "apple-tv-revival-blog-post/2025-09-19_172730_429.jpg",
+    "owners": [
+      "apple-tv-revival-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/apple-tv-revival-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "7c2829959396803185de67ad84be941910fef3d4dd031bb8210c67fe8702f862"
+  },
+  {
+    "old": "2025-09-26_105110_039.jpg",
+    "new": "alcohol-test-8-hours/2025-09-26_105110_039.jpg",
+    "owners": [
+      "alcohol-test-8-hours"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/alcohol-test-8-hours.md"
+    ],
+    "unknown": [],
+    "sha256": "734bd60087aa26d69829f418a67050d69a189ab9b48c4f1a7bf3491cdab43735"
+  },
+  {
+    "old": "2025-09-26_105543_031.jpg",
+    "new": "alcohol-test-8-hours/2025-09-26_105543_031.jpg",
+    "owners": [
+      "alcohol-test-8-hours"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/alcohol-test-8-hours.md"
+    ],
+    "unknown": [],
+    "sha256": "ed0b81e515340e2c0d89bac2b849ee401337ee61ca4cf69de06f6d5b6f298152"
+  },
+  {
+    "old": "2025-09-26_105601_412.jpg",
+    "new": "alcohol-test-8-hours/2025-09-26_105601_412.jpg",
+    "owners": [
+      "alcohol-test-8-hours"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/alcohol-test-8-hours.md"
+    ],
+    "unknown": [],
+    "sha256": "c13fabaed8387d4d76773523378d98b2a8673b7a2372790fce31759891bc02e6"
+  },
+  {
+    "old": "2025-09-26_105617_841.jpg",
+    "new": "alcohol-test-8-hours/2025-09-26_105617_841.jpg",
+    "owners": [
+      "alcohol-test-8-hours"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/alcohol-test-8-hours.md"
+    ],
+    "unknown": [],
+    "sha256": "373d2db30b56f876893abb2d96ce66a218dfa24775ab436e6b20e6ba88492aa3"
+  },
+  {
+    "old": "2025-10-01_163013_839.jpg",
+    "new": "midea-air-purifier/2025-10-01_163013_839.jpg",
+    "owners": [
+      "midea-air-purifier"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/midea-air-purifier.md"
+    ],
+    "unknown": [],
+    "sha256": "2077de6781d0698a98189f7346d33176b77bfd364118c46006996febe8df2659"
+  },
+  {
+    "old": "2025-10-01_163200_786.jpg",
+    "new": "midea-air-purifier/2025-10-01_163200_786.jpg",
+    "owners": [
+      "midea-air-purifier"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/midea-air-purifier.md"
+    ],
+    "unknown": [],
+    "sha256": "b77e1d84a5580fd501ed44efbe0bbbc3a5507284ce9f58ab8992a872c1130f2d"
+  },
+  {
+    "old": "2025-10-05_154813_536.jpg",
+    "new": "it-like-air/2025-10-05_154813_536.jpg",
+    "owners": [
+      "it-like-air"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/it-like-air.en.md",
+      "content/posts/it-like-air.ja.md",
+      "content/posts/it-like-air.md"
+    ],
+    "unknown": [],
+    "sha256": "26544be590ab1797d62fe605a5f86e91f4c2755786d1ded99ea7ae5e70e810e2"
+  },
+  {
+    "old": "2025-10-18_134122_463.jpg",
+    "new": "mac-vpn-setting/2025-10-18_134122_463.jpg",
+    "owners": [
+      "mac-vpn-setting"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/mac-vpn-setting.md"
+    ],
+    "unknown": [],
+    "sha256": "119cee02b12de1da8a8abaf353bcfa4af18d59b4ff5edabdcbec3fd5cc355489"
+  },
+  {
+    "old": "2025-10-18_134222_559.jpg",
+    "new": "mac-vpn-setting/2025-10-18_134222_559.jpg",
+    "owners": [
+      "mac-vpn-setting"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/mac-vpn-setting.md"
+    ],
+    "unknown": [],
+    "sha256": "a76550ae4ee456ae84f4b4e62a5798743880bdde7cc1dcd674f948491b24a63b"
+  },
+  {
+    "old": "2025-10-18_134238_129.jpg",
+    "new": "mac-vpn-setting/2025-10-18_134238_129.jpg",
+    "owners": [
+      "mac-vpn-setting"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/mac-vpn-setting.md"
+    ],
+    "unknown": [],
+    "sha256": "fb8e0496e8b592cfdfbbddf64ce691c90cbd4b15151627e07a0052718aa3bf2d"
+  },
+  {
+    "old": "2025-10-22_104448_236.jpg",
+    "new": "thoughts-while-waiting-for-the-bus/2025-10-22_104448_236.jpg",
+    "owners": [
+      "thoughts-while-waiting-for-the-bus"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/thoughts-while-waiting-for-the-bus.md"
+    ],
+    "unknown": [],
+    "sha256": "86ec9a14ca5b46532c0fadeb5534c78073ea400c426934ef5f8ddae1ebcedf97"
+  },
+  {
+    "old": "2025-10-22_104506_967.jpg",
+    "new": "thoughts-while-waiting-for-the-bus/2025-10-22_104506_967.jpg",
+    "owners": [
+      "thoughts-while-waiting-for-the-bus"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/thoughts-while-waiting-for-the-bus.md"
+    ],
+    "unknown": [],
+    "sha256": "cc5e6f140822eca85204aa265392c7b2135f20705b99c3f1ad64517711a3e9f8"
+  },
+  {
+    "old": "2025-10-22_125530_207.jpg",
+    "new": "technology-is-not-important-business-logic-is-important/2025-10-22_125530_207.jpg",
+    "owners": [
+      "technology-is-not-important-business-logic-is-important"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Technology is not important business logic is important.md"
+    ],
+    "unknown": [],
+    "sha256": "06d4ba4dcfc0545d38dfb35668418a7a967948777de968df3345e81747ab0c5c"
+  },
+  {
+    "old": "2025-11-10_180246_515.jpg",
+    "new": "four-encounters-with-qingdao/2025-11-10_180246_515.jpg",
+    "owners": [
+      "four-encounters-with-qingdao"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Four Encounters with Qingdao.md"
+    ],
+    "unknown": [],
+    "sha256": "3707559a270e0cbe74ace8f63d5ed7889dadd13ca47573e11cc3a8b763b4fac7"
+  },
+  {
+    "old": "2025-11-10_180313_723.jpg",
+    "new": "four-encounters-with-qingdao/2025-11-10_180313_723.jpg",
+    "owners": [
+      "four-encounters-with-qingdao"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Four Encounters with Qingdao.md"
+    ],
+    "unknown": [],
+    "sha256": "4d7aad677916ebbfc9978b46eb2d6579a190ea7cfdd9adc566527f38415b08d8"
+  },
+  {
+    "old": "2025-11-10_180340_665.jpg",
+    "new": "four-encounters-with-qingdao/2025-11-10_180340_665.jpg",
+    "owners": [
+      "four-encounters-with-qingdao"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Four Encounters with Qingdao.md"
+    ],
+    "unknown": [],
+    "sha256": "76c92724acd8429f5f489d0917c28718d190d0f6a7559bc1cd305e683e57a40c"
+  },
+  {
+    "old": "2025-11-27_172556_129.jpg",
+    "new": "upgradetoftto/2025-11-27_172556_129.jpg",
+    "owners": [
+      "upgradetoftto"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/UpgradeToFtto.md"
+    ],
+    "unknown": [],
+    "sha256": "18b4839903cc5b6fb3b25537dfc0e0d34a9fc00df37ba2a2ab9c01a0d331852d"
+  },
+  {
+    "old": "20250626231441.png",
+    "new": "supermarket_analysis/20250626231441.png",
+    "owners": [
+      "supermarket_analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket_analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "07a65d4008c13919b24c0953fa1089068e2c4ef3cf7e92f597693e7f4b484b15"
+  },
+  {
+    "old": "20250628225327.png",
+    "new": "customer_flow_analysis/20250628225327.png",
+    "owners": [
+      "customer_flow_analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/customer_flow_analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "7392252270f2ee31187b3950cbe580be1d894a71b3bf7acf153649fb70b2bb78"
+  },
+  {
+    "old": "20250709174408.png",
+    "new": "20250709174408.png",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "7ed114d462d526333c746ca93db8e2da00fb2927a6bd288bdebc8fbc6dbbc1a2"
+  },
+  {
+    "old": "20250709174609.png",
+    "new": "dujiangyan-journey/20250709174609.png",
+    "owners": [
+      "dujiangyan-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/dujiangyan-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "96f44f4405fab00752aa10364568b851bb1acd281dac3701166e3bd685d742c4"
+  },
+  {
+    "old": "20250712213100.png",
+    "new": "data-breach-risk-analysis/20250712213100.png",
+    "owners": [
+      "data-breach-risk-analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/data-breach-risk-analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a8f1330501a287bc3ccfc7cbfaa97a501d6080e464df117a774d05237090597a"
+  },
+  {
+    "old": "20250715113209.png",
+    "new": "it-team-building-analysis/20250715113209.png",
+    "owners": [
+      "it-team-building-analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/it-team-building-analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "45b11542620ffa4c466f902874ab38faffd85af44abd0b9524de4e056aff2dc2"
+  },
+  {
+    "old": "20250715120904.png",
+    "new": "20250715120904.png",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "1f48f2988b22f3277f0130f7e773ba09dfbaff9ed113112d033db08e9b9880ac"
+  },
+  {
+    "old": "20250715121022.png",
+    "new": "reflections-on-introverted-thinking/20250715121022.png",
+    "owners": [
+      "reflections-on-introverted-thinking"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/reflections-on-introverted-thinking.markdown"
+    ],
+    "unknown": [],
+    "sha256": "350f88433e62c7ea09c956cf9619a8cc01d795a629b2448ca01f7b7105c5e234"
+  },
+  {
+    "old": "20250715140036.png",
+    "new": "five_life_tips/20250715140036.png",
+    "owners": [
+      "five_life_tips"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/five_life_tips.markdown"
+    ],
+    "unknown": [],
+    "sha256": "82dc51fe1dfac3a7484fdaf76da83b15e012788b639b1fa241268b3f6f36d649"
+  },
+  {
+    "old": "20250717170817.png",
+    "new": "retail-industry-observation-2025/20250717170817.png",
+    "owners": [
+      "retail-industry-observation-2025"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/retail-industry-observation-2025.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a09dfde52cffaf8eba425a927e3a93b16f2c160e414ededf1f21487cf754ce20"
+  },
+  {
+    "old": "20250722141500.png",
+    "new": "wechat-lucky-draw/20250722141500.png",
+    "owners": [
+      "wechat-lucky-draw"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/wechat-lucky-draw.markdown"
+    ],
+    "unknown": [],
+    "sha256": "71cd63ecb44f82d660930212dedf1b34c4501ec3359e6e18ee1761c6571fdab7"
+  },
+  {
+    "old": "20250722160202.png",
+    "new": "reflection-on-sons-gift/20250722160202.png",
+    "owners": [
+      "reflection-on-sons-gift"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/reflection-on-sons-gift.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e7de5e7be46e5d9cd7fe3555bd7ce195c6ce73c6fd8c52fd01b6acc1142d2ca9"
+  },
+  {
+    "old": "20250725122324.png",
+    "new": "german-wheat-beer-analysis/20250725122324.png",
+    "owners": [
+      "german-wheat-beer-analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/german-wheat-beer-analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "f69fc0da140894b5a348a562df9c739a7447780a4b939a32c95ebe6ad8405a61"
+  },
+  {
+    "old": "20250726135436.png",
+    "new": "my-career-journey/20250726135436.png",
+    "owners": [
+      "my-career-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-career-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "39d87365c072784b64e98e50543079c036e4b2eba37f4aac5903f98727389304"
+  },
+  {
+    "old": "20250729174757.png",
+    "new": "kuanguang_supermarket_analysis/20250729174757.png",
+    "owners": [
+      "kuanguang_supermarket_analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Kuanguang_Supermarket_Analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e164039d8b7487f6980c3af5003131508cd9e7cbc3e754656ea2d37a953c572d"
+  },
+  {
+    "old": "20250729174904.png",
+    "new": "kuanguang_supermarket_analysis/20250729174904.png",
+    "owners": [
+      "kuanguang_supermarket_analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Kuanguang_Supermarket_Analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "4d65032c7fabc8936211723332ac8917c5aad27d59087a92f658c09b89232d28"
+  },
+  {
+    "old": "20251110105428_7_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105428_7_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "77b9843f8831f46c604b907a2f5d772624bdfa01ccbcfa3539cf2ae248704af6"
+  },
+  {
+    "old": "20251110105434_10_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105434_10_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "5b58ea3dd72e02d34bd7392157ce7ae344febde994db915251ead4f6dbb22b44"
+  },
+  {
+    "old": "20251110105437_12_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105437_12_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "d5cf1b819048e8a77e5f738cc40235095330bfd8c280afc6f6faa8180ede9141"
+  },
+  {
+    "old": "20251110105439_13_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105439_13_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "6bbc9011e4467d529da3b7059d8c30afbf4fed6a82cef231a26e9c1a07871002"
+  },
+  {
+    "old": "20251110105441_14_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105441_14_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "48e6e70fe724f0ae4f4bd500bcc9cc0d49a7ad1d367632442a16212f384eddf4"
+  },
+  {
+    "old": "20251110105510_23_945.jpg",
+    "new": "another-path-to-innovation-insights-from-histone/20251110105510_23_945.jpg",
+    "owners": [
+      "another-path-to-innovation-insights-from-histone"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Another Path to Innovation Insights from HiStone.md"
+    ],
+    "unknown": [],
+    "sha256": "ddcc6c7b1eae875f08d776d1c1e7046c31f2ef27ab1b0c12e7fc0ab6a3f896a7"
+  },
+  {
+    "old": "2026-01-14_174606_408.jpg",
+    "new": "agent-e-commerce/2026-01-14_174606_408.jpg",
+    "owners": [
+      "agent-e-commerce"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Agent-E-Commerce.md"
+    ],
+    "unknown": [],
+    "sha256": "722f4819c2ed1a27820d4bd97bc3ec3a85763eefbef957af93e4e0b063d704d7"
+  },
+  {
+    "old": "2026-01-20_163405_147.jpg",
+    "new": "kuangguang-12-years/2026-01-20_163405_147.jpg",
+    "owners": [
+      "kuangguang-12-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuangguang-12-years-unreached-and-arrived.md"
+    ],
+    "unknown": [],
+    "sha256": "0eceadbb24f45d629eff1683c7404ea3f6658119e799e364dde29175c8d9ffe8"
+  },
+  {
+    "old": "2026-01-20_175157_638.jpg",
+    "new": "kuangguang-12-years/2026-01-20_175157_638.jpg",
+    "owners": [
+      "kuangguang-12-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuangguang-12-years-unreached-and-arrived.md"
+    ],
+    "unknown": [],
+    "sha256": "c6f6030fd8c57d2f21d78cb6abf3b5f02b468641d34821fa63e13b174878a87c"
+  },
+  {
+    "old": "2026-01-25_111142_461.jpg",
+    "new": "musk-human-as-ai-bootloader-2029/2026-01-25_111142_461.jpg",
+    "owners": [
+      "musk-human-as-ai-bootloader-2029"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Musk-Human-as-AI-Bootloader-2029.md"
+    ],
+    "unknown": [],
+    "sha256": "8ab4ca95e59da0c6d017828e74717ecb3d9dfdf5002f75bb134280a3d3e8f1ec"
+  },
+  {
+    "old": "2026-01-28_122509_656.jpg",
+    "new": "give_young_people_a_chance/2026-01-28_122509_656.jpg",
+    "owners": [
+      "give_young_people_a_chance"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Give_Young_People_a_Chance.md"
+    ],
+    "unknown": [],
+    "sha256": "9088e19e093baf0343442fc3448511ff638d57b29e2da731342f46fc3ed9ff4e"
+  },
+  {
+    "old": "2026-01-28_123832_103.jpg",
+    "new": "give_young_people_a_chance/2026-01-28_123832_103.jpg",
+    "owners": [
+      "give_young_people_a_chance"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Give_Young_People_a_Chance.md"
+    ],
+    "unknown": [],
+    "sha256": "4edffaf1ec48ffbe81f7294e3b6c7655200719f4886d5ec846863f55824346f7"
+  },
+  {
+    "old": "2026-01-29_180720_311.jpg",
+    "new": "it-30-years/2026-01-29_180720_311.jpg",
+    "owners": [
+      "it-30-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/it_30_year.md"
+    ],
+    "unknown": [],
+    "sha256": "0f2a5a1247bf10e2c466b3ca55ce9739ea66be155da659fce21c306189ed0dae"
+  },
+  {
+    "old": "2026-02-05_175628_227.jpg",
+    "new": "shared/2026-02-05_175628_227.jpg",
+    "owners": [
+      "my-career-journey",
+      "the-network-beneath-the-world"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The Network Beneath the World.md",
+      "content/posts/my-career-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2623720d4706f3f034d29e7e3499c14b9532dc903915c8f2b66119209690e1f0"
+  },
+  {
+    "old": "2026-02-09_231258_430.jpg",
+    "new": "pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/2026-02-09_231258_430.jpg",
+    "owners": [
+      "pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/pgrading the Engine Transitioning from Enterprise MSSQL to Internet-Scale Architecture.md"
+    ],
+    "unknown": [],
+    "sha256": "f41aa8f89f3abb51f20757409d60b5547704784789c907f4b3da72f9913c5d87"
+  },
+  {
+    "old": "2026-03-06_113349_359.jpg",
+    "new": "the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113349_359.jpg",
+    "owners": [
+      "the-waymo-moment-when-ai-calls-human-apis-for-retail-management"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The Waymo Moment When AI Calls Human APIs for Retail Management.md"
+    ],
+    "unknown": [],
+    "sha256": "858a9a3d2a3bc4f4060388732a19c722af41173d8f4a150ad59e09be3cf1b76c"
+  },
+  {
+    "old": "2026-03-06_113446_958.jpg",
+    "new": "the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113446_958.jpg",
+    "owners": [
+      "the-waymo-moment-when-ai-calls-human-apis-for-retail-management"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The Waymo Moment When AI Calls Human APIs for Retail Management.md"
+    ],
+    "unknown": [],
+    "sha256": "3353f749a3a8edab33f60d8222b2af5574fce67ab1ac8a324aa0dbe61c0141f0"
+  },
+  {
+    "old": "2026-03-06_113524_120.jpg",
+    "new": "the-waymo-moment-when-ai-calls-human-apis-for-retail-management/2026-03-06_113524_120.jpg",
+    "owners": [
+      "the-waymo-moment-when-ai-calls-human-apis-for-retail-management"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The Waymo Moment When AI Calls Human APIs for Retail Management.md"
+    ],
+    "unknown": [],
+    "sha256": "619c7a36bd16d9b6896bf900b29482d6dfddb0a69838147a813d0cb28fd3e071"
+  },
+  {
+    "old": "2026-03-11_120714_212.jpg",
+    "new": "openclaw/2026-03-11_120714_212.jpg",
+    "owners": [
+      "openclaw"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/openclaw.md"
+    ],
+    "unknown": [],
+    "sha256": "0638cd31e3b186edcf87a4a324dce873be5ac9bd970116882329f88cce206a65"
+  },
+  {
+    "old": "2026-03-11_120810_535.jpg",
+    "new": "2026-03-11_120810_535.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "2fa59a2b966335256919914ca76690d28cc1a6db2a92e6cbe073dc8f0670c1dd"
+  },
+  {
+    "old": "2026-03-30_152538_061.jpg",
+    "new": "ai-agents-in-the-real-world-from-hype-to-system-level-execution/2026-03-30_152538_061.jpg",
+    "owners": [
+      "ai-agents-in-the-real-world-from-hype-to-system-level-execution"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AI Agents in the Real World From Hype to System-Level Execution.md"
+    ],
+    "unknown": [],
+    "sha256": "6376267ae7400a0e11362d76898aeefdcb00140dae5460c3d6b14a96424b13b6"
+  },
+  {
+    "old": "2026-04-14_145441_051.jpg",
+    "new": "you-think-youre-fast--youre-actually-going-nowhere/2026-04-14_145441_051.jpg",
+    "owners": [
+      "you-think-youre-fast--youre-actually-going-nowhere"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/You Think You’re Fast — You’re Actually Going Nowhere.md"
+    ],
+    "unknown": [],
+    "sha256": "75eec8c12a44f36a27bb57fb3d6487516d2dd2d8753cbc7f88250a4cec7b3cd8"
+  },
+  {
+    "old": "2026-04-30_190752_995.jpg",
+    "new": "openclaw-chooes/2026-04-30_190752_995.jpg",
+    "owners": [
+      "openclaw-chooes"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/OpenClaw Chooes.md"
+    ],
+    "unknown": [],
+    "sha256": "c2e549d2d8a76947ea1053c0d80bdef4e5f687edb30f70fe208919edaae3f05c"
+  },
+  {
+    "old": "2026-04-30_191127_910.jpg",
+    "new": "2026-04-30_191127_910.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "c106512e5445188b15427cb9497f9a9788ff87e957d9d3e0b8cfee5019acb356"
+  },
+  {
+    "old": "2026-04-30_191444_429.jpg",
+    "new": "2026-04-30_191444_429.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "4496e4f0a5f768bbdbee1d09b21dac7d98524a940265ec9f60ca77e43db9c247"
+  },
+  {
+    "old": "2026-04-30_192759_246.jpg",
+    "new": "2026-04-30_192759_246.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "40708e82017797669c3a43ffadce457e058235f7d60ebf470fac62786f2d353e"
+  },
+  {
+    "old": "2026-05-02_204856_106.jpg",
+    "new": "engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/2026-05-02_204856_106.jpg",
+    "owners": [
+      "engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Engineering Over Elegance Why Granite 4.1 is the Strategic Choice for Retail AI.md"
+    ],
+    "unknown": [],
+    "sha256": "12ec54ea3771b089ab61a4b71bb88428d9026b38505c43109bdade2526d1d9ef"
+  },
+  {
+    "old": "2026-05-02_210253_853.jpg",
+    "new": "2026-05-02_210253_853.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "dd0f34ce1b652e75772a8ca3f028a82796aa8fc4ab6172f1db082d3a0f80a897"
+  },
+  {
+    "old": "2026-05-11_173245_279.jpg",
+    "new": "at-an-adult-ceremony-filled-with-unruly-hairstyles-i-saw-the-greatest-confidence-in-education/2026-05-11_173245_279.jpg",
+    "owners": [
+      "at-an-adult-ceremony-filled-with-unruly-hairstyles-i-saw-the-greatest-confidence-in-education"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw the Greatest Confidence in Education.md"
+    ],
+    "unknown": [],
+    "sha256": "58afaee39040343bebbd11f0b1f6039f046da0c8ae25dcd7f78d3a673cb26a37"
+  },
+  {
+    "old": "20260413001401_134_575.jpg",
+    "new": "you-think-youre-fast--youre-actually-going-nowhere/20260413001401_134_575.jpg",
+    "owners": [
+      "you-think-youre-fast--youre-actually-going-nowhere"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/You Think You’re Fast — You’re Actually Going Nowhere.md"
+    ],
+    "unknown": [],
+    "sha256": "a0d8fd55f18c7b21e86de36877812c96f08789b9ceb047264236cc51fc0bf638"
+  },
+  {
+    "old": "20260413002509_142_575.jpg",
+    "new": "you-think-youre-fast--youre-actually-going-nowhere/20260413002509_142_575.jpg",
+    "owners": [
+      "you-think-youre-fast--youre-actually-going-nowhere"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/You Think You’re Fast — You’re Actually Going Nowhere.md"
+    ],
+    "unknown": [],
+    "sha256": "1a414c74c672803517a4ea998a55e9c5e37306973d4293c1d4ba50fbd8985c20"
+  },
+  {
+    "old": "28a7945cccbf9fe293a65d94f4faab6e.jpg",
+    "new": "ai_image_generation/28a7945cccbf9fe293a65d94f4faab6e.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9154c0302b6a6844b514b4b31e70301cf697217252913dfe0be942f866434cff"
+  },
+  {
+    "old": "2cc0f599-b624-4163-9b57-6e071efbc0b8.jpg",
+    "new": "ai-self-evlolution/2cc0f599-b624-4163-9b57-6e071efbc0b8.jpg",
+    "owners": [
+      "ai-self-evlolution"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai-self-evlolution.md"
+    ],
+    "unknown": [],
+    "sha256": "9187575f73f49638c5fa76ed676bec2f054debf1fe74ebd926e19c73ab13e77f"
+  },
+  {
+    "old": "2e076ff241b64ea634450448d9bec7c.jpg",
+    "new": "2e076ff241b64ea634450448d9bec7c.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "15517c73539b2745b99a14d889a6ca509740dedeccac915d9859965c23fc78e6"
+  },
+  {
+    "old": "33883688.jpg",
+    "new": "handling-win32-wacapew-detection-in-spss-installation/33883688.jpg",
+    "owners": [
+      "handling-win32-wacapew-detection-in-spss-installation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Handling-Win32-Wacapew-Detection-in-SPSS-Installation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "5894aced187d6010cae8962f20f4550b0d9a6aeb63f39cab61d7d77616578bd1"
+  },
+  {
+    "old": "3504fe4f32757e4034e9fa6e7817d7f2.jpg",
+    "new": "3504fe4f32757e4034e9fa6e7817d7f2.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "af58f69d0a4d468802f14758eedaa7ae8329da52f0faf6731d91903df4b52429"
+  },
+  {
+    "old": "365c015877a1cf7881b530e9012120c0.jpg",
+    "new": "upgradetoftto/365c015877a1cf7881b530e9012120c0.jpg",
+    "owners": [
+      "upgradetoftto"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/UpgradeToFtto.md"
+    ],
+    "unknown": [],
+    "sha256": "17b7900bace5f9431a52a1be3a6791891a49c11d728c2704341274d3d29bf326"
+  },
+  {
+    "old": "36db9fe0ab2bda334fb7bc7aba02f7e2.jpg",
+    "new": "antjapanesewarvictory80thanniversary/36db9fe0ab2bda334fb7bc7aba02f7e2.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "ec368071f097c8163261b81a92fb1c5decc93f18a8415939ef2f74b2c3063558"
+  },
+  {
+    "old": "37711.320125.jpg",
+    "new": "what_is_retail_a_deep_dive_/37711.320125.jpg",
+    "owners": [
+      "what_is_retail_a_deep_dive_"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/What_is_Retail_A_Deep_Dive_.markdown"
+    ],
+    "unknown": [],
+    "sha256": "492ea685964115f2f0b1bcca116f8458c47962a2d5244ecac1d198a6d10391b3"
+  },
+  {
+    "old": "377111320125.jpg",
+    "new": "377111320125.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "5109b5d0a9133003fb485da4b623e5a0dd976e60dbec22a1bfcd171f2b94cac2"
+  },
+  {
+    "old": "3a34fa4cb529550db0d2201fc31a52f.jpg",
+    "new": "3a34fa4cb529550db0d2201fc31a52f.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "f90902a86a90d02a4f3ec16680bc88001ac22e4bb2cea4137d45baa9da32a061"
+  },
+  {
+    "old": "3army.jpg",
+    "new": "antjapanesewarvictory80thanniversary-figure/3army.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary-figure"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary-Figure.markdown"
+    ],
+    "unknown": [],
+    "sha256": "bd9a9d4237921a14fc721b0bfcf6dc5a76355ae816d6c368a11cf70646571927"
+  },
+  {
+    "old": "3c7a6ef36d9e77d528ae9ed4873165f.jpg",
+    "new": "3c7a6ef36d9e77d528ae9ed4873165f.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "47c49e738a8dc1a7259b20ba07cca81baca8f1d59c6b52570e7810482e2ddbc9"
+  },
+  {
+    "old": "3cef690fba6f4ee290bb750a151df54c.jpg",
+    "new": "antjapanesewarvictory80thanniversary/3cef690fba6f4ee290bb750a151df54c.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "da116acb722d0e6d1205bd5edbf738d245099ba02638b965b264d35f09a9645a"
+  },
+  {
+    "old": "40saiJapan.png",
+    "new": "studying-in-japan-at-40/40saiJapan.png",
+    "owners": [
+      "studying-in-japan-at-40"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/studying-in-japan-at-40.markdown"
+    ],
+    "unknown": [],
+    "sha256": "cbac15db54455b1015ecee0b04a36393d9126d35c250078b36ff9312e2fc1ef0"
+  },
+  {
+    "old": "41916cc43285ff1c9c64815bf2a12ac.jpg",
+    "new": "41916cc43285ff1c9c64815bf2a12ac.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "4f26fccbf64647c969bd8f8ea06b380384aaaa6daa7953e43f8fe74561b41692"
+  },
+  {
+    "old": "4c9662b070b559c8c39e0607ed680e4.jpg",
+    "new": "4c9662b070b559c8c39e0607ed680e4.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "dea4aba93a1c6786c264f5cad18ae09508dc2dea9b49e4b46c18d511a9435999"
+  },
+  {
+    "old": "510dc9368c51fee94886c4eb79bc146.jpg",
+    "new": "510dc9368c51fee94886c4eb79bc146.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "16ec62f480832a9bc80ac58da85eb7d21f7590d8032a44b0085afd906a31862c"
+  },
+  {
+    "old": "532b862f6ab06d4e2fd3f9d7bc916a2.jpg",
+    "new": "532b862f6ab06d4e2fd3f9d7bc916a2.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "385a47d98ffc2d31bc2706e72b791241ada6ad9ca2c38542cc0470a77c61a579"
+  },
+  {
+    "old": "541f5f718a179253a1f57a4fc590dd0.jpg",
+    "new": "541f5f718a179253a1f57a4fc590dd0.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "446f92b4271e036645e925a5f8eb8d770aaba4a82bad60e572f80fdd91486eb3"
+  },
+  {
+    "old": "617d5a8b3d06a51e6d25a8c28148bc77.jpg",
+    "new": "my-blog-post/617d5a8b3d06a51e6d25a8c28148bc77.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "77943d5ad5529608096d999f5eaeda4b6bc5c5c06cd071b5ee83e03dff4e6675"
+  },
+  {
+    "old": "67c6d87a2be7ca46fed199ed4dbdfd9a.jpg",
+    "new": "67c6d87a2be7ca46fed199ed4dbdfd9a.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "38e8efdb4a0ed042b7b4d3d226929d269aa1854273221bbfa7feefff2f0fbc2a"
+  },
+  {
+    "old": "6957d1b9311388254700ba1d200e40fd.jpg",
+    "new": "antjapanesewarvictory80thanniversary/6957d1b9311388254700ba1d200e40fd.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "c133661a510ad8c310a021fa5cccbdb9aaa6070c8b1c698fd29ca9d0929babd8"
+  },
+  {
+    "old": "6e6a4ddebb886925ded516e3f78b30d7.webp",
+    "new": "a-gentle-bugle-call/6e6a4ddebb886925ded516e3f78b30d7.webp",
+    "owners": [
+      "a-gentle-bugle-call"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/a-gentle-bugle-call.md"
+    ],
+    "unknown": [],
+    "sha256": "c58e30a610ae57cdfb95fbe04a9009b6b538048ab90c45754705480d50e1d2a0"
+  },
+  {
+    "old": "70cd453e-c96c-4f12-8d0e-10cfe5da1d6f.jpg",
+    "new": "management-as-open-source/70cd453e-c96c-4f12-8d0e-10cfe5da1d6f.jpg",
+    "owners": [
+      "management-as-open-source"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Management as an Open Source Unleashing Talent Through Standardization.md"
+    ],
+    "unknown": [],
+    "sha256": "3cd5ab42e555e511c01fc844bc59e5c54abd8c9a492903cf9124845af9df4007"
+  },
+  {
+    "old": "723f4d49723a330707a8e3e780006913.jpg",
+    "new": "antjapanesewarvictory80thanniversary/723f4d49723a330707a8e3e780006913.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "ed411e2da2cd9d5d11ece7731f8f06e8e7c6b63a26277afbd20cf483919cc606"
+  },
+  {
+    "old": "725c1701-c52f-469b-9393-82cde7539711.jpg",
+    "new": "ai_image_generation-action/725c1701-c52f-469b-9393-82cde7539711.jpg",
+    "owners": [
+      "ai_image_generation-action"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation-action.markdown"
+    ],
+    "unknown": [],
+    "sha256": "3087aedb43b004a268d2b38d1cd048ff9ac17c3dd1bdc71757e2b0bbfda0f7d7"
+  },
+  {
+    "old": "7461c374d978a850a857d86eff91e027.jpg",
+    "new": "cidee/7461c374d978a850a857d86eff91e027.jpg",
+    "owners": [
+      "cidee"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/cidee.md"
+    ],
+    "unknown": [],
+    "sha256": "bc4e566145a12cff20a35c610f713b43c67bbccf13ff345b8843daf283cc8f14"
+  },
+  {
+    "old": "791a7f1cc86da25367d467f6f2b1619d.jpg",
+    "new": "my-blog-post/791a7f1cc86da25367d467f6f2b1619d.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "ea3294f920645e149e544e8b11d942bb3a3f247fc26931ed92962d4f238de37f"
+  },
+  {
+    "old": "7afcf5f040c6d163100375fcfce9ad2.jpg",
+    "new": "7afcf5f040c6d163100375fcfce9ad2.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "e61e3d0ab1ec0cfd3e34cda8c6b6e4fbba3c503377a4dc55e6808f554d4da355"
+  },
+  {
+    "old": "814eb007e2b034baa7763d180e20a507.jpg",
+    "new": "upgradetoftto/814eb007e2b034baa7763d180e20a507.jpg",
+    "owners": [
+      "upgradetoftto"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/UpgradeToFtto.md"
+    ],
+    "unknown": [],
+    "sha256": "f0e62d9b9f98cec11f956cbc881cfad754ec8d6d0bcaec73e31a6d8db94072ba"
+  },
+  {
+    "old": "8728f1d8a0e65ae7e27d8055d02a9d24.jpg",
+    "new": "celebration-poem/8728f1d8a0e65ae7e27d8055d02a9d24.jpg",
+    "owners": [
+      "celebration-poem"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/celebration-poem.markdown"
+    ],
+    "unknown": [],
+    "sha256": "b62fe0261be1fc1217c525791aab3506a4aabce2a3039a0bc5456ad247b8131f"
+  },
+  {
+    "old": "8b7cb33567d297e8fdba1a9271c54898.jpg",
+    "new": "shared/8b7cb33567d297e8fdba1a9271c54898.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary",
+      "kuanguang-group-patriotism-commentary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown",
+      "content/posts/kuanguang-group-patriotism-commentary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "3fb2f6e21ad665d97a9c27028b00590147fb159cc02483fad7f6443c73a073c7"
+  },
+  {
+    "old": "8e1f12dd3b0c3fbd866689a4a02c7977.webp",
+    "new": "a-gentle-bugle-call/8e1f12dd3b0c3fbd866689a4a02c7977.webp",
+    "owners": [
+      "a-gentle-bugle-call"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/a-gentle-bugle-call.md"
+    ],
+    "unknown": [],
+    "sha256": "ce0c25f760e6062b98f104ae67460e9669382541f81595e6a817a0296203dbde"
+  },
+  {
+    "old": "94abff761efad89d50ecef0457621f4-backup.jpg",
+    "new": "94abff761efad89d50ecef0457621f4-backup.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "3c689310a6bb55a6a8b8dd6e12351faf654766a887fb19142eb1c2aca45986a1"
+  },
+  {
+    "old": "94abff761efad89d50ecef0457621f4.jpg",
+    "new": "shared/94abff761efad89d50ecef0457621f4.jpg",
+    "owners": [
+      "kuangguang-group-digital-transformation",
+      "studying-abroad-at-40"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuangguang-group-digital-transformation.markdown",
+      "content/posts/studying-abroad-at-40.markdown"
+    ],
+    "unknown": [],
+    "sha256": "7f2a75c72835f3ca17cfc5ac62e65c79e14b5eedf16dfa5594782e742a86a5c4"
+  },
+  {
+    "old": "963bff3c-d5cf-4617-a350-4bc8f834d4ab.jpg",
+    "new": "upgradetoftto/963bff3c-d5cf-4617-a350-4bc8f834d4ab.jpg",
+    "owners": [
+      "upgradetoftto"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/UpgradeToFtto.md"
+    ],
+    "unknown": [],
+    "sha256": "b924548c8a382c59e21e163311dbc6ba9403d67ef1d34d1d290d989195cece27"
+  },
+  {
+    "old": "9874813_9874813_1323269072078.jpg",
+    "new": "9874813_9874813_1323269072078.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "a887405a158ac20c824409f1a37357f100bb8c87ec4e071dcf363e5bffeecedc"
+  },
+  {
+    "old": "9a2bad303df9800d1ddd725cf155a541.jpg",
+    "new": "shenguohui/9a2bad303df9800d1ddd725cf155a541.jpg",
+    "owners": [
+      "shenguohui"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/shenguohui.md"
+    ],
+    "unknown": [],
+    "sha256": "c6e6dddb0f642c7aeeac0d93fb67067aa345ec82c6d64814a7c1094f41f22c82"
+  },
+  {
+    "old": "9a922e68a625dcdfc4cf538fa83cb735.jpg",
+    "new": "cidee/9a922e68a625dcdfc4cf538fa83cb735.jpg",
+    "owners": [
+      "cidee"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/cidee.md"
+    ],
+    "unknown": [],
+    "sha256": "e9409b893aae9016a213d1c29750c586497039f08cbba009352152f13bda7bfa"
+  },
+  {
+    "old": "9b047ea644b16d86d94185874c258bd2.jpg",
+    "new": "my-blog-post/9b047ea644b16d86d94185874c258bd2.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "08aac2b0dafdc6aafca65ff4b6ac11fcfbd897f93e9fbaf4469fa6b828768e4f"
+  },
+  {
+    "old": "9bd872bd622cc8fbe16917cf7a8a4a10.jpg",
+    "new": "celebration-poem/9bd872bd622cc8fbe16917cf7a8a4a10.jpg",
+    "owners": [
+      "celebration-poem"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/celebration-poem.markdown"
+    ],
+    "unknown": [],
+    "sha256": "81858d4114a9311838997132bad6916b4a6040607634a0f810cefb3cdb6e93d4"
+  },
+  {
+    "old": "9ea3d6a9cb45ff5c6a8a602bb846ec9.jpg",
+    "new": "galls_law_retail_blog/9ea3d6a9cb45ff5c6a8a602bb846ec9.jpg",
+    "owners": [
+      "galls_law_retail_blog"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/galls_law_retail_blog.md"
+    ],
+    "unknown": [],
+    "sha256": "7f9b993ce436b0551b20f36ad99b4bada26e0a758a0239559e637d23f49b39b7"
+  },
+  {
+    "old": "_1.dat",
+    "new": "_1.dat",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "46b3f079105a3255e114bbba563c860f99e29b7bc83b4b28c5d83b6dc6d4b99a"
+  },
+  {
+    "old": "a225673c222a6ab331666fd98fde8ab0.jpg",
+    "new": "upgradetoftto/a225673c222a6ab331666fd98fde8ab0.jpg",
+    "owners": [
+      "upgradetoftto"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/UpgradeToFtto.md"
+    ],
+    "unknown": [],
+    "sha256": "1b3ce9b10d5df0858179ac16ded1440ca0e45c6404e365d3bc799ec37370f90b"
+  },
+  {
+    "old": "a40d717ee31a4271adb3ec9b39d17913.jpg",
+    "new": "my-blog-post/a40d717ee31a4271adb3ec9b39d17913.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6a7ace17238dfbbe1dea9c540428cc7bdc25d19baae4b9c655c8cd0ae3027722"
+  },
+  {
+    "old": "a4aaf86fe8b7d5d463e667ad5ce8133.jpg",
+    "new": "a4aaf86fe8b7d5d463e667ad5ce8133.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "7f2c52450a74f35dfeea5cd5a4d486b969fe2d8bd47e85e4baf8f4b259a4d981"
+  },
+  {
+    "old": "a5ab44dfd475a6487ea9be311653eec.jpg",
+    "new": "a5ab44dfd475a6487ea9be311653eec.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "7810ab61cc27f72cbd4a707935e1088d09d13297c56f16869b586abd67379929"
+  },
+  {
+    "old": "aff253968b9324e36e9ae1dd09e3b661.jpg",
+    "new": "my-fitness-journey/aff253968b9324e36e9ae1dd09e3b661.jpg",
+    "owners": [
+      "my-fitness-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-fitness-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2fc9977c85ed459021afe738c2115874a36857e8855ce374225bc18eb3ddae28"
+  },
+  {
+    "old": "AHelpingHand.webp",
+    "new": "a-helping-hand/AHelpingHand.webp",
+    "owners": [
+      "a-helping-hand"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/a-helping-hand.en.md",
+      "content/posts/a-helping-hand.ja.md",
+      "content/posts/a-helping-hand.md"
+    ],
+    "unknown": [],
+    "sha256": "eb88cef45b7661c557f6833e043f1bdd8a4e6b9360500612ca79660c3ae8d82c"
+  },
+  {
+    "old": "airforce.jpg",
+    "new": "antjapanesewarvictory80thanniversary-figure/airforce.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary-figure"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary-Figure.markdown"
+    ],
+    "unknown": [],
+    "sha256": "bf6b632d0be73103d92be8723cbef07b8956e4ceabd618a556f17502656b4595"
+  },
+  {
+    "old": "b02ffafdfd10e673c6eaa839beabb3b0.jpg",
+    "new": "ai_image_generation/b02ffafdfd10e673c6eaa839beabb3b0.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "dc9e966fdedc33e67e7cb22b6aeb8253b1aa9cfd1a2a0e8e27f921130b5ec118"
+  },
+  {
+    "old": "b44c5c1b57bae229adf31f810ef53f19.jpg",
+    "new": "how-to-avoid-falling-into-the-self-justification-trap/b44c5c1b57bae229adf31f810ef53f19.jpg",
+    "owners": [
+      "how-to-avoid-falling-into-the-self-justification-trap"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/How to Avoid Falling Into the “Self-Justification Trap”.md"
+    ],
+    "unknown": [],
+    "sha256": "d35d38d0bb0e589babfd45c3cd6efafbb24c882e006e0a5ada15ffaba38d8627"
+  },
+  {
+    "old": "BBBdanbanji.png",
+    "new": "bbb_hardware_solution/BBBdanbanji.png",
+    "owners": [
+      "bbb_hardware_solution"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/bbb_hardware_solution.md"
+    ],
+    "unknown": [],
+    "sha256": "0c051230b87acac12915720b5bbc112445c9cb0cace982f2bcf8d05c60bb56ab"
+  },
+  {
+    "old": "bc44081d3adc668e32765699b33bd390.jpg",
+    "new": "antjapanesewarvictory80thanniversary/bc44081d3adc668e32765699b33bd390.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9cc8950ba05f8fd8a21afad5ec1eae6c550f0d3caf3b9ed691f7e300ff48ac7f"
+  },
+  {
+    "old": "bd009ed01a197189a143b471462dec0.jpg",
+    "new": "bd009ed01a197189a143b471462dec0.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "1da0f43a1cf1a6b598e6a35008e10cfe2d0c2e9d0240428b5a3a388872bdb391"
+  },
+  {
+    "old": "beidaihe-summer-1993-with-my-father.webp",
+    "new": "beidaihe-summer-1993-with-my-father/beidaihe-summer-1993-with-my-father.webp",
+    "owners": [
+      "beidaihe-summer-1993-with-my-father"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/beidaihe-summer-1993-with-my-father.en.md",
+      "content/posts/beidaihe-summer-1993-with-my-father.ja.md",
+      "content/posts/beidaihe-summer-1993-with-my-father.md"
+    ],
+    "unknown": [],
+    "sha256": "4f1d1c98c08c737c85e8d7aad63995d44ca6434058c40d738ba0883cf0cf4d26"
+  },
+  {
+    "old": "bimuyangshen.jpg",
+    "new": "closing-eyes-to-rest/bimuyangshen.jpg",
+    "owners": [
+      "closing-eyes-to-rest"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/closing-eyes-to-rest.markdown"
+    ],
+    "unknown": [],
+    "sha256": "74f7e329e18166630efd7e3e7d2f848d16cde6b0ed4b088cb7790103d39dfa70"
+  },
+  {
+    "old": "Borland证书.jpg",
+    "new": "Borland证书.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "fb3e267b3b1284dba666e04380b36025cf059eaa9a3bbb2fd2812f3f7cd693ca"
+  },
+  {
+    "old": "c4614051649d257a2563ccc8f5f23bf7.jpg",
+    "new": "my-blog-post/c4614051649d257a2563ccc8f5f23bf7.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "50f4fc6a6facd20356dc74368650dbbd538d2f56dcfea1082b0dea8cd1f9897c"
+  },
+  {
+    "old": "cc7bb926f9d2dc52dc70647771cf123b.jpg",
+    "new": "my-blog-post/cc7bb926f9d2dc52dc70647771cf123b.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "407d4bf7314d846b7dab026e3f881fa035d8a7233a19ce17cb0621e154d6af40"
+  },
+  {
+    "old": "central_tendency_and_skewness_featured_image.jpg",
+    "new": "central_tendency_and_skewness_featured_image.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "64feeec51b0c4b41cb8d45926cefcb96a536b8a1c72b0f88d897344487b00321"
+  },
+  {
+    "old": "central_tendency_and_skewness_featured_image.png",
+    "new": "statistical-measures-and-their-misapplications-in-consumer-analysis/central_tendency_and_skewness_featured_image.png",
+    "owners": [
+      "statistical-measures-and-their-misapplications-in-consumer-analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Statistical Measures and Their Misapplications in Consumer Analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "cd12b11fa5898b10441581fcbb26fe328884dce7dc753f56532a67003cce634d"
+  },
+  {
+    "old": "cf91e0a74c001c9737af762e57711fe.jpg",
+    "new": "cf91e0a74c001c9737af762e57711fe.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "a5e7cb34cc4b1174b1ac75ac6efd7b46d5e4b4d07903d6a3bfd9204ad0ace4b4"
+  },
+  {
+    "old": "ChatGPT Image 14_54_21.jpg",
+    "new": "how-organizations-survive-a-technological-generation-shift/ChatGPT Image 14_54_21.jpg",
+    "owners": [
+      "how-organizations-survive-a-technological-generation-shift"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/How Organizations Survive a Technological Generation Shift.md"
+    ],
+    "unknown": [],
+    "sha256": "f3166640f30ae55e90e22252b785abdf1c210579309f0a515f10ba0216b57c35"
+  },
+  {
+    "old": "chengde-rainy-city-panorama.webp",
+    "new": "chengde-half-a-lifetime-in-one-glance/chengde-rainy-city-panorama.webp",
+    "owners": [
+      "chengde-half-a-lifetime-in-one-glance"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-half-a-lifetime-in-one-glance.md"
+    ],
+    "unknown": [],
+    "sha256": "aafe5ac9d71106c395e6541c1614985aa45c2366c71e49b77f46bd84a438c6df"
+  },
+  {
+    "old": "chinaInternet.png",
+    "new": "theclosedecologyandinnovationdilemmaofthechineseinternet/chinaInternet.png",
+    "owners": [
+      "theclosedecologyandinnovationdilemmaofthechineseinternet"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/TheclosedecologyandinnovationdilemmaoftheChineseInternet.md"
+    ],
+    "unknown": [],
+    "sha256": "db103ad9ef4e94301ad315338d7ee9582f553b75550d7943fa7995dac15d8dd0"
+  },
+  {
+    "old": "chuzhika.png",
+    "new": "qr-prepaid-card-design/chuzhika.png",
+    "owners": [
+      "qr-prepaid-card-design"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/qr-prepaid-card-design.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9e0374cc3f6b110bf19da49e0a9994325a27c3fc61b39604b0d3c2f8eaa13c2a"
+  },
+  {
+    "old": "cio-survey-ai-2026.webp",
+    "new": "cio-survey-ai-2026/cio-survey-ai-2026.webp",
+    "owners": [
+      "cio-survey-ai-2026"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/cio-survey-ai-2026.md"
+    ],
+    "unknown": [],
+    "sha256": "d4de7cc989822e8a9f4951cb5bb3b59265d1c96c8e6df23182c7a301ce34b04e"
+  },
+  {
+    "old": "cms_1732758992_YSYnBVdq1g.png",
+    "new": "artificial-intelligence-and-cognitive-misalignment/cms_1732758992_YSYnBVdq1g.png",
+    "owners": [
+      "artificial-intelligence-and-cognitive-misalignment"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Artificial Intelligence and Cognitive Misalignment.md"
+    ],
+    "unknown": [],
+    "sha256": "eb41ecec128686761be53179b6bde2c5e0145ff0560d03c03ab533f3402c3b90"
+  },
+  {
+    "old": "Configuration_examples_l2tp_over_ipsec_scheme.jpg",
+    "new": "fix-l2tp-windows11/Configuration_examples_l2tp_over_ipsec_scheme.jpg",
+    "owners": [
+      "fix-l2tp-windows11"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/fix-l2tp-windows11.markdown"
+    ],
+    "unknown": [],
+    "sha256": "42034b70f8e1c58bdf7fd811a4a8d45ed36d6f5123fb0ba51ca6414fd4d0faac"
+  },
+  {
+    "old": "constellation.jpg",
+    "new": "constellation/constellation.jpg",
+    "owners": [
+      "constellation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/constellation.md"
+    ],
+    "unknown": [],
+    "sha256": "046493c718c56814e3684029864c640809821f87d864a50e1843ffc97274f397"
+  },
+  {
+    "old": "da2ef2d647c309d413d8beb8b2c7bb8.jpg",
+    "new": "da2ef2d647c309d413d8beb8b2c7bb8.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "033e1b51698cf3b7d59e5f4ef87887ee058459ad9c633187e080c19dba43aa6f"
+  },
+  {
+    "old": "dandelion-wind.jpg",
+    "new": "reflectionsonlifeandparallelchoices/dandelion-wind.jpg",
+    "owners": [
+      "reflectionsonlifeandparallelchoices"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ReflectionsonLifeandParallelChoices.md"
+    ],
+    "unknown": [],
+    "sha256": "01406fd812a58d6ff61f24a142c734cd327212ff5fe01d96a3ce91d3779e6055"
+  },
+  {
+    "old": "default-poster.jpg",
+    "new": "default-poster.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "e3db358a6a466f19f01b6080b2608b2d427708f1d33497bcb0dfc78f942c165a"
+  },
+  {
+    "old": "default.jpg",
+    "new": "default.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "e3db358a6a466f19f01b6080b2608b2d427708f1d33497bcb0dfc78f942c165a"
+  },
+  {
+    "old": "dfd91f6fe8366d1d6a17e684b541200d.jpg",
+    "new": "my-blog-post/dfd91f6fe8366d1d6a17e684b541200d.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "b24bb581090d1a92edd7f28288362418d20b92779c30e99ec4af42a719072510"
+  },
+  {
+    "old": "eb5e88afba4236214dc3dd4ed86a490.jpg",
+    "new": "eb5e88afba4236214dc3dd4ed86a490.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "b26f3c447a8bc3f04c7b7fed649b7f636b0fac939fa992b97cdb6f9e7ebdacd1"
+  },
+  {
+    "old": "Enoshima-sea-candle.jpg",
+    "new": "runandstop/Enoshima-sea-candle.jpg",
+    "owners": [
+      "runandstop"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/RunAndStop.markdown"
+    ],
+    "unknown": [],
+    "sha256": "62bc867f7f077621d4dc50a3570a978d37ec6a64ada464342569734463c49fa9"
+  },
+  {
+    "old": "Europe/20250726104830.png",
+    "new": "2016-lucerne-journey/20250726104830.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "4d346fa72e4b34fab87865bb9addd2a4983ed40ba963db2131d3a8e2e9c17bbd"
+  },
+  {
+    "old": "Europe/20250727095456.png",
+    "new": "2016-lucerne-journey/20250727095456.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "5cd133982dcd90899ca6d357c0fb4df0dc470f1959880f1032384c27ddb77206"
+  },
+  {
+    "old": "Europe/20250727095635.png",
+    "new": "2016-lucerne-journey/20250727095635.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a197452a05de3c500fa8e04063489075ab8a3423fc7c49bebaacf59e3acd9006"
+  },
+  {
+    "old": "Europe/20250727095759.png",
+    "new": "2016-lucerne-journey/20250727095759.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "bf7d7defe3c33e8e1cb79315756281a7a8ed2949bbbc1427dd8761cadcb683c6"
+  },
+  {
+    "old": "Europe/20250727100009.png",
+    "new": "2016-lucerne-journey/20250727100009.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a429f6a81e810a595e268320a8e0ea29841a3a709a2f30b1e9fc93197c99385e"
+  },
+  {
+    "old": "Europe/20250727100410.png",
+    "new": "2016-lucerne-journey/20250727100410.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "3e7b3f9cef896b92b3b289762178b0203f8735dd0e37650dda8a7b12a5615466"
+  },
+  {
+    "old": "Europe/20250727103329.png",
+    "new": "2016-lucerne-journey/20250727103329.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "2de0277cb56a66c73f63378e7c5907b5c47601b70b8e3544317213ae32600f3a"
+  },
+  {
+    "old": "Europe/20250727103639.png",
+    "new": "2016-lucerne-journey/20250727103639.png",
+    "owners": [
+      "2016-lucerne-journey"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/2016-lucerne-journey.markdown"
+    ],
+    "unknown": [],
+    "sha256": "f0bab0f875083c26a87b513311260419b9f6f122cddd5e96f4671f235933c21c"
+  },
+  {
+    "old": "f0d9276d37b04395bcfa087740e4fb4a.jpg",
+    "new": "antjapanesewarvictory80thanniversary/f0d9276d37b04395bcfa087740e4fb4a.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary.markdown"
+    ],
+    "unknown": [],
+    "sha256": "08cab70a79816d71c3eac6175ec45ec7a28a8c30761a9e115281b01ff6ee6db0"
+  },
+  {
+    "old": "f20ade6c30ce9819190f12fc7753fdd.jpg",
+    "new": "goals/f20ade6c30ce9819190f12fc7753fdd.jpg",
+    "owners": [
+      "goals"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Goals.md"
+    ],
+    "unknown": [],
+    "sha256": "99425faf242c89dfb72ccfe0609c8b54f282bbf0ca7b540dbc889bf009bc84ab"
+  },
+  {
+    "old": "file434.jpeg",
+    "new": "blog-post-midlife-challenges-zh/file434.jpeg",
+    "owners": [
+      "blog-post-midlife-challenges-zh"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/blog-post-midlife-challenges-zh.markdown"
+    ],
+    "unknown": [],
+    "sha256": "0947dae26b6371ec2a5945c8d240f622d2a785b85dd09676eb07b0271dddfba9"
+  },
+  {
+    "old": "four-faced-clock/bridge-and-clock-at-night.webp",
+    "new": "four-faced-clock/bridge-and-clock-at-night.webp",
+    "owners": [
+      "four-faced-clock"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/four-faced-clock.md"
+    ],
+    "unknown": [],
+    "sha256": "4480aafb30cba3b324895208b044728c16408e0c8950335722521b8896aef9b1"
+  },
+  {
+    "old": "four-faced-clock/clock-by-the-bridge.webp",
+    "new": "four-faced-clock/clock-by-the-bridge.webp",
+    "owners": [
+      "four-faced-clock"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/four-faced-clock.md"
+    ],
+    "unknown": [],
+    "sha256": "837584737f3fb61c179f8b324641b03b8049d1ae8607103b2275a0b1a0dc3382"
+  },
+  {
+    "old": "four-faced-clock/lights-on-the-wulie-river.webp",
+    "new": "four-faced-clock/lights-on-the-wulie-river.webp",
+    "owners": [
+      "four-faced-clock"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/four-faced-clock.md"
+    ],
+    "unknown": [],
+    "sha256": "8046644f7b7c8ef5cf601437c7ad61d8956718dde246cb6d3e4640f47a568e8c"
+  },
+  {
+    "old": "gemini-2.5-flash-image-preview-create_a_1_7_scale_c.jpg",
+    "new": "my-blog-post/gemini-2.5-flash-image-preview-create_a_1_7_scale_c.jpg",
+    "owners": [
+      "my-blog-post"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-blog-post.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6ee7af5a55ea6a6a9dc54c4905700e5c6cda4c6028432b98fc67e29f36803fd9"
+  },
+  {
+    "old": "Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg",
+    "new": "shared/Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg",
+    "owners": [
+      "ai_image_generation",
+      "ai_image_generation-action"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation-action.markdown",
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "bc113678328e6d6563c0bb91fcc2e502c2b7f7f458151c45285210c194339022"
+  },
+  {
+    "old": "Gemini_Generated_Image_30d86k30d86k30d8.jpg",
+    "new": "chinaunicom-esim/Gemini_Generated_Image_30d86k30d86k30d8.jpg",
+    "owners": [
+      "chinaunicom-esim"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chinaunicom-esim.markdown"
+    ],
+    "unknown": [],
+    "sha256": "8551f7f902443a6c01a66adf1c065318833f41501586efadc2c7788f46107770"
+  },
+  {
+    "old": "Gemini_Generated_Image_6eftqr6eftqr6eft.jpg",
+    "new": "moon-holiday/Gemini_Generated_Image_6eftqr6eftqr6eft.jpg",
+    "owners": [
+      "moon-holiday"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Moon-Holiday.md"
+    ],
+    "unknown": [],
+    "sha256": "ab75a150778d0ad00db3b107f1da2c407d2e3bfacabee5f803b7c08554ed100b"
+  },
+  {
+    "old": "Gemini_Generated_Image_bosyxbbosyxbbosy.jpg",
+    "new": "moon-holiday/Gemini_Generated_Image_bosyxbbosyxbbosy.jpg",
+    "owners": [
+      "moon-holiday"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Moon-Holiday.md"
+    ],
+    "unknown": [],
+    "sha256": "8c527f477e4ddc76bcceb5ae773ca91d16acb1349a9c1d67e41df60e25b36843"
+  },
+  {
+    "old": "Gemini_Generated_Image_c3fdq7c3fdq7c3fd.jpg",
+    "new": "ai-in-retail-real-practice/Gemini_Generated_Image_c3fdq7c3fdq7c3fd.jpg",
+    "owners": [
+      "ai-in-retail-real-practice"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Retail-and-AI.md"
+    ],
+    "unknown": [],
+    "sha256": "4e8b1eae9b96196c4fed42e4b33dad29b279a7907182cdd995397210cab02d79"
+  },
+  {
+    "old": "Gemini_Generated_Image_dbn78pdbn78pdbn7.jpg",
+    "new": "ai_image_generation/Gemini_Generated_Image_dbn78pdbn78pdbn7.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "42de201cd8759503cc923a02c25cc354607a405de93252347ecb1d0cc7f95711"
+  },
+  {
+    "old": "Gemini_Generated_Image_x7np5cx7np5cx7np.jpg",
+    "new": "chinaunicom-esim/Gemini_Generated_Image_x7np5cx7np5cx7np.jpg",
+    "owners": [
+      "chinaunicom-esim"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chinaunicom-esim.markdown"
+    ],
+    "unknown": [],
+    "sha256": "abd178693d86660a223aa629b3f37a4f430f8e37dc125c9842434116a90dc319"
+  },
+  {
+    "old": "Generated Image August 29, 2025 - 12_39PM.jpeg",
+    "new": "Generated Image August 29, 2025 - 12_39PM.jpeg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "ab0a212223a2f6b9bf0653e859be3bb0e1eeadbdb7e7a3ce3447500253c06d3e"
+  },
+  {
+    "old": "GeneratedImageSeptember072025-10_30AM.jpeg",
+    "new": "ai_image_generation-action/GeneratedImageSeptember072025-10_30AM.jpeg",
+    "owners": [
+      "ai_image_generation-action"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation-action.markdown"
+    ],
+    "unknown": [],
+    "sha256": "f2d2ecaeab7fa18ea56687834eb20586ad077c314c169cb1cf999a50deef5d57"
+  },
+  {
+    "old": "GoogleVisionAPIImages.jpg",
+    "new": "googlevisionapi/GoogleVisionAPIImages.jpg",
+    "owners": [
+      "googlevisionapi"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/googlevisionapi.md"
+    ],
+    "unknown": [],
+    "sha256": "77d8c5951098d2ff6bbd39b31e1e96fe255667d0a00d9c84635f1308f20b3b27"
+  },
+  {
+    "old": "history/17173-1.jpg",
+    "new": "mhxy/17173-1.jpg",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "0b14a029ac502ad7363dfa68691c0fe17e0852c989f6b727a72d08365498dcc0"
+  },
+  {
+    "old": "history/52pk-zisai-2005.webp",
+    "new": "mhxy/52pk-zisai-2005.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "af586d095d7268f0064983d5f657ed7e4d5df225d597b74f5491e6cb29b1b7d5"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-cctv-reference.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-cctv-reference.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "ea7d129c09202d75eaba390dc70c8fff5a38aa399ce49fbb4a640890f5ac21be"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-guestbook.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-guestbook.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "dda272a261b93946dc70c9389eb317afdfa61000412c9547ff4bc0efbe8da69a"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-host-profile.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-host-profile.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "7468f65c82975d87b9b6386d6facc2ff226510a99e3645976523bfff1dd05c1a"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-intro.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-intro.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "6e7d73959577f469a873c4546d566e4291ecad2d7f6d4afed5f99520dc416845"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-rankings.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-rankings.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "0bf306ab164777a8362ce6c796242bfc033c32da7293c904c144c05f4c249ba0"
+  },
+  {
+    "old": "history/cai-zhi-da-ying-jia-rules.webp",
+    "new": "cai-zhi-da-ying-jia/cai-zhi-da-ying-jia-rules.webp",
+    "owners": [
+      "cai-zhi-da-ying-jia"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cai-zhi-da-ying-jia/index.md"
+    ],
+    "unknown": [],
+    "sha256": "a991dc89587d0b0e106e47558c366060cd0c0905efdf09995d1c268b02fa3731"
+  },
+  {
+    "old": "history/cctv-mid-autumn-1.webp",
+    "new": "cctv-mid-autumn/cctv-mid-autumn-1.webp",
+    "owners": [
+      "cctv-mid-autumn"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cctv-mid-autumn/index.md"
+    ],
+    "unknown": [],
+    "sha256": "5a369da9c429f143fb286b0cf3df5348be7b5461418307e776bc51965256108d"
+  },
+  {
+    "old": "history/cctv-mid-autumn.webp",
+    "new": "cctv-mid-autumn/cctv-mid-autumn.webp",
+    "owners": [
+      "cctv-mid-autumn"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/cctv-mid-autumn/index.md"
+    ],
+    "unknown": [],
+    "sha256": "13454c2d2c0c4debcca3ad6696895bf4d2162c554a08d0d7b580be5a5b0d7d38"
+  },
+  {
+    "old": "history/Chengde-GOV.webp",
+    "new": "zisai-in-chengde-public-records/Chengde-GOV.webp",
+    "owners": [
+      "zisai-in-chengde-public-records"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/zisai-in-chengde-public-records/index..md"
+    ],
+    "unknown": [],
+    "sha256": "b72afed5f05802adb24ca0d2ce5dd54f89aa91b62c4d603f4ac668cac94b9695"
+  },
+  {
+    "old": "history/chengde-news-300th-reception.webp",
+    "new": "shanzhuang-300th-legacy/chengde-news-300th-reception.webp",
+    "owners": [
+      "shanzhuang-300th-legacy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/shanzhuang-300th-legacy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "bea7329685bcb7946e9be7156467eb171d0ffe9096cf6cb76ce62d75848603a8"
+  },
+  {
+    "old": "history/hecheng-chengde-2011.webp",
+    "new": "hecheng-chengde-2011/hecheng-chengde-2011.webp",
+    "owners": [
+      "hecheng-chengde-2011"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/hecheng-chengde-2011/index.md"
+    ],
+    "unknown": [],
+    "sha256": "4da2ad3773fd5a8d25e2199d6c46aa9ca7dd4043684e4b052367af0cd5129294"
+  },
+  {
+    "old": "history/hehechengde-logo.jpg",
+    "new": "hecheng-chengde-2011/hehechengde-logo.jpg",
+    "owners": [
+      "hecheng-chengde-2011"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/hecheng-chengde-2011/index.md"
+    ],
+    "unknown": [],
+    "sha256": "b17b104c9480db18acb9ab37b9ae6b5f507ce2a2ed13be428e15defecedb5245"
+  },
+  {
+    "old": "history/netease-zisai-2005-1.jpg",
+    "new": "mhxy/netease-zisai-2005-1.jpg",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "e60f9ed6a3a2ebd707b231ddf7755d3efc93e51409466034bca4d65dfdd34fca"
+  },
+  {
+    "old": "history/netease-zisai-2005-2.jpg",
+    "new": "mhxy/netease-zisai-2005-2.jpg",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "764be5d4c8aff46f41501e25899c4bb3014c3efdcdb2af31b303f57b5ecc7a54"
+  },
+  {
+    "old": "history/netease-zisai-2005-3.jpg",
+    "new": "mhxy/netease-zisai-2005-3.jpg",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "0c63e727f7d0698133fa6a15d64eaefd3bdbc46f2dab41084c49ef5e95287a84"
+  },
+  {
+    "old": "history/netease-zisai-2005-4.webp",
+    "new": "mhxy/netease-zisai-2005-4.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "fc34d263040bf79efde2306f7e5adc55f5916692e883ae4b4e9145c0592c5894"
+  },
+  {
+    "old": "history/netease-zisai-2005-5.webp",
+    "new": "mhxy/netease-zisai-2005-5.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "82309ccb6657747f2e1c3b3ee3018cf7ba496059dda4b3149b471fd2012340f3"
+  },
+  {
+    "old": "history/netease-zisai-2005-6.webp",
+    "new": "mhxy/netease-zisai-2005-6.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "fbedc936e2ea6f3e0461be7e91c271809b7dd7695af88ba0ac463834e8dbe7a5"
+  },
+  {
+    "old": "history/netease-zisai-2005-7.webp",
+    "new": "mhxy/netease-zisai-2005-7.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "34efd14cb5f5fb97e4453f99045cb9208922894e466d97ae50eb18ce7535d6b1"
+  },
+  {
+    "old": "history/shanzhuang-300th-ceremony.webp",
+    "new": "shanzhuang-300th-legacy/shanzhuang-300th-ceremony.webp",
+    "owners": [
+      "shanzhuang-300th-legacy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/shanzhuang-300th-legacy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "1c4e2f77cd8858b30389daac5d437bbfd916748cb2a73e881c799a97e475f203"
+  },
+  {
+    "old": "history/shanzhuang-300th-opening.webp",
+    "new": "shanzhuang-300th-legacy/shanzhuang-300th-opening.webp",
+    "owners": [
+      "shanzhuang-300th-legacy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/shanzhuang-300th-legacy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "fedc2ea9ce2991ca9952ca11a07de7f5ab88cc54a0ec8b76a6fe8414508e4cc2"
+  },
+  {
+    "old": "history/shanzhuang-heritage-page.webp",
+    "new": "shanzhuang-300th-legacy/shanzhuang-heritage-page.webp",
+    "owners": [
+      "shanzhuang-300th-legacy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/shanzhuang-300th-legacy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "8bdc845c6d4f7a3291fd3c9ecb4a41008f45a6c8d28150a8448c1f7d542ad107"
+  },
+  {
+    "old": "history/sina-zisai.webp",
+    "new": "mhxy/sina-zisai.webp",
+    "owners": [
+      "mhxy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/mhxy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "87476ed1d375dca6b23de03ef5bf86b84af1c3195eff557b9b559d9b2eabc83b"
+  },
+  {
+    "old": "history/sohu.webp",
+    "new": "zisai-2008-cultural-industry-forum/sohu.webp",
+    "owners": [
+      "zisai-2008-cultural-industry-forum"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/zisai-2008-cultural-industry-forum/index.md"
+    ],
+    "unknown": [],
+    "sha256": "028ea915e2251cc5e839c743ab2eaac1a2ec14def8d5f2150c6d872ef1c38522"
+  },
+  {
+    "old": "history/tudou.webp",
+    "new": "2012-chengde-tudou-image-festival/tudou.webp",
+    "owners": [
+      "2012-chengde-tudou-image-festival"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/2012-chengde-tudou-image-festival/index.md"
+    ],
+    "unknown": [],
+    "sha256": "0ea9f47e3617770beb41e6527b8dc3566af9865fed87a759fa793f5f309d2dbc"
+  },
+  {
+    "old": "history/zisai-homepage-2003.webp",
+    "new": "shanzhuang-300th-legacy/zisai-homepage-2003.webp",
+    "owners": [
+      "shanzhuang-300th-legacy"
+    ],
+    "site": false,
+    "refs": [
+      "content/legacy/shanzhuang-300th-legacy/index.md"
+    ],
+    "unknown": [],
+    "sha256": "6601412899acc1228e349d01f70688e54f2fd431e0d24da1ebfea7175e84870e"
+  },
+  {
+    "old": "Image-1.jpeg",
+    "new": "Image-1.jpeg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "d0dc7a3dd6fca4028d55969b5ea95ea2600c7da70d1f95d891dfd373ae05b511"
+  },
+  {
+    "old": "Image-2.jpeg",
+    "new": "lifes-echoes/Image-2.jpeg",
+    "owners": [
+      "lifes-echoes"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Life's Echoes.markdown"
+    ],
+    "unknown": [],
+    "sha256": "c90cb1ab282c737c7196612446de6fa607d41f8cf98c74a49e8bd7706f85e0c7"
+  },
+  {
+    "old": "Image.jpeg",
+    "new": "Image.jpeg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "6b7853c539dbec1c0b45a0b441df41c3c128ed13f1430c4b35040deab5972cf7"
+  },
+  {
+    "old": "image2_1be5d0b673.jpg",
+    "new": "standardization_vs_personalization/image2_1be5d0b673.jpg",
+    "owners": [
+      "standardization_vs_personalization"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/standardization_vs_personalization.markdown"
+    ],
+    "unknown": [],
+    "sha256": "381e338509e47676fbd4682193ee224a934f0582da8197ff13c4c48089a8fd74"
+  },
+  {
+    "old": "IMG_4858.JPG",
+    "new": "how-retail-groups-transform-in-times-of-uncertainty/IMG_4858.JPG",
+    "owners": [
+      "how-retail-groups-transform-in-times-of-uncertainty"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/How-Retail-Groups-Transform-in-Times-of-Uncertainty.md"
+    ],
+    "unknown": [],
+    "sha256": "e8826aa7379669608afaac7a1acc9ade81b806458392ea36f8bb1a5ed9e81fa3"
+  },
+  {
+    "old": "ios19-to-ios26-apple-strategy-reveal.jpg",
+    "new": "ios_version_jump/ios19-to-ios26-apple-strategy-reveal.jpg",
+    "owners": [
+      "ios_version_jump"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ios_version_jump.markdown"
+    ],
+    "unknown": [],
+    "sha256": "160e1b4b5f215d162045cee93cf13a0c9f2170dddd38629529627343734053f2"
+  },
+  {
+    "old": "iotworlds_what_is_iot.jpg",
+    "new": "iot-construction-guide/iotworlds_what_is_iot.jpg",
+    "owners": [
+      "iot-construction-guide"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/iot-construction-guide.markdown"
+    ],
+    "unknown": [],
+    "sha256": "c5e9e680abbdb8c915d898d9e8d1430a0673b8e7e7c678d31911e2b8223c39f9"
+  },
+  {
+    "old": "japan-coe-1584-2021.jpg",
+    "new": "japan-coe-1584-2021.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "22c136aa2494bad3d8fc4f0c9d0d2bdc987a3ebe84fed5fba61ee11eb278e7c0"
+  },
+  {
+    "old": "japan-coe-1584-2021.webp",
+    "new": "japan-coe-1584-2021/japan-coe-1584-2021.webp",
+    "owners": [
+      "japan-coe-1584-2021"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/japan-coe-1584-2021.md"
+    ],
+    "unknown": [],
+    "sha256": "7176d947612789c3b28db9c7acfb9505b38e783ecab719da442348aad1786c93"
+  },
+  {
+    "old": "k-means.png",
+    "new": "rfm_algorithm_values/k-means.png",
+    "owners": [
+      "rfm_algorithm_values"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/RFM_Algorithm_Values.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d3fb34338c63395c30e9cd3adfafd7b8684a4330914f8a82d58d0482eb40f0ba"
+  },
+  {
+    "old": "kgsn.jpg",
+    "new": "blog-post-midlife-reflection-zh/kgsn.jpg",
+    "owners": [
+      "blog-post-midlife-reflection-zh"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/blog-post-midlife-reflection-zh.markdown"
+    ],
+    "unknown": [],
+    "sha256": "af2857ea2949cf1bcfa91f293f657bf59a62417bbe63b1a34bc64414dcdabbd4"
+  },
+  {
+    "old": "kuanguang-ai-agent.webp",
+    "new": "kuanguang-ai-agent/kuanguang-ai-agent.webp",
+    "owners": [
+      "kuanguang-ai-agent"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-ai-agent.md"
+    ],
+    "unknown": [],
+    "sha256": "6da65a063b27ce0f65fcb17bc9182e93bf877f5bf4a3e2cdccf2ace240bbdaa1"
+  },
+  {
+    "old": "kuanguang-bi-report.jpg",
+    "new": "kuanguang-bi-report/kuanguang-bi-report.jpg",
+    "owners": [
+      "kuanguang-bi-report"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-bi-report-v3.markdown"
+    ],
+    "unknown": [],
+    "sha256": "4fed75d1d9e94e26d7bf47b35457202b8f5ff410364fb64d5531c600f9f8cfb1"
+  },
+  {
+    "old": "landforce.jpg",
+    "new": "antjapanesewarvictory80thanniversary-figure/landforce.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary-figure"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary-Figure.markdown"
+    ],
+    "unknown": [],
+    "sha256": "9d0e3158554e7e165cdf85a3ea73895a301f3847b8f5e14e7d95be94c7d46aff"
+  },
+  {
+    "old": "laofangzi.webp",
+    "new": "chengde-laofangzi-tavern/laofangzi.webp",
+    "owners": [
+      "chengde-laofangzi-tavern"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-laofangzi-tavern.en.md",
+      "content/posts/chengde-laofangzi-tavern.ja.md",
+      "content/posts/chengde-laofangzi-tavern.md"
+    ],
+    "unknown": [],
+    "sha256": "bd527437b35b6a2e64dcc5c3f2859315fed17f1dcc2a3d02dea47467cb147bad"
+  },
+  {
+    "old": "middleaged.jpg",
+    "new": "middleaged/middleaged.jpg",
+    "owners": [
+      "middleaged"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/middleaged.md"
+    ],
+    "unknown": [],
+    "sha256": "324ca62ecfca1c2232d3f4ee30d6b4ad45cec28188048f4335d19c445111be6f"
+  },
+  {
+    "old": "mononoaware.jpg",
+    "new": "mononoaware/mononoaware.jpg",
+    "owners": [
+      "mononoaware"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Mononoaware/_index.md"
+    ],
+    "unknown": [],
+    "sha256": "209f809662a37fb9b3b75ab0693c8de3587e09bea400f872b3e833eb431355c0"
+  },
+  {
+    "old": "mycar/2026-03-31_192056_356.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/2026-03-31_192056_356.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "dd86c9decd6ab572ee7ded772a8676f6a15cf458f82fbe6baab58da0bf3dc184"
+  },
+  {
+    "old": "mycar/3dc06570361da9870638b188bc7109c9.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/3dc06570361da9870638b188bc7109c9.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "dcf4897681fa3453f28c64dab41133f8e564e995b13d44f118f3700e9b7ff01e"
+  },
+  {
+    "old": "mycar/412c4fd7c92f67c080e6a532489c9a2c.jpg",
+    "new": "412c4fd7c92f67c080e6a532489c9a2c.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "74a40afab6baf843a2249254c66ed7cc89f2df576d7c44f654ebb1a337a51a13"
+  },
+  {
+    "old": "mycar/48c7768818ab960e6b250e11e772ef6c.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/48c7768818ab960e6b250e11e772ef6c.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "04000c6b251eff9a30365e0740dbdf96ce4d2a02b7c0227d04ac2738e7eb8c00"
+  },
+  {
+    "old": "mycar/9c24b33b9e1d131499319cc2246e0841.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/9c24b33b9e1d131499319cc2246e0841.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "0cb241c5ab34b75a9d1639c60922d9603f4ab5688f6712ea09261ee3b58511c3"
+  },
+  {
+    "old": "mycar/d820f4f685933c2918d9f2f21c827f6b.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/d820f4f685933c2918d9f2f21c827f6b.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "074312aca1d9084860bb30576ad0f3a565f25e2130bee635157763029ec0fa2e"
+  },
+  {
+    "old": "mycar/e45c06fd445ccb8a6389ba11a9e55f63.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/e45c06fd445ccb8a6389ba11a9e55f63.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "52f85f0fc299db233a22b8629eb7dcb7fe342721bbd81f7910fbb951e07e9c3c"
+  },
+  {
+    "old": "mycar/ed20af84427c65a584ae8bfcd7c66f83.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/ed20af84427c65a584ae8bfcd7c66f83.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "a8e23bd3e1bcaed9ae102d51ce6d89009ed0c03ed2bae59ae24f1c9c09c63c2e"
+  },
+  {
+    "old": "mycar/f54c36afc6783f4a88a6c8a75d41f518.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/f54c36afc6783f4a88a6c8a75d41f518.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "8431fe51becd1d0057bac6758ec9ac829359df22201d26f8cc665cd9a7269445"
+  },
+  {
+    "old": "mycar/f8544230c61f9fe22733f9b56e8fb8ec.jpg",
+    "new": "the-fate-of-machines-and-my-forty-years/f8544230c61f9fe22733f9b56e8fb8ec.jpg",
+    "owners": [
+      "the-fate-of-machines-and-my-forty-years"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The fate of machines, and my forty years.md"
+    ],
+    "unknown": [],
+    "sha256": "61cf66bb063feab7e402a649808a73350de449fd852afd611619f8010edfa277"
+  },
+  {
+    "old": "noodls.jpg",
+    "new": "tmt/noodls.jpg",
+    "owners": [
+      "tmt"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/TMT.md"
+    ],
+    "unknown": [],
+    "sha256": "85fa7ad4442481287763cc316ed71424c077e176331fed6539fe1edb1a4b5c6f"
+  },
+  {
+    "old": "obirin.jpg",
+    "new": "blog-post-graduation-reflection-zh/obirin.jpg",
+    "owners": [
+      "blog-post-graduation-reflection-zh"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/blog-post-graduation-reflection-zh.markdown"
+    ],
+    "unknown": [],
+    "sha256": "628748773ab139f63405e53eb8e0cc24efd5b833230ff130649944d4b6e4eaee"
+  },
+  {
+    "old": "old-tree-sunset.jpg",
+    "new": "reflectionsonlifeandparallelchoices/old-tree-sunset.jpg",
+    "owners": [
+      "reflectionsonlifeandparallelchoices"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ReflectionsonLifeandParallelChoices.md"
+    ],
+    "unknown": [],
+    "sha256": "41e3a09d4daace2f7fdef4427d09159ff1a7688f1f67a73667fbe7fedbccddbf"
+  },
+  {
+    "old": "persimmon-market/01.webp",
+    "new": "persimmon-market-night-visit/01.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "f7df0afe70a73110780da20b3268d2745db58e676fd515e9afbc526e768a6a1d"
+  },
+  {
+    "old": "persimmon-market/02.webp",
+    "new": "persimmon-market-night-visit/02.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "05c8a69405af28fddd4d203b9730ed337a3babab09f025d86e9a3077c46317e7"
+  },
+  {
+    "old": "persimmon-market/03.webp",
+    "new": "persimmon-market-night-visit/03.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "2a46e4bbb99b76e922d4d558292dd8f4aabdaa261682083a8906f078248d4a2a"
+  },
+  {
+    "old": "persimmon-market/04.webp",
+    "new": "persimmon-market-night-visit/04.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "006bc910f80cc398decf9b1c4a3dd86489d0ade3a2ac13e1f692d25510aa072f"
+  },
+  {
+    "old": "persimmon-market/05.webp",
+    "new": "persimmon-market-night-visit/05.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "ae8c74fdb73bd3c7f79cff19624ebefaf95810c1f83e3f084e66f3b1d32fc0c5"
+  },
+  {
+    "old": "persimmon-market/06.webp",
+    "new": "persimmon-market-night-visit/06.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "0bbcfaaf1e2abb9af48fc1566d3dce085745d597cc78da59d43eac3f3b96f522"
+  },
+  {
+    "old": "persimmon-market/07.webp",
+    "new": "persimmon-market-night-visit/07.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "58ab0098749d761a0a9df462c8319e915f5712fc09c3c96e7a150437a703e03b"
+  },
+  {
+    "old": "persimmon-market/08.webp",
+    "new": "persimmon-market-night-visit/08.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "fa433d719a7391a93416767507248ea6e66465207a39065d50bd57b20a4ab327"
+  },
+  {
+    "old": "persimmon-market/09.webp",
+    "new": "persimmon-market-night-visit/09.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "638aa99cdebf57a0a37501f7f1226d37dfbb9f39ce5159ec68b4a9a4cb7fd53f"
+  },
+  {
+    "old": "persimmon-market/10.webp",
+    "new": "persimmon-market-night-visit/10.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "d7db6014992e8cbfbfdeb6fbabf8c63561010deeeaf5c8e5fe0ebc98f03f48be"
+  },
+  {
+    "old": "persimmon-market/11.webp",
+    "new": "persimmon-market-night-visit/11.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "2a044eb1cb9634aaffbd33c74d5a96b3f155ea125db0439d4a1c3a604680ae2e"
+  },
+  {
+    "old": "persimmon-market/12.webp",
+    "new": "persimmon-market-night-visit/12.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "c0fa34ac004cb2155f47f9e9195a03853fd93227da1d9e1e4b72bf03d6c0a1c7"
+  },
+  {
+    "old": "persimmon-market/13.webp",
+    "new": "persimmon-market-night-visit/13.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "e95b090b75f8382aac2769ae170f9f283594e05eac362aaa4a53128121c4b676"
+  },
+  {
+    "old": "persimmon-market/14.webp",
+    "new": "persimmon-market-night-visit/14.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "332776266278d9abbb75f948b433be14073edf8dc7419fb432846ec730262fc7"
+  },
+  {
+    "old": "persimmon-market/15.webp",
+    "new": "persimmon-market-night-visit/15.webp",
+    "owners": [
+      "persimmon-market-night-visit"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/persimmon-market-night-visit.md"
+    ],
+    "unknown": [],
+    "sha256": "c246fb493e126b9ea3fbfcc6c319e46e957b0ae5f4d667f77cc0fea692055ce3"
+  },
+  {
+    "old": "phicomm-k2p.webp",
+    "new": "k2p_mac_modification_guide/phicomm-k2p.webp",
+    "owners": [
+      "k2p_mac_modification_guide"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/k2p_mac_modification_guide.md"
+    ],
+    "unknown": [],
+    "sha256": "92570e4856de4a2f412ce7ccaa5b8fa2c985c2f02dcfae3c3fa7cbd5615f9e3f"
+  },
+  {
+    "old": "pr_01_1900.jpg",
+    "new": "beaglebone-black-hdmi-account-tips/pr_01_1900.jpg",
+    "owners": [
+      "beaglebone-black-hdmi-account-tips"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/beaglebone-black-hdmi-account-tips.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6dd00250ffb9c7e1fb1ff2c07f664dd4aeac4fbe5af918c859cda19023ec4074"
+  },
+  {
+    "old": "rethinking-an-image-and-inertia.webp",
+    "new": "rethinking-an-image-and-inertia/rethinking-an-image-and-inertia.webp",
+    "owners": [
+      "rethinking-an-image-and-inertia"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/rethinking-an-image-and-inertia.md"
+    ],
+    "unknown": [],
+    "sha256": "92532ec4a331bee8e18431c1181250099db73ac94787b761dd08e70c201617db"
+  },
+  {
+    "old": "romoss_20250629105659.png",
+    "new": "no-worry-about-battery-on-flight/romoss_20250629105659.png",
+    "owners": [
+      "no-worry-about-battery-on-flight"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/no-worry-about-battery-on-flight.markdown"
+    ],
+    "unknown": [],
+    "sha256": "713771d840b9a1b625b2eb41a05f404fac317147505e733d0eaf06ddccfb5d26"
+  },
+  {
+    "old": "ScreenShot_2026-05-20_180348_556.jpg",
+    "new": "retail-is-no-longer-choosing-products--its-choosing-customers/ScreenShot_2026-05-20_180348_556.jpg",
+    "owners": [
+      "retail-is-no-longer-choosing-products--its-choosing-customers"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Retail Is No Longer Choosing Products — It’s Choosing Customers.md"
+    ],
+    "unknown": [],
+    "sha256": "4f2a50b1a52ca1a9ad72c8d99cb65d16ac0611fd06b015ff31e28027ed69fc75"
+  },
+  {
+    "old": "ScreenShot_2026-08-04_160007_020.jpg",
+    "new": "Upgrade-Your-Mindset,-Not-Just-Your-Tools/ScreenShot_2026-08-04_160007_020.jpg",
+    "owners": [
+      "Upgrade-Your-Mindset,-Not-Just-Your-Tools"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools.md"
+    ],
+    "unknown": [],
+    "sha256": "77c1854563195f2f61f9c73c4e2eebf24a01be69fc83ee047d385bc22c98a06e"
+  },
+  {
+    "old": "ScreenShot_2026-08-16_212458_438.jpg",
+    "new": "consumers-are-not-fools-retail-pr-reflection/ScreenShot_2026-08-16_212458_438.jpg",
+    "owners": [
+      "consumers-are-not-fools-retail-pr-reflection"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/consumers-are-not-fools-retail-pr-reflection.md"
+    ],
+    "unknown": [],
+    "sha256": "e8e05593e3eb3af7feb2b3e3ec8bcae6f893b7fe041d34b96410056f5de37b7f"
+  },
+  {
+    "old": "ScreenShot_2026-08-27_115640_604.jpg",
+    "new": "management-as-enablement/ScreenShot_2026-08-27_115640_604.jpg",
+    "owners": [
+      "management-as-enablement"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/management-as-enablement.md"
+    ],
+    "unknown": [],
+    "sha256": "0d793c6aeb6502cb8df65dcf797ea353b3da1c36d90794c6e70b963245a02276"
+  },
+  {
+    "old": "ScreenShot_2026-08-27_115735_923.jpg",
+    "new": "management-as-enablement/ScreenShot_2026-08-27_115735_923.jpg",
+    "owners": [
+      "management-as-enablement"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/management-as-enablement.md"
+    ],
+    "unknown": [],
+    "sha256": "944cb7ccf589bfb695e0661ac0e1d4e4785c7a9b78357c0fb9dac3c6903f24b4"
+  },
+  {
+    "old": "ScreenShot_2026-08-27_115806_627.jpg",
+    "new": "management-as-enablement/ScreenShot_2026-08-27_115806_627.jpg",
+    "owners": [
+      "management-as-enablement"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/management-as-enablement.md"
+    ],
+    "unknown": [],
+    "sha256": "d0895a3d3a57c76363e48e834d77f3da500ff612f337fcc2c3e73ef4f4c8e842"
+  },
+  {
+    "old": "ScreenShot_2026-08-27_115845_622.jpg",
+    "new": "management-as-enablement/ScreenShot_2026-08-27_115845_622.jpg",
+    "owners": [
+      "management-as-enablement"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/management-as-enablement.md"
+    ],
+    "unknown": [],
+    "sha256": "bd1ad9deb9dd89b39b4bf0bf3a038e94280b175d6e75d7d6e72d0c70c9004a35"
+  },
+  {
+    "old": "ScreenShot_2026-08-27_115919_089.jpg",
+    "new": "management-as-enablement/ScreenShot_2026-08-27_115919_089.jpg",
+    "owners": [
+      "management-as-enablement"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/management-as-enablement.md"
+    ],
+    "unknown": [],
+    "sha256": "48faf530450bc1bb7b8306faf02ad096f09b8c9ba3528b5048ab332721cde5a1"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_154847_655.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_154847_655.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "c636093c5e1797cd229e0e711bfeb32b1a7f994ae39ad608775773552a8fe3b8"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155019_164.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155019_164.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "8fa61cd7371122a4b1d7cec76d6db53ee0db37fe431291416cc995d99aa96c11"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155113_832.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155113_832.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "f2b887b88e798681a9464426c7d63327f5594e1c48db36dae44a83fc7f83d485"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155156_350.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155156_350.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "3a0a03f3a32091db2b59cfeb883b5a324c82530e35a8a88dd9e580fc8522676d"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155217_688.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155217_688.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "1e620f2ac9877cd0c9be91f067ee335077afcc1685634606c677c7bffaeb3069"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155302_136.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155302_136.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "2ce9b7d2c19532527a7aa923318806ccc3b88c65de0b767e1408fd0f265b8618"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155331_079.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155331_079.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "99de8b799c511e7d1f6a6c3eb1308405363a1489c6762d045e250819d9f42e91"
+  },
+  {
+    "old": "ScreenShot_2026-09-12_155359_886.jpg",
+    "new": "34-days-without-alcohol-what-my-blood-tests-revealed/ScreenShot_2026-09-12_155359_886.jpg",
+    "owners": [
+      "34-days-without-alcohol-what-my-blood-tests-revealed"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/34-days-without-alcohol-what-my-blood-tests-revealed.md"
+    ],
+    "unknown": [],
+    "sha256": "798420dc9628451dd5115dee60f544d84a3b1e6694db30cfdb2f1829427d65fd"
+  },
+  {
+    "old": "ScreenShot_2026-09-17_152539_064.jpg",
+    "new": "kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152539_064.jpg",
+    "owners": [
+      "kuanguang-x-value-hard-discount-explained"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-x-value-hard-discount-explained.md"
+    ],
+    "unknown": [],
+    "sha256": "c15750f36c6188f1b2b3fcc64404d0d3c920ec4b2ad1706be830678b93555fe3"
+  },
+  {
+    "old": "ScreenShot_2026-09-17_152652_555.jpg",
+    "new": "kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152652_555.jpg",
+    "owners": [
+      "kuanguang-x-value-hard-discount-explained"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-x-value-hard-discount-explained.md"
+    ],
+    "unknown": [],
+    "sha256": "1138d4a2395164a7b1932a9cd0b006d22d4512764210db6a572085dcd091226d"
+  },
+  {
+    "old": "ScreenShot_2026-09-17_152735_711.jpg",
+    "new": "kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152735_711.jpg",
+    "owners": [
+      "kuanguang-x-value-hard-discount-explained"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-x-value-hard-discount-explained.md"
+    ],
+    "unknown": [],
+    "sha256": "8c31ecbfde9bb456a311ca63352cfc28b67bd031555f2f919f9b455461364a61"
+  },
+  {
+    "old": "ScreenShot_2026-09-17_152903_345.jpg",
+    "new": "kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152903_345.jpg",
+    "owners": [
+      "kuanguang-x-value-hard-discount-explained"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-x-value-hard-discount-explained.md"
+    ],
+    "unknown": [],
+    "sha256": "07a58e8763e82559dc4747fe91d5658798acda05fac8462578ba5ae5763284ed"
+  },
+  {
+    "old": "ScreenShot_2026-09-17_152926_318.jpg",
+    "new": "kuanguang-x-value-hard-discount-explained/ScreenShot_2026-09-17_152926_318.jpg",
+    "owners": [
+      "kuanguang-x-value-hard-discount-explained"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-x-value-hard-discount-explained.md"
+    ],
+    "unknown": [],
+    "sha256": "636dee0579d271cda1e11c2e18dd99d272b69bd0a672c86b99f57decbccb963b"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_123720_484.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_123720_484.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "eba30ef0a316caf474b130ce0ecd31b3cd46e651cf4e275729d6f83267e0694d"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_123818_955.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_123818_955.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "04d7d739481c67f5c86660c40b315d15cff787139a798620c67af35012c0d9a2"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_123901_629.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_123901_629.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "e97a16e85d6fabe483bc441489aa4ab2bca418bb781349e2575d7c84972f747a"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_123931_053.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_123931_053.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "9c110720f149c02a6b9eaa8fd7ed46594248292cf0682b815ce6c108b4645db9"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_123955_017.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_123955_017.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "325412fed089c0f874db7c6804647a9e50a59c2f0a41f6839eaed72543f47462"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124015_756.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124015_756.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "73acc42aa8f530426a1d1cb5bb22e1b4686d98ce1ed16328858e166f70e72cc8"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124054_708.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124054_708.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "3f1332c1d2b866ab3787ca3fbeffe224e8dfbc0868f851b21dbcab957be8caac"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124115_584.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124115_584.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "c46609f0839b2ed811a6cddf9375520d76eeae305074b9b999297742cb136307"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124134_504.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124134_504.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "6f7d19af3b8f47ae7e26524956a4d1e90487714e9b229249cf2e85bd7d663fd4"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124214_033.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124214_033.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "5ebd67145a317d94c03329b733f616f9a63f74f28cbbc534a01f7d37a0759549"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124233_909.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124233_909.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "714a5d24b1421e7812abe045ee9fe8a007ef0ee6f94074d2da83606f43061db4"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124254_193.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124254_193.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "3f1c3d9fa85a1a652325c1f41a0597cf5c9b72648f43279eeb8df8ff8cc20c7b"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124314_169.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124314_169.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "009fa2f34029f0d2647c39ef41a923c19fdb7eb5d9fc917b1ba97ecc418a2c10"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124343_301.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124343_301.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "90d8a77c1ec58fd2ddd8f51cd1a0601ab44d966125821e2ca17dae619a3fd2f6"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124404_072.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124404_072.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "db4a757d46bda8318b068cc614038dea6172ee915d8ba3acfce6dbfd3d5f0fa1"
+  },
+  {
+    "old": "ScreenShot_2026-09-23_124423_586.jpg",
+    "new": "my-thirteenth-year-in-retail-kuanguang-and-chengde/ScreenShot_2026-09-23_124423_586.jpg",
+    "owners": [
+      "my-thirteenth-year-in-retail-kuanguang-and-chengde"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/my-thirteenth-year-in-retail-kuanguang-and-chengde.md"
+    ],
+    "unknown": [],
+    "sha256": "cd34ef0178e1a681e913d591b4bd59eb6a29f29fc23f0861a5a9181f7a567c4f"
+  },
+  {
+    "old": "ScreenShot_2026-09-28_155624_685.jpg",
+    "new": "why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155624_685.jpg",
+    "owners": [
+      "why-cars-make-rhythmic-noise-near-railings"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/why-cars-make-rhythmic-noise-near-railings.md"
+    ],
+    "unknown": [],
+    "sha256": "e3810247ea7389d5daeb4a1d10bd27722032acd51929a0882a2c22cc70a8c888"
+  },
+  {
+    "old": "ScreenShot_2026-09-28_155714_941.jpg",
+    "new": "why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155714_941.jpg",
+    "owners": [
+      "why-cars-make-rhythmic-noise-near-railings"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/why-cars-make-rhythmic-noise-near-railings.md"
+    ],
+    "unknown": [],
+    "sha256": "80b7eefe296433c5ff835dfdbbb5c7f17ae9ce5d90484e50c964c77b118af862"
+  },
+  {
+    "old": "ScreenShot_2026-09-28_155831_022.jpg",
+    "new": "why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155831_022.jpg",
+    "owners": [
+      "why-cars-make-rhythmic-noise-near-railings"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/why-cars-make-rhythmic-noise-near-railings.md"
+    ],
+    "unknown": [],
+    "sha256": "17d4caf7f46ce92162d7e87bf35655392106704f3d3038a0407e4c17cbba403a"
+  },
+  {
+    "old": "ScreenShot_2026-09-28_201923_404.jpg",
+    "new": "ScreenShot_2026-09-28_201923_404.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "30cba997e3a8d8c8d20ef31869838ef233cf0b987e8cbaccde9080a715e1b4c4"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163241_526.jpg",
+    "new": "ScreenShot_2026-09-29_163241_526.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "d1b9e4a729f2d6665220072ff7231289cfd368cc550718866b566e303239e52c"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163241_526.webp",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163241_526.webp",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "f784c97b2d8002ee403d46ebd7f715b713126734778254bf96f034beb27583a5"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163501_120.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163501_120.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "1705a15f95c8aaec5a95b4e75e7b90a7b4bbe9a6193de66b7dbb90314f002e55"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163522_004.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163522_004.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "415032606860b621927f08f1b0b5b67a0ba7f8706e0a76ff20aa4a1909c1765e"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163545_678.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163545_678.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "4f23e53368dde59dbb43f975baa04e16aae8e03620bb371e16a4e85287d1a2be"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163606_690.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163606_690.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "587f9b04907ada5774b0db5753a1f4e51338850dacc4e0f20bd59b981804f185"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163628_143.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163628_143.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "0d0bc7d5ff331065534e3cf26b446d4b53b2dcdc2da93ea6db6e3f988a28ef95"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163652_259.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163652_259.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "f3638921294524bb43d6941ed1b8b928730e54097b758b82d779cbac92bc93cc"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163720_668.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163720_668.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "eeec0878e573f1bffe57c32fda45b74f7c1df7e458d4acf0bf538714e55bfcea"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163740_342.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163740_342.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "431a891689f9294e7b6ceb19a925dc720ba9f0d2340ab63bfb2923515c1073a3"
+  },
+  {
+    "old": "ScreenShot_2026-09-29_163802_321.jpg",
+    "new": "chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163802_321.jpg",
+    "owners": [
+      "chengde-elephant-slide-childhood-memory"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/chengde-elephant-slide-childhood-memory.en.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.ja.md",
+      "content/posts/chengde-elephant-slide-childhood-memory.md"
+    ],
+    "unknown": [],
+    "sha256": "0a1932a8b0f5bcca319b4e6643cc65234a25de7bdb52ac6a9163c5e167c9c5f3"
+  },
+  {
+    "old": "seaforce.jpg",
+    "new": "antjapanesewarvictory80thanniversary-figure/seaforce.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary-figure"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary-Figure.markdown"
+    ],
+    "unknown": [],
+    "sha256": "959458d378c32ea89ca0e8710947ace5cb8cd6aa873a78d77923b5ef65afe2f1"
+  },
+  {
+    "old": "securt-1.jpg",
+    "new": "confirmationandanalysisplanforhigh-contaminationprojects/securt-1.jpg",
+    "owners": [
+      "confirmationandanalysisplanforhigh-contaminationprojects"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ConfirmationAndAnalysisPlanForHigh-contaminationProjects.md"
+    ],
+    "unknown": [],
+    "sha256": "043de2abae7e1b0d51d2f91904c399c46de0629e0972eb03600862815d050fa6"
+  },
+  {
+    "old": "shenguohui.jpg",
+    "new": "ai_image_generation/shenguohui.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "8a9ab0743bce3dcf0b4ee16e0e61c02dbaea11f745f653f44f0ccb58c12a8929"
+  },
+  {
+    "old": "ShenNan-1.webp",
+    "new": "ShenNan-1.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "dc28451a87a3ae43fd53a36a58a2f435ee00c385130b90fd5077279ef170d27e"
+  },
+  {
+    "old": "shennan-1024-q82.jpg",
+    "new": "site/shennan-1024-q82.jpg",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "content/card/index.md",
+      "hugo.toml"
+    ],
+    "unknown": [],
+    "sha256": "5816783bd03029396a5e560f71aa77c41faa10b16046317ad9829fa4d09770ed"
+  },
+  {
+    "old": "ShenNan-2.webp",
+    "new": "ShenNan-2.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "da11279379c50e7fff4d7a5cdf0fa9e32e30c25fb52062d2f5506165fe6858df"
+  },
+  {
+    "old": "ShenNan-Cartoon.png",
+    "new": "ShenNan-Cartoon.png",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "ed50338009ad9ba0e78b98be55e82dd4f0c87ea8a1600c08c646b88ebe23fe46"
+  },
+  {
+    "old": "ShenNan-Cartoon.webp",
+    "new": "site/ShenNan-Cartoon.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "content/about.en.md",
+      "content/about.ja.md",
+      "content/about.md"
+    ],
+    "unknown": [],
+    "sha256": "c9f31c1ab416bf7c3f186836dd9571bd43b30202677c03e5f4d85cb5beea6b58"
+  },
+  {
+    "old": "shennan.jpg",
+    "new": "ai_image_generation/shennan.jpg",
+    "owners": [
+      "ai_image_generation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ai_image_generation.markdown"
+    ],
+    "unknown": [],
+    "sha256": "e3db358a6a466f19f01b6080b2608b2d427708f1d33497bcb0dfc78f942c165a"
+  },
+  {
+    "old": "shennan15.jpg",
+    "new": "on_children/shennan15.jpg",
+    "owners": [
+      "on_children"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/on_children.markdown"
+    ],
+    "unknown": [],
+    "sha256": "27877cd7284108e5e882196e5246aece99eef214b8768ed19dbd1f456e953b8f"
+  },
+  {
+    "old": "shennan17.png",
+    "new": "shennanarmy/shennan17.png",
+    "owners": [
+      "shennanarmy"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/shennanarmy.md"
+    ],
+    "unknown": [],
+    "sha256": "ce40ece9d21ec182c4d1966f6d4c652445ddad7545d6a4c776b602998780b2cd"
+  },
+  {
+    "old": "shennan20250519-01.png",
+    "new": "shennan20250519-01.png",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "0330938abf9b93f49967ff6babbab2a2143bd990b55f67a47a0fd95f52131b0f"
+  },
+  {
+    "old": "shennan20250519.png",
+    "new": "to_my_youth/shennan20250519.png",
+    "owners": [
+      "to_my_youth"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/to_my_youth.markdown"
+    ],
+    "unknown": [],
+    "sha256": "f10e1c59c5637c04d6885770ccae74430b197f81f01ee8752b0be8e1df9372eb"
+  },
+  {
+    "old": "shennan_huaweirenzheng.jpg",
+    "new": "recollections-of-hangzhou-training-2008/shennan_huaweirenzheng.jpg",
+    "owners": [
+      "recollections-of-hangzhou-training-2008"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/recollections-of-hangzhou-training-2008.markdown"
+    ],
+    "unknown": [],
+    "sha256": "6669cc91baa7afc7fb05d6cc5b710d8761f8b6654b5fe7ae6fa6a29f88b1db80"
+  },
+  {
+    "old": "shennan_zhuopai.jpg",
+    "new": "shennan_zhuopai.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "3687e518c3493b7ffa9c75fb151f4488d4c8db9c6bb0c40b206bf3216bf08eea"
+  },
+  {
+    "old": "shennanarmy18.jpg",
+    "new": "reflectionsonlifeandparallelchoices/shennanarmy18.jpg",
+    "owners": [
+      "reflectionsonlifeandparallelchoices"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ReflectionsonLifeandParallelChoices.md"
+    ],
+    "unknown": [],
+    "sha256": "54d298ba58d4a1b37a6aeee782117453322ac6795584b7df5811f30ad2e5b1d5"
+  },
+  {
+    "old": "starry-path.jpg",
+    "new": "reflectionsonlifeandparallelchoices/starry-path.jpg",
+    "owners": [
+      "reflectionsonlifeandparallelchoices"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/ReflectionsonLifeandParallelChoices.md"
+    ],
+    "unknown": [],
+    "sha256": "755b396c0878f7ef814e2591ced0c80aad9590436bad7d821d744061d885198d"
+  },
+  {
+    "old": "supermarket-membership-car-wash/640.webp",
+    "new": "supermarket-membership-car-wash/640.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "f762120f1eed779240f45610dc5aa0fa96025d92737205795c6264fdb2d3ec39"
+  },
+  {
+    "old": "supermarket-membership-car-wash/64015.webp",
+    "new": "supermarket-membership-car-wash/64015.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "a99c54c299fe99a79d9187bffeaa6bbafbf2dc5002f75e203e507b0cc9a18044"
+  },
+  {
+    "old": "supermarket-membership-car-wash/64022.webp",
+    "new": "supermarket-membership-car-wash/64022.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "6562c686d4c7aaff601d6fd853cb0805b1c4000fa90cccb7b3a0beab40741e47"
+  },
+  {
+    "old": "supermarket-membership-car-wash/6410.webp",
+    "new": "supermarket-membership-car-wash/6410.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "b1322fd3a31ed2d7638486e4051ef9c34e03d8c2171f5aac1e11fee22df78331"
+  },
+  {
+    "old": "supermarket-membership-car-wash/6420.webp",
+    "new": "supermarket-membership-car-wash/6420.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "7ce420bdad761ba4d537eadf10352a291f94054c7e23d61c094bdb17d061e717"
+  },
+  {
+    "old": "supermarket-membership-car-wash/6430.webp",
+    "new": "supermarket-membership-car-wash/6430.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "620853b44ca4992ce918202648cdc68f77f56786074fd949a424361032d6f2db"
+  },
+  {
+    "old": "supermarket-membership-car-wash/64340.webp",
+    "new": "supermarket-membership-car-wash/64340.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "11cc39718ec58584f546b11302f9bdf889fba967daf57f4e956611111e7cd80d"
+  },
+  {
+    "old": "supermarket-membership-car-wash/ScreenShot_2026-10-06_204142_286.webp",
+    "new": "supermarket-membership-car-wash/ScreenShot_2026-10-06_204142_286.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "16f18eb77076ed79633af5cabfa83437a938743101bf5bcc4932f1c8b22ddc65"
+  },
+  {
+    "old": "supermarket-membership-car-wash/ScreenShot_2026-10-06_204339_815.webp",
+    "new": "supermarket-membership-car-wash/ScreenShot_2026-10-06_204339_815.webp",
+    "owners": [
+      "supermarket-membership-car-wash"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket-membership-car-wash.en.md",
+      "content/posts/supermarket-membership-car-wash.ja.md",
+      "content/posts/supermarket-membership-car-wash.md"
+    ],
+    "unknown": [],
+    "sha256": "f642a9b328c5cbb7cd1f314fa4e353f491169e1f541b04874b196d83cbf0b78b"
+  },
+  {
+    "old": "tokyo_jiaken.jpg",
+    "new": "tokyo_jiaken/tokyo_jiaken.jpg",
+    "owners": [
+      "tokyo_jiaken"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/tokyo_jiaken.md"
+    ],
+    "unknown": [],
+    "sha256": "625b8561205bccf334506d71b9c5f2c6dad94bba8928431eecee404cc59e9f84"
+  },
+  {
+    "old": "v2-1c7cfd932d637812f57f33699360243e_1440w.jpg",
+    "new": "beaglebone-black-serial-tcp-gpio/v2-1c7cfd932d637812f57f33699360243e_1440w.jpg",
+    "owners": [
+      "beaglebone-black-serial-tcp-gpio"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/beaglebone-black-serial-tcp-gpio.markdown"
+    ],
+    "unknown": [],
+    "sha256": "1964d7f3ea4e55ecf5ed64b485624ae5fa05d1b67ac7e49d43c48f2e410d36a1"
+  },
+  {
+    "old": "v2-4995ecb0d7bdef2b5e7fa76ddc47f672_1440w.jpg",
+    "new": "from-running-to-cycling/v2-4995ecb0d7bdef2b5e7fa76ddc47f672_1440w.jpg",
+    "owners": [
+      "from-running-to-cycling"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/from-running-to-cycling.markdown"
+    ],
+    "unknown": [],
+    "sha256": "3405cf9daa863b267d3236cecf5ba5c8304b75f65c0eeff8a3e66237d2238dfb"
+  },
+  {
+    "old": "v2-714df4610668dfb3e02e8938376cd25a_1440w.jpg",
+    "new": "japanese-craftsmanship-and-innovation/v2-714df4610668dfb3e02e8938376cd25a_1440w.jpg",
+    "owners": [
+      "japanese-craftsmanship-and-innovation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/japanese-craftsmanship-and-innovation.md"
+    ],
+    "unknown": [],
+    "sha256": "a107b6104e82d0b476471b91eda66491923a977a3902d1614453da640eeb95a4"
+  },
+  {
+    "old": "v2-74830365ffc5d7472c715b966b3778d1_hd.jpg",
+    "new": "v2-74830365ffc5d7472c715b966b3778d1_hd.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "de31777755f1b307c27f57aff2cfbc2ff9a72ecaf7a57e0839428d98a1ae53a8"
+  },
+  {
+    "old": "v2-7edb67bb5c76e7842fd1af22b85fdd90_1440w.jpg",
+    "new": "the_essence_of_innovation/v2-7edb67bb5c76e7842fd1af22b85fdd90_1440w.jpg",
+    "owners": [
+      "the_essence_of_innovation"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/The_Essence_of_Innovation.md"
+    ],
+    "unknown": [],
+    "sha256": "8a115a29aac276da9ae3235c8be0f625b6a170a522a252414da5704dd45611de"
+  },
+  {
+    "old": "v2-a9a4ea4818577e02e739b4bc0e3147b7_1440w.jpg",
+    "new": "beaglebone-black-go-setup/v2-a9a4ea4818577e02e739b4bc0e3147b7_1440w.jpg",
+    "owners": [
+      "beaglebone-black-go-setup"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/beaglebone-black-go-setup.markdown"
+    ],
+    "unknown": [],
+    "sha256": "049449b84ae76d474ded184159f3a6c30a3af76967a653ce5e9a8be21f9196ba"
+  },
+  {
+    "old": "v2-ad6b3c617eb4efc376587138933761b3_1440w.jpg",
+    "new": "world-bug-story/v2-ad6b3c617eb4efc376587138933761b3_1440w.jpg",
+    "owners": [
+      "world-bug-story"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/world-bug-story.markdown"
+    ],
+    "unknown": [],
+    "sha256": "11e90718a475c87839dbb5e73357a964f725b1d626920d23a52288c15543a87d"
+  },
+  {
+    "old": "v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.jpg",
+    "new": "supermarket_analysis/v2-b091ed39cdae3a0634f46e3d74d3e3c3_1440w.jpg",
+    "owners": [
+      "supermarket_analysis"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/supermarket_analysis.markdown"
+    ],
+    "unknown": [],
+    "sha256": "a3c2af0e0ccf5da3631b9831699068a63a4882f03b825c32bf58a2e0417e7237"
+  },
+  {
+    "old": "wabisabi.jpg",
+    "new": "wabisabi/wabisabi.jpg",
+    "owners": [
+      "wabisabi"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/Wabisabi/_index.md"
+    ],
+    "unknown": [],
+    "sha256": "693278ddf5d5197ecda06732b5e0d2c14b53a895323426caa3e46b09393a411b"
+  },
+  {
+    "old": "wechat_2025-09-19_174059_605.jpg",
+    "new": "wechat_2025-09-19_174059_605.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "1d8f76d1d16da1f4810d381afe94c0a80e2c408a7b2c68fa6b6820721040c092"
+  },
+  {
+    "old": "WIN_20211203_21_26_57_Pro.jpg",
+    "new": "WIN_20211203_21_26_57_Pro.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "c2ea004275fc93218a2568c2358f852da0abd79ee7522e65f3f253f351fc40cf"
+  },
+  {
+    "old": "womenforce.jpg",
+    "new": "antjapanesewarvictory80thanniversary-figure/womenforce.jpg",
+    "owners": [
+      "antjapanesewarvictory80thanniversary-figure"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/AntJapaneseWarVictory80thAnniversary-Figure.markdown"
+    ],
+    "unknown": [],
+    "sha256": "d4ff2a5616113939d76f9c7c35c6674666d9edffd2fd5ef21427d3d84951984b"
+  },
+  {
+    "old": "www-runchina-org-cn.webp",
+    "new": "marathon-records/www-runchina-org-cn.webp",
+    "owners": [
+      "marathon-records"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/marathon-records.md"
+    ],
+    "unknown": [],
+    "sha256": "39755a85ac4aef91ef166ca196c23ea2b50f5dfb569ac8063842e5c68fec6ba9"
+  },
+  {
+    "old": "yabe.jpg",
+    "new": "yabe.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "714c2d35d5a4863377cf90b0577e536a9e85e33bf56b18a898984157c761fd31"
+  },
+  {
+    "old": "yuugen.jpg",
+    "new": "yuugen/yuugen.jpg",
+    "owners": [
+      "yuugen"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/yuugen/_index.md"
+    ],
+    "unknown": [],
+    "sha256": "b573a0ff12fe8eb7de506640c91cbc5a3a5f9f2b1caff425953385f61a2d34ed"
+  },
+  {
+    "old": "zisai/card-erxianju.webp",
+    "new": "site/card-erxianju.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "ee7511ff9a819288104aef418b1c83e87ee9712f067b785ab4a0abf3722913e2"
+  },
+  {
+    "old": "zisai/card-greatwall.svg",
+    "new": "card-greatwall.svg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "e66aaad3270a85728bb96fe9fc5143086fd5af8ae1ea2b723a2518a4e9f4731c"
+  },
+  {
+    "old": "zisai/card-greatwall.webp",
+    "new": "site/card-greatwall.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "2cf0859d5f12a8cea633ae4c806ed7cfe9394dedc370d382886f9c9ebc73a3a7"
+  },
+  {
+    "old": "zisai/card-mountain.svg",
+    "new": "card-mountain.svg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "9d3f5da778acca47176d4438c96db822b15237e6354696a2445b63588860def0"
+  },
+  {
+    "old": "zisai/card-mountain.webp",
+    "new": "site/card-mountain.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "ed22b5e5ae38bbc7c1ebd5067ad24a7fbbb0c0916e5a7734aee0853347607980"
+  },
+  {
+    "old": "zisai/card-rehe.webp",
+    "new": "site/card-rehe.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "4edc06b3bfffd31ecc57d6490e0f82e760a789c32457e89cf32e34fd3f192ad4"
+  },
+  {
+    "old": "zisai/card-resort.svg",
+    "new": "card-resort.svg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "97f9cb3b3c313711e6a1c50c12cdc0bf3c7f9cba8ac82d394a7be620df91ce5e"
+  },
+  {
+    "old": "zisai/card-resort.webp",
+    "new": "site/card-resort.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "a5bc4f492590ce069524b6d418832ab9cc5ee3e8c4e11f519c92ba980f7e15b2"
+  },
+  {
+    "old": "zisai/card-temple.svg",
+    "new": "card-temple.svg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "61fcd591c18c3cbee32eb2f09327a938455f0ad839b68e9d5c61558d7c09cbcf"
+  },
+  {
+    "old": "zisai/card-temple.webp",
+    "new": "site/card-temple.webp",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/index.html"
+    ],
+    "unknown": [],
+    "sha256": "e3993a5d6154a6353e175c017ed040922616d3be54b4d024915086bb62c5342b"
+  },
+  {
+    "old": "zisai/hero-chengde-backup (2).webp",
+    "new": "hero-chengde-backup (2).webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "2d75c06c9e3b3966443f8f97ab0ad0a3e62f13552719b9eff90c99220a12c7f1"
+  },
+  {
+    "old": "zisai/hero-chengde-backup.webp",
+    "new": "hero-chengde-backup.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "61f08871d5eda8a022382eb64829f55231abf6890994d8d297d466db215c76ce"
+  },
+  {
+    "old": "zisai/hero-chengde.jpg",
+    "new": "site/hero-chengde.jpg",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "hugo.toml"
+    ],
+    "unknown": [],
+    "sha256": "c9dcd04c32d810669bcb588d1aa2eac49a43d1618287fb8a8e8b871596775be0"
+  },
+  {
+    "old": "zisai/hero-chengde.svg",
+    "new": "hero-chengde.svg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "de917800e11c38fee58783da368f126dd3809b202544da894baf9c2956835635"
+  },
+  {
+    "old": "zisai/hero-erxianju.webp",
+    "new": "hero-erxianju.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "4df6cb0ab71ba4b4bc115a38e82cb604f2af2b3057a8784e9cddb0e58940370c"
+  },
+  {
+    "old": "zisai/hero-greatwall.webp",
+    "new": "hero-greatwall.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "431a9c5c9e3042af20d73e5d129924c873b56015373acd051d43e8a5ac510aef"
+  },
+  {
+    "old": "zisai/hero-mountain.webp",
+    "new": "hero-mountain.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "abe81ba3f76a126ded386a1ec96b73cbf0720b3431ac6f6109b431223a765abb"
+  },
+  {
+    "old": "zisai/hero-rehe.webp",
+    "new": "hero-rehe.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "8080b9dccbd9491975dbf87c6929709ed2f41316fa5b470bccc75aff14a96d00"
+  },
+  {
+    "old": "zisai/hero-resort.webp",
+    "new": "hero-resort.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "9bcc1bb60ffacaa33d64068cc75a326ddbcf301e895ba7934a40bd9397018f79"
+  },
+  {
+    "old": "zisai/hero-temple.webp",
+    "new": "hero-temple.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "0b3e2328be749222814427bd066ef4d2c6fc52a1a77080a7c1bd85bcce29d80e"
+  },
+  {
+    "old": "zisai/logo-mark-backup (2).webp",
+    "new": "logo-mark-backup (2).webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "bf046236fbd83485ce2501d297c651885b345f8a1aa23daf0f960b6cdd7874b5"
+  },
+  {
+    "old": "zisai/logo-mark-backup.png",
+    "new": "logo-mark-backup.png",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "604b314e16b8cad73c411f119c875a05dac4020ead907f9268e42e044f89ebd6"
+  },
+  {
+    "old": "zisai/logo-mark-backup.webp",
+    "new": "logo-mark-backup.webp",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "a610f8a7ffc5886e5813cac1788d50cccf20a8f3ec2f11f9ebed51c9c4b3e99a"
+  },
+  {
+    "old": "zisai/logo-mark.jpg",
+    "new": "logo-mark.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "299cea016bac6db6b5a96856b6019ce10148dfd43a0fdf95e3c6a1644fd5cc15"
+  },
+  {
+    "old": "zisai/logo-mark.png",
+    "new": "site/logo-mark.png",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "layouts/_partials/logo.html"
+    ],
+    "unknown": [],
+    "sha256": "90320b5d175b0a3be75795308b5b503251530445d4cec9167c1f791857c75ad0"
+  },
+  {
+    "old": "zisai/preview-home-v2.jpg",
+    "new": "preview-home-v2.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "daf3e59b2dcc9b0ac9708ee6c9a757d20bb985fbe18f20ddb0cc8e90593c5147"
+  },
+  {
+    "old": "zisai-national-day-q82.webp",
+    "new": "national-day-zisai-rebuild/zisai-national-day-q82.webp",
+    "owners": [
+      "national-day-zisai-rebuild"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/national-day-zisai-rebuild.en.md",
+      "content/posts/national-day-zisai-rebuild.ja.md",
+      "content/posts/national-day-zisai-rebuild.md"
+    ],
+    "unknown": [],
+    "sha256": "954a0586267e0194890bc17db56ee8221cf7e10f87f0f17feb029d8bfd3e174c"
+  },
+  {
+    "old": "zisai-share-1.jpg",
+    "new": "zisai-share-1.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "e7ec7bfff89b631319a6500aff97194dc4e250f57b0d45e04679d87ceb60758c"
+  },
+  {
+    "old": "zisai-share-2.jpg",
+    "new": "zisai-share-2.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "56c71946ef11db004357433c5a7658aa610428d0df3bc05ea6e187c7f9c358b5"
+  },
+  {
+    "old": "zisai-share-q88.jpg",
+    "new": "site/zisai-share-q88.jpg",
+    "owners": [],
+    "site": true,
+    "refs": [
+      "hugo.toml"
+    ],
+    "unknown": [],
+    "sha256": "76175576a5c05df7c202de076385e4acfe03e0d45714b53966e9af15cc867b11"
+  },
+  {
+    "old": "zisai-share.jpg",
+    "new": "zisai-share.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "81a9d29e7524096399af51148f90eb6525af56546c48f99f589bdbd432691309"
+  },
+  {
+    "old": "zisai_images/1714017068643-cae479af-702e-401c-a02a-89699971d4e2.jpg",
+    "new": "zisai.com/1714017068643-cae479af-702e-401c-a02a-89699971d4e2.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "3e3a1e8051ab3c5c692f80a95a18ed2a24982cb0239577f74cab23ebf22ac9f5"
+  },
+  {
+    "old": "zisai_images/1714017170059-1ecfd2bb-028a-42a4-b1e6-5a287527fd23.jpg",
+    "new": "zisai.com/1714017170059-1ecfd2bb-028a-42a4-b1e6-5a287527fd23.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "2fa268ef5516905628782fd362f315a840f49664ccf0ce602dc9e76f3d265be9"
+  },
+  {
+    "old": "zisai_images/1714017242292-d5b1196b-5ca2-4529-9092-7a1f37b6d9e6.jpg",
+    "new": "zisai.com/1714017242292-d5b1196b-5ca2-4529-9092-7a1f37b6d9e6.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "ce05a9f337e38cfa952f61c7130f705e9b279cc896c84559cea05689237b9843"
+  },
+  {
+    "old": "zisai_images/1714017408159-d83ac9ad-8e23-44d2-86e7-3506218d7142.jpg",
+    "new": "zisai.com/1714017408159-d83ac9ad-8e23-44d2-86e7-3506218d7142.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "552a8849f730429b414fb147696814ba83aea61a4e29f289453426e1acfcce54"
+  },
+  {
+    "old": "zisai_images/1714017468421-f0a28e3c-4fa4-4bec-b440-df8723c2ccfc.jpg",
+    "new": "zisai.com/1714017468421-f0a28e3c-4fa4-4bec-b440-df8723c2ccfc.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "e51778f1092fb4e3ae9219ca85c7bb5f3d3e55035c7b6a9331acc727bae8150e"
+  },
+  {
+    "old": "zisai_images/1714017677080-2adfd228-a420-4270-b670-9c1286fdeb87.jpg",
+    "new": "zisai.com/1714017677080-2adfd228-a420-4270-b670-9c1286fdeb87.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "e79213b74b44dd0251c48a94e9f0c994edcf596d2c2534cef02f090860b4aaef"
+  },
+  {
+    "old": "zisai_images/1714017695272-6d3be757-b700-4be7-9cd2-3ff0b76cb8c8.jpg",
+    "new": "zisai.com/1714017695272-6d3be757-b700-4be7-9cd2-3ff0b76cb8c8.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "8b94ec9e8dc185d82c936ce02853907dcdc983602617b1fb96b111b4593b3474"
+  },
+  {
+    "old": "zisai_images/1714018108217-171a2b3d-715c-4740-9d56-9d2118309d7e.jpg",
+    "new": "zisai.com/1714018108217-171a2b3d-715c-4740-9d56-9d2118309d7e.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "a05ec2a256955ff34730a12fa8ae3d1babfa73150ec5d26c200f73aa1891a53b"
+  },
+  {
+    "old": "zisai_images/1714018145785-60b6f70f-90c4-413b-987c-02ee94e97606.jpg",
+    "new": "zisai.com/1714018145785-60b6f70f-90c4-413b-987c-02ee94e97606.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "51e3a569f47da2a38c894f35e67baf95bbbed780b2774d30289c4dd773362d7a"
+  },
+  {
+    "old": "zisai_images/1714018291173-3047b78a-7fca-47c3-b044-80f17e312401.jpg",
+    "new": "zisai.com/1714018291173-3047b78a-7fca-47c3-b044-80f17e312401.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "f3cf71c20e10500dd9f10e9e9d60bc44c543ad787ca977b00e6826d19549912e"
+  },
+  {
+    "old": "zisai_images/1714018308756-a81577cb-b401-40bb-af19-15e5fb455c9a.jpg",
+    "new": "zisai.com/1714018308756-a81577cb-b401-40bb-af19-15e5fb455c9a.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "4ad80d53951431f551a2a87ba87666187a32dda42f7429b144f08d16da636a41"
+  },
+  {
+    "old": "zisai_images/1714018414761-9a033d05-0b1e-42ed-ad98-50edabdd4a07.jpg",
+    "new": "zisai.com/1714018414761-9a033d05-0b1e-42ed-ad98-50edabdd4a07.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "f62059a488adafaf5aaf18515122a796b0333e8cc9e5b7c692336fc937371e9e"
+  },
+  {
+    "old": "zisai_images/1714018449978-1b489ec5-2753-43ac-85fa-8315f4fd9e2e.jpg",
+    "new": "zisai.com/1714018449978-1b489ec5-2753-43ac-85fa-8315f4fd9e2e.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "9c577c6db560e154b4d9318cba230392be21dc14144ac50a53e3e07b62629272"
+  },
+  {
+    "old": "zisai_images/1714018490850-1d7bca6b-41c4-41aa-b9b1-e7a3a3bd0933.jpg",
+    "new": "zisai.com/1714018490850-1d7bca6b-41c4-41aa-b9b1-e7a3a3bd0933.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "fe38875d16a7424466b0c476d76417a1106a483acf0361ca4352774535cc5de3"
+  },
+  {
+    "old": "zisai_images/1714018560710-a5d02f2e-c992-4220-a187-e997d76fbc25.jpg",
+    "new": "zisai.com/1714018560710-a5d02f2e-c992-4220-a187-e997d76fbc25.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "fba62216e238652bde3cb41f8117c1f28db2ae3bcd9670303d386689c73c9585"
+  },
+  {
+    "old": "zisai_images/1714018599980-3b557496-4ea8-4855-b9e0-e77bbf68816f.jpg",
+    "new": "zisai.com/1714018599980-3b557496-4ea8-4855-b9e0-e77bbf68816f.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "66b6d01b0d0fa75e294d0ef3fc6c44a699520d7ef8b4a1e31b163add83468bc0"
+  },
+  {
+    "old": "zisai_images/1714018666451-2bcae070-b8ee-4cb2-b381-199bd9f765a4.jpg",
+    "new": "zisai.com/1714018666451-2bcae070-b8ee-4cb2-b381-199bd9f765a4.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "6f2c3f3a8fa68fd73ba58bd686c2106e2e5c1404d1a493433800e77a910d71b6"
+  },
+  {
+    "old": "zisai_images/1714018795318-a1e06b9c-e9a7-4fdc-a75f-aa426874afb4.jpg",
+    "new": "zisai.com/1714018795318-a1e06b9c-e9a7-4fdc-a75f-aa426874afb4.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "43cfed31bf842725266d706d7853c541489d1ca0a61a071a001387c184817cae"
+  },
+  {
+    "old": "zisai_images/1714019254578-7e7e7cb5-99a7-41e6-b10c-2662431389c0.jpg",
+    "new": "zisai.com/1714019254578-7e7e7cb5-99a7-41e6-b10c-2662431389c0.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "956b564b7fda64154c9e47afc774ad09d529db664cc712f3713bab5bdea787c4"
+  },
+  {
+    "old": "zisai_images/1714019526248-6945b797-58a2-404b-b0e4-5affd74befdc.jpg",
+    "new": "zisai.com/1714019526248-6945b797-58a2-404b-b0e4-5affd74befdc.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "ead8fe6b2d0af633ca6219bfa6f8e85c4be4117d8bb921787de259c3061cdff9"
+  },
+  {
+    "old": "zisai_images/1714019674750-fea23038-56fb-499f-b701-366b1c272264.jpg",
+    "new": "zisai.com/1714019674750-fea23038-56fb-499f-b701-366b1c272264.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "abd6bb909d2040669022efbf5bdb012969455e3dbf975764240f6be99651fada"
+  },
+  {
+    "old": "zisai_images/1714020506337-30d022e7-ea56-47ac-b314-2b14ab3e5706.jpg",
+    "new": "zisai.com/1714020506337-30d022e7-ea56-47ac-b314-2b14ab3e5706.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "d5d95acbb3830c85ef570d1ff598e1d5b1f6b3ece29af7e5310ed03e1c73bb03"
+  },
+  {
+    "old": "zisai_images/1714020628745-0589cb51-08f8-4bfa-aeac-12df176e888a.jpg",
+    "new": "zisai.com/1714020628745-0589cb51-08f8-4bfa-aeac-12df176e888a.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "d7ffdf5960dc717eafd6cd9b7df4ec783fdeb330708b284f3b1d185022c7036e"
+  },
+  {
+    "old": "zisai_images/1714021213099-f4450e1e-04a3-43ed-9781-ba9a22568dd5.jpg",
+    "new": "zisai.com/1714021213099-f4450e1e-04a3-43ed-9781-ba9a22568dd5.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "cf237ac465189e6f287e045a6a510a373768749f382cbf63804ea258013168c4"
+  },
+  {
+    "old": "zisai_images/1714021260925-8143e354-773e-4364-8ca6-28b97ed52d4c.jpg",
+    "new": "zisai.com/1714021260925-8143e354-773e-4364-8ca6-28b97ed52d4c.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "c6c48bebf72e4cf568b3597bbdc614bbb884357642da00c3df92a38d34d3388e"
+  },
+  {
+    "old": "zisai_images/1714021456675-92ae3a37-1a86-4936-b824-2dbf6e088372.jpg",
+    "new": "zisai.com/1714021456675-92ae3a37-1a86-4936-b824-2dbf6e088372.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "f8e1363313a48d8ad53d448e765024ea1bd79ee85e448448f2cdf8f129760606"
+  },
+  {
+    "old": "zisai_images/1714021756344-d57c344c-fb64-40e2-809a-794532f5e792.jpg",
+    "new": "zisai.com/1714021756344-d57c344c-fb64-40e2-809a-794532f5e792.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "62e1a1e09561e955d13833c5f344d30734a90f9030a1ba7035d6fb693b4c4e20"
+  },
+  {
+    "old": "zisai_images/1714021767294-30a6580a-6203-4ff7-b20f-0cd568da2b73.jpg",
+    "new": "zisai.com/1714021767294-30a6580a-6203-4ff7-b20f-0cd568da2b73.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "b789368efa3ba1cb33bd9258e331bbfd0f5d3b595aef1a7d255fbe9b5330a61d"
+  },
+  {
+    "old": "zisai_images/1714022415850-3b6d73bf-0183-4ec7-b1e3-aa332ac869ac.jpg",
+    "new": "zisai.com/1714022415850-3b6d73bf-0183-4ec7-b1e3-aa332ac869ac.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "1b2b2d3d55d7019372f9df52b1a9bbba9067b0f6cb37ef36e0a02d19a5e155df"
+  },
+  {
+    "old": "zisai_images/1714022487941-eb2b4d59-446e-4910-8353-ac75a0460f0a.jpg",
+    "new": "zisai.com/1714022487941-eb2b4d59-446e-4910-8353-ac75a0460f0a.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "186ccc59bfcf50d8a10317dad638548531bfa8fd63247d47e2068c170e4c7822"
+  },
+  {
+    "old": "zisai_images/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.jpg",
+    "new": "zisai.com/1714022569778-be9ccd29-434a-4125-867e-6a83a283c2b2.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "016766cebb2ad6c7b6c7a56687732c6f435fa0735f7063b742f09af07027352a"
+  },
+  {
+    "old": "zisai_images/1714022673715-971d2925-dd54-43f7-8ee1-966c92e83e82.jpg",
+    "new": "zisai.com/1714022673715-971d2925-dd54-43f7-8ee1-966c92e83e82.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "9650deadf0dd591b6e69a3d2a720a08a3cff16f52ce4e0bcf8e3f8e6604543ec"
+  },
+  {
+    "old": "zisai_images/1714022718481-96496e72-4447-4d49-a8e2-00f215334090.jpg",
+    "new": "zisai.com/1714022718481-96496e72-4447-4d49-a8e2-00f215334090.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "22e790434fc5c1286c822f2314353d6549eda92c87f3d90d584766456398c7c5"
+  },
+  {
+    "old": "zisai_images/1714022766372-c1e70d8a-f944-444b-9d2a-413db8590b49.jpg",
+    "new": "zisai.com/1714022766372-c1e70d8a-f944-444b-9d2a-413db8590b49.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "8de80ba405a81d59f6f7d94752973b9685682a0d46346437af43374191a3def8"
+  },
+  {
+    "old": "zisai_images/1714023092388-6b6d359b-8a3a-4dd5-8ab3-8e20db200ced.jpg",
+    "new": "zisai.com/1714023092388-6b6d359b-8a3a-4dd5-8ab3-8e20db200ced.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "a738c684d646ebb56540ba3eaf663872234582e1c08502d64351e5e27fc3158c"
+  },
+  {
+    "old": "zisai_images/1714023138036-3bb9eb5a-03be-474d-b924-7e2d3c4f7c77.jpg",
+    "new": "zisai.com/1714023138036-3bb9eb5a-03be-474d-b924-7e2d3c4f7c77.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "3abf888fc031bc455cac630e4379e450a0eb618dfa2c3482378dc1520e6a45bb"
+  },
+  {
+    "old": "zisai_images/1714023193955-5c638d90-1144-494b-b281-284f4727a3b7.jpg",
+    "new": "zisai.com/1714023193955-5c638d90-1144-494b-b281-284f4727a3b7.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "a3421d2c70828e73fd368c137883c71ae573090928d5385c2646f06bf92377f6"
+  },
+  {
+    "old": "zisai_images/1714023510703-8f9176a2-402c-43d9-a287-15ff3641c93e.jpg",
+    "new": "zisai.com/1714023510703-8f9176a2-402c-43d9-a287-15ff3641c93e.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "eeb71c8ef89a5c5dd300261775118af14d69516d6a87559f19d546c3814a4fbe"
+  },
+  {
+    "old": "zisai_images/1714023601670-b973d685-1328-461b-bafc-163a2cd306ca.jpg",
+    "new": "zisai.com/1714023601670-b973d685-1328-461b-bafc-163a2cd306ca.jpg",
+    "owners": [
+      "zisai.com"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/zisai.com.en.md",
+      "content/posts/zisai.com.ja.md",
+      "content/posts/zisai.com.md"
+    ],
+    "unknown": [],
+    "sha256": "bb0994f2dc42c7da51976763ea9fa11a17d42d17fa420f059defa1b5baa69d46"
+  },
+  {
+    "old": "zzf.jpg",
+    "new": "zzf.jpg",
+    "owners": [],
+    "site": false,
+    "refs": [],
+    "unknown": [],
+    "sha256": "d02188b3d82495186f9a0c410d6f182fb54f2b8e363e3e56bc175e472545aeab"
+  },
+  {
+    "old": "宽广AI Agent用自然语言做会员数据查询返回的结果.webp",
+    "new": "kuanguang-ai-agent/宽广AI Agent用自然语言做会员数据查询返回的结果.webp",
+    "owners": [
+      "kuanguang-ai-agent"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-ai-agent.md"
+    ],
+    "unknown": [],
+    "sha256": "11e8667c103f7c13898c418d5a62d5b1bd22c9d4d03b11b558ec1026c10a5a63"
+  },
+  {
+    "old": "宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp",
+    "new": "kuanguang-ai-agent/宽广AI Agent用自然语言分析某店每小时交易量，用于合理分配用工人力数量.webp",
+    "owners": [
+      "kuanguang-ai-agent"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-ai-agent.md"
+    ],
+    "unknown": [],
+    "sha256": "05210bcece7493013018916f6add3e4f0122ba69014a0dc1b949ec47198dd700"
+  },
+  {
+    "old": "宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp",
+    "new": "kuanguang-ai-agent/宽广AI Agent解读自然语言思考、提取过程，用时133秒.webp",
+    "owners": [
+      "kuanguang-ai-agent"
+    ],
+    "site": false,
+    "refs": [
+      "content/posts/kuanguang-ai-agent.md"
+    ],
+    "unknown": [],
+    "sha256": "796e0ae54ffcdde6f91772ccbd8db99a755a1b82118aec294f46e545a2a64040"
+  }
+]

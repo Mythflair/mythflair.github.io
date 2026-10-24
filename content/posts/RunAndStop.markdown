@@ -6,7 +6,7 @@ date = 2025-05-19T11:29:00+08:00
 draft = false
 
 [cover] 
-    image = '/images/Enoshima-sea-candle.jpg' 
+    image = '/images/runandstop/Enoshima-sea-candle.jpg' 
     alt = '奔跑与停歇：越来越陌生的城市'
 +++
 

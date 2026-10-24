@@ -9,7 +9,7 @@ description: "1993年6月頃の北戴河での一枚。15歳の私と42歳の父
 summary: "技術は写真を修復できても、時間を巻き戻すことはできません。1993年の夏、父は私の隣にいました。あの頃、私たちは二人ともまだ若かった。"
 showToc: false
 cover:
-    image: "/images/beidaihe-summer-1993-with-my-father.webp"
+    image: "/images/beidaihe-summer-1993-with-my-father/beidaihe-summer-1993-with-my-father.webp"
     alt: "1993年6月頃、秦皇島・北戴河。父と私（修復後の写真）。"
     caption: "1993年6月頃、秦皇島・北戴河。父と私（修復後の写真）。"
 lastmod: 2026-10-19T12:00:00+08:00

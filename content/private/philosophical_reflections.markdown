@@ -7,7 +7,7 @@ draft: false
 
 description: "从科学视角，探讨道学、佛学和基督神学的核心理念，聚焦自省与外部力量的哲学差异，寻找内心的轻松与自在。"
 cover:
-    image: "/images/2025-07-03_075635_823.jpg" 
+    image: "/images/philosophical_reflections/2025-07-03_075635_823.jpg" 
     alt: "从道学、佛学到基督神学：自省与外部力量的哲学思考"
 ---
 

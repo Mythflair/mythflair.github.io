@@ -8,10 +8,10 @@ description: "The fate of machines, and my forty years"
 toc: false
 draft: false
 cover:
-  image: "/images/mycar/d820f4f685933c2918d9f2f21c827f6b.jpg"
+  image: "/images/the-fate-of-machines-and-my-forty-years/d820f4f685933c2918d9f2f21c827f6b.jpg"
   alt: "The fate of machines, and my forty years"
 ---
-![](/images/mycar/e45c06fd445ccb8a6389ba11a9e55f63.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/e45c06fd445ccb8a6389ba11a9e55f63.jpg)
 这几天，我常开着那台 CLS 300，穿过城市入夜前的傍晚。
 仪表盘上，“滑行”模式悄无声息地接管了动力——提前收油，顺势而行。
 
@@ -23,13 +23,13 @@ cover:
 ### 第一章：粗粝的序言
 【北京 212 & 达契亚皮卡】
 
-![](/images/mycar/48c7768818ab960e6b250e11e772ef6c.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/48c7768818ab960e6b250e11e772ef6c.jpg)
 
 那是没有“舒适”概念的年代。
 车会坏，人会挤，路会断。
 父亲开着 212 撞过墙，也曾开着那台达契亚在荒郊野岭修过焊死的轴承。
 
-![](/images/mycar/3dc06570361da9870638b188bc7109c9.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/3dc06570361da9870638b188bc7109c9.jpg)
 
 我记住的不是参数，而是那种原始的触感：
 机器的震动、铁皮的冷硬，以及生活本身那种沉甸甸的重量。
@@ -39,13 +39,13 @@ cover:
 ### 第二章：掌控的觉醒
 【桑塔纳 2000 & 高尔 Gol】
 
-![](/images/mycar/9c24b33b9e1d131499319cc2246e0841.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/9c24b33b9e1d131499319cc2246e0841.jpg)
 
 第一次长距离驾驭，是父亲的那台桑塔纳 2000。
 开了三十公里，换来的是父亲的一顿痛骂。
 但就在那顿骂声中，我第一次清晰地感觉到，方向盘真的在我手里了。
 
-![](/images/mycar/f8544230c61f9fe22733f9b56e8fb8ec.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/f8544230c61f9fe22733f9b56e8fb8ec.jpg)
 
 后来，我买了人生第一台真正属于自己的车——两门版 Gol。
 它配置极低，甚至简陋，却有着极强的机械沟通感。
@@ -55,13 +55,13 @@ cover:
 ### 第三章：秩序的介入
 【宝马 X1 & 帕萨特】
 
-![](/images/mycar/ed20af84427c65a584ae8bfcd7c66f83.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/ed20af84427c65a584ae8bfcd7c66f83.jpg)
 
 原装进口的 E84 世代宝马 X1，是一台极其“对”的车。
 机械液压助力、四缸自吸、厚重得近乎偏执。
 高速巡航时，它给你的不是虚浮的速度，而是那种脚踏实地的确定性。
 
-![](/images/mycar/2026-03-31_192056_356.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/2026-03-31_192056_356.jpg)
 
 后来的帕萨特，则代表了另一种逻辑：
 它几乎没有个性，却也几乎从不出错。
@@ -71,7 +71,7 @@ cover:
 ### 第四章：最后的浪漫
 【奔驰 CLS 300】
 
-![](/images/mycar/f54c36afc6783f4a88a6c8a75d41f518.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/f54c36afc6783f4a88a6c8a75d41f518.jpg)
 
 2026 年，我选择了 CLS 300。
 在电车喧嚣、大屏泛滥的算法时代，这几乎是一个反逻辑的异类。
@@ -85,7 +85,7 @@ cover:
 S 模式偶尔开启，是为了确认内心仍有未熄的波澜；
 E 模式长期陪伴，是因为学会了与这个世界温和地对谈。
 
-![](/images/mycar/e45c06fd445ccb8a6389ba11a9e55f63.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/e45c06fd445ccb8a6389ba11a9e55f63.jpg)
 
 ### 写在最后：机械与人
 有人说，这是德系情缘。
@@ -102,7 +102,7 @@ E 模式长期陪伴，是因为学会了与这个世界温和地对谈。
 
 从机械到人，不是单向控制，而是深层和解。
 
-![](/images/mycar/d820f4f685933c2918d9f2f21c827f6b.jpg)
+![](/images/the-fate-of-machines-and-my-forty-years/d820f4f685933c2918d9f2f21c827f6b.jpg)
 
 年轻时，我们试图用机械去征服世界；
 中年后，我们通过机械，重新找回自己。

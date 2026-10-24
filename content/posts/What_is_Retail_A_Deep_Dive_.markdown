@@ -7,7 +7,7 @@ draft: false
 
 description: 深入探讨零售的定义、核心组成部分及其超越交易的本质，强调消费者洞察的关键作用，并融入电子商务视角与少量新兴趋势。
 cover:
-  image: '/images/37711.320125.jpg'
+  image: '/images/what_is_retail_a_deep_dive_/37711.320125.jpg'
   alt: '零售是什么？深度解析其本质与核心要素'
 ---
 

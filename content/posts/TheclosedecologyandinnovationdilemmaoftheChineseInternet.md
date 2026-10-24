@@ -7,7 +7,7 @@ draft: false
 
 description: 探讨中文互联网的封闭生态如何导致内容质量下降、技术创新受限，以及对开放式发展的深远影响。
 cover:
-  image: '/images/chinaInternet.png'
+  image: '/images/theclosedecologyandinnovationdilemmaofthechineseinternet/chinaInternet.png'
   alt: '文互联网的封闭生态与创新困境'
 ---
 

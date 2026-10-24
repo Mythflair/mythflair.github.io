@@ -9,7 +9,7 @@ description: 深入解析宽广集团如何通过五维评估模型优化商品�
 slug: kuanguang-bi-report
 author: SHENNAN 沈楠
 cover:
-    image: '/images/kuanguang-bi-report.jpg'
+    image: '/images/kuanguang-bi-report/kuanguang-bi-report.jpg'
     alt: '零售是什么？深度解析其本质与核心要素'
 ---
 

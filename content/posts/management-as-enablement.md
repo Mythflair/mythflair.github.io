@@ -8,7 +8,7 @@ draft: false
 description: "好的管理，是让事情更容易发生"
 
 cover:
-    image: "/images/ScreenShot_2026-08-27_115919_089.jpg"
+    image: "/images/management-as-enablement/ScreenShot_2026-08-27_115919_089.jpg"
     alt: "商业的本质，终究是价值交换，而不是籍贯交换"
 ---
 
@@ -16,7 +16,7 @@ cover:
 
 有一天走路回家，手里正好拎着几公斤东西。路还是那条路，东西也必须带回去。既然如此，我索性把它当成一次负重训练：走路本身是有氧，手里的重量又可以顺便做一些简单的力量练习。
 
-![](/images/ScreenShot_2026-08-27_115640_604.jpg)
+![](/images/management-as-enablement/ScreenShot_2026-08-27_115640_604.jpg)
 
 后来发现，这种思路很有意思。
 
@@ -42,7 +42,7 @@ cover:
 
 因为一个组织真正强大的地方，从来不只是每个人都完成了规定动作，而是总有人愿意主动向前多走一步。
 
-![](/images/ScreenShot_2026-08-27_115735_923.jpg)
+![](/images/management-as-enablement/ScreenShot_2026-08-27_115735_923.jpg)
 
 ## 二、管理，是降低实现目标过程中的阻碍和羁绊
 
@@ -62,7 +62,7 @@ cover:
 
 **管理不是给奔跑的人增加更多路障，而是帮助他把路修得更平。**
 
-![](/images/ScreenShot_2026-08-27_115806_627.jpg)
+![](/images/management-as-enablement/ScreenShot_2026-08-27_115806_627.jpg)
 
 ## 三、管理，是赋能员工更高效地做事
 
@@ -82,7 +82,7 @@ cover:
 
 目标越清楚，授权越充分，工具越有效，信息越透明，组织中的人才就越有可能发挥真正的价值。
 
-![](/images/ScreenShot_2026-08-27_115845_622.jpg)
+![](/images/management-as-enablement/ScreenShot_2026-08-27_115845_622.jpg)
 
 ## 四、管理还要保护那些“无法考核”的东西
 
@@ -104,7 +104,7 @@ cover:
 
 管理不仅要计算显性成本，也应该理解人的心理成本和组织的机会成本。
 
-![](/images/ScreenShot_2026-08-27_115919_089.jpg)
+![](/images/management-as-enablement/ScreenShot_2026-08-27_115919_089.jpg)
 
 ## 五、好的管理，是让组织形成正向循环
 

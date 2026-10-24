@@ -9,7 +9,7 @@ slug: "why-cars-make-rhythmic-noise-near-railings"
 description: "开车经过护栏时，为什么会听到有节奏的“呼呼声”？从一次日常疑问出发，了解声音反射与散射背后的物理趣味。"
 
 cover:
-    image: "/images/ScreenShot_2026-09-28_155831_022.jpg"
+    image: "/images/why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155831_022.jpg"
     alt: "了解声音反射与散射背后的物理趣味"
 ---
 
@@ -19,7 +19,7 @@ cover:
 
 于是，我把这个问题拿去问了AI，还提供了路边护栏的照片：这种声音是什么原理，又是怎么产生的？
 
-[](/images/ScreenShot_2026-09-28_155624_685.jpg)
+[](/images/why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155624_685.jpg)
 
 ## 护栏，可能给噪声加上了节拍
 
@@ -45,7 +45,7 @@ cover:
 
 所以，这次交流让我找到了一种解释，还不能算完成了实测求证。
 
-[](/images/ScreenShot_2026-09-28_155714_941.jpg)
+[](/images/why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155714_941.jpg)
 
 ## 为什么车速越快，节奏可能越密？
 
@@ -63,7 +63,7 @@ cover:
 
 在这个假设下，车速越快，经过立柱越频繁，听到的节拍也就越密。
 
-[](/images/ScreenShot_2026-09-28_155831_022.jpg)
+[](/images/why-cars-make-rhythmic-noise-near-railings/ScreenShot_2026-09-28_155831_022.jpg)
 
 ## 多问一句“为什么”
 

@@ -8,7 +8,7 @@ draft: false
 author: "沈楠"
 description: "探讨加尔定律在零售企业系统建设中的实际应用，分享从简单系统演化到复杂生态的实践经验"
 cover:
-    image: "/images/9ea3d6a9cb45ff5c6a8a602bb846ec9.jpg" 
+    image: "/images/galls_law_retail_blog/9ea3d6a9cb45ff5c6a8a602bb846ec9.jpg" 
     alt: "零售企业数字化转型中的加尔定律实践"
 ---
 

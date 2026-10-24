@@ -14,7 +14,7 @@ homePinned: false
 homeWeight: 2
 
 cover:
-    image: "/images/chengde-rainy-city-panorama.webp"
+    image: "/images/chengde-half-a-lifetime-in-one-glance/chengde-rainy-city-panorama.webp"
     alt: "阴雨天色下的城市全景，街上的车灯与楼宇窗口透出暖光"
 ---
 

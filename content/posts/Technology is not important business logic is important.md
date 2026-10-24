@@ -7,7 +7,7 @@ description: "当业务与技术边界逐渐消失，真正的竞争力，来自
 
 draft: false
 cover:
-  image: "/images/2025-10-22_125530_207.jpg"
+  image: "/images/technology-is-not-important-business-logic-is-important/2025-10-22_125530_207.jpg"
   alt: "零售哲学"
 ---
 

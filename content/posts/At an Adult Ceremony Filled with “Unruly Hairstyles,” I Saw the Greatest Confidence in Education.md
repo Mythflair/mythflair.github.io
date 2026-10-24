@@ -8,7 +8,7 @@ description: "At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw th
 toc: false
 draft: false
 cover:
-  image: "/images/2026-05-11_173245_279.jpg"
+  image: "/images/at-an-adult-ceremony-filled-with-unruly-hairstyles-i-saw-the-greatest-confidence-in-education/2026-05-11_173245_279.jpg"
   alt: "At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw the Greatest Confidence in Education"
 ---
 

@@ -7,7 +7,7 @@ draft: false
 
 description: "苹果为何从 iOS 18 直接跳到 iOS 26，跳过了 19、20、21 等版本号？本文深入探讨苹果版本号命名的变化原因与背后的逻辑。"
 cover:
-    image: "/images/ios19-to-ios26-apple-strategy-reveal.jpg" 
+    image: "/images/ios_version_jump/ios19-to-ios26-apple-strategy-reveal.jpg" 
     alt: "从 iOS 18 到 iOS 26：苹果为何跳过版本号？"
 ---
 

@@ -7,11 +7,11 @@ draft: false
 
 description: "分析宽广超市世纪城店的选址优势、体验式购物模式及多元化业态，探讨其在承德零售市场的潜力与挑战。" 
 cover:
-  image: "/images/20250729174757.png"
+  image: "/images/kuanguang_supermarket_analysis/20250729174757.png"
   alt: "宽广超市世纪城店"
 ---
 
-![宽广超市世纪城店](/images/20250729174904.png)
+![宽广超市世纪城店](/images/kuanguang_supermarket_analysis/20250729174904.png)
 
 # 承德零售新风向：宽广超市世纪城店的商业潜力观察 🏬
 

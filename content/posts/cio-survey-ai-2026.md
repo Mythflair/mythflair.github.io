@@ -10,7 +10,7 @@ summary: "AI百花齐放，企业需要考虑的，是能力、成本与业务�
 wechatPublished: true
 
 cover: 
-    image: "/images/cio-survey-ai-2026.webp"
+    image: "/images/cio-survey-ai-2026/cio-survey-ai-2026.webp"
     alt: "AI进入企业的现实"
 ---
 

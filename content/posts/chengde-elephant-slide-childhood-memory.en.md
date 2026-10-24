@@ -8,7 +8,7 @@ slug: "chengde-elephant-slide-childhood-memory"
 description: "Old photographs, memories and AI help piece together a vanished elephant slide in Chengde’s Mountain Resort, and the childhoods of several generations."
 
 cover:
-    image: "/images/ScreenShot_2026-09-29_163241_526.webp"
+    image: "/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163241_526.webp"
     alt: "The elephant slide in Chengde’s Mountain Resort"
 summary: "A playground once stood inside the Mountain Resort. Recreating its elephant slide brought back memories shared by generations of Chengde residents."
 lastmod: 2026-10-19T12:00:00+08:00
@@ -48,7 +48,7 @@ Ask people of my generation what they remember most about that playground, and I
 
 **The moon rocket, and that elephant slide.**
 
-![The elephant slide in the children’s playground](/images/ScreenShot_2026-09-29_163501_120.jpg)
+![The elephant slide in the children’s playground](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163501_120.jpg)
 
 The zoo’s animals could keep us talking for ages too. Which animals had been there? Where were their cages? Which ones frightened us most? Perhaps we could slowly piece it all together in the comments.
 
@@ -60,7 +60,7 @@ Children in Shuangqiao District did not have an endless choice of destinations f
 
 Adults entered to see historic sites. For children, it was an entirely different world.
 
-![The playground on a school outing](/images/ScreenShot_2026-09-29_163522_004.jpg)
+![The playground on a school outing](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163522_004.jpg)
 
 Where could we run? Where were the animals and slides? Where could we buy snacks? Those were the things that mattered.
 
@@ -70,7 +70,7 @@ Looking back, that may have been the first time I understood that old buildings 
 
 ## Later, the playground gradually disappeared
 
-![The Mountain Resort became a World Heritage Site](/images/ScreenShot_2026-09-29_163545_678.jpg)
+![The Mountain Resort became a World Heritage Site](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163545_678.jpg)
 
 In 1994, Chengde’s Mountain Resort and its Outlying Temples were inscribed on the World Heritage List.
 
@@ -88,7 +88,7 @@ That elephant slide was one of them.
 
 Over several evenings, I began searching online.
 
-![Looking for old photographs and records](/images/ScreenShot_2026-09-29_163606_690.jpg)
+![Looking for old photographs and records](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163606_690.jpg)
 
 I looked for old photographs, went through saved images and tried hard to remember how it had looked.
 
@@ -96,7 +96,7 @@ There was not much material. Many details had to be pieced together from memory.
 
 So I tried reconstructing the scene with AI: first the elephant slide, then its surroundings, bit by bit.
 
-![An AI reconstruction of the elephant slide and its surroundings](/images/ScreenShot_2026-09-29_163628_143.jpg)
+![An AI reconstruction of the elephant slide and its surroundings](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163628_143.jpg)
 
 In the distance was what was then the youth palace, in the palace area of the Mountain Resort.
 
@@ -108,7 +108,7 @@ Closer to the viewer stood the elephant slide, its surface worn and mottled by c
 
 To make it the focus, I placed the slide in the foreground. The proportions and location may not exactly match the original. What I wanted was for someone to recognize it immediately:
 
-![The elephant slide as we remember it](/images/ScreenShot_2026-09-29_163652_259.jpg)
+![The elephant slide as we remember it](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163652_259.jpg)
 
 **“Yes. That’s it.”**
 
@@ -124,7 +124,7 @@ The finished clip lasted only a little over ten seconds. Finding references, rec
 
 I posted it on WeChat Channels.
 
-![Adjusting the video in Final Cut Pro](/images/ScreenShot_2026-09-29_163720_668.jpg)
+![Adjusting the video in Final Cut Pro](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163720_668.jpg)
 
 I had only intended to record a personal memory. I had not expected the views to rise so quickly.
 
@@ -134,7 +134,7 @@ What moved me most was the comments.
 
 Someone had played there as a child. Someone remembered the moon rocket. Others recalled the zoo, or school outings to that very spot.
 
-![People of different ages remembering childhood through a screen](/images/ScreenShot_2026-09-29_163740_342.jpg)
+![People of different ages remembering childhood through a screen](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163740_342.jpg)
 
 An eighty-year-old viewer left a long recollection too. His childhood belonged to another era, yet he spoke of the same familiar things: school, teachers, outings, a few coins, a few bags of snacks.
 
@@ -146,7 +146,7 @@ Yet when the elephant slide reappeared on a screen, decades seemed to compress i
 
 For a moment, we were children again.
 
-![Memories returning across the years](/images/ScreenShot_2026-09-29_163802_321.jpg)
+![Memories returning across the years](/images/chengde-elephant-slide-childhood-memory/ScreenShot_2026-09-29_163802_321.jpg)
 
 ## Perhaps this is another interesting use for AI
 

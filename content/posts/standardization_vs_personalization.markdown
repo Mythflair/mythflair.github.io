@@ -7,7 +7,7 @@ draft: false
 
 description: "探讨信息化项目中标准化与个性化的矛盾，结合运营商与零售集团的经验，提出'打磨'的解决之道。"
 cover:
-    image: "/images/image2_1be5d0b673.jpg" 
+    image: "/images/standardization_vs_personalization/image2_1be5d0b673.jpg" 
     alt: "息化项目中的标准化与个性化悖论：从运营商到零售集团的思考"
 ---
 

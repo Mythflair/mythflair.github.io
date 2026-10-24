@@ -7,7 +7,7 @@ draft: false
 
 description: "从IT视角解读中国传统闭目养神，探讨其与现代科学的契合，以及如何通过这一智慧改善睡眠与生活。"
 cover:
-    image: "/images/bimuyangshen.jpg" 
+    image: "/images/closing-eyes-to-rest/bimuyangshen.jpg" 
     alt: "闭目养神：从IT视角看中国传统智慧"
 ---
 

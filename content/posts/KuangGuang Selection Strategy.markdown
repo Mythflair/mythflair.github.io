@@ -6,7 +6,7 @@ date: 2025-08-11T10:00:00+08:00
 description: "宽广超市推出的‘KuangGuang Select’系列，不仅帮顾客在纷繁复杂的商品中快速做决定，还为企业带来品牌延伸与利润优化，堪称零售双赢战略。🎯"
 
 cover:
-  image: "/images/2025-08-11_103952_835.jpg"
+  image: "/images/kuangguang-selection-strategy/2025-08-11_103952_835.jpg"
   alt: "宽广优选"
 ---
 

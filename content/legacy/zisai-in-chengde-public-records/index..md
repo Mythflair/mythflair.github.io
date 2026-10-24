@@ -26,7 +26,7 @@ ShowPostNavLinks: false
 showToc: false
 ShowBreadCrumbs: true
 cover:
-  image: "/images/history/Chengde-GOV.webp"
+  image: "/images/zisai-in-chengde-public-records/Chengde-GOV.webp"
   alt: "德市人民政府网站棘突"
 ---
 

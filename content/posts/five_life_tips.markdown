@@ -7,7 +7,7 @@ draft: false
 
 description: "分享五条简单却深刻的生活建议，帮助你放下包袱，活在当下，拥抱更好的自己！"
 cover:  
-    image: "/images/20250715140036.png"
+    image: "/images/five_life_tips/20250715140036.png"
     alt: "五条让你活得更轻松的生活建议 "
 ---
 

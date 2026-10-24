@@ -8,7 +8,7 @@ description: "文章旨在还原故障，牵牛花是优秀的中间件系统，
 toc: false
 draft: false
 cover:
-  image: "/images/2026-02-09_231258_430.jpg"
+  image: "/images/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/2026-02-09_231258_430.jpg"
   alt: "MSSQL"
 ---
 

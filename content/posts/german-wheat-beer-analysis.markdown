@@ -7,7 +7,7 @@ draft: false
 
 description: "评宽广优选德式小麦白啤酒：9.9元/1000ml，纯麦芽清爽，夏季畅饮佳选，但风味稍淡，6瓶醉感顶10瓶拉格 🍺"
 cover:
-  image: "/images/20250725122324.png"
+  image: "/images/german-wheat-beer-analysis/20250725122324.png"
   alt: "宽广优选自有品牌德式小麦白啤酒"
 ---
 

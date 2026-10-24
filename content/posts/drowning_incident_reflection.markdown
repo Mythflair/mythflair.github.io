@@ -6,7 +6,7 @@ date: 2025-07-07T09:08:08+08:00
 
 draft: false
 cover:
-    image: "/images/2025-07-07_142948_805.jpg"
+    image: "/images/drowning_incident_reflection/2025-07-07_142948_805.jpg"
     alt: "泳池救援记录：幼儿溺水的惊险瞬间与深刻反思"
 ---
 

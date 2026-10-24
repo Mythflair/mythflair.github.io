@@ -7,7 +7,7 @@ draft: false
 
 description: "分析宽广集团与河北供销集团合作开发隆盛广场的战略意义"
 cover:
-    image: "/images/1f48733f8f4e76de4cbeb1e91d1501b.jpg"
+    image: "/images/guangkuan-hebei-partnership/1f48733f8f4e76de4cbeb1e91d1501b.jpg"
     alt: "签约现场"
 ---
 

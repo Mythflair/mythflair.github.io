@@ -7,7 +7,7 @@ date: 2025-09-11T17:43:00+09:00
 draft: false
 
 cover:
-    image: "/images/2025-09-11_184024_923.jpg"
+    image: "/images/iphone13-releases/2025-09-11_184024_923.jpg"
     alt: "IPhone17"
 ---
 
@@ -29,8 +29,8 @@ IPhone17发布了，由于我还在用IPhone13，所以关注了一下，总结�
 
 ➡️ 整体接近 16 Pro，轻一点，芯片更强，价格不变，算是久违的“真香标准版”。
 
-![](/images/2025-09-11_184009_451.jpg)
-![](/images/2025-09-11_183939_864.jpg)
+![](/images/iphone13-releases/2025-09-11_184009_451.jpg)
+![](/images/iphone13-releases/2025-09-11_183939_864.jpg)
 
 🌬️ iPhone Air 特点 & 牺牲
 
@@ -50,8 +50,8 @@ IPhone17发布了，由于我还在用IPhone13，所以关注了一下，总结�
 
 卡槽：仅支持 eSIM。
 
-![](/images/2025-09-11_184024_923.jpg)
-![](/images/2025-09-11_184037_520.jpg)
+![](/images/iphone13-releases/2025-09-11_184024_923.jpg)
+![](/images/iphone13-releases/2025-09-11_184037_520.jpg)
 
 
 总结下来：

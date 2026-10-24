@@ -7,7 +7,7 @@ draft: false
 
 description: "在赴蓉参加零售会议的高铁途中，深入思考宽广集团的经营之道，总结其稳健发展的五个关键维度，分享对零售行业与企业管理的洞见。"
 cover:
-    image: "/images/2025-07-03_011304_137.jpg" 
+    image: "/images/kunguang-group-insights/2025-07-03_011304_137.jpg" 
     alt: "观宽广集团经营之道：高铁途中的思考"
 ---
 

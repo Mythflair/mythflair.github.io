@@ -10,7 +10,7 @@ title: "老房子小酒館——馬市街に隠れた、承徳の味"
 description: "承徳の火神廟近く、馬市街で20年以上続く老房子小酒館。伝統のとろみ料理や家庭の味、気さくな店主が、友人たちと集う時間を支えてきました。"
 summary: "承徳の旧市街にある小さな食堂。20年以上続く日常のにぎわいと、なじみの味、そして人と人との温かな距離感があります。"
 cover:
-  image: "/images/laofangzi.webp"
+  image: "/images/chengde-laofangzi-tavern/laofangzi.webp"
   alt: "承徳の老房子小酒館"
   relative: false
 ---

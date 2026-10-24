@@ -8,7 +8,7 @@ description: "How to Avoid Falling Into the “Self-Justification Trap”"
 toc: false
 draft: false
 cover:
-  image: "/images/b44c5c1b57bae229adf31f810ef53f19.jpg"
+  image: "/images/how-to-avoid-falling-into-the-self-justification-trap/b44c5c1b57bae229adf31f810ef53f19.jpg"
   alt: "How to Avoid Falling Into the “Self-Justification Trap"
 ---
 

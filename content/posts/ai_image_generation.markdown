@@ -7,7 +7,7 @@ date: 2025-09-06T17:43:00+09:00
 draft: false
 
 cover:
-    image: "/images/b02ffafdfd10e673c6eaa839beabb3b0.jpg"
+    image: "/images/ai_image_generation/b02ffafdfd10e673c6eaa839beabb3b0.jpg"
     alt: "漫画草图"
 ---
 
@@ -17,23 +17,23 @@ cover:
 
 漫画草图线条简单，只提供轮廓和关键特征，给AI更多创作空间。🎨 AI能自由填充颜色和细节，生成结果更自然。相比之下，照片细节丰富，光影、纹理复杂，AI稍有偏差就显得不真实，容易触发“诡谷效应”。😕
 
-![漫画草图](/images/shennan.jpg)
-![AI漫画生成](/images/Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg)
+![漫画草图](/images/ai_image_generation/shennan.jpg)
+![AI漫画生成](/images/shared/Gemini_Generated_Image_1d5jp91d5jp91d5j.jpg)
 
 ## 人类视觉的差异 👀
 
 人类对照片相似度要求极高，尤其是人脸或场景细节，任何瑕疵都明显。🧑‍🦰 而漫画风格抽象，关注整体效果，容错率高，生成结果更容易被接受。而生成全漫画风格的图像，反而更容易接受，因为只要相似度高即可。🌟
 
-![照片](/images/2025-09-06_173647_566.jpg)
-![AI相片生成](/images/28a7945cccbf9fe293a65d94f4faab6e.jpg)
-![AI相片生成](/images/b02ffafdfd10e673c6eaa839beabb3b0.jpg)
+![照片](/images/ai_image_generation/2025-09-06_173647_566.jpg)
+![AI相片生成](/images/ai_image_generation/28a7945cccbf9fe293a65d94f4faab6e.jpg)
+![AI相片生成](/images/ai_image_generation/b02ffafdfd10e673c6eaa839beabb3b0.jpg)
 
 ## 应用场景 🚀
 
 从草图生成图像在游戏开发、服装设计和概念艺术中很常见。🎮👗 草图让AI自由发挥，快速生成多样化效果，效率更高！🌈
 
-![照片](/images/2025-09-06_173955_513.jpg)
-![AI相片生成](/images/2025-09-06_174718_594.jpg)
+![照片](/images/ai_image_generation/2025-09-06_173955_513.jpg)
+![AI相片生成](/images/ai_image_generation/2025-09-06_174718_594.jpg)
 
 ## 结论 🌟
 
@@ -43,7 +43,7 @@ cover:
 
 “人死不是结束，忘记才是”，皮克斯动画电影《寻梦环游记》所传达的“三次死亡”概念，意指人有生物学死亡、社会性死亡以及被世界彻底遗忘的第三种死亡。真正的消亡，是当最后一个记得你的人也离世，人便从世间痕迹中消失了。
 
-![照片](/images/shenguohui.jpg)
-![AI相片生成](/images/Gemini_Generated_Image_dbn78pdbn78pdbn7.jpg)
+![照片](/images/ai_image_generation/shenguohui.jpg)
+![AI相片生成](/images/ai_image_generation/Gemini_Generated_Image_dbn78pdbn78pdbn7.jpg)
 
 今天是中元节，愿我们深爱，却已不在人世间的亲人、朋友，在另一个世界幸福、快乐，我们相互牵挂，相互祝福，有缘来生还能再相遇。

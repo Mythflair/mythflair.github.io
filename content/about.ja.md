@@ -7,7 +7,7 @@ title: "沈楠について"
 description: "紫塞網の創設者、沈楠のプロフィール。承徳寛広控股集団の取締役・副社長・CIO。桜美林大学大学院で情報学修士号を取得し、通信・インターネット・小売業のデジタル化に携わっています。"
 slug: "about"
 cover:
-  image: "/images/ShenNan-Cartoon.webp"
+  image: "/images/site/ShenNan-Cartoon.webp"
   alt: "沈楠 — 紫塞 ZISAI"
 
 ShowToc: true

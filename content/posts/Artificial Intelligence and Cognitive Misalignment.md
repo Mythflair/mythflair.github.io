@@ -8,7 +8,7 @@ description: "Artificial Intelligence and Cognitive Misalignment"
 toc: false
 draft: false
 cover:
-  image: "/images/cms_1732758992_YSYnBVdq1g.png"
+  image: "/images/artificial-intelligence-and-cognitive-misalignment/cms_1732758992_YSYnBVdq1g.png"
   alt: "Artificial Intelligence and Cognitive Misalignment"
 ---
 

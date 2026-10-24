@@ -7,7 +7,7 @@ date: 2025-07-31T20:03:00+09:00
 draft: false
 
 cover:
-  image: "/images/2025-07-31_204307_140.jpg"
+  image: "/images/dried-apricot-price-dispute/2025-07-31_204307_140.jpg"
   alt: "吊干杏"
 ---
 

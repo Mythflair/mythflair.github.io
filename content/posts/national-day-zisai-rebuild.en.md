@@ -8,7 +8,7 @@ draft: false
 
 summary: "During the National Day holiday, I rebuilt ZISAI once again. Work carries responsibility; this website runs on personal curiosity. Technology, design and small details became part of something I wanted to make well."
 cover:
-  image: "/images/zisai-national-day-q82.webp"
+  image: "/images/national-day-zisai-rebuild/zisai-national-day-q82.webp"
   alt: "Rebuilding ZISAI during the 2026 National Day holiday"
   relative: false
 ---

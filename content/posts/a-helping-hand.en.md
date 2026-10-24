@@ -9,7 +9,7 @@ summary: "She was finding her way along today’s streets, one tentative step at
 
 showToc: false
 cover: 
-    image: "/images/AHelpingHand.webp"
+    image: "/images/a-helping-hand/AHelpingHand.webp"
     alt: "An elderly woman following a tactile path in the morning; AI-generated illustration, not a photograph of the event"
 slug: "a-helping-hand"
 lastmod: 2026-10-19T12:00:00+08:00
@@ -43,7 +43,7 @@ I paused. In my memory, that traffic booth belonged to my primary school days.
 
 “Thank you. May you prosper and live a long life. May you live to a hundred.”
 
-![An elderly woman slowly following a tactile path in the morning](/images/AHelpingHand.webp)
+![An elderly woman slowly following a tactile path in the morning](/images/a-helping-hand/AHelpingHand.webp)
 
 *AI-generated illustration, not a photograph of the event.*
 

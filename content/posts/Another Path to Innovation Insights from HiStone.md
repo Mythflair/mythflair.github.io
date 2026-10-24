@@ -7,7 +7,7 @@ description: "当我们谈论“创新”时，人们往往想到的是“颠覆
 
 draft: false
 cover:
-  image: "/images/20251110105510_23_945.jpg"
+  image: "/images/another-path-to-innovation-insights-from-histone/20251110105510_23_945.jpg"
   alt: "从海石看创新的另一种路径"
 ---
 
@@ -16,7 +16,7 @@ cover:
 
 真正的创新不是天马行空的幻想，而是从用户的真实需求出发，发现改进空间，在细微之处持续优化，最终形成新的价值。
 
-![](/images/20251110105439_13_945.jpg)
+![](/images/another-path-to-innovation-insights-from-histone/20251110105439_13_945.jpg)
 
 ## 一、从“制造”到“智造”的转身
 
@@ -25,7 +25,7 @@ cover:
 
 海信以悠久的发展历史，带来了深厚的制造基因与品质管理经验，石基则拥有领先的零售数字化与软件系统能力。两者结合，使海石形成了“软硬件协同、系统与终端互为支撑”的新格局。
 
-![](/images/20251110105437_12_945.jpg)
+![](/images/another-path-to-innovation-insights-from-histone/20251110105437_12_945.jpg)
 
 ## 二、从“产品创新”到“系统创新”
 
@@ -48,7 +48,7 @@ cover:
 
 这种创新不是“惊艳”的，而是“可靠”的；不是“颠覆”的，而是“持久”的。
 
-![](/images/20251110105441_14_945.jpg)
+![](/images/another-path-to-innovation-insights-from-histone/20251110105441_14_945.jpg)
 
 正因如此，海石的设备在国内外市场均赢得良好口碑，获得了包括
 红点设计奖
@@ -57,7 +57,7 @@ cover:
 设备智能、数据互通、服务一体化
 的价值闭环。这正是中国制造迈向中国智造的一个生动缩影。
 
-![](/images/20251110105434_10_945.jpg)
+![](/images/another-path-to-innovation-insights-from-histone/20251110105434_10_945.jpg)
 
 ## 三、创新的另一种路径
 
@@ -68,4 +68,4 @@ cover:
 这种创新，也许不会成为一时的热点，却能成为行业的基石。
 这，正是创新的另一种路径。
 
-![](/images/20251110105428_7_945.jpg)
+![](/images/another-path-to-innovation-insights-from-histone/20251110105428_7_945.jpg)

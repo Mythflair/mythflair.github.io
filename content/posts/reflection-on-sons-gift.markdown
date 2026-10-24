@@ -7,7 +7,7 @@ draft: false
 
 description: "分享儿子高三同学赠送书法‘身健在，且加餐’的感悟，探讨其背后的关怀与勉励，引申诗意，感受少年情谊的力量。"
 cover:
-    image: "/images/20250722160202.png"
+    image: "/images/reflection-on-sons-gift/20250722160202.png"
     alt: "身健在，且加餐。感悟儿子同学的礼物"
 ---
 

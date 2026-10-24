@@ -10,7 +10,7 @@ title: "Laofangzi Tavern: A Taste of Chengde Tucked Away on Mashi Street"
 description: "Near Huoshenmiao in central Chengde, Laofangzi Tavern has served homestyle food for more than twenty years. Traditional dishes and an easygoing owner have made it a familiar place to gather with friends."
 summary: "A small restaurant in Chengde’s old town, with more than twenty years of everyday warmth, familiar flavors and a welcoming owner."
 cover:
-  image: "/images/laofangzi.webp"
+  image: "/images/chengde-laofangzi-tavern/laofangzi.webp"
   alt: "Laofangzi Tavern in Chengde"
   relative: false
 ---

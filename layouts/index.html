@@ -43,7 +43,7 @@
 {{- end -}}
 
 <section class="zisai-home zisai-home--v2">
-  {{- $heroImage := site.Params.zisai.heroImage | default "/images/zisai/hero-chengde.webp" -}}
+  {{- $heroImage := site.Params.zisai.heroImage | default "/images/site/hero-chengde.jpg" -}}
   <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage | relURL }}')">
     <div class="zisai-hero__veil"></div>
     <div class="zisai-hero__content">
@@ -67,19 +67,19 @@
           {{- if eq $img "" -}}
             {{- $tags := $p.Params.tags | default (slice) -}}
             {{- if in $tags "承德" -}}
-              {{- $img = "/images/zisai/card-resort.webp" -}}
+              {{- $img = "/images/site/card-resort.webp" -}}
             {{- else if in $tags "山河" -}}
-              {{- $img = "/images/zisai/card-mountain.webp" -}}
+              {{- $img = "/images/site/card-mountain.webp" -}}
             {{- else if in $tags "文化" -}}
-              {{- $img = "/images/zisai/card-temple.webp" -}}
+              {{- $img = "/images/site/card-temple.webp" -}}
             {{- else if in $tags "旅行" -}}
-              {{- $img = "/images/zisai/card-greatwall.webp" -}}
+              {{- $img = "/images/site/card-greatwall.webp" -}}
             {{- else if in $tags "热河" -}}
-              {{- $img = "/images/zisai/card-rehe.webp" -}}
+              {{- $img = "/images/site/card-rehe.webp" -}}
             {{- else if in $tags "二仙居" -}}
-              {{- $img = "/images/zisai/card-erxianju.webp" -}}
+              {{- $img = "/images/site/card-erxianju.webp" -}}
             {{- else -}}
-              {{- $fallback := slice "/images/zisai/card-resort.webp" "/images/zisai/card-mountain.webp" "/images/zisai/card-temple.webp" "/images/zisai/card-greatwall.webp" -}}
+              {{- $fallback := slice "/images/site/card-resort.webp" "/images/site/card-mountain.webp" "/images/site/card-temple.webp" "/images/site/card-greatwall.webp" -}}
               {{- $img = index $fallback (mod $i 4) -}}
             {{- end -}}
           {{- end -}}
@@ -123,19 +123,19 @@
           {{- if eq $img "" -}}
             {{- $tags := $p.Params.tags | default (slice) -}}
             {{- if in $tags "承德" -}}
-              {{- $img = "/images/zisai/card-resort.webp" -}}
+              {{- $img = "/images/site/card-resort.webp" -}}
             {{- else if in $tags "山河" -}}
-              {{- $img = "/images/zisai/card-mountain.webp" -}}
+              {{- $img = "/images/site/card-mountain.webp" -}}
             {{- else if in $tags "文化" -}}
-              {{- $img = "/images/zisai/card-temple.webp" -}}
+              {{- $img = "/images/site/card-temple.webp" -}}
             {{- else if in $tags "旅行" -}}
-              {{- $img = "/images/zisai/card-greatwall.webp" -}}
+              {{- $img = "/images/site/card-greatwall.webp" -}}
             {{- else if in $tags "热河" -}}
-              {{- $img = "/images/zisai/card-rehe.webp" -}}
+              {{- $img = "/images/site/card-rehe.webp" -}}
             {{- else if in $tags "二仙居" -}}
-              {{- $img = "/images/zisai/card-erxianju.webp" -}}
+              {{- $img = "/images/site/card-erxianju.webp" -}}
             {{- else -}}
-              {{- $fallback := slice "/images/zisai/card-resort.webp" "/images/zisai/card-mountain.webp" "/images/zisai/card-temple.webp" "/images/zisai/card-greatwall.webp" "/images/zisai/card-rehe.webp" "/images/zisai/card-erxianju.webp" -}}
+              {{- $fallback := slice "/images/site/card-resort.webp" "/images/site/card-mountain.webp" "/images/site/card-temple.webp" "/images/site/card-greatwall.webp" "/images/site/card-rehe.webp" "/images/site/card-erxianju.webp" -}}
               {{- $img = index $fallback (mod $i 6) -}}
             {{- end -}}
           {{- end -}}

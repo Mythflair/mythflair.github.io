@@ -7,7 +7,7 @@ description: "这几天，我把家里的 FTTR 网络、Wi-Fi 和各种设备的
 
 draft: false
 cover:
-  image: "/images/2025-11-27_172556_129.jpg"
+  image: "/images/upgradetoftto/2025-11-27_172556_129.jpg"
   alt: "折腾了几天 Wi-Fi终于跑满了千兆"
 ---
 
@@ -42,19 +42,19 @@ cover:
 
 - 台式机（AX210）（后微调了频率、功率等网卡细节设置）
 Speedtest：1100+ Mbps / 240+ Mbps
-![](/images/814eb007e2b034baa7763d180e20a507.jpg)
+![](/images/upgradetoftto/814eb007e2b034baa7763d180e20a507.jpg)
 
 - MacBook Pro M4 Max
 全球网测：1400+ Mbps
-![](/images/a225673c222a6ab331666fd98fde8ab0.jpg)
+![](/images/upgradetoftto/a225673c222a6ab331666fd98fde8ab0.jpg)
 
 - iPhone 13
 全球网测：700+ Mbps
-![](/images/963bff3c-d5cf-4617-a350-4bc8f834d4ab.jpg)
+![](/images/upgradetoftto/963bff3c-d5cf-4617-a350-4bc8f834d4ab.jpg)
 
 - 华为手机
 全球网测：1600+ Mbps
-![](/images/365c015877a1cf7881b530e9012120c0.jpg)
+![](/images/upgradetoftto/365c015877a1cf7881b530e9012120c0.jpg)
 
 这也说明了，不同设备的射频设计、天线数量、Wi-Fi 协议支持程度差异非常大——不是所有设备都能跑满 160MHz，也不是所有设备都能达到相同速度。
 

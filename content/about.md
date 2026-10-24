@@ -16,7 +16,7 @@ tags:
   - "CIO"
 
 cover:
-  image: "/images/ShenNan-Cartoon.webp"
+  image: "/images/site/ShenNan-Cartoon.webp"
   alt: "沈楠 - 紫塞网 zisai.com"
 
 ShowToc: true

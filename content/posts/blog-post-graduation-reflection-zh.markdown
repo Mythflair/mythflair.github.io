@@ -6,7 +6,7 @@ date: 2021-09-05T12:22:00+08:00
 draft: false
 
 cover:
-    image: "/images/obirin.jpg" 
+    image: "/images/blog-post-graduation-reflection-zh/obirin.jpg" 
     alt: "毕业之后，拥抱自由：一段人生的回望与展望"
 ---
 

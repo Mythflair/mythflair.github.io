@@ -6,7 +6,7 @@ draft = false
 title = '优化涉密案件证据数据分析方案'
 
 [cover] 
-    image = '/images/securt-1.jpg' 
+    image = '/images/confirmationandanalysisplanforhigh-contaminationprojects/securt-1.jpg' 
     alt = '优化涉密案件证据数据分析方案'
 +++
 ## 优化涉密案件证据数据分析方案

@@ -8,7 +8,7 @@ description: "传统超市的真正压力，不只是业绩下滑，而是服务
 toc: false
 draft: false
 cover:
-  image: "/images/ScreenShot_2026-05-20_180348_556.jpg"
+  image: "/images/retail-is-no-longer-choosing-products--its-choosing-customers/ScreenShot_2026-05-20_180348_556.jpg"
   alt: "传统超市的真正压力，不只是业绩下滑，而是服务所有人的商业模型正在失效。"
 ---
 

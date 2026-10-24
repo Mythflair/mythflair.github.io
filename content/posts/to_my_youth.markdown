@@ -6,7 +6,7 @@ date: 2025-05-19T23:54:00+08:00
 draft: false
 
 cover:
-    image: "/images/shennan20250519.png" 
+    image: "/images/to_my_youth/shennan20250519.png" 
     alt: "致青春，致那个夏天"
 ---
 

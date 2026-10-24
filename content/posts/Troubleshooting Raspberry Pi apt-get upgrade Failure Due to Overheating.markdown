@@ -7,7 +7,7 @@ description: "树莓派 Upgrade 失败，处理过程"
 draft: false
 
 cover:
-    image: "/images/01374b11639c7611dd1e20c72c7dd8f.jpg" 
+    image: "/images/troubleshooting-raspberry-pi-apt-get-upgrade-failure-due-to-overheating/01374b11639c7611dd1e20c72c7dd8f.jpg" 
     alt: "USB小风扇散热"
 ---
 

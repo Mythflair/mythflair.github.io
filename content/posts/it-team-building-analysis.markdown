@@ -7,7 +7,7 @@ draft: false
 
 description: "从技术与管理视角，探讨非IT公司IT团队的建设挑战、内外向型团队适配性及稳健发展策略。"
 cover:  
-    image: "/images/20250715113209.png"
+    image: "/images/it-team-building-analysis/20250715113209.png"
     alt: "非IT公司IT团队建设：技术与管理的融合之道"
 ---
 

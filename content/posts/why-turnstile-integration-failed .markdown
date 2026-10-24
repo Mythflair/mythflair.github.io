@@ -6,7 +6,7 @@ date: 2025-07-14T09:06:00+09:00
 draft: false
 
 cover:
-    image: "/images/2025-07-14_082604_033.jpg" 
+    image: "/images/why-turnstile-integration-failed-/2025-07-14_082604_033.jpg" 
     alt: "物流生鲜系统数据泄露风险分析与整改"
 ---
 
