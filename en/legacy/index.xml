@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ZISAI Internet Heritage on ZISAI</title>
+    <link>https://zisai.com/en/legacy/</link>
+    <description>Recent content in ZISAI Internet Heritage on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://zisai.com/en/legacy/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on 紫塞 ZISAI</title>
+    <link>https://zisai.com/ja/categories/</link>
+    <description>Recent content in Categories on 紫塞 ZISAI</description>
+    <image>
+      <title>紫塞 ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>暮らし</title>
+      <link>https://zisai.com/ja/categories/life/</link>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/categories/life/</guid>
+      <description>承徳から旅先まで、暮らし、旅行、家族、読書、仕事についての随筆。</description>
+    </item>
+    <item>
+      <title>承徳</title>
+      <link>https://zisai.com/ja/categories/chengde/</link>
+    <pubDate>Fri, 16 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/categories/chengde/</guid>
+      <description>承徳の街の情報、文化、食、商業、そして街の記憶。</description>
+    </item>
+    <item>
+      <title>技術</title>
+      <link>https://zisai.com/ja/categories/tech/</link>
+    <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/ja/categories/tech/</guid>
+      <description>IT、通信ネットワーク、ソフトウェア、ハードウェア、AI、小売DXの実践。</description>
+    </item>
+  </channel>
+</rss>

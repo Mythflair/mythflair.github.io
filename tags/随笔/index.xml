@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随笔 on 紫塞</title>
+    <link>https://zisai.com/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 20 Oct 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从一张图片的取舍，谈思维惯性与重构</title>
+      <link>https://zisai.com/posts/rethinking-an-image-and-inertia/</link>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/rethinking-an-image-and-inertia/</guid>
+      <description>优化紫塞网首页图片时，一个“为什么不去掉”的念头，让我重新审视习以为常的前提，以及持续改进与重新选择之间的关系。</description>
+    </item>
+    <item>
+      <title>四面钟静静地看着</title>
+      <link>https://zisai.com/posts/four-faced-clock/</link>
+    <pubDate>Mon, 19 Oct 2026 12:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/four-faced-clock/</guid>
+      <description>承德大桥桥头的四面钟，陪着我从自行车上的童年走到今天。一座报时的建筑，慢慢站进了一座城的记忆里。</description>
+    </item>
+    <item>
+      <title>一眼望去，半生光阴</title>
+      <link>https://zisai.com/posts/chengde-half-a-lifetime-in-one-glance/</link>
+    <pubDate>Sun, 18 Oct 2026 16:28:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/chengde-half-a-lifetime-in-one-glance/</guid>
+      <description>一场秋雨过后，再望向承德这座小城，学校、旧日工作的楼宇、家与医院，几乎串起了自己大半生的生活轨迹。</description>
+    </item>
+    <item>
+      <title>写在紫塞网第28年：技术会变，习惯会留下来</title>
+      <link>https://zisai.com/posts/national-day-zisai-rebuild/</link>
+    <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/national-day-zisai-rebuild/</guid>
+      <description>这个国庆，我重新折腾了一遍紫塞网。工作是责任，紫塞是自驱。技术、审美、细节，最后都成了一件作品的一部分。</description>
+    </item>
+    <item>
+      <title>父亲从江苏走来：留给我的精神故乡</title>
+      <link>https://zisai.com/posts/shenguohui/</link>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/shenguohui/</guid>
+      <description>这么多年，我一直没有勇气写父亲。不是因为忘记，而是因为那些记忆太过深刻，每一次触碰，都伴随着难以言说的疼痛。  </description>
+    </item>
+    <item>
+      <title>企业组织，如何面对技术代际革命？</title>
+      <link>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</link>
+    <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</guid>
+      <description>How Organizations Survive a Technological Generation Shift</description>
+    </item>
+    <item>
+      <title>在一场“发型不羁”的成人礼上，我看到了教育最高的自信——记儿子十八岁成人礼上的一些真实瞬间”</title>
+      <link>https://zisai.com/posts/at-an-adult-ceremony-filled-with-unruly-hairstyles-i-saw-the-greatest-confidence-in-education/</link>
+    <pubDate>Mon, 11 May 2026 09:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/at-an-adult-ceremony-filled-with-unruly-hairstyles-i-saw-the-greatest-confidence-in-education/</guid>
+      <description>At an Adult Ceremony Filled with “Unruly Hairstyles,” I Saw the Greatest Confidence in Education”</description>
+    </item>
+    <item>
+      <title>如何避免进入“自证陷阱”</title>
+      <link>https://zisai.com/posts/how-to-avoid-falling-into-the-self-justification-trap/</link>
+    <pubDate>Mon, 11 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/how-to-avoid-falling-into-the-self-justification-trap/</guid>
+      <description>How to Avoid Falling Into the “Self-Justification Trap”</description>
+    </item>
+    <item>
+      <title>从“模型崇拜”到“工程落地”：宽广集团基于IBM Granite 4.1构建零售AI中台的思考</title>
+      <link>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</link>
+    <pubDate>Sat, 02 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</guid>
+      <description>Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI</description>
+    </item>
+    <item>
+      <title>小龙虾（OpenClaw）在采购选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化</title>
+      <link>https://zisai.com/posts/openclaw-chooes/</link>
+    <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw-chooes/</guid>
+      <description>AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection</description>
+    </item>
+    <item>
+      <title>你以为你在加速，其实你在原地打转</title>
+      <link>https://zisai.com/posts/you-think-youre-fast--youre-actually-going-nowhere/</link>
+    <pubDate>Tue, 14 Apr 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/you-think-youre-fast--youre-actually-going-nowhere/</guid>
+      <description>You Think You’re Fast — You’re Actually Going Nowhere</description>
+    </item>
+    <item>
+      <title>机械的宿命，与我的四十年</title>
+      <link>https://zisai.com/posts/the-fate-of-machines-and-my-forty-years/</link>
+    <pubDate>Tue, 31 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-fate-of-machines-and-my-forty-years/</guid>
+      <description>The fate of machines, and my forty years</description>
+    </item>
+    <item>
+      <title>OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力</title>
+      <link>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</link>
+    <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</guid>
+      <description>AI Agents in the Real World: From Hype to System-Level Execution</description>
+    </item>
+    <item>
+      <title>人工智能时代的认知错位：当表达能力不再等于认知能力</title>
+      <link>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</link>
+    <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</guid>
+      <description>Artificial Intelligence and Cognitive Misalignment</description>
+    </item>
+    <item>
+      <title>目前，真心不建议普通人使用 小龙虾 OpenClaw</title>
+      <link>https://zisai.com/posts/openclaw/</link>
+    <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw/</guid>
+      <description>近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。</description>
+    </item>
+    <item>
+      <title>零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”</title>
+      <link>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</link>
+    <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</guid>
+      <description>这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。</description>
+    </item>
+    <item>
+      <title>一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）</title>
+      <link>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</link>
+    <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</guid>
+      <description>文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。</description>
+    </item>
+    <item>
+      <title>当世界连上网的时候：一个“工程师”的三十年</title>
+      <link>https://zisai.com/posts/the-network-beneath-the-world/</link>
+    <pubDate>Thu, 05 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-network-beneath-the-world/</guid>
+      <description>有些职业，在刚开始选择的时候，并不会意识到它将贯穿一生。</description>
+    </item>
+    <item>
+      <title>三十年：一个IT人的自我校准（1996—2026）</title>
+      <link>https://zisai.com/posts/it-30-years/</link>
+    <pubDate>Thu, 29 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/it-30-years/</guid>
+      <description>1994年，父亲不顾家人反对，花费1.8万元给我买了一台康柏电脑。我想，技术生涯自此开始了。</description>
+    </item>
+    <item>
+      <title>给年轻人多一点机会：一个运营商与网易合作的经典往事</title>
+      <link>https://zisai.com/posts/give_young_people_a_chance/</link>
+    <pubDate>Wed, 28 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/give_young_people_a_chance/</guid>
+      <description>无论是在家庭里，还是在组织中，我始终有一个非常坚定的判断：一定要给年轻人机会。</description>
+    </item>
+    <item>
+      <title>马斯克：人类只是硅基生命的“引导程序”？2029年AI将超越人类智慧总和。</title>
+      <link>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</link>
+    <pubDate>Sun, 25 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</guid>
+      <description>什么是“引导程序” (Bootloader)？在计算机科学中，引导程序是一段极小的代码，它的唯一任务是：唤醒更强大的操作系统。</description>
+    </item>
+    <item>
+      <title>宽广十二年</title>
+      <link>https://zisai.com/posts/kuangguang-12-years/</link>
+    <pubDate>Tue, 20 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/kuangguang-12-years/</guid>
+      <description>从体制内到经营型企业，十二年的路径、学习与建设。那些看似错过的远方，最终以另一种方式抵达。</description>
+    </item>
+    <item>
+      <title>AI 生成建筑模型的震撼体验 🚀</title>
+      <link>https://zisai.com/posts/ai-building-model-experience/</link>
+    <pubDate>Mon, 01 Sep 2025 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-building-model-experience/</guid>
+      <description>只需几张照片，AI 就能生成逼真的建筑沙盘模型。它到底会不会让建模师失业？🤔</description>
+    </item>
+    <item>
+      <title>挣脱枷锁：寻找灵魂的自由</title>
+      <link>https://zisai.com/posts/breaking-the-chains/</link>
+    <pubDate>Mon, 30 Jun 2025 09:05:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/breaking-the-chains/</guid>
+      <description>&lt;h1 id=&#34;挣脱枷锁寻找灵魂的自由&#34;&gt;挣脱枷锁：寻找灵魂的自由&lt;/h1&gt;
+&lt;p&gt;我的灵魂仿佛被禁锢在一座无形的牢笼中。身体是它的囚室，世俗的义务与责任是它的枷锁。工作、家庭、婚姻、父母、孩子、名与利——这些社会强加的角色和期待，如同层层叠叠的网，将我紧紧缠绕。功成名就的父亲却早早离世，把我变成了草食系、低欲望的人，崇尚自由，对钱和权本无追求，付出回报对等，环境公平。我渴望突破，渴望做真正的自己，摆脱这些“有相的虚妄”，让灵魂自由地呼吸。甚至有时候，我会想：死亡，是否是灵魂的终极升华，彻底脱离禁锢的解脱？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>雾中Bug：从广告牌死机到虚拟宇宙的哲思”</title>
+      <link>https://zisai.com/posts/world-bug-story/</link>
+    <pubDate>Sun, 22 Jun 2025 00:00:06 +0900</pubDate>
+      <guid>https://zisai.com/posts/world-bug-story/</guid>
+      <description>&lt;h2 id=&#34;那天&#34;&gt;那天&lt;/h2&gt;
+&lt;p&gt;好多年前，我还在运营商工作，去省公司开会，那晚雾气弥漫中，我无意间抬头，看到一个电子广告牌死机了。屏幕上，那个熟悉的“错误提示”框在黑暗中发光，像极了电脑蓝屏。霎那间，我觉得这个世界仿佛出了bug——一个数字时代下的荒诞瞬间。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

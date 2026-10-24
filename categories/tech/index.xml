@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on 紫塞</title>
+    <link>https://zisai.com/categories/tech/</link>
+    <description>Recent content in 技术 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 24 Oct 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一次 PHP 漏洞后的思考</title>
+      <link>https://zisai.com/posts/reflections-on-php-security/</link>
+    <pubDate>Sat, 24 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/reflections-on-php-security/</guid>
+      <description>从一次评分为 9.2 的 PHP 严重漏洞出发，记录 IP 访问限制、mTLS 双向认证与应用改造的分阶段思路，以及暂缓处理后的些许担忧。</description>
+    </item>
+    <item>
+      <title>我们做了一个“宽广豆包”</title>
+      <link>https://zisai.com/posts/kuanguang-ai-agent/</link>
+    <pubDate>Thu, 22 Oct 2026 13:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/kuanguang-ai-agent/</guid>
+      <description>介绍宽广 AI Agent 时，董事长一句“这不就是宽广的豆包嘛”，让原本费力的技术解释有了一个通俗的答案。记录一次人工智能进入零售经营的建设尝试，以及关于技术表达的体会。</description>
+    </item>
+    <item>
+      <title>从2026中国CIO调研，看AI进入企业的现实</title>
+      <link>https://zisai.com/posts/cio-survey-ai-2026/</link>
+    <pubDate>Thu, 15 Oct 2026 14:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/cio-survey-ai-2026/</guid>
+      <description>参与2026中国CIO调研，记录对国内大模型、企业AI投入与实际应用价值的一些思考。</description>
+    </item>
+    <item>
+      <title>写在紫塞网第28年：技术会变，习惯会留下来</title>
+      <link>https://zisai.com/posts/national-day-zisai-rebuild/</link>
+    <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/national-day-zisai-rebuild/</guid>
+      <description>这个国庆，我重新折腾了一遍紫塞网。工作是责任，紫塞是自驱。技术、审美、细节，最后都成了一件作品的一部分。</description>
+    </item>
+    <item>
+      <title>法定，术变，技常新 —— AI时代，真正需要升级的，不是工具，而是思维</title>
+      <link>https://zisai.com/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/</link>
+    <pubDate>Tue, 04 Aug 2026 08:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/Upgrade-Your-Mindset,-Not-Just-Your-Tools/</guid>
+      <description>真正的淘汰，从来不是某种工具淘汰了某种职业，而是拒绝成长的思维方式被时代抛下。  </description>
+    </item>
+    <item>
+      <title>斐讯 K2P 硬件级修改无线 MAC 地址全历程复盘与逆向思维实录</title>
+      <link>https://zisai.com/posts/k2p_mac_modification_guide/</link>
+    <pubDate>Fri, 05 Jun 2026 08:40:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/k2p_mac_modification_guide/</guid>
+      <description>&lt;h2 id=&#34;-一核心破局思路基因改造法&#34;&gt;🏛️ 一、核心破局思路：基因改造法&lt;/h2&gt;
+&lt;h3 id=&#34;初始诉求&#34;&gt;初始诉求&lt;/h3&gt;
+&lt;p&gt;将斐讯 K2P 路由器魔改固件中的 Wi-Fi 6 无线接口（&lt;code&gt;rax0&lt;/code&gt;）的 MAC 地址，彻底且永久地修改为：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;XX:XX:XX:XX:XX:XX
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;hr&gt;
+&lt;h3 id=&#34;传统道路的死胡同&#34;&gt;传统道路的死胡同&lt;/h3&gt;
+&lt;p&gt;最开始，通过 SSH 执行 Linux 标准命令：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>企业组织，如何面对技术代际革命？</title>
+      <link>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</link>
+    <pubDate>Tue, 19 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/how-organizations-survive-a-technological-generation-shift/</guid>
+      <description>How Organizations Survive a Technological Generation Shift</description>
+    </item>
+    <item>
+      <title>从“模型崇拜”到“工程落地”：宽广集团基于IBM Granite 4.1构建零售AI中台的思考</title>
+      <link>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</link>
+    <pubDate>Sat, 02 May 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/engineering-over-elegance-why-granite-4.1-is-the-strategic-choice-for-retail-ai/</guid>
+      <description>Engineering Over Elegance: Why Granite 4.1 is the Strategic Choice for Retail AI</description>
+    </item>
+    <item>
+      <title>小龙虾（OpenClaw）在采购选品工作中的一次真实落地：让AI推动“数据驱动决策”的进化</title>
+      <link>https://zisai.com/posts/openclaw-chooes/</link>
+    <pubDate>Thu, 30 Apr 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw-chooes/</guid>
+      <description>AI-Powered Retail Decision Making: From Intuition to Data-Driven Product Selection</description>
+    </item>
+    <item>
+      <title>OpenClaw 的幻觉和真相：从小龙虾热潮到退潮，从神话到笑话，很多人缺乏的是系统级分辨力</title>
+      <link>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</link>
+    <pubDate>Mon, 30 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-agents-in-the-real-world-from-hype-to-system-level-execution/</guid>
+      <description>AI Agents in the Real World: From Hype to System-Level Execution</description>
+    </item>
+    <item>
+      <title>人工智能时代的认知错位：当表达能力不再等于认知能力</title>
+      <link>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</link>
+    <pubDate>Mon, 23 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/artificial-intelligence-and-cognitive-misalignment/</guid>
+      <description>Artificial Intelligence and Cognitive Misalignment</description>
+    </item>
+    <item>
+      <title>目前，真心不建议普通人使用 小龙虾 OpenClaw</title>
+      <link>https://zisai.com/posts/openclaw/</link>
+    <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw/</guid>
+      <description>近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。</description>
+    </item>
+    <item>
+      <title>零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”</title>
+      <link>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</link>
+    <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</guid>
+      <description>这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。</description>
+    </item>
+    <item>
+      <title>一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）</title>
+      <link>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</link>
+    <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</guid>
+      <description>文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。</description>
+    </item>
+    <item>
+      <title>马斯克：人类只是硅基生命的“引导程序”？2029年AI将超越人类智慧总和。</title>
+      <link>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</link>
+    <pubDate>Sun, 25 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</guid>
+      <description>什么是“引导程序” (Bootloader)？在计算机科学中，引导程序是一段极小的代码，它的唯一任务是：唤醒更强大的操作系统。</description>
+    </item>
+    <item>
+      <title>当购物从“搜索”变成“对话”：我为什么开始认真思考 Agent 电商</title>
+      <link>https://zisai.com/posts/agent-e-commerce/</link>
+    <pubDate>Wed, 14 Jan 2026 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/agent-e-commerce/</guid>
+      <description>从一线零售与信息化实践出发，重新思考 AI 与交易的真实结合方式</description>
+    </item>
+    <item>
+      <title>AI 在零售的真实落地</title>
+      <link>https://zisai.com/posts/ai-in-retail-real-practice/</link>
+    <pubDate>Mon, 12 Jan 2026 09:36:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai-in-retail-real-practice/</guid>
+      <description>基于一线零售 IT 管理实践，复盘 AI 在需求预测、自动补货和智能客服中的真实作用，以及它为何更多暴露系统问题而非直接创造效率。</description>
+    </item>
+    <item>
+      <title>折腾了几天 Wi-Fi终于跑满了千兆</title>
+      <link>https://zisai.com/posts/upgradetoftto/</link>
+    <pubDate>Thu, 27 Nov 2025 05:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/upgradetoftto/</guid>
+      <description>这几天，我把家里的 FTTR 网络、Wi-Fi 和各种设备的无线性能，折腾了个遍。</description>
+    </item>
+    <item>
+      <title>IT技术不重要，业务逻辑才重要？从框架内优化到框架外重构。 </title>
+      <link>https://zisai.com/posts/technology-is-not-important-business-logic-is-important/</link>
+    <pubDate>Wed, 22 Oct 2025 12:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/technology-is-not-important-business-logic-is-important/</guid>
+      <description>当业务与技术边界逐渐消失，真正的竞争力，来自谁能看见系统之外的世界。</description>
+    </item>
+    <item>
+      <title>宽广集团亮相2025中国国际数字经济博览会，荣获“数字技术创新奖”！🏆</title>
+      <link>https://zisai.com/posts/cidee/</link>
+    <pubDate>Sun, 19 Oct 2025 12:05:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/cidee/</guid>
+      <description>宽广集团“商业数智化管理平台及相关数字化转型成果，荣获组委会颁发的“数字技术创新奖”！</description>
+    </item>
+    <item>
+      <title>MacbookPRO OSX Tahoe 26.0.1 L2TP VPN连接故障排除：快速修复指南🚀</title>
+      <link>https://zisai.com/posts/mac-vpn-setting/</link>
+    <pubDate>Sat, 18 Oct 2025 12:05:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/mac-vpn-setting/</guid>
+      <description>Mac L2TP VPN连接失败？记录从无响应到内网畅游的排查：编辑PPP文件禁用IPSec &#43; 全流量路由。附步骤！🔧</description>
+    </item>
+    <item>
+      <title>2025年以来，AI迭代速度明显增快了，好像是自己在迭代自己，有没有同感？ </title>
+      <link>https://zisai.com/posts/ai-self-evlolution/</link>
+    <pubDate>Fri, 10 Oct 2025 16:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-self-evlolution/</guid>
+      <description>讨论人工智能是否已经在自我迭代、为什么现在看起来像‘自我进化’，以及这种趋势带来的机会与风险。</description>
+    </item>
+    <item>
+      <title>IT 就像空气：你感觉不到它，却离不开它 🌐</title>
+      <link>https://zisai.com/posts/it-like-air/</link>
+    <pubDate>Sun, 05 Oct 2025 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/it-like-air/</guid>
+      <description>IT 在传统企业中常常被忽视，但正如空气一般，它是支撑企业运转、创新与生长的基础。本文从“IT 是空气”的比喻出发，讲述信息技术的本质价值与战略意义。</description>
+    </item>
+    <item>
+      <title>十多年前的Apple TV复活：那时乔布斯还活着，那时苹果的品控让我惊叹不已 🖥️✨</title>
+      <link>https://zisai.com/posts/apple-tv-revival-blog-post/</link>
+    <pubDate>Fri, 19 Sep 2025 17:08:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/apple-tv-revival-blog-post/</guid>
+      <description>尘封十年的2009年Apple TV竟然还能用！从硬件耐用到软件支持，苹果的产品生命周期设计让人叹为观止。记录我的这次意外发现和对苹果设计理念的思考。 🚀</description>
+    </item>
+    <item>
+      <title>IPhone17发布了，高度概括一下这一代的特点。 📸✨</title>
+      <link>https://zisai.com/posts/iphone13-releases/</link>
+    <pubDate>Thu, 11 Sep 2025 17:43:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/iphone13-releases/</guid>
+      <description>IPhone17发布了，由于还在用IPhone13，所以关注了一下，总结下特点。🖼️</description>
+    </item>
+    <item>
+      <title>中国联通获得卫星移动通信业务经营许可证，同时率先支持eSIM技术。✨</title>
+      <link>https://zisai.com/posts/chinaunicom-esim/</link>
+    <pubDate>Mon, 08 Sep 2025 10:00:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/chinaunicom-esim/</guid>
+      <description>重大的行业进展！中国联通获得工信部颁发的卫星移动通信业务经营许可证，同时率先支持eSIM卡。🖼️</description>
+    </item>
+    <item>
+      <title>AI图像生成：一条Prompt指令，形成一个新图像。 📸✨</title>
+      <link>https://zisai.com/posts/ai_image_generation-action/</link>
+    <pubDate>Sun, 07 Sep 2025 10:00:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai_image_generation-action/</guid>
+      <description>一条PromPt，融合另外一个图像，生成一个新动作，产生一个新作品。🖼️</description>
+    </item>
+    <item>
+      <title>AI图像生成：漫画草图 vs 照片 📸✨</title>
+      <link>https://zisai.com/posts/ai_image_generation/</link>
+    <pubDate>Sat, 06 Sep 2025 17:43:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ai_image_generation/</guid>
+      <description>为什么从漫画草图生成AI图像效果优于照片？解析简洁性与人类视觉的秘密。🖼️</description>
+    </item>
+    <item>
+      <title>用Nano Banana AI设计阅兵手办，看看效果如何 🎉</title>
+      <link>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</link>
+    <pubDate>Wed, 03 Sep 2025 10:50:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/antjapanesewarvictory80thanniversary-figure/</guid>
+      <description>强大的Nano Banana AI，用它来生成各种手办模型。🌟</description>
+    </item>
+    <item>
+      <title>AI 生成建筑模型的震撼体验 🚀</title>
+      <link>https://zisai.com/posts/ai-building-model-experience/</link>
+    <pubDate>Mon, 01 Sep 2025 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-building-model-experience/</guid>
+      <description>只需几张照片，AI 就能生成逼真的建筑沙盘模型。它到底会不会让建模师失业？🤔</description>
+    </item>
+    <item>
+      <title>🎨 AI手办生成体验：从预感到现实</title>
+      <link>https://zisai.com/posts/my-blog-post/</link>
+    <pubDate>Fri, 29 Aug 2025 15:26:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/my-blog-post/</guid>
+      <description>🌟 回溯我对AI指数级增长的预感，探索Gemini如何将图片变成逼真的手办，分享技术与艺术的交汇之旅！</description>
+    </item>
+    <item>
+      <title>从 C3I 到 C5I：系统化思维的30年传承 🚀</title>
+      <link>https://zisai.com/posts/from-c3i-to-c5i/</link>
+    <pubDate>Fri, 15 Aug 2025 15:02:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/from-c3i-to-c5i/</guid>
+      <description>从30年前部队的C3I系统到现代C5I，回顾150瓦单边带、长城286/386和C语言通信程序的岁月，探索系统化思维如何从战场延伸到企业管理，驱动数字化转型。🌐💻</description>
+    </item>
+    <item>
+      <title>超市微信扫码抽奖设计思路：点燃用户活跃度 🔥，助力复购！</title>
+      <link>https://zisai.com/posts/wechat-lucky-draw/</link>
+    <pubDate>Tue, 22 Jul 2025 14:04:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/wechat-lucky-draw/</guid>
+      <description>通过微信扫码抽奖活动 📱，以低成本点燃用户活跃度，培养消费习惯，助力商家实现复购增长！</description>
+    </item>
+    <item>
+      <title>效率提升n倍，语雀 vs 有道云笔记，希望这次不用再换笔记工具了。 🌟</title>
+      <link>https://zisai.com/posts/yuque-vs-notion/</link>
+    <pubDate>Wed, 16 Jul 2025 07:56:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/yuque-vs-notion/</guid>
+      <description>探讨语雀与有道云笔记的使用体验，分析语雀的轻灵优势及未来AI结合的可能性 🚀</description>
+    </item>
+    <item>
+      <title>非IT公司IT团队建设：技术与管理的融合之道🌐💼  </title>
+      <link>https://zisai.com/posts/it-team-building-analysis/</link>
+    <pubDate>Tue, 15 Jul 2025 11:04:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/it-team-building-analysis/</guid>
+      <description>从技术与管理视角，探讨非IT公司IT团队的建设挑战、内外向型团队适配性及稳健发展策略。</description>
+    </item>
+    <item>
+      <title>为什么 Cloudflare Turnstile 集成失败及未来尝试方向 🚀</title>
+      <link>https://zisai.com/posts/why-turnstile-integration-failed-/</link>
+    <pubDate>Mon, 14 Jul 2025 09:06:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/why-turnstile-integration-failed-/</guid>
+      <description>&lt;h2 id=&#34;背景-&#34;&gt;背景 📝&lt;/h2&gt;
+&lt;p&gt;在为生鲜业务流通管理系统集成 Cloudflare Turnstile 人机验证时，我遇到持续的登录失败问题，提示“登录失败：error” 😓。尽管前端显示 Turnstile 验证成功（通过 &lt;code&gt;onTurnstileSuccess&lt;/code&gt; 回调），但登录流程始终无法完成。本文分析失败原因，并提出未来优化的方向 🔍。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物流生鲜系统数据泄露风险分析与整改 🛡️</title>
+      <link>https://zisai.com/posts/data-breach-risk-analysis/</link>
+    <pubDate>Sat, 12 Jul 2025 22:19:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/data-breach-risk-analysis/</guid>
+      <description>分析一起物流生鲜业务系统因弱口令和安全疏忽导致的数据泄露风险事件，探讨管理、技术、运维问题，结合石基 ERP 系统对比，提出整改措施和后续要求。🔍</description>
+    </item>
+    <item>
+      <title>紫塞zisai.com博客：坚持写作与技术DIY的思考</title>
+      <link>https://zisai.com/posts/my-blog-journey/</link>
+    <pubDate>Wed, 09 Jul 2025 07:54:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/my-blog-journey/</guid>
+      <description>记录一个多月坚持写作博客的初衷、平台选择与技术实践，以及未来的计划与思考。</description>
+    </item>
+    <item>
+      <title>石基集团年度客户大会感想：数智化转型的启示与展望</title>
+      <link>https://zisai.com/posts/shiji-conference-reflections/</link>
+    <pubDate>Sun, 06 Jul 2025 00:02:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/shiji-conference-reflections/</guid>
+      <description>&lt;h1 id=&#34;石基集团年度客户大会感想数智化转型的启示与展望&#34;&gt;石基集团年度客户大会感想：数智化转型的启示与展望&lt;/h1&gt;
+&lt;p&gt;2025年7月，挺好的。中百协杨会长对集团的经营工作高度评价；高秘书长对未来的数字化工作寄予希望；连锁协会田主任一直只闻其名，未见其人，此次会议也得见真容；总之，收获颇丰。今年的石基集团年度客户大会，宽广集团发表了25分钟关于数智化转型的主题演讲。这次大会不仅是一场零售ERP行业的盛会，更是一次思想碰撞与技术革新的交汇。IT的年度盛会，更像是卷来卷去之间的纯净交流，又或是一种技术人之间的纯粹认可。以下是我对会议的几点感想，涵盖传统经营与数智化转型的交融、AI大模型的应用前景，以及宽广集团在这一浪潮中的实践与展望。仅此而已，挺有意思。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>坐飞机不用担心，手机电池即将突破一万毫安时，充电宝或将被淘汰</title>
+      <link>https://zisai.com/posts/no-worry-about-battery-on-flight/</link>
+    <pubDate>Sun, 29 Jun 2025 10:52:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/no-worry-about-battery-on-flight/</guid>
+      <description>探讨固态电池技术突破如何改变手机电池容量及充电宝未来，结合安全提示与发展展望。</description>
+    </item>
+    <item>
+      <title>宽广集团客流分析系统的实施与价值</title>
+      <link>https://zisai.com/posts/customer_flow_analysis/</link>
+    <pubDate>Sat, 28 Jun 2025 22:45:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/customer_flow_analysis/</guid>
+      <description>&lt;h2 id=&#34;背景与需求&#34;&gt;背景与需求&lt;/h2&gt;
+&lt;p&gt;随着零售行业竞争加剧，宽广集团作为一家大型连锁零售企业，亟需通过数据驱动的方式优化门店运营、提升空间利用率并制定精准的店铺租赁策略。传统客流统计方法，如人工计数或红外感应，存在精度低、数据单一的问题，难以满足精细化管理需求。集团提出以下核心需求：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何通过统计分析洞察超市消费者行为：以宽广超市为例</title>
+      <link>https://zisai.com/posts/supermarket_analysis/</link>
+    <pubDate>Thu, 26 Jun 2025 23:20:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/supermarket_analysis/</guid>
+      <description>&lt;h1 id=&#34;如何通过统计分析洞察超市消费者行为以宽广超市为例&#34;&gt;如何通过统计分析洞察超市消费者行为：以宽广超市为例&lt;/h1&gt;
+&lt;p&gt;在超市运营中，理解消费者的购物行为是制定营销和运营策略的关键。本文以&lt;strong&gt;宽广超市&lt;/strong&gt;为例，通过一组示例数据，使用&lt;strong&gt;平均数&lt;/strong&gt;、&lt;strong&gt;中位数&lt;/strong&gt;、&lt;strong&gt;四分位数&lt;/strong&gt;、&lt;strong&gt;众数&lt;/strong&gt;和&lt;strong&gt;标准差&lt;/strong&gt;等统计方法，教你如何分析消费者消费金额，挖掘关键洞察。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的第一台计算机-90年代中国计算机技术趋势与个人实践</title>
+      <link>https://zisai.com/posts/1990s-pc-trends-/</link>
+    <pubDate>Thu, 26 Jun 2025 13:25:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/1990s-pc-trends-/</guid>
+      <description>回顾90年代中国计算机技术的发展趋势，结合个人使用Compaq 386DX的经历，探讨DOS游戏、编程、硬件升级、早期互联网及BIOS芯片维护的演进与挑战。</description>
+    </item>
+    <item>
+      <title>宽广集团物联网建设实践与优化</title>
+      <link>https://zisai.com/posts/iot-construction-guide/</link>
+    <pubDate>Sat, 21 Jun 2025 22:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/iot-construction-guide/</guid>
+      <description>本文详细介绍了宽广集团在物联网建设中的实践经验，涵盖网络建设、数据库选择、边缘计算、数据展示等方面，并分析了后期优化与合作模式的选择。</description>
+    </item>
+    <item>
+      <title>刚刚处理了 SPSS 安装中的 Win32/Wacapew.C!ml 病毒检测误报</title>
+      <link>https://zisai.com/posts/handling-win32-wacapew-detection-in-spss-installation/</link>
+    <pubDate>Sat, 21 Jun 2025 21:57:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/handling-win32-wacapew-detection-in-spss-installation/</guid>
+      <description>个人分享在安装 SPSS 时遇到 Win32/Wacapew.C!ml 检测的经历，包括验证和安全处理步骤，以及 SPSS 软件的简要介绍。</description>
+    </item>
+    <item>
+      <title>宽广集团商品力优化：五维评估模型与BI报表的规划与实践</title>
+      <link>https://zisai.com/posts/kuanguang-bi-report/</link>
+    <pubDate>Fri, 20 Jun 2025 01:36:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/kuanguang-bi-report/</guid>
+      <description>深入解析宽广集团如何通过五维评估模型优化商品结构，介绍BI报表的规划设计与实践案例，探讨未来AI驱动与区域化迭代方向。</description>
+    </item>
+    <item>
+      <title>统计学中心趋势度量在企业消费者分析中的应用误区与纠正</title>
+      <link>https://zisai.com/posts/statistical-measures-and-their-misapplications-in-consumer-analysis/</link>
+    <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://zisai.com/posts/statistical-measures-and-their-misapplications-in-consumer-analysis/</guid>
+      <description>&lt;h1 id=&#34;统计学中的中位数平均值与宽广集团在消费者分析中的应用误区&#34;&gt;统计学中的中位数、平均值与宽广集团在消费者分析中的应用误区&lt;/h1&gt;
+&lt;h2 id=&#34;引言&#34;&gt;引言&lt;/h2&gt;
+&lt;p&gt;在统计学中，描述性统计量（如平均值、中位数、众数等）是分析数据的核心工具，广泛应用于企业决策、消费者行为分析和市场研究。然而，这些统计量在实际应用中常因误解或不当使用而导致偏差，尤其是在消费者分析领域。本文将探讨平均值、中位数等统计学概念的基本原理、数学特性及其在消费者分析中的常见误区，并以学术和技术视角分析如何科学地选择合适的统计量。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宽广集团RFM分箱算法：精准营销，驱动增长新引擎</title>
+      <link>https://zisai.com/posts/rfm_algorithm_values/</link>
+    <pubDate>Wed, 18 Jun 2025 07:12:26 +0800</pubDate>
+      <guid>https://zisai.com/posts/rfm_algorithm_values/</guid>
+      <description>本文深入探讨了宽广集团如何通过引入先进的RFM分箱算法，实现客户的精细化分层，从而优化营销策略，提升客户满意度和经营效益。告别粗放式营销，迈向数据驱动的精准时代！</description>
+    </item>
+    <item>
+      <title>宽广集团的软件硬件化实践：基于BBB单板机的金融级储值卡高可用架构设计</title>
+      <link>https://zisai.com/posts/bbb_hardware_solution/</link>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://zisai.com/posts/bbb_hardware_solution/</guid>
+      <description>一次由储值卡核心加解密程序授权故障引发的深度思考，探讨如何通过将核心软件功能固化到单板计算机（SBC）中，打造一个稳定、可靠且具备商业潜力的硬件级解决方案。</description>
+    </item>
+    <item>
+      <title>宽广集团信息化体系建设：从传统零售到科技零售的蜕变</title>
+      <link>https://zisai.com/posts/kuangguang-group-digital-transformation/</link>
+    <pubDate>Sun, 15 Jun 2025 19:09:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/kuangguang-group-digital-transformation/</guid>
+      <description>回顾宽广集团11年信息化建设历程，探索如何通过顶层设计与技术创新，从传统零售蜕变为科技驱动的现代化企业，并展望人工智能与大数据引领的未来。</description>
+    </item>
+    <item>
+      <title>BeagleBone Black 补充笔记：MicroHDMI 与账号配置</title>
+      <link>https://zisai.com/posts/beaglebone-black-hdmi-account-tips/</link>
+    <pubDate>Sun, 15 Jun 2025 14:15:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/beaglebone-black-hdmi-account-tips/</guid>
+      <description>补充 BeagleBone Black 的 MicroHDMI 接口调试和账号配置经验，解决视频输出与 root 远程登录问题。</description>
+    </item>
+    <item>
+      <title>BeagleBone Black 配置 Go 语言环境</title>
+      <link>https://zisai.com/posts/beaglebone-black-go-setup/</link>
+    <pubDate>Sun, 15 Jun 2025 14:10:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/beaglebone-black-go-setup/</guid>
+      <description>记录在 BeagleBone Black 的 Debian 10.3 环境中配置 Go 1.20.2 语言环境的完整流程，包含下载、安装和优化国内镜像源。</description>
+    </item>
+    <item>
+      <title>BeagleBone Black 开发笔记：串口 TCP 数据采集与 GPIO 告警控制</title>
+      <link>https://zisai.com/posts/beaglebone-black-serial-tcp-gpio/</link>
+    <pubDate>Sun, 15 Jun 2025 14:05:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/beaglebone-black-serial-tcp-gpio/</guid>
+      <description>记录使用 BeagleBone Black 实现串口服务器 TCP 数据采集、屏幕输出及 GPIO 控制红黄绿灯的开发过程，分享踩坑经验与解决方案。</description>
+    </item>
+    <item>
+      <title>信息化项目中的标准化与个性化悖论：从运营商到零售集团的思考</title>
+      <link>https://zisai.com/posts/standardization_vs_personalization/</link>
+    <pubDate>Thu, 12 Jun 2025 18:33:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/standardization_vs_personalization/</guid>
+      <description>探讨信息化项目中标准化与个性化的矛盾，结合运营商与零售集团的经验，提出&amp;#39;打磨&amp;#39;的解决之道。</description>
+    </item>
+    <item>
+      <title>从 iOS 18 到 iOS 26：苹果为何跳过版本号？</title>
+      <link>https://zisai.com/posts/ios_version_jump/</link>
+    <pubDate>Thu, 12 Jun 2025 11:19:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/ios_version_jump/</guid>
+      <description>苹果为何从 iOS 18 直接跳到 iOS 26，跳过了 19、20、21 等版本号？本文深入探讨苹果版本号命名的变化原因与背后的逻辑。</description>
+    </item>
+    <item>
+      <title>创新支付体验：二维码储值卡的设计与未来</title>
+      <link>https://zisai.com/posts/qr-prepaid-card-design/</link>
+    <pubDate>Wed, 11 Jun 2025 17:25:00 +0900</pubDate>
+      <guid>https://zisai.com/posts/qr-prepaid-card-design/</guid>
+      <description>探索一种低成本、高安全的二维码储值卡设计，结合动态支付码和双重认证，展望零售支付的数字化未来。</description>
+    </item>
+    <item>
+      <title>修复Windows 11下L2TP/IPsec VPN连接失败问题</title>
+      <link>https://zisai.com/posts/fix-l2tp-windows11/</link>
+    <pubDate>Thu, 05 Jun 2025 21:44:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/fix-l2tp-windows11/</guid>
+      <description>&lt;h1 id=&#34;修复windows-11下l2tpipsec-vpn连接失败问题&#34;&gt;修复Windows 11下L2TP/IPsec VPN连接失败问题&lt;/h1&gt;
+&lt;p&gt;今天晚上，需要连接公司内的数据库处理一些工作。恰巧我的办公电脑处于休眠状态无法唤醒。于是改用VPN连接公司的路由网络。但在配置Windows 11的L2TP/IPsec VPN时遇到了“安全层在初始化与远程计算机的协商时遇到处理错误”的问题。经过排查，发现是Windows更新禁用了关键服务并需要调整注册表配置。以下是我的解决步骤，分享给遇到类似问题的朋友。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>树莓派 apt-get upgrade 失败的故障排查：过热问题</title>
+      <link>https://zisai.com/posts/troubleshooting-raspberry-pi-apt-get-upgrade-failure-due-to-overheating/</link>
+    <pubDate>Sun, 25 May 2025 13:34:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/troubleshooting-raspberry-pi-apt-get-upgrade-failure-due-to-overheating/</guid>
+      <description>树莓派 Upgrade 失败，处理过程</description>
+    </item>
+    <item>
+      <title>从简单到复杂：</title>
+      <link>https://zisai.com/posts/galls_law_retail_blog/</link>
+    <pubDate>Sun, 25 May 2025 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/galls_law_retail_blog/</guid>
+      <description>探讨加尔定律在零售企业系统建设中的实际应用，分享从简单系统演化到复杂生态的实践经验</description>
+    </item>
+    <item>
+      <title>中文互联网的封闭生态与创新困境</title>
+      <link>https://zisai.com/posts/theclosedecologyandinnovationdilemmaofthechineseinternet/</link>
+    <pubDate>Wed, 14 May 2025 12:38:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/theclosedecologyandinnovationdilemmaofthechineseinternet/</guid>
+      <description>探讨中文互联网的封闭生态如何导致内容质量下降、技术创新受限，以及对开放式发展的深远影响。</description>
+    </item>
+    <item>
+      <title>优化涉密案件证据数据分析方案</title>
+      <link>https://zisai.com/posts/confirmationandanalysisplanforhigh-contaminationprojects/</link>
+    <pubDate>Fri, 02 May 2025 12:38:08 +0800</pubDate>
+      <guid>https://zisai.com/posts/confirmationandanalysisplanforhigh-contaminationprojects/</guid>
+      <description>&lt;h2 id=&#34;优化涉密案件证据数据分析方案&#34;&gt;优化涉密案件证据数据分析方案&lt;/h2&gt;
+&lt;p&gt;在涉密案件的数据分析中，数据类型复杂且分析需求高，传统方法难以满足精准性和效率要求。本文分析当前挑战，提出基于本地化大模型和多模态分析的优化方案，以提升案件卷宗分析效率。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>从单张照片中窥见个人信息：Google Vision API的多维度分析</title>
+      <link>https://zisai.com/posts/googlevisionapi/</link>
+    <pubDate>Sun, 27 Apr 2025 21:26:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/googlevisionapi/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://zisai.com/images/googlevisionapi/GoogleVisionAPIImages_hu_e87d69ce1b5c4058.webp&#34; srcset=&#34;https://zisai.com/images/googlevisionapi/GoogleVisionAPIImages_hu_2d6cee7c16b0d9e.webp 480w, https://zisai.com/images/googlevisionapi/GoogleVisionAPIImages_hu_5886dbce92f928d.webp 768w, https://zisai.com/images/googlevisionapi/GoogleVisionAPIImages_hu_e87d69ce1b5c4058.webp 960w, https://zisai.com/images/googlevisionapi/GoogleVisionAPIImages_hu_74f3b4df456de80.webp 1308w&#34; sizes=&#34;(max-width: 920px) calc(100vw - 48px), 872px&#34; width=&#34;1308&#34; height=&#34;886&#34; alt=&#34;Google Vision API多维度分析示例&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;在计算机视觉领域，一个突破性进展正在悄然发生：通过&lt;strong&gt;Google Vision API&lt;/strong&gt;，我们首次实现了从&lt;strong&gt;单张照片&lt;/strong&gt;中系统化提取个人特征信息的能力。这种技术突破不仅限于传统的人脸识别，更开辟了更高维度的分析路径。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如何将Windows11的中文用户名改为英文？</title>
+      <link>https://zisai.com/posts/windows11changeusername/</link>
+    <pubDate>Thu, 24 Apr 2025 16:29:25 +0800</pubDate>
+      <guid>https://zisai.com/posts/windows11changeusername/</guid>
+      <description>&lt;h1 id=&#34;修改windows-11用户目录名教程&#34;&gt;修改Windows 11用户目录名教程&lt;/h1&gt;
+&lt;p&gt;Windows 11新装时，若用户目录名使用了中文（Unicode编码），可能会导致软件不支持、乱码或莫名错误等问题，尤其在开发场景下，中文目录名可能引发诸多不便。以下是简化和优化后的修改方法，核心分为三部分：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TMT是什么？</title>
+      <link>https://zisai.com/posts/tmt/</link>
+    <pubDate>Sun, 05 May 2024 14:47:50 +0800</pubDate>
+      <guid>https://zisai.com/posts/tmt/</guid>
+      <description>&lt;h3 id=&#34;tmt是什么&#34;&gt;TMT是什么？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TMT 指的是科技（Technology）、媒体（Media）和电信（Telecom）这三个产业。它们有一个共同点，就是边际成本非常低，增加一个新用户，几乎不带来额外的成本。&lt;/li&gt;
+&lt;li&gt;正是由于这个经济共性，这三个产业逐渐融合发展在一起是毫不奇怪的。&lt;/li&gt;
+&lt;li&gt;&amp;ndash; 《TMT 为何存在？》&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
