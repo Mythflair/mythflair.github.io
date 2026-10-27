@@ -20,11 +20,15 @@ wechatPublished: true
 
 不过，在认可变化的同时，他也注意到了堂食区域的一个小问题。
 
+![pork-cutlet-sandwich-store-scene-1.webp](/images/a-small-suggestion-on-the-dining-table/pork-cutlet-sandwich-store-scene-1.webp)
+
 有些顾客用餐结束后，会把塑料饭盒、包装袋等垃圾直接留在桌面上。后来的人走到桌前，往往分不清这个位置是否还有人，只看到桌面上散落着各种包装物。想坐下来吃饭，还得先帮别人收拾垃圾。自己吃完之后，再把桌面清理干净。
 
 这位顾客和朋友经常中午在这里吃饭，聊天时发现，大家都有类似感受。
 
 于是，他提出了一个很具体、也很容易落实的建议：**能不能在餐桌上增加一张温馨提示，提醒顾客餐后将垃圾带走，放入附近垃圾桶？**
+
+![pork-cutlet-sandwich-store-scene-2.webp](/images/a-small-suggestion-on-the-dining-table/pork-cutlet-sandwich-store-scene-2.webp)
 
 这个建议之所以让人印象深刻，不只是因为它细致，更因为它站在了门店经营的角度思考问题。顾客在留言里提到，垃圾桶本来就离得很近，只要做一个简单提醒，就可能减少桌面垃圾堆积的情况，也不必为此额外增加专门人员，节省人工成本。
 
@@ -32,11 +36,15 @@ wechatPublished: true
 
 还有一个温暖的小细节。
 
+![pork-cutlet-sandwich-store-scene-3.webp](/images/a-small-suggestion-on-the-dining-table/pork-cutlet-sandwich-store-scene-3.webp)
+
 门店注意到，这位顾客在留言里特意夸赞了超市的日式猪扒三明治。于是，门店决定赠送他一份，下次到店时可以领取。
 
 一张温馨提示，一份猪扒三明治，事情都不算大。
 
 但零售经营里，很多体验的优化，本来就不是靠轰轰烈烈的大动作完成的。它往往来自顾客一次认真反馈，来自门店一次及时回应，也来自彼此多想一步、多做一步。
+
+![pork-cutlet-sandwich-store-scene-4.webp](/images/a-small-suggestion-on-the-dining-table/pork-cutlet-sandwich-store-scene-4.webp)
 
 顾客愿意提出建议，是一种信任。
 
