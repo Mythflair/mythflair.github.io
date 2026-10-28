@@ -42,7 +42,9 @@ wechatPublished: true
 
 一张温馨提示，一份猪扒三明治，事情都不算大。
 
-但零售经营里，很多体验的优化，本来就不是靠轰轰烈烈的大动作完成的。它往往来自顾客一次认真反馈，来自门店一次及时回应，也来自彼此多想一步、多做一步。
+但零售经营里，很多体验的优化，本来就不是靠轰轰烈烈的大动作完成的。
+
+它往往来自顾客一次认真反馈，来自门店一次及时回应，也来自彼此多想一步、多做一步。
 
 ![pork-cutlet-sandwich-store-scene-4.webp](/images/a-small-suggestion-on-the-dining-table/pork-cutlet-sandwich-store-scene-4.webp)
 
