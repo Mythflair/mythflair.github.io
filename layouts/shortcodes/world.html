@@ -1,0 +1,11 @@
+{{- $target := .Get "type" | default "surface" -}}
+{{- $world := "surface" -}}
+{{- if eq hugo.Environment "inner" -}}
+  {{- $world = "inner" -}}
+{{- end -}}
+
+{{- if eq $target $world -}}
+  <div class="world-content">
+    {{ .Inner | markdownify }}
+  </div>
+{{- end -}}
