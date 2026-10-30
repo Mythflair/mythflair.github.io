@@ -76,9 +76,8 @@ googleAnalytics = "G-5L9GMDCNHD"
 
   env = "production"
 
-  description = "这是始于1998年的紫塞网，如今继续记录生活、技术、城市记忆与个人思考。"
-
-  keywords = [
+description = "紫塞网始于1998年，前身为紫塞明珠网，由沈楠持续建设。立足承德，记录避暑山庄、热河往事、城市记忆、生活随笔与技术思考，整理旧站资料，留存互联网往事。"
+keywords = [
     "沈楠",
     "紫塞",
     "ZISAI",
