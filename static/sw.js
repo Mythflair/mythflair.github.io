@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "zisai-pwa-v1.1";
+const CACHE_NAME = "zisai-pwa-v1.2";
 const CACHE_PREFIX = "zisai-pwa-";
 
 const PRECACHE = [
@@ -65,8 +65,14 @@ self.addEventListener("fetch", (event) => {
 
           const offline = await caches.match("/offline.html");
 
-          if (offline) return offline;
-
+          if (offline) {
+            return new Response(await offline.clone().blob(), {
+              status: 200,
+              headers: {
+                "Content-Type": "text/html; charset=utf-8"
+              }
+            });
+          }
           return Response.error();
         }
       })()
