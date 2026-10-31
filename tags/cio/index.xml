@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CIO on 紫塞</title>
+    <link>https://zisai.com/tags/cio/</link>
+    <description>Recent content in CIO on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 15 Oct 2026 14:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/cio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从2026中国CIO调研，看AI进入企业的现实</title>
+      <link>https://zisai.com/posts/cio-survey-ai-2026/</link>
+    <pubDate>Thu, 15 Oct 2026 14:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/cio-survey-ai-2026/</guid>
+      <description>参与2026中国CIO调研，记录对国内大模型、企业AI投入与实际应用价值的一些思考。</description>
+    </item>
+  </channel>
+</rss>

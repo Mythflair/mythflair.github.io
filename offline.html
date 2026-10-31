@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#241829">
+  <meta name="robots" content="noindex, nofollow">
+  <title>暂时离线 · 紫塞</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      color: #f7eef6;
+      font-family: system-ui, -apple-system,
+        "Microsoft YaHei", sans-serif;
+      background:
+        radial-gradient(ellipse at 75% 15%,
+          #82346e 0%, transparent 55%),
+        linear-gradient(160deg,
+          #372640 0%, #211927 55%, #14121c 100%);
+    }
+
+    main {
+      width: 100%;
+      max-width: 440px;
+      text-align: center;
+      padding: 48px 24px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 22px;
+      background: rgba(255,255,255,.035);
+    }
+
+    .brand {
+      font-family: Georgia, "Songti SC", serif;
+      font-size: 44px;
+      font-weight: 700;
+      letter-spacing: .18em;
+      margin-left: .18em;
+    }
+
+    .since {
+      margin-top: 10px;
+      color: #bba6bd;
+      font-size: 11px;
+      letter-spacing: .22em;
+    }
+
+    .line {
+      width: 42px;
+      height: 2px;
+      margin: 36px auto;
+      background: #b34496;
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-family: Georgia, "Songti SC", serif;
+      font-size: 23px;
+      font-weight: 500;
+      letter-spacing: .08em;
+    }
+
+    p {
+      color: #cabdcb;
+      font-size: 14px;
+      line-height: 2;
+    }
+
+    button {
+      margin-top: 25px;
+      padding: 13px 36px;
+      border: 0;
+      border-radius: 30px;
+      color: white;
+      background: #922b82;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    button:hover { background: #aa3a97; }
+    button:focus-visible {
+      outline: 2px solid white;
+      outline-offset: 4px;
+    }
+
+    footer {
+      margin-top: 48px;
+      color: #88788d;
+      font-size: 11px;
+      letter-spacing: .1em;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="brand">紫塞</div>
+    <div class="since">ZISAI · SINCE 1998</div>
+
+    <div class="line"></div>
+
+    <h1>山河入卷，岁月留痕。</h1>
+
+    <p>
+      暂时无法连接紫塞。<br>
+      网络恢复后，我们继续读未完的故事。
+    </p>
+
+    <button type="button" onclick="location.reload()">
+      重新连接
+    </button>
+
+    <footer>紫塞歌明月 · 万户庆升平</footer>
+  </main>
+</body>
+</html>

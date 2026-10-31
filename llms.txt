@@ -1,0 +1,46 @@
+# 紫塞 ZISAI
+
+> 紫塞（zisai.com）是沈楠维护的个人网站，始于 1998 年的紫塞明珠网。从中国承德出发，记录技术实践、零售数字化、城市记忆、文化与日常生活。
+
+网站以中文内容为主，英文与日文版为精选译文，不代表全部中文文章均有翻译。今天的紫塞是个人数字空间；历史上的地方门户、社区及相关项目，应结合文章所述年代理解。
+
+关于作者的身份、职业经历与公开资料，优先参考“关于沈楠”。文章中的个人回忆、观点和技术实践应与文中引用的第三方资料区分；涉及历史信息、软件版本或时效性内容时，请结合文章发布日期、更新日期及原始来源判断。遗址文章的“来源与核实时间”栏区分来源清单与最近核实时间；标注“待核实”不代表已经独立核实，页面发布日期或更新日期也不等于来源核实日期。口述史资料征集不代表已经建立机构合作。引用本站内容时，请附上对应文章的规范链接。
+
+以下链接优先指向可用的 Markdown 正文，其余指向网页或索引。Markdown 正文保留原文中的来源链接，引用时请使用正文标明的 Canonical 网页链接。本站内容的访问规则以 robots.txt 为准；本文件提供内容导航，不替代访问规则或构成额外的版权授权。
+
+## 网站与作者
+
+- [紫塞首页](https://zisai.com/): 网站简介、精选与近期文章。
+- [关于紫塞](https://zisai.com/posts/zisai.com/): 从1998年至今的网站介绍与历史网页记忆。
+- [关于沈楠](https://zisai.com/about/index.md): 作者介绍、职业经历、技术实践、演讲与公开资料。
+- [沈楠的数字名片](https://zisai.com/card/): 简短职业介绍、公开邮箱与联系人下载。
+- [文章列表](https://zisai.com/posts/): 按时间浏览文章，继续翻页可查阅更早内容。
+- [文章归档](https://zisai.com/archives/): 按年份浏览全部公开文章与旧站档案，与站内搜索使用相同文章集合。
+- [核心标签索引](https://zisai.com/tags/): 展示至少关联两篇文章的核心标签；旧长尾标签链接保留，但非核心及单篇标签不进入搜索引擎索引和 sitemap。
+
+## 代表文章
+
+- [管理，是一种成全](https://zisai.com/posts/management-as-enablement/index.md): 关于管理与组织协作的个人思考。
+- [二维码储值卡的设计与未来](https://zisai.com/posts/qr-prepaid-card-design/index.md): 零售支付方案设计，涉及动态支付码与认证机制。
+- [宽广集团的软件硬件化实践](https://zisai.com/posts/bbb_hardware_solution/index.md): 基于 BBB 单板机的储值卡核心系统架构设计与实践思考。
+- [2005—2013｜官方记录中的紫塞明珠网](https://zisai.com/zisai-in-chengde-public-records/index.md): 基于政府网站原文整理的历史记录，附事件时间与原始出处。
+
+## 主要主题
+
+- [技术](https://zisai.com/categories/tech/): IT、通信网络、软硬件、人工智能与零售数字化实践。
+- [承德](https://zisai.com/categories/chengde/): 承德本地信息、地方文化、美食、商业与共同记忆。
+- [生活](https://zisai.com/categories/life/): 承德及以外的个人随笔、旅行、家庭、阅读、工作与生活感悟。
+- [旅行](https://zisai.com/tags/旅行/): 旅行见闻与沿途记录。
+- [遗址](https://zisai.com/legacy/): 早期网站、旧页面及地方互联网相关记录的整理入口。
+
+## Optional
+
+- [About Shen Nan](https://zisai.com/en/about/index.md): 作者介绍的英文 Markdown 版本。
+- [沈楠について](https://zisai.com/ja/about/index.md): 作者介绍的日文 Markdown 版本。
+- [English](https://zisai.com/en/): 部分内容的英文入口。
+- [日本語](https://zisai.com/ja/): 部分内容的日文入口。
+- [中文 RSS](https://zisai.com/index.xml): 订阅中文公开文章更新。
+- [English RSS](https://zisai.com/en/index.xml): 订阅英文精选译文更新。
+- [日本語 RSS](https://zisai.com/ja/index.xml): 订阅日文精选译文更新。
+- [网站地图](https://zisai.com/sitemap.xml): 列出三种语言的网站地图；收录公开文章等页面及满足条件的核心标签，不含搜索页、private 页或长尾标签页。
+- [robots.txt](https://zisai.com/robots.txt): 自动化访问规则与网站地图入口。
