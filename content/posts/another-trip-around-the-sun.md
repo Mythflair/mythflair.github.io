@@ -7,15 +7,11 @@ categories: ["生活"]
 tags: ["生日", "生活随笔", "人生感悟", "岁月"]
 description: "又成功绕太阳一圈。人生如软件，每年升级一个版本，功能未必增加，补丁倒是越打越多。系统运行正常，内心尚有热爱。"
 summary: "年轻时追求性能，如今更看重稳定性。新的一年，继续折腾，适度升级，尽量不宕机。"
-wechatPublished: true
-
-showToc: true
 cover:
-    image: "/images/another-trip-around-the-sun/birthday-gift.webp"
-    alt: "公司赠送的生日礼盒，深灰色封面上印着金色的生日祝福"
-    caption: "又是一年，感谢惦记。"
-    relative: false
-    hidden: false
+  image: "/images/another-trip-around-the-sun/birthday-gift.webp"
+  alt: "公司赠送的生日礼盒，深灰色封面上印着金色的生日祝福"
+  caption: "又是一年，感谢惦记。"
+wechatPublished: true
 ---
 
 今天生日。
@@ -40,7 +36,7 @@ cover:
 
 这一年，工作照旧，生活照常。
 
-读了些书，写了些文章，敲了些代码，也琢磨了不少未必有答案的问题。
+读了些书，写了些文章，做了些项目，也琢磨了不少未必有答案的问题。
 
 留下了很多存在过的痕迹。
 
@@ -56,6 +52,6 @@ cover:
 
 **系统运行正常，内心尚有热爱。**
 
-新的一年，继续前进，适度升级，尽量不宕机。
+新的一年，继续前进，适度升级，稳定运行。
 
 生日快乐！🎂
