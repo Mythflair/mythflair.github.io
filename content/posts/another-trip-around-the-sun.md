@@ -9,7 +9,7 @@ description: "又成功绕太阳一圈。人生如软件，每年升级一个版
 summary: "年轻时追求性能，如今更看重稳定性。新的一年，继续折腾，适度升级，尽量不宕机。"
 wechatPublished: true
 
-showToc: false
+showToc: true
 cover:
     image: "/images/another-trip-around-the-sun/birthday-gift.webp"
     alt: "公司赠送的生日礼盒，深灰色封面上印着金色的生日祝福"

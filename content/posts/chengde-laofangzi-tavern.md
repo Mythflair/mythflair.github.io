@@ -14,8 +14,8 @@ description: "承德火神庙附近的马市街，有一家开了二十多年的
 summary: "一家藏在承德老城区的小馆子，二十多年的烟火气，熟悉的味道，还有人与人之间的那份随和与亲切。"
 
 wechatPublished: true
-homePinned: true
-homeWeight: 3
+homePinned: false
+homeWeight: 0
 
 cover:
   image: "/images/chengde-laofangzi-tavern/laofangzi.webp"
