@@ -17,7 +17,7 @@ https://zisai.com/#zisai
 ============================================================
 */}}
 
-{{- $authorCanonicalURL := .Site.Params.authorCanonicalUrl | default "https://zisai.com/about/" -}}
+{{- $authorCanonicalURL := .Site.Params.authorCanonicalUrl | default "/about/" | absURL -}}
 {{- $personID := printf "%s#person" $authorCanonicalURL -}}
 
 {{- $websiteID := printf "%s#website" .Site.Home.Permalink -}}

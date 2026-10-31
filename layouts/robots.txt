@@ -8,4 +8,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://zisai.com/sitemap.xml
+Sitemap: {{ "sitemap.xml" | absURL }}
