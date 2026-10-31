@@ -43,7 +43,6 @@
 {{- end -}}
 
 <section class="zisai-home zisai-home--v2">
-{{ if eq .Lang "zh-cn" }}<nav class="zisai-topic-nav" aria-label="专题阅读"><strong>专题阅读</strong>{{ range hugo.Data.topics }}{{ with site.GetPage (printf "/topics/%s" .slug) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end }}</nav>{{ end }}
   {{- $heroImage := partial "hero-image.html" . -}}
   <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage.desktop }}');--zisai-hero-tablet:url('{{ $heroImage.tablet }}');--zisai-hero-mobile:url('{{ $heroImage.mobile }}')">
     <div class="zisai-hero__veil"></div>

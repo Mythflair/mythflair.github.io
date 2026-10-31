@@ -1,13 +1,5 @@
 {{- $page := . -}}
 {{- $related := slice -}}
-{{- if eq .Lang "zh-cn" -}}
-{{- range hugo.Data.topics -}}
-  {{- if in .pages $page.RelPermalink -}}
-    {{- range .pages -}}{{- with partial "page-by-url.html" . -}}{{- if ne .RelPermalink $page.RelPermalink -}}{{- $related = $related | append . -}}{{- end -}}{{- end -}}{{- end -}}
-  {{- end -}}
-{{- end -}}
-{{- end -}}
-{{- $related = $related | uniq -}}
 {{- if not $related -}}{{- $related = (partial "article-pages.html" .).Related . -}}{{- end -}}
 {{- if not $related -}}{{- $related = (partial "article-pages.html" .) | complement (slice $page) -}}{{- $related = $related.ByDate.Reverse -}}{{- end -}}
 {{- with first 3 $related -}}

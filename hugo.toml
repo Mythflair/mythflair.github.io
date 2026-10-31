@@ -460,12 +460,6 @@ keywords = [
     source = "static"
     target = "static"
 
-[[languages.zh-cn.menus.main]]
-  identifier = "topics"
-  name = "专题"
-  url = "/topics/"
-  weight = 52
-
 # Fill these only after provisioning the external services.
 [params.umami]
   scriptURL = ""
