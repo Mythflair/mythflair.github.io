@@ -11,8 +11,6 @@ cover:
     alt: "BeagleBone Black 配置 Go 语言环境"
 ---
 
-# BeagleBone Black 配置 Go 语言环境
-
 在完成 BeagleBone Black（以下简称 BBB）Debian 10.3 环境配置后，我着手搭建 Go 语言环境，为后续开发串口服务器 TCP 数据采集和 GPIO 告警灯控制做准备。Go（Golang）以其高效和简洁著称，与 BBB 的“狗板”气质颇为契合——“狗板配狗语言”，确实般配！本文记录了从下载 Go 1.20.2 到配置国内加速镜像的完整流程，分享踩坑经验和实用技巧。
 
 ## 准备工作：选择正确的 Go 版本

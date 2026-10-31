@@ -11,8 +11,6 @@ cover:
     alt: "BeagleBone Black 补充笔记：MicroHDMI 与账号配置"
 ---
 
-# BeagleBone Black 补充笔记：MicroHDMI 与账号配置
-
 在 BeagleBone Black（以下简称 BBB）的开发过程中，MicroHDMI 接口和账号配置是两个常见但易被忽略的细节。继之前的系统配置和 Go 环境搭建后，本文分享了解决 MicroHDMI 无输出问题和启用 root 远程登录的经验，以及 MicroSD 卡空间扩展的简单方法。这些碎片化记录为 BBB 开发者提供实用参考。
 
 ## 解决 MicroHDMI 输出问题

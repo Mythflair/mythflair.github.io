@@ -1,0 +1,5 @@
+<aside class="post-description" aria-label="{{ if eq .Lang "en" }}Stay in touch{{ else if eq .Lang "ja" }}購読・お問い合わせ{{ else }}订阅与交流{{ end }}">
+<p>{{ if eq .Lang "en" }}Follow new articles via {{ else if eq .Lang "ja" }}新着記事の購読：{{ else }}通过 RSS 订阅新文章：{{ end }}<a href="{{ "index.xml" | relLangURL }}">RSS</a> · <a href="mailto:{{ site.Params.authorEmail }}{{ if .IsPage }}?subject={{ .Title | urlquery }}{{ end }}">{{ if eq .Lang "en" }}Email the author{{ else if eq .Lang "ja" }}著者にメール{{ else }}邮件交流{{ end }}</a></p>
+{{ if and .IsHome (ne .Lang "zh-cn") }}<p>{{ if eq .Lang "en" }}Selected translations from the Chinese edition. {{ else }}中国語版から選んだ記事の翻訳です。{{ end }}<a href="{{ "/" | relURL }}">{{ if eq .Lang "en" }}Browse all articles in Chinese{{ else }}中国語版の全記事へ{{ end }}</a></p>{{ end }}
+{{ with site.Params.newsletter.url }}<p><a href="{{ . }}" rel="noopener noreferrer">{{ if eq $.Lang "en" }}Subscribe by email{{ else if eq $.Lang "ja" }}メールで購読{{ else }}邮件订阅{{ end }}</a></p>{{ end }}
+</aside>

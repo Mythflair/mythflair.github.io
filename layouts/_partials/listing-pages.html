@@ -3,6 +3,8 @@
 {{- if .IsHome }}
   {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true }}
+{{- else if eq .Layout "archives" }}
+  {{- $pages = partial "article-pages.html" . }}
 {{- else if and (eq .Kind "section") (eq .Section "posts") }}
   {{- $pages = where .RegularPages "Params.legacy" "!=" true }}
 {{- else if and (eq .Kind "section") (eq .Section "legacy") }}

@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "zisai-pwa-v1.2";
+const CACHE_NAME = "zisai-pwa-v1.3";
 const CACHE_PREFIX = "zisai-pwa-";
 
 const PRECACHE = [

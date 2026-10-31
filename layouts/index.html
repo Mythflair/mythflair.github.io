@@ -1,5 +1,5 @@
 {{- define "main" -}}
-{{- $pages := where site.RegularPages "Params.categories" "intersect" (slice "承德" "生活" "技术") -}}
+{{- $pages := partial "article-pages.html" . -}}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true -}}
 {{- $pages = $pages.ByDate.Reverse -}}
 {{/* 首页推荐：固定文章优先，其余按发布时间补齐四篇。 */}}
@@ -30,7 +30,7 @@
     (dict "key" "tech" "name" "技术" "path" "/categories/技术")
     (dict "key" "travel" "name" "旅行" "path" "/tags/旅行")
     (dict "key" "legacy" "name" "遗址" "path" "/legacy")
-    (dict "key" "posts" "name" "文章" "path" "/posts")
+    (dict "key" "posts" "name" "文章" "path" "/archives")
     (dict "key" "zisai" "name" "紫塞" "path" "/tags/紫塞")
     (dict "key" "shennan" "name" "沈楠" "path" "/tags/沈楠") -}}
 {{- $counter := newScratch -}}
@@ -43,6 +43,7 @@
 {{- end -}}
 
 <section class="zisai-home zisai-home--v2">
+{{ if eq .Lang "zh-cn" }}<nav class="zisai-topic-nav" aria-label="专题阅读"><strong>专题阅读</strong>{{ range hugo.Data.topics }}{{ with site.GetPage (printf "/topics/%s" .slug) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end }}</nav>{{ end }}
   {{- $heroImage := partial "hero-image.html" . -}}
   <section class="zisai-hero" style="--zisai-hero-image:url('{{ $heroImage.desktop }}');--zisai-hero-tablet:url('{{ $heroImage.tablet }}');--zisai-hero-mobile:url('{{ $heroImage.mobile }}')">
     <div class="zisai-hero__veil"></div>

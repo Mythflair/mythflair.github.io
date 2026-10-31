@@ -1,0 +1,15 @@
+{{- $page := . -}}
+{{- $related := slice -}}
+{{- if eq .Lang "zh-cn" -}}
+{{- range hugo.Data.topics -}}
+  {{- if in .pages $page.RelPermalink -}}
+    {{- range .pages -}}{{- with partial "page-by-url.html" . -}}{{- if ne .RelPermalink $page.RelPermalink -}}{{- $related = $related | append . -}}{{- end -}}{{- end -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- end -}}
+{{- $related = $related | uniq -}}
+{{- if not $related -}}{{- $related = (partial "article-pages.html" .).Related . -}}{{- end -}}
+{{- if not $related -}}{{- $related = (partial "article-pages.html" .) | complement (slice $page) -}}{{- $related = $related.ByDate.Reverse -}}{{- end -}}
+{{- with first 3 $related -}}
+<aside class="zisai-reader-panel"><h2>{{ if eq $page.Lang "en" }}Related reading{{ else if eq $page.Lang "ja" }}関連記事{{ else }}相关档案与阅读{{ end }}</h2><ul>{{ range . }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}</ul></aside>
+{{- end -}}

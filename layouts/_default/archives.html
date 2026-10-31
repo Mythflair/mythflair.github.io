@@ -5,7 +5,7 @@
   {{ with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
 </header>
 {{ with .Content }}<div class="post-content">{{ . }}</div>{{ end }}
-{{ $pages := where site.RegularPages "Params.archived" true }}
+{{ $pages := partial "article-pages.html" . }}
 {{ range $pages.ByDate.Reverse.GroupByDate "2006" }}
 <section class="archive-year">
   <h2 class="archive-year-header">{{ .Key }} <sup class="archive-count">{{ len .Pages }}</sup></h2>

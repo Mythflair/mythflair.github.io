@@ -10,7 +10,6 @@ cover:
     image: "/images/ai-building-model-experience/1756718336583-f4c15f47-51b2-48b9-acd7-6862113b583c.jpg"
     alt: "AI生成的模型"
 ---
-# AI 生成建筑模型的震撼体验 🏙️
 
 最近我试了一下用 AI（比如 Google Gemini 的 Nano Banana）来生成建筑模型，结果真让我惊讶 🤯。  
 只需要几张普通的大楼照片，它就能自动生成一个“缩小版”的沙盘模型效果。  

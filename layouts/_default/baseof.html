@@ -1,4 +1,4 @@
-﻿{{- if lt hugo.Version "0.146.0" }}
+{{- if lt hugo.Version "0.146.0" }}
 {{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
 {{- end -}}
 
@@ -26,11 +26,7 @@
         {{- block "main" . }}{{ end }}
     </main>
 
-<!-- Google Adsense -->
-<script async
-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6505236094995924"
-crossorigin="anonymous"></script>
-<!-- End Google Adsense -->
+
 
     {{ partialCached "footer.html" . .Language.Lang .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 

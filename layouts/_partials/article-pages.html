@@ -1,0 +1,7 @@
+{{- $pages := slice -}}
+{{- range site.RegularPages -}}
+  {{- if and (partial "is-article.html" .) (ne .Params.searchHidden true) (ne .Params.robotsNoIndex true) -}}
+    {{- $pages = $pages | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $pages -}}

@@ -27,7 +27,7 @@ buildExpired = false
 
 pygmentsUseClasses = true
 
-googleAnalytics = "G-5L9GMDCNHD"
+# Analytics disabled: no third-party tracking requests or cookies.
 
 # ------------------------------------------------------------
 # 分页配置
@@ -309,6 +309,9 @@ keywords = [
     startLevel = 2
     endLevel = 6
 # ZISAI multilingual edition
+[languages.zh-cn.params]
+  homeTitle = "紫塞 · 承德城市记忆与技术随笔"
+
 [languages.zh-cn]
   locale = "zh-CN"
   label = "中文"
@@ -329,6 +332,7 @@ keywords = [
   hasCJKLanguage = true
 
 [languages.en.params]
+  homeTitle = "Chengde, Life & Technology"
   description = "ZISAI — life, technology and memories of Chengde, China, since 1998."
   author = "Shen Nan"
   authorName = "Shen Nan"
@@ -384,6 +388,7 @@ keywords = [
   weight = 55
 
 [languages.ja.params]
+  homeTitle = "承徳の記憶・暮らし・技術"
   description = "1998年に始まった承徳のウェブサイト「紫塞」。技術、暮らし、街の記憶を綴ります。"
   author = "沈楠"
   authorName = "沈楠"
@@ -454,3 +459,16 @@ keywords = [
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[[languages.zh-cn.menus.main]]
+  identifier = "topics"
+  name = "专题"
+  url = "/topics/"
+  weight = 52
+
+# Fill these only after provisioning the external services.
+[params.umami]
+  scriptURL = ""
+  websiteID = ""
+[params.newsletter]
+  url = ""

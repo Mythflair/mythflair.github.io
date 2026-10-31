@@ -1,14 +1,14 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (and (ne .Params.robotsNoIndex true) (not (in (slice "search" "archives") .Layout))) }}
+{{- if hugo.IsProduction | or (eq site.Params.env "production") | and (and (ne .Params.robotsNoIndex true) (not (or (eq .Section "private") (eq .Layout "search") (and (eq .Kind "term") (eq .Data.Plural "tags") (not (partial "indexable-tag.html" .)))))) }}
 <meta name="robots" content="index, follow">
 {{- else }}
 <meta name="robots" content="noindex, nofollow">
 {{- end }}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+<title>{{ if .IsHome }}{{ site.Params.homeTitle }}{{ if ne .Lang "zh-cn" }} | {{ end }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ if or (not .IsHome) (ne .Lang "zh-cn") }}{{ site.Title }}{{ end }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
@@ -18,9 +18,9 @@
     {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
     {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
 {{- end }}
-<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
+<meta name="description" content="{{- if in (slice "term" "taxonomy") .Kind }}{{ .Title }} · {{ len .RegularPages }} {{ if eq .Lang "en" }}articles on ZISAI{{ else if eq .Lang "ja" }}件の記事 — 紫塞{{ else }}篇相关文章 · 紫塞{{ end }}{{- else }}{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
     {{- .Summary | plainify | default (printf "%s - %s" .Title  site.Title) }}{{- else }}
-    {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
+    {{- with site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end }}{{- end -}}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
 <link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
 {{- if site.Params.analytics.google.SiteVerificationTag }}
@@ -162,7 +162,7 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- template "_internal/google_analytics.html" . }}
+
 {{- partial "templates/opengraph.html" . }}
 {{- partial "templates/twitter_cards.html" . }}
 {{- /* 注释掉 PaperMod 默认简陋的 schema，避免重复与冲突:

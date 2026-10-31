@@ -1,0 +1,5 @@
+{{ define "main" }}
+<article class="post-single"><header class="post-header"><h1>{{ .Title }}</h1><p>{{ .Description }}</p></header>
+<ol class="post-content">{{ $slug := .Params.topic }}{{ range hugo.Data.topics }}{{ if eq .slug $slug }}{{ range .pages }}{{ with partial "page-by-url.html" . }}<li><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Description }}</p></li>{{ else }}{{ errorf "Missing topic article: %s" . }}{{ end }}{{ end }}{{ end }}{{ end }}</ol>
+<p><a href="{{ "topics/" | relLangURL }}">浏览全部专题 →</a></p></article>
+{{ end }}

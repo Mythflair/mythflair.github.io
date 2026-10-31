@@ -45,6 +45,8 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{ partial "archive-provenance.html" . }}
+    {{ if partial "is-article.html" . }}{{ partial "related-archives.html" . }}{{ partial "reader-links.html" . }}{{ end }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

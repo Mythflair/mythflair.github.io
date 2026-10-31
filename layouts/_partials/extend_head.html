@@ -11,3 +11,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="紫塞">
+
+{{ with site.Params.umami }}{{ if and .scriptURL .websiteID }}
+<script defer src="{{ .scriptURL }}" data-website-id="{{ .websiteID }}" data-do-not-track="true"></script>
+{{ end }}{{ end }}

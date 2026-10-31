@@ -1,0 +1,8 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{{- range .Pages -}}
+{{- if and (ne .Params.robotsNoIndex true) (ne .Section "private") (ne .Layout "search") (not (and (eq .Kind "term") (eq .Data.Plural "tags") (not (partial "indexable-tag.html" .)))) -}}
+<url><loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}<lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}</lastmod>{{ end }}</url>
+{{- end -}}
+{{- end -}}
+</urlset>

@@ -1,0 +1,4 @@
+{{- $pages := where site.RegularPages "RelPermalink" . -}}
+{{- $page := false -}}
+{{- range first 1 $pages -}}{{- $page = . -}}{{- end -}}
+{{- return $page -}}

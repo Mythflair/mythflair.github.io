@@ -1,0 +1,6 @@
+{{ if and (partial "is-article.html" .) (or (eq .Section "legacy") .Params.legacy) }}
+<aside class="zisai-reader-panel"><h2>{{ if eq .Lang "en" }}Sources and verification{{ else if eq .Lang "ja" }}出典と確認日{{ else }}来源与核实时间{{ end }}</h2>
+{{ with .Params.archiveSources }}<ul>{{ range . }}<li>{{ if .url }}<a href="{{ .url }}" rel="noopener noreferrer">{{ .label }}</a>{{ else }}{{ .label }}{{ end }}</li>{{ end }}</ul>{{ else }}<p>{{ if eq .Lang "en" }}See the references, screenshots and recollections identified in the article. Source inventory pending.{{ else if eq .Lang "ja" }}本文中の参考資料・画像・筆者の回想を参照してください。出典一覧は整理中です。{{ else }}来源见正文标注的公开资料、留存截图与作者回忆；独立来源清单待整理。{{ end }}</p>{{ end }}
+<p>{{ if eq .Lang "en" }}Last independently verified: {{ else if eq .Lang "ja" }}最終確認日：{{ else }}最近核实时间：{{ end }}{{ with .Params.verifiedAt }}{{ . }}{{ else }}{{ if eq .Lang "en" }}pending; the publication/update date is not a verification date.{{ else if eq .Lang "ja" }}未確認。公開日・更新日は確認日ではありません。{{ else }}待核实（发布日期、页面更新日期不代表来源核实日期）。{{ end }}{{ end }}</p>
+<a href="mailto:{{ site.Params.authorEmail }}?subject={{ printf "档案补充：%s" .Title | urlquery }}">{{ if eq .Lang "en" }}Contribute a source or correction{{ else if eq .Lang "ja" }}資料提供・訂正の連絡{{ else }}提供史料或纠错{{ end }}</a></aside>
+{{ end }}
