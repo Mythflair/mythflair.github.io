@@ -70,7 +70,11 @@
     const anniversaryDay = Math.min(origin.getUTCDate(), new Date(Date.UTC(year, month + 1, 0)).getUTCDate());
     const months = (year - origin.getUTCFullYear()) * 12 + month - origin.getUTCMonth() - (day < anniversaryDay ? 1 : 0);
     const age = Math.floor(months / 12);
-    const version = Math.floor(age / 10) + '.' + (age % 10) + '.' + (months % 12 + 1);
+    const monthStart = new Date(Date.UTC(origin.getUTCFullYear(), origin.getUTCMonth() + months, 1));
+    const monthStartDay = Math.min(origin.getUTCDate(), new Date(Date.UTC(monthStart.getUTCFullYear(), monthStart.getUTCMonth() + 1, 0)).getUTCDate());
+    const monthStartUTC = Date.UTC(monthStart.getUTCFullYear(), monthStart.getUTCMonth(), monthStartDay);
+    const dayOfMonth = Math.floor((todayUTC - monthStartUTC) / 86400000) + 1;
+    const version = Math.floor(age / 10) + '.' + (age % 10) + '.' + (months % 12 + 1) + '.' + dayOfMonth;
     document.querySelectorAll('[data-life-version]').forEach(node=>{
       node.textContent = version;
     });
