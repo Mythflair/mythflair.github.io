@@ -16,7 +16,7 @@ cover:
     image: "/images/from-radio-waves-to-retail-ai/ccfa-2026.webp"
     alt: "沈楠受邀参加2026CCFA零售创新大会，演讲主题为AI进入零售现场：从技术能力到经营能力"
     caption: "2026CCFA零售创新大会"
-    position: "center 10%"
+    position: "center 20%"
 ---
 
 时间总是走得静悄悄。
