@@ -24,7 +24,7 @@
         {{- if $addLink }}<a href="{{ $imagePath | absURL }}" target="_blank" rel="noopener noreferrer">{{ end -}}
         <img loading="{{ cond $.IsSingle "eager" "lazy" }}"{{ if $.IsSingle }} fetchpriority="high"{{ end }} decoding="async"
              src="{{ $image.src }}"{{ with $image.srcset }} srcset="{{ . }}" sizes="{{ $sizes }}"{{ end }}
-             {{ if $image.width }}width="{{ $image.width }}" height="{{ $image.height }}"{{ end }} alt="{{ $alt }}">
+             {{ if $image.width }}width="{{ $image.width }}" height="{{ $image.height }}"{{ end }} alt="{{ $alt }}"{{ if not $.IsSingle }}{{ with .Params.cover.position }} style="object-position: {{ . }};"{{ end }}{{ end }}>
         {{- if $addLink }}</a>{{ end -}}
         {{- if $.IsSingle -}}
           {{- with .Params.cover.caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end -}}
