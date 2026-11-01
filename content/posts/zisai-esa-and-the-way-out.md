@@ -10,7 +10,7 @@ summary: "紫塞折腾许久，架构不错，内容有品质，唯独访问速�
 wechatPublished: false
 homePinned: false
 homeWeight: 1
-showToc: false
+showToc: true
 cover:
     image: "/images/zisai-esa-and-the-way-out/zisai-esa-and-the-way-out.webp"
     alt: "紫塞日出与山谷路标"
