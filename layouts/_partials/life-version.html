@@ -9,7 +9,7 @@
   <div class="life-terminal__content">
     <div class="life-terminal__cmd"><span>~ $</span> ./shen-nan --version</div>
     <div class="life-terminal__heading"><strong>Shen Nan OS</strong><span class="life-terminal__status">● STABLE</span></div>
-    <div class="life-terminal__version">4.x <span>Renaissance</span></div>
+    <div class="life-terminal__version"><span data-life-version style="font-size:inherit!important">—</span> <span>Renaissance</span></div>
     <div class="life-terminal__line"></div>
     <div class="life-terminal__fields">
       <div class="life-terminal__field"><span class="life-terminal__key">DAYS ONLINE</span><span class="life-terminal__value life-terminal__days" data-life-days>—</span></div>
@@ -63,6 +63,17 @@
     const get = t => Number(parts.find(x=>x.type===t).value);
     const todayUTC = Date.UTC(get('year'),get('month')-1,get('day'));
     const days = daysAtAnchor + Math.floor((todayUTC-anchorUTC)/86400000);
+
+    // Derive completed calendar months from the same origin as DAYS ONLINE.
+    const origin = new Date(anchorUTC - daysAtAnchor * 86400000);
+    const year = get('year'), month = get('month') - 1, day = get('day');
+    const anniversaryDay = Math.min(origin.getUTCDate(), new Date(Date.UTC(year, month + 1, 0)).getUTCDate());
+    const months = (year - origin.getUTCFullYear()) * 12 + month - origin.getUTCMonth() - (day < anniversaryDay ? 1 : 0);
+    const age = Math.floor(months / 12);
+    const version = Math.floor(age / 10) + '.' + (age % 10) + '.' + (months % 12 + 1);
+    document.querySelectorAll('[data-life-version]').forEach(node=>{
+      node.textContent = version;
+    });
 
     document.querySelectorAll('[data-life-days]').forEach(node=>{
       node.textContent=days.toLocaleString('en-US')+' days';

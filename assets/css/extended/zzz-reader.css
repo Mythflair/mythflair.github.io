@@ -1,1 +1,36 @@
-.zisai-reader-panel{margin:1.5rem 0;padding:1.2rem;border:1px solid var(--border);border-radius:8px}.zisai-reader-panel h2{font-size:1.2rem;margin:0 0 .8rem}.zisai-reader-panel ul{padding-inline-start:1.4rem}.zisai-reader-panel p{margin:.6rem 0}
+/* Article supplements use the reading theme's typography and palette. */
+.zisai-inner .post-footer .zisai-reader-panel {
+  margin: 24px 0;
+  padding: 20px 22px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--zisai-soft);
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1.9;
+  color: var(--content);
+  overflow-wrap: anywhere;
+}
+.zisai-inner .post-footer .zisai-reader-panel h2 {
+  margin: 0 0 12px;
+  font-family: inherit;
+  font-size: 22px;
+  line-height: 1.6;
+  font-weight: 600;
+  letter-spacing: .03em;
+  color: var(--primary);
+}
+.zisai-inner .post-footer .zisai-reader-panel ul { margin: 0; padding-inline-start: 1.4em; }
+.zisai-inner .post-footer .zisai-reader-panel li + li { margin-top: 8px; }
+.zisai-reader-links { font-family: inherit; color: var(--secondary); font-size: 14px; line-height: 1.9; overflow-wrap: anywhere; }
+.zisai-reader-links p { margin: 0 0 10px; }
+.zisai-inner .post-footer .zisai-reader-links { margin: 24px 0; font-size: 16px; }
+.zisai-inner .zisai-reader-panel a,
+.zisai-reader-links a { color: var(--zisai-accent, var(--zisai-purple)); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.zisai-inner .zisai-reader-panel a:hover,
+.zisai-reader-links a:hover { text-decoration-thickness: 2px; }
+@media (max-width: 760px) {
+  .zisai-inner .post-footer .zisai-reader-panel { padding: 16px; font-size: 15px; }
+  .zisai-inner .post-footer .zisai-reader-panel h2 { font-size: 21px; }
+  .zisai-inner .post-footer .zisai-reader-links { font-size: 14px; }
+}
