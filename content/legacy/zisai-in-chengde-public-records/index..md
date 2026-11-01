@@ -27,7 +27,7 @@ showToc: false
 ShowBreadCrumbs: true
 cover:
   image: "/images/zisai-in-chengde-public-records/Chengde-GOV.webp"
-  alt: "德市人民政府网站棘突"
+  alt: "承德市人民政府网站记录"
 ---
 
 有些网站的历史，保存在自己的服务器里；还有一些，留在了城市的公开记录中。

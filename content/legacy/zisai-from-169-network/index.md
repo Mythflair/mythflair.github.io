@@ -20,7 +20,7 @@ showToc: false
 ShowBreadCrumbs: true
 cover:
   image: "/images/zisai-from-169-network/zisai-from-169-network.webp"
-  alt: "德市人民政府网站棘突"
+  alt: "163、169，拨号时代的网民记忆"
 
 ---
 
