@@ -23,7 +23,7 @@
 {{/* 最新文章排除实际出现在推荐区的文章，避免固定旧文后漏掉新文。 */}}
 {{- $latest := first 6 ($pages | complement $featured) -}}
 {{- if lt (len $pages) 5 }}{{ $latest = first 6 $pages }}{{ end -}}
-{{- $aboutText := site.Params.zisai.aboutText | default "紫塞 ZISAI，记录承德，记录生活，也记录这个时代的技术与人文思考。愿山河常在，生活常新。" -}}
+{{- $aboutText := .Description | default site.Params.description -}}
 {{- $cats := slice
     (dict "key" "chengde" "name" "承德" "path" "/categories/承德")
     (dict "key" "life" "name" "生活" "path" "/categories/生活")
@@ -215,6 +215,13 @@
           {{ partial "logo.html" (dict "alt" "ZISAI" "loading" "lazy" "width" 112 "height" 112 "sizes" "112px") }}
           <p>{{ $aboutText }}</p>
         </div>
+      </section>
+      <section class="zisai-panel zisai-panel--person">
+        <header class="zisai-panel__head zisai-panel__head--split">
+          <h3>{{ if eq .Lang "en" }}Shen Nan{{ else }}沈楠{{ end }}</h3>
+          <a href="{{ "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
+        </header>
+        {{ partial "life-version.html" . }}
       </section>
     </aside>
   </section>

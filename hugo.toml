@@ -466,3 +466,21 @@ keywords = [
   websiteID = ""
 [params.newsletter]
   url = ""
+
+[[languages.zh-cn.menus.main]]
+  identifier = "shennan"
+  name = "沈楠"
+  url = "/about/"
+  weight = 65
+
+[[languages.en.menus.main]]
+  identifier = "shennan"
+  name = "Shen Nan"
+  url = "/about/"
+  weight = 65
+
+[[languages.ja.menus.main]]
+  identifier = "shennan"
+  name = "沈楠"
+  url = "/about/"
+  weight = 65
