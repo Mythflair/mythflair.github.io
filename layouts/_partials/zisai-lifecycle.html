@@ -1,0 +1,28 @@
+{{- /* Independent site lifecycle module; epoch: 1998-06-01, Asia/Shanghai. */ -}}
+{{- $style := resources.Get "css/zisai-lifecycle.css" | minify | fingerprint -}}
+{{- $script := resources.Get "js/zisai-lifecycle.js" | minify | fingerprint -}}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+<div class="zisai-lifecycle" data-zisai-lifecycle role="group" aria-label="紫塞网生存周期">
+  <div class="zisai-lifecycle__top">
+    <span class="zisai-lifecycle__dots" aria-hidden="true"><i></i><i></i><i></i></span>
+    <span class="zisai-lifecycle__title">zisai — release-info</span>
+    <span aria-hidden="true">⌘</span>
+  </div>
+  <div class="zisai-lifecycle__content">
+    <div class="zisai-lifecycle__cmd"><span>~ $</span> ./zisai --version</div>
+    <div class="zisai-lifecycle__heading"><strong>紫塞网 · 生存周期</strong><span class="zisai-lifecycle__status">● ONLINE</span></div>
+    <div class="zisai-lifecycle__version" data-zisai-version>—</div>
+    <dl class="zisai-lifecycle__fields">
+      <div><dt>DAYS ONLINE · 累计天数</dt><dd data-zisai-days>—</dd></div>
+      <div><dt>MONTHS ONLINE · 累计月数</dt><dd data-zisai-months>—</dd></div>
+      <div><dt>YEARS ONLINE · 累计年数</dt><dd data-zisai-years>—</dd></div>
+      <div><dt>FIRST RELEASE · 建站日期</dt><dd><time datetime="1998-06-01">1998.06.01</time></dd></div>
+    </dl>
+    <div class="zisai-lifecycle__cmd"><span>~ $</span> echo $SYSTEM_MESSAGE</div>
+    <div class="zisai-lifecycle__message">山河入卷，岁月留痕。</div>
+    <div class="zisai-lifecycle__note">累计已满天、月、年 · 北京时间<br>版本：十年序号.本十年第几月.当月第几天</div>
+    <div class="zisai-lifecycle__prompt" aria-hidden="true">➜ <i></i></div>
+    <noscript>请启用 JavaScript 查看实时生存周期计数。</noscript>
+  </div>
+</div>
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
