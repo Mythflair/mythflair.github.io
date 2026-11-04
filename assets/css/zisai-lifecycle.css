@@ -1,15 +1,14 @@
 .zisai-lifecycle{--zl-bg:#f8f6f3;--zl-top:#eee9e4;--zl-text:#292531;--zl-muted:#66616e;--zl-border:#d9d1da;--zl-green:#247247;--zl-status:#a2bda9;container-type:inline-size;box-sizing:border-box;width:100%;margin:22px 0 0;overflow:hidden;border:1px solid var(--zl-border);border-radius:14px;background:var(--zl-bg);color:var(--zl-text);font:13px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;text-align:left}
 .dark .zisai-lifecycle{--zl-bg:#171b24;--zl-top:#292f3b;--zl-text:#edf2f8;--zl-muted:#a8b5c6;--zl-border:#384252;--zl-green:#81d8a3;--zl-status:#366449}
 .zisai-lifecycle *{box-sizing:border-box;min-width:0}
-.zisai-lifecycle__top{display:grid;grid-template-columns:56px minmax(0,1fr) 18px;align-items:center;gap:8px;padding:10px 14px;background:var(--zl-top);color:var(--zl-muted)}
+.zisai-lifecycle__top{display:grid;grid-template-columns:56px minmax(0,1fr) 18px;align-items:center;gap:8px;padding:6px 12px;background:var(--zl-top);color:var(--zl-muted)}
 .zisai-lifecycle__dots{display:flex;gap:5px}.zisai-lifecycle__dots i{width:10px;height:10px;border-radius:50%;background:#ff605c}.zisai-lifecycle__dots i:nth-child(2){background:#ffbd44}.zisai-lifecycle__dots i:nth-child(3){background:#00ca4e}
 .zisai-lifecycle__title{text-align:center;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.zisai-lifecycle__content{padding:22px 24px 19px}.zisai-lifecycle__cmd{color:var(--zl-muted);font-size:12px;overflow-wrap:anywhere}.zisai-lifecycle__cmd span{color:var(--zl-green)}
-.zisai-lifecycle__heading{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin:16px 0 5px}.zisai-lifecycle__heading strong{font-size:19px;line-height:1.3}.zisai-lifecycle__status{padding:3px 8px;border:1px solid var(--zl-status);border-radius:50px;font-size:10px;color:var(--zl-green)}
-.zisai-lifecycle__version{color:var(--zl-green);font-size:25px;font-weight:700;line-height:1.35;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
-.zisai-lifecycle .zisai-lifecycle__fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:16px 0;padding:16px 0;border-top:1px solid var(--zl-border);border-bottom:1px solid var(--zl-border)}
+.zisai-lifecycle__content{padding:10px 15px 12px}.zisai-lifecycle__cmd{color:var(--zl-muted);font-size:12px;overflow-wrap:anywhere}.zisai-lifecycle__cmd span{color:var(--zl-green)}
+.zisai-lifecycle__heading{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:6px;margin:8px 0 3px}.zisai-lifecycle__heading strong{font-size:16px;line-height:1.3}.zisai-lifecycle__status{padding:2px 6px;border:1px solid var(--zl-status);border-radius:50px;font-size:10px;color:var(--zl-green)}
+.zisai-lifecycle__version{color:var(--zl-green);font-size:23px;font-weight:700;line-height:1.35;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
+.zisai-lifecycle .zisai-lifecycle__fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 12px;margin:8px 0;padding:8px 0;border-top:1px solid var(--zl-border);border-bottom:1px solid var(--zl-border)}
 .zisai-lifecycle__fields dt{margin:0 0 3px;color:var(--zl-muted);font-size:10px;letter-spacing:.04em}.zisai-lifecycle__fields dd{margin:0;font-size:12px;overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
-.zisai-lifecycle__message{margin:8px 0 12px}.zisai-lifecycle__note{color:var(--zl-muted);font-size:10px;line-height:1.7;overflow-wrap:anywhere}.zisai-lifecycle__prompt{display:flex;align-items:center;gap:8px;margin-top:12px;color:var(--zl-green)}.zisai-lifecycle__prompt i{width:8px;height:14px;background:var(--zl-green);animation:zisai-lifecycle-blink 1.1s steps(1,end) infinite}
-@keyframes zisai-lifecycle-blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.zisai-lifecycle__prompt i{animation:none}}
-@container(max-width:360px){.zisai-lifecycle__content{padding:18px 15px}.zisai-lifecycle .zisai-lifecycle__fields{grid-template-columns:1fr;gap:11px}.zisai-lifecycle__heading strong{font-size:17px}}
-@media(max-width:480px){.zisai-lifecycle__content{padding:18px 15px}.zisai-lifecycle .zisai-lifecycle__fields{grid-template-columns:1fr;gap:11px}}
+.zisai-lifecycle__message{margin:0;font-size:12px}.zisai-lifecycle__message span{color:var(--zl-green)}
+@container(max-width:360px){.zisai-lifecycle__fields dt{font-size:9px;letter-spacing:0}.zisai-lifecycle__heading strong{font-size:15px}}
+@media(max-width:480px){.zisai-lifecycle__content{padding:10px 12px 12px}}
