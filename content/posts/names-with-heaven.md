@@ -12,7 +12,7 @@ homePinned: false
 homeWeight: 1
 showToc: false
 cover:
-    image: "/images/names-with-heaven/names-with-heaven.webp"
+    image: "/images/names-with-heaven/names-with-heaven-cover.webp"
     alt: "微信通讯录里，有一些人已经离世，我却一直不舍得删除。在他们的名字后面添上“天堂”两个字，留下曾经相识的痕迹，也寄托一份愿他们安好的祝福。"
 ---
 
@@ -43,3 +43,5 @@ cover:
 名字后面加上“天堂”，就像替一位久未联系的朋友，更新了地址。
 
 此后不再打扰，愿你在那里安好。
+
+![微信通讯录里，有一些人已经离世，我却一直不舍得删除。在他们的名字后面添上“天堂”两个字，留下曾经相识的痕迹，也寄托一份愿他们安好的祝福](/images/names-with-heaven/names-with-heaven-cover.webp)
