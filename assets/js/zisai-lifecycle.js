@@ -12,11 +12,13 @@
     const today = Math.max(epoch, Date.UTC(get('year'), get('month') - 1, get('day')));
     const date = new Date(today);
     const months = (date.getUTCFullYear() - 1998) * 12 + date.getUTCMonth() - 5;
+    const years = Math.floor(months / 12);
+    // Match Shen Nan life: decade.year within decade.month within year.day.
     const values = {
-      version: Math.floor(months / 120) + '.' + (months % 120 + 1) + '.' + date.getUTCDate(),
+      version: Math.floor(years / 10) + '.' + (years % 10) + '.' + (months % 12 + 1) + '.' + date.getUTCDate(),
       days: Math.floor((today - epoch) / dayMs).toLocaleString('en-US') + ' 天',
       months: months.toLocaleString('en-US') + ' 个月',
-      years: Math.floor(months / 12).toLocaleString('en-US') + ' 年'
+      years: years.toLocaleString('en-US') + ' 年'
     };
     document.querySelectorAll('[data-zisai-lifecycle]').forEach(root => {
       Object.entries(values).forEach(([key, value]) => {
