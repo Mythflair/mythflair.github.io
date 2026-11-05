@@ -49,7 +49,7 @@
 
     // 恢复内联显示，沿用 PaperMod 元信息样式
     root.style.display = "inline";
-    root.style.margin = "0";
+    root.style.margin = "0 8px";
     root.style.padding = "0";
     root.style.opacity = "1";
     root.style.fontSize = "inherit";
@@ -92,6 +92,9 @@
 
     // 统一阅读量内部文字间距
     root.style.whiteSpace = "nowrap";
+    // 阅读量模块左右各留 8px 间距
+    root.style.marginLeft = "8px";
+    root.style.marginRight = "8px";
 
   } else {
     // 找不到文章元信息时保持在原位置
@@ -127,7 +130,7 @@
   // ========================================
 
   const storageKey = "zisai-view-" + id;
-  const interval = 30 * 60 * 1000;
+  const interval = 5 * 60 * 1000;
 
   let previous = 0;
 
