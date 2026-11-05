@@ -19,8 +19,27 @@
   const root = document.querySelector(".zisai-views");
   if (!root) return;
 
-  const id = root.dataset.articleId;
-  if (!id) return;
+  // 根据当前文章 URL 生成唯一 ID
+  // 不再依赖 Hugo 模板生成的 articleId
+
+  const pathname = window.location.pathname;
+
+  const encoded = new TextEncoder().encode(pathname);
+
+  const hashBuffer = await crypto.subtle.digest(
+    "SHA-256",
+    encoded
+  );
+
+  const id = Array.from(new Uint8Array(hashBuffer))
+    .map(b => b.toString(16).padStart(2, "0"))
+    .join("")
+    .substring(0, 24);
+
+  // 同步更新 HTML 中的文章 ID，便于调试
+  root.dataset.articleId = id;
+
+  console.debug("ZISAI Views:", pathname, id);
 
   const api =
     "https://api.zisai.com/api/views/" +
