@@ -1,5 +1,5 @@
 ---
-title: "重新走进技术世界"
+title: "重新走进技术新世界"
 date: 2026-11-05T23:30:00+08:00
 draft: false
 slug: "rediscovering-the-joy-of-technology"
