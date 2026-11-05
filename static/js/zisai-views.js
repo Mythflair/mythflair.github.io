@@ -91,8 +91,10 @@
     }
 
     // 统一阅读量内部文字间距
+    root.style.whiteSpace = "nowrap";
     if (author) {
     author.style.marginLeft = "6px";
+  }
     // 阅读量模块左右各留 8px 间距
     root.style.marginLeft = "8px";
     root.style.marginRight = "8px";
