@@ -20,5 +20,10 @@ if ("serviceWorker" in navigator) {
     阅读 <span id="zisai-view-count">—</span> 次
   </div>
 
-  <script defer src="/js/zisai-views.js"></script>
+
+  {{ with resources.Get "js/zisai-views.js" }}
+    {{ $js := . | fingerprint "sha256" }}
+    <script defer src="{{ $js.RelPermalink }}"></script>
+  {{ end }}
+
 {{ end }}
