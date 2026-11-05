@@ -12,10 +12,13 @@ if ("serviceWorker" in navigator) {
 }
 </script>
 {{ if and .IsPage .File }}
-<div class="zisai-views"
-     data-article-id="{{ .Params.articleId | default (substr (sha256 .File.Path) 0 24) }}"
-     hidden>
-  阅读 <span id="zisai-view-count">—</span> 次
-</div>
-<script defer src="/js/zisai-views.js"></script>
+  {{ $articleId := .Params.articleId | default (substr (sha256 .RelPermalink) 0 24) }}
+
+  <div class="zisai-views"
+       data-article-id="{{ $articleId }}"
+       hidden>
+    阅读 <span id="zisai-view-count">—</span> 次
+  </div>
+
+  <script defer src="/js/zisai-views.js"></script>
 {{ end }}
