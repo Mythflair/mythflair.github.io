@@ -2,6 +2,19 @@
 (async () => {
   const root = document.querySelector(".zisai-views");
   if (!root) return;
+  const meta = document.querySelector(
+  ".post-single .post-header .post-meta"
+  );
+
+  if (meta) {
+    const separator = document.createElement("span");
+    separator.textContent = " · ";
+
+    meta.appendChild(separator);
+    meta.appendChild(root);
+
+    root.hidden = false;
+}
 
   const id = root.dataset.articleId;
   if (!id) return;
