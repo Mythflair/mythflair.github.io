@@ -17,7 +17,19 @@ if ("serviceWorker" in navigator) {
   <div class="zisai-views"
        data-article-id="{{ $articleId }}"
        hidden>
-    阅读 <span id="zisai-view-count">—</span> 次
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="16" height="16"
+       viewBox="0 0 24 24"
+       fill="none"
+       stroke="currentColor"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       style="display:inline-block;vertical-align:-2px;">
+    <path d="M2.062 12a1 1 0 0 1 0-.512 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .512 10.75 10.75 0 0 1-19.876 0"/>
+    <circle cx="12" cy="12" r="3"/>
+  </svg>
+  <span id="zisai-view-count">—</span>
   </div>
 
 
