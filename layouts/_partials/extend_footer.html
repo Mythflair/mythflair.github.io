@@ -11,7 +11,7 @@ if ("serviceWorker" in navigator) {
   });
 }
 </script>
-{{ if and .IsPage (eq .Section "posts") }}
+{{ if and .IsPage .File }}
   {{ $articleId := .Params.articleId | default (substr (sha256 .File.Path) 0 24) }}
 
   <div class="zisai-views"
