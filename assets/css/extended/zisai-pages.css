@@ -41,7 +41,6 @@ body.zisai-inner.dark {
 .zisai-inner .post-header { margin: 0 0 28px; padding-bottom: 24px; border-bottom: 1px solid var(--border); }
 .zisai-inner .post-title { text-wrap: balance; font-size: clamp(28px, 3.1vw, 42px); line-height: 1.5; font-weight: 600; letter-spacing: .025em; overflow-wrap: anywhere; }
 .zisai-inner .post-meta { margin-top: 16px; }
-.zisai-inner .post-meta-mobile-date { display: none; }
 .zisai-inner .post-single > .entry-cover { margin: 0 0 28px; }
 .zisai-inner .entry-cover img, .zisai-inner .entry-cover video { border-radius: 16px; }
 .zisai-inner .entry-cover figcaption { margin: 10px 0 0; color: var(--secondary); font-size: 13px; line-height: 1.8; }
@@ -138,17 +137,6 @@ body.zisai-inner.dark {
   .zisai-inner .post-title { font-size: 28px; line-height: 1.55; }
   .zisai-inner .post-description { font-size: 14px; }
   .zisai-inner .post-single .post-meta { font-size: 12px; }
-  .zisai-inner .post-single .post-meta-date,
-  .zisai-inner .post-single .post-meta-separator:has(+ .post-meta-date),
-  .zisai-inner .post-single .post-meta-date:first-child + .post-meta-separator { display: none; }
-  .zisai-inner .post-meta-mobile-date {
-    display: block;
-    margin-top: 4px;
-    color: var(--secondary);
-    font-size: 12px;
-    line-height: 1.9;
-    text-align: center;
-  }
   .zisai-inner .post-content { font-size: 17px; line-height: 1.95; }
   .zisai-inner .post-content h2 { font-size: 25px; margin-top: 34px; }
   .zisai-inner .post-content h3 { font-size: 21px; }

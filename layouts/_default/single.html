@@ -28,11 +28,6 @@
       {{- partial "post_canonical.html" . -}}
       {{- partial "wechat-status.html" . -}}
     </div>
-    {{- if not .Date.IsZero }}
-    <div class="post-meta-mobile-date">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (default "January 2, 2006" site.Params.DateFormat) }}</time>
-    </div>
-    {{- end }}
     {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
