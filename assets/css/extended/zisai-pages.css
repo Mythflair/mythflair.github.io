@@ -136,6 +136,7 @@ body.zisai-inner.dark {
   .zisai-inner .page-header { margin-bottom: 26px; padding: 10px 0 20px; }
   .zisai-inner .post-title { font-size: 28px; line-height: 1.55; }
   .zisai-inner .post-description { font-size: 14px; }
+  .zisai-inner .post-single .post-meta { font-size: 12px; }
   .zisai-inner .post-content { font-size: 17px; line-height: 1.95; }
   .zisai-inner .post-content h2 { font-size: 25px; margin-top: 34px; }
   .zisai-inner .post-content h3 { font-size: 21px; }
