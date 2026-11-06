@@ -1,0 +1,9 @@
+.zisai-mascot {
+  display: inline-block;
+  width: auto;
+  height: 1em;
+  max-height: 32px;
+  margin: 0;
+  vertical-align: -.12em;
+  pointer-events: none;
+}
