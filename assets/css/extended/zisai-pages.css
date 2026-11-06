@@ -52,7 +52,7 @@ body.zisai-inner.dark {
 .zisai-inner .post-content h4 { font-size: 19px; }
 .zisai-inner .post-content a { color: var(--zisai-accent); box-shadow: 0 1px 0 rgba(125, 23, 127, .25); }
 .zisai-inner .post-content a:hover { box-shadow: 0 2px 0 var(--zisai-accent); }
-.zisai-inner .post-content img { border-radius: 14px; }
+.zisai-inner .post-content img { height: auto; border-radius: 14px; }
 .zisai-inner .post-content img.in-text { border-radius: 4px; }
 .zisai-inner .post-content blockquote { border-inline-start: 3px solid var(--zisai-accent); background: var(--zisai-soft); padding: 16px 22px; border-radius: 0 14px 14px 0; color: var(--secondary); }
 .zisai-inner .post-content blockquote p:last-child { margin-bottom: 0; }
