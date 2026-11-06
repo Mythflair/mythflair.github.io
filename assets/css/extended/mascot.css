@@ -1,9 +1,21 @@
 .zisai-mascot {
   display: inline-block;
   width: auto;
-  height: 1em;
-  max-height: 32px;
+  height: clamp(36px, 5vw, 44px);
   margin: 0;
-  vertical-align: -.12em;
+  vertical-align: middle;
   pointer-events: none;
+}
+
+.zisai-mascot--listen,
+.zisai-mascot--rest,
+.zisai-mascot--lost {
+  height: clamp(44px, 6vw, 56px);
+}
+
+.zisai-not-found .zisai-mascot--map {
+  display: block;
+  width: min(52vw, 190px);
+  height: auto;
+  margin: 12px auto 16px;
 }
