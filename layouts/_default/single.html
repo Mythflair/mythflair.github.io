@@ -30,7 +30,6 @@
     </div>
     {{- if not .Date.IsZero }}
     <div class="post-meta-mobile-date">
-      {{- if eq .Lang "en" }}Published: {{ else if eq .Lang "ja" }}公開日：{{ else }}发布日期：{{ end -}}
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (default "January 2, 2006" site.Params.DateFormat) }}</time>
     </div>
     {{- end }}
