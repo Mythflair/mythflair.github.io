@@ -112,7 +112,7 @@
     <div class="zisai-main-col">
       <header class="zisai-section-head zisai-section-head--latest">
         <div>
-          <h2>{{ i18n "zisai_latest" }} {{ partial "mascot.html" "listen" }}</h2>
+          <h2>{{ i18n "zisai_latest" }} {{ partial "mascot.html" "saibo-listening-latest" }}</h2>
           <p>{{ i18n "zisai_intro" }}</p>
         </div>
         <a href="{{ "posts/" | relLangURL }}">{{ i18n "zisai_more" }}</a>
@@ -165,7 +165,7 @@
     <aside class="zisai-side-col">
       <section class="zisai-panel zisai-panel--cats">
         <header class="zisai-panel__head">
-          <h3>{{ i18n "zisai_categories" }} {{ partial "mascot.html" "lost" }}</h3>
+          <h3>{{ i18n "zisai_categories" }} {{ partial "mascot.html" "saibo-balancing-leaf-categories" }}</h3>
           <p>{{ i18n "zisai_discover" }}</p>
         </header>
         <div class="zisai-cat-grid">
@@ -208,7 +208,7 @@
 
       <section class="zisai-panel zisai-panel--about">
         <header class="zisai-panel__head zisai-panel__head--split">
-          <h3>{{ i18n "zisai_about" }} {{ partial "mascot.html" "wave" }}</h3>
+          <h3>{{ i18n "zisai_about" }} {{ partial "mascot.html" "saibo-leaping-home-about" }}</h3>
           <a href="{{ site.Params.zisai.aboutURL | default "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
         </header>
         <div class="zisai-about-card">
@@ -219,7 +219,7 @@
       </section>
       <section class="zisai-panel zisai-panel--person">
         <header class="zisai-panel__head zisai-panel__head--split">
-          <h3>{{ if eq .Lang "en" }}Shen Nan{{ else }}沈楠{{ end }}</h3>
+          <h3>{{ if eq .Lang "en" }}Shen Nan{{ else }}沈楠{{ end }} {{ partial "mascot.html" "saibo-looking-back-shennan" }}</h3>
           <a href="{{ "about/" | relLangURL }}">{{ i18n "zisai_learn" }}</a>
         </header>
         {{ partial "life-version.html" . }}

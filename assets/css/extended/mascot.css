@@ -1,21 +1,24 @@
 .zisai-mascot {
   display: inline-block;
   width: auto;
-  height: clamp(36px, 5vw, 44px);
+  height: clamp(52px, 7vw, 64px);
   margin: 0;
   vertical-align: middle;
   pointer-events: none;
 }
 
-.zisai-mascot--listen,
-.zisai-mascot--rest,
-.zisai-mascot--lost {
-  height: clamp(44px, 6vw, 56px);
+.zisai-mascot--saibo-listening-latest,
+.zisai-mascot--saibo-bowing-about {
+  height: clamp(64px, 8vw, 84px);
 }
 
-.zisai-not-found .zisai-mascot--map {
+.zisai-panel .zisai-mascot {
+  height: clamp(48px, 6vw, 60px);
+}
+
+.zisai-not-found .zisai-mascot {
   display: block;
-  width: min(52vw, 190px);
-  height: auto;
+  width: auto;
+  height: clamp(132px, 32vw, 190px);
   margin: 12px auto 16px;
 }

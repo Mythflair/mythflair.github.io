@@ -5,7 +5,9 @@
     {{ partial "breadcrumbs.html" . }}
     {{ partial "breadcrumb-schema.html" . }}
     <h1 class="post-title entry-hint-parent">
-      {{ .Title }}{{ if partial "is-article.html" . }} {{ partial "mascot.html" "rest" }}{{ end }}
+      {{ .Title }}
+      {{- if eq .Path "/about" }} {{ partial "mascot.html" "saibo-bowing-about" }}
+      {{- else if partial "is-article.html" . }} {{ partial "mascot.html" "saibo-sitting-article" }}{{ end }}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">

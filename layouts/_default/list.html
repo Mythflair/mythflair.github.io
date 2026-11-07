@@ -8,7 +8,15 @@
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>
-    {{ .Title }} {{ partial "mascot.html" "lost" }}
+    {{ .Title }}
+    {{- $mascot := "saibo-stretching-list" }}
+    {{- if and (eq .Kind "term") (eq .Data.Term "沈楠") }}
+      {{- $mascot = "saibo-looking-back-shennan" }}
+    {{- else if and (eq .Kind "term") (eq .Data.Term "承德") }}
+      {{- $mascot = "saibo-sniffing-flower-chengde" }}
+    {{- else if eq .Section "legacy" }}
+      {{- $mascot = "saibo-sleeping-legacy" }}
+    {{- end }} {{ partial "mascot.html" $mascot }}
     {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
     {{- with .OutputFormats.Get "rss" }}
     <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
