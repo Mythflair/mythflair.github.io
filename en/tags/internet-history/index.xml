@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet History on ZISAI</title>
+    <link>https://zisai.com/en/tags/internet-history/</link>
+    <description>Recent content in Internet History on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/en/tags/internet-history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZISAI: Web Memories from 1998 to Today</title>
+      <link>https://zisai.com/en/posts/zisai.com/</link>
+    <pubDate>Thu, 25 Apr 2024 10:14:43 +0800</pubDate>
+      <guid>https://zisai.com/en/posts/zisai.com/</guid>
+      <description>ZISAI began in Chengde in 1998. These preserved pages trace its evolution from a local internet website to a personal blog, keeping memories of Chengde, the internet and a personal journey.</description>
+    </item>
+  </channel>
+</rss>

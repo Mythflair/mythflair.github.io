@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Everyday Life on ZISAI</title>
+    <link>https://zisai.com/en/tags/everyday-life/</link>
+    <description>Recent content in Everyday Life on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/en/tags/everyday-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Helping Hand</title>
+      <link>https://zisai.com/en/posts/a-helping-hand/</link>
+    <pubDate>Fri, 16 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/posts/a-helping-hand/</guid>
+      <description>An elderly woman asking for directions in Chengde made me notice the pavements, barriers and tactile paths I usually hurry past, and remember that all of us will grow old.</description>
+    </item>
+  </channel>
+</rss>
