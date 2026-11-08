@@ -2,12 +2,12 @@
 title: "一斤啤酒少了一两五：父亲四十六年前的〈人民日报〉来信"
 date: 2026-11-08T09:00:00+08:00
 draft: false
-slug: "a-bowl-of-beer-and-my-father-1980"
-categories: ["Legacy"]
+url: "a-bowl-of-beer-and-my-father-1980"
+categories: ["遗址"]
 tags: ["父亲", "人民日报", "承德", "二仙居", "历史档案", "1980年", "家族记忆"]
 description: "1980年，父亲沈国辉因承德二仙居饺子馆出售啤酒缺斤短两，写信向《人民日报》反映。四十六年后，我偶然读到这篇文章，也重新看到了父亲年轻时的模样。"
 summary: "一斤啤酒少了一两五，父亲写信给《人民日报》，最终推动了承德饮食行业的一次整改。四十六年后，透过泛黄的报纸，重读父亲的文字。"
-wechatPublished: false
+wechatPublished: true
 homePinned: false
 homeWeight: 1
 showToc: false
