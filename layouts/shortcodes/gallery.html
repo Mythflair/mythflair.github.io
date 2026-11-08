@@ -1,0 +1,75 @@
+{{- $images := sort (.Page.Resources.Match "photos/*.webp") "Name" -}}
+{{- $id := printf "zisai-gallery-%d" .Ordinal -}}
+{{- if gt (len $images) 0 -}}
+{{- $groups := .Page.Params.galleryGroups | default (slice) -}}
+{{- $captions := .Page.Params.galleryCaptions | default (dict) -}}
+{{- $groupByPhoto := newScratch -}}
+{{- range $group := $groups -}}
+  {{- range .photos -}}
+    {{- $groupByPhoto.Set (string .) $group.title -}}
+  {{- end -}}
+{{- end -}}
+{{- $grouped := newScratch -}}
+{{- range $images -}}
+  {{- $number := strings.TrimSuffix ".webp" (path.Base .Name) -}}
+  {{- $group := $groupByPhoto.Get $number | default "其他照片" -}}
+  {{- $grouped.Add $group (slice .) -}}
+{{- end -}}
+{{- $sequence := 0 -}}
+<section id="{{ $id }}" class="zisai-gallery" data-gallery aria-label="摄影相册">
+  {{- with .Page.Params.galleryPhotographer }}
+  <p class="zisai-gallery__credit">摄影：{{ . }}</p>
+  {{- end }}
+  {{- range ($groups | append (dict "title" "其他照片")) }}
+  {{- $title := .title }}
+  {{- with $grouped.Get $title }}
+  {{- if $groups }}
+  <h2>{{ $title }}</h2>
+  {{- end }}
+  <div class="zisai-gallery__grid">
+    {{- range $image := . -}}
+      {{- $sequence = add $sequence 1 -}}
+      {{- $thumb := $image -}}
+      {{- $large := $image -}}
+      {{- if not (strings.Contains $image.Content "ANIM") -}}
+        {{- $text := partial "watermark-policy.html" (dict "page" $.Page "path" $image.Name) -}}
+        {{- $thumb = partial "watermark-image.html" (dict "image" $image "width" 900 "height" 1200 "spec" "fit 900x1200 webp q78" "text" $text) -}}
+        {{- $spec := "" -}}
+        {{- if or (gt $image.Width 1800) (gt $image.Height 1800) -}}
+          {{- $spec = "fit 1800x1800 webp q85" -}}
+        {{- end -}}
+        {{- $large = partial "watermark-image.html" (dict "image" $image "width" 1800 "height" 1800 "spec" $spec "text" $text) -}}
+      {{- end -}}
+      {{- $number := strings.TrimSuffix ".webp" (path.Base $image.Name) -}}
+      {{- $caption := index $captions $number -}}
+      {{- $alt := $caption | default (printf "相册照片，第 %d 张" $sequence) -}}
+      <figure class="zisai-gallery__item">
+        <button class="zisai-gallery__open" type="button" data-gallery-open data-full="{{ $large.RelPermalink }}" data-alt="{{ $alt }}" data-caption="{{ $caption }}" aria-label="查看照片：{{ $alt }}">
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ $alt }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" loading="lazy" decoding="async">
+        </button>
+        {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+      </figure>
+    {{- end -}}
+  </div>
+  {{- end }}
+  {{- end }}
+  <dialog class="zisai-gallery__dialog" aria-label="照片查看器">
+    <div class="zisai-gallery__viewer">
+      <button type="button" class="zisai-gallery__close" data-gallery-close aria-label="关闭照片">×</button>
+      <img class="zisai-gallery__large" data-gallery-large alt="">
+      <p class="zisai-gallery__caption" data-gallery-caption hidden></p>
+      <div class="zisai-gallery__toolbar">
+        <button type="button" data-gallery-prev aria-label="上一张">← 上一张</button>
+        <span data-gallery-count aria-live="polite"></span>
+        <button type="button" data-gallery-next aria-label="下一张">下一张 →</button>
+      </div>
+    </div>
+  </dialog>
+</section>
+{{- if not (.Page.Store.Get "zisai-gallery-script") -}}
+  {{- .Page.Store.Set "zisai-gallery-script" true -}}
+  <script src="{{ "js/gallery.js" | relURL }}" defer></script>
+{{- end -}}
+{{- else -}}
+<p>相册尚未添加照片，请将 WebP 图片放入本文章的 photos 目录。</p>
+{{- end -}}

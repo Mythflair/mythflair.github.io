@@ -1,0 +1,33 @@
+{{- /* Process directly from the original. A resize and text filter share one encode. */ -}}
+{{- $image := .image -}}
+{{- $spec := .spec -}}
+{{- $scale := math.Min 1 (div (float .width) $image.Width) -}}
+{{- with .height -}}
+  {{- $scale = math.Min $scale (div (float .) $image.Height) -}}
+{{- end -}}
+{{- $width := int (math.Floor (mul $image.Width $scale)) -}}
+{{- $height := int (math.Floor (mul $image.Height $scale)) -}}
+{{- $edge := int (math.Min $width $height) -}}
+{{- $config := site.Params.watermark -}}
+{{- $opacity := float $config.opacity -}}
+{{- if and .text (gt $opacity 0) (ge $edge $config.minshortedge) -}}
+  {{- $position := index (dict
+      "bottom-right" (slice "right" "bottom")
+      "bottom-left" (slice "left" "bottom")
+      "top-right" (slice "right" "top")
+      "top-left" (slice "left" "top")) $config.position | default (slice "right" "bottom") -}}
+  {{- $horizontal := index $position 0 -}}
+  {{- $vertical := index $position 1 -}}
+  {{- $size := int (math.Max 12 (math.Min 48 (mul $edge 0.031))) -}}
+  {{- $margin := int (math.Max 10 (mul $edge 0.025)) -}}
+  {{- $alpha := int (math.Round (mul 255 (math.Min 1 $opacity))) -}}
+  {{- $color := printf "#ffffff%02x" $alpha -}}
+  {{- $options := dict "size" $size "color" $color
+      "alignx" $horizontal "aligny" $vertical
+      "x" (cond (eq $horizontal "right") (sub $width $margin) $margin)
+      "y" (cond (eq $vertical "bottom") (sub $height $margin) $margin) -}}
+  {{- $image = $image.Filter (images.Process ($spec | default "webp q85")) (images.Text .text $options) -}}
+{{- else if $spec -}}
+  {{- $image = $image.Process $spec -}}
+{{- end -}}
+{{- return $image -}}

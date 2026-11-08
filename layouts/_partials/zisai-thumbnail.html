@@ -1,4 +1,4 @@
 {{- $position := .position -}}
 {{- if not $position -}}{{- with .page -}}{{- $position = .Params.cover.position -}}{{- end -}}{{- end -}}
-{{- $image := partial "responsive-image.html" (dict "src" .src "page" .page "widths" (.widths | default (slice 320 480 640)) "quality" 82 "preferred" 320) -}}
+{{- $image := partial "responsive-image.html" (dict "src" .src "page" .page "widths" (.widths | default (slice 320 480 640)) "quality" 82 "preferred" 320 "watermark" true) -}}
 <img src="{{ $image.src }}"{{ with $image.srcset }} srcset="{{ . }}" sizes="{{ $.sizes | default "100vw" }}"{{ end }}{{ if $image.width }} width="{{ $image.width }}" height="{{ $image.height }}"{{ end }} alt="{{ .alt | default "" }}" loading="{{ .loading | default "lazy" }}" decoding="async"{{ with $position }} style="object-position: {{ . }};"{{ end }}>

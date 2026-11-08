@@ -69,6 +69,7 @@ pygmentsUseClasses = true
 # 顶层作者参数（供全站根上下文读取）
 # ------------------------------------------------------------
 [params]
+  mainSections = ["posts", "photography"]
 
   # ----------------------------------------------------------
   # 基础信息
@@ -237,6 +238,12 @@ keywords = [
   name = "承德"
   url = "/categories/chengde/"
   weight = 30
+
+[[languages.zh-cn.menus.main]]
+  identifier = "photography"
+  name = "影像"
+  url = "/photography/"
+  weight = 35
 
 [[languages.zh-cn.menus.main]]
   identifier = "life"
@@ -484,3 +491,17 @@ keywords = [
   name = "沈楠"
   url = "/about/"
   weight = 65
+
+# Site policy for Hugo Pipes derivatives. Approve photos by page, category or image.
+[params.watermark]
+  enabled = true
+  text = "© ZISAI.COM"
+  opacity = 0.30
+  position = "bottom-right"
+  minShortEdge = 400
+
+[params.watermark.categories]
+  "技术" = false
+  tech = false
+  technology = false
+  "技術" = false

@@ -4,20 +4,27 @@
 {{- $url := urls.Parse $src -}}
 {{- if and (not $url.Host) (not $url.Scheme) -}}
   {{- $path := strings.TrimPrefix "/" $url.Path -}}
-  {{- $res := resources.Get $path -}}
-  {{- if and (not $res) .page -}}
-    {{- $res = .page.Resources.GetMatch $path -}}
+  {{- $res := false -}}
+  {{- if and .page (not (hasPrefix $url.Path "/")) -}}
+    {{- $res = .page.Resources.Get $path -}}
   {{- end -}}
-  {{- if and (not $res) .page -}}
+  {{- if not $res -}}
+    {{- $res = resources.Get $path -}}
+  {{- end -}}
+  {{- if and (not $res) .page (not (hasPrefix $url.Path "/")) -}}
     {{- $res = .page.Resources.GetMatch (path.Base $path) -}}
   {{- end -}}
   {{- with $res -}}
-    {{- $result = merge $result (dict "src" .RelPermalink) -}}
+    {{- $result = merge $result (dict "src" .RelPermalink "original" .RelPermalink) -}}
     {{- if reflect.IsImageResourceProcessable . -}}
       {{- $result = merge $result (dict "width" .Width "height" .Height) -}}
       {{- /* Keep GIF, APNG and animated WebP originals to avoid losing animation. */ -}}
       {{- $animated := or (eq .MediaType.SubType "gif") (and (eq .MediaType.SubType "png") (strings.Contains .Content "acTL")) (and (eq .MediaType.SubType "webp") (strings.Contains .Content "ANIM")) -}}
       {{- if and (in (slice "jpg" "jpeg" "png" "webp") (lower (strings.TrimPrefix "." (path.Ext $path)))) (not $animated) -}}
+        {{- $text := "" -}}
+        {{- if $.watermark -}}
+          {{- $text = partial "watermark-policy.html" (dict "page" $.page "path" $path) -}}
+        {{- end -}}
         {{- $widths := $.widths | default (slice 480 768 960 1440 1920) -}}
         {{- $limit := index $widths (sub (len $widths) 1) -}}
         {{- if and (lt .Width $limit) (not (in $widths .Width)) -}}
@@ -27,12 +34,18 @@
         {{- $selected := "" -}}
         {{- range $width := $widths -}}
           {{- if le $width $res.Width -}}
-            {{- $image := $res.Resize (printf "%dx webp q%d" $width ($.quality | default 85)) -}}
+            {{- $spec := printf "resize %dx webp q%d" $width ($.quality | default 85) -}}
+            {{- $image := partial "watermark-image.html" (dict "image" $res "width" $width "spec" $spec "text" $text) -}}
             {{- $srcset = $srcset | append (printf "%s %dw" (replace $image.RelPermalink "," "%2C") $image.Width) -}}
             {{- if or (eq $selected "") (le $width ($.preferred | default 960)) -}}
               {{- $selected = $image.RelPermalink -}}
             {{- end -}}
           {{- end -}}
+        {{- end -}}
+        {{- if and $.fullLink $text -}}
+          {{- $spec := printf "resize %dx webp q%d" $res.Width ($.quality | default 85) -}}
+          {{- $full := partial "watermark-image.html" (dict "image" $res "width" $res.Width "spec" $spec "text" $text) -}}
+          {{- $result = merge $result (dict "full" $full.RelPermalink) -}}
         {{- end -}}
         {{- if $selected -}}
           {{- $result = merge $result (dict "src" $selected "srcset" (delimit $srcset ", ")) -}}

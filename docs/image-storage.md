@@ -40,3 +40,24 @@ python scripts/organize_images.py unused docs/image-migration-2026-10-24.json --
 ```
 
 以后新增或替换图片后，这份历史清单自然不再与全量目录一致；应按新的变更范围核对。
+
+## 原创图片水印
+
+水印由站点模板实现。`[params.watermark]` 是紫塞网配置，Hugo Pipes 用原图生成带文字的 WebP。默认文字为 `© ZISAI.COM`，右下角、30% 不透明度。输出的短边不足 400 像素时跳过。`position` 支持 `bottom-right`、`bottom-left`、`top-right`、`top-left`。缩放与文字合成在一次 WebP 编码内完成。Hugo 按源图、处理参数和滤镜缓存结果。
+
+先确认图片权属和署名，再启用。默认未获批准的图片保持现有输出。确认整篇文章的适用图片均可标记时，在 front matter 添加：
+
+```yaml
+watermark:
+  enabled: true
+  images:
+    "photos/visitor-photo.webp": false
+```
+
+只批准个别图片时省略 `enabled`，将对应路径设为 `true`。键使用小写路径，去掉开头的斜线和查询参数。静态图填写 `images/文章目录/文件名.webp`，相册填写 `photos/文件名.webp`。设置文章 `enabled: false` 可排除整篇。`watermark.text` 可指定经权利人同意的文字。画廊摄影者仍由 `galleryPhotographer` 独立署名。
+
+在 `[params.watermark.categories]` 中可按分类名批准或排除，键使用小写。分类批准适用于该分类下的整个图片集合，仅在权属清楚时启用。文章、分类或图片中任何显式排除都优先。技术分类、站点与共享素材目录、常见 Logo／吉祥物／头像／二维码／截图命名受保护。命名规则无法识别所有视觉内容，混合来源文章应逐图批准。
+
+覆盖 Markdown 图片、使用现有封面和列表缩略图模板的图片、画廊缩略图及灯箱。Page Bundle 和已挂载为 assets 的 `static/images` 本地图可参加处理。原图继续保留，现有静态路径仍可访问。远程图片、SVG、动态图片、硬编码 HTML 或 CSS 图片、视频和 SEO／分享图继续使用现有路径。Raw HTML 图片可在逐页审核后改用 Markdown 或现有封面入口。若以后要让指定原图仅留在源仓库，需逐批审查旧引用和公开 URL，再迁入仅供 Pipes 使用的 assets 或专用 Page Bundle，并用独立构建校验。现有路径不做批量迁移。
+
+回滚时把 `[params.watermark]` 的 `enabled` 改为 `false`，用干净输出目录重新构建。页面会恢复使用原有衍生图或灯箱原图。

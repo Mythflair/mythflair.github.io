@@ -1,0 +1,20 @@
+/* PaperMod custom stylesheet: assets/css/extended/gallery.css */
+.zisai-gallery { margin: 1.6rem 0 2rem; }
+.zisai-gallery__grid { columns: 3; column-gap: 12px; }
+.zisai-gallery .zisai-gallery__item { break-inside: avoid; -webkit-column-break-inside: avoid; margin: 0 0 12px; }
+.zisai-gallery__open { display: block; width: 100%; margin: 0; padding: 0; border: 0; border-radius: 8px; overflow: hidden; cursor: zoom-in; background: var(--code-bg, #eee); }
+.zisai-gallery .zisai-gallery__open img { margin: 0; border-radius: 0; display: block; width: 100%; height: auto; transition: transform 180ms ease; }
+@media (hover: hover) { .zisai-gallery__open:hover img { transform: scale(1.025); } }
+.zisai-gallery__open:focus-visible { outline: 3px solid var(--primary, #333); outline-offset: 3px; }
+.zisai-gallery__dialog { padding: 0; border: 0; width: min(96vw, 1400px); max-width: 96vw; max-height: 96vh; max-height: 96dvh; background: #111; color: #fff; border-radius: 10px; overflow: auto; }
+.zisai-gallery__dialog::backdrop { background: rgb(0 0 0 / 88%); }
+.zisai-gallery__viewer { position: relative; display: flex; flex-direction: column; align-items: center; padding: 35px 10px 8px; }
+.zisai-gallery img.zisai-gallery__large { margin: 0; display: block; max-width: 100%; max-height: calc(96vh - 115px); max-height: calc(96dvh - 115px); width: auto; height: auto; object-fit: contain; touch-action: pan-y pinch-zoom; }
+.zisai-gallery__close { position: absolute; top: 2px; right: 12px; border: 0; color: white; background: transparent; font-size: 30px; cursor: pointer; }
+.zisai-gallery__toolbar { display: flex; align-items: center; justify-content: center; gap: clamp(6px, 3vw, 22px); width: 100%; padding: 10px 0 2px; font-size: 14px; }
+.zisai-gallery__toolbar button { padding: 6px 10px; border: 1px solid #666; border-radius: 6px; background: transparent; color: #fff; cursor: pointer; }
+@media (max-width: 720px) { .zisai-gallery__grid { columns: 2; column-gap: 8px; } .zisai-gallery .zisai-gallery__item { margin-bottom: 8px; } }
+@media (prefers-reduced-motion: reduce) { .zisai-gallery__open img { transition: none; } }
+
+.zisai-gallery .zisai-gallery__item figcaption { padding: 4px 2px; font-size: .875rem; line-height: 1.45; color: var(--secondary); }
+.zisai-gallery .zisai-gallery__caption { max-width: 42ch; margin: 6px 0 0; color: inherit; font-size: .875rem; text-align: center; }

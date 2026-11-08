@@ -1,0 +1,22 @@
+{{- /* Return the approved text, or an empty string. An explicit exclusion wins. */ -}}
+{{- $text := "" -}}
+{{- $config := site.Params.watermark -}}
+{{- $path := lower (strings.TrimPrefix "/" .path) -}}
+{{- if and $config.enabled .page
+    (not (findRE `(^|/)(images/)?(site|shared|mascot)(/|$)|(^|[/_.-])(logo|favicon|icon|avatar|portrait|qrcode|qr|screenshot|saibo)([/_.-]|$)` $path)) -}}
+  {{- $page := .page.Params.watermark | default (dict) -}}
+  {{- $categories := $config.categories | default (dict) -}}
+  {{- $images := $page.images | default (dict) -}}
+  {{- $approved := eq $page.enabled true -}}
+  {{- $denied := eq $page.enabled false -}}
+  {{- range .page.Params.categories -}}
+    {{- $rule := index $categories (lower .) -}}
+    {{- $approved = or $approved (eq $rule true) -}}
+    {{- $denied = or $denied (eq $rule false) -}}
+  {{- end -}}
+  {{- $rule := index $images $path -}}
+  {{- if and (or $approved (eq $rule true)) (not (or $denied (eq $rule false))) -}}
+    {{- $text = $page.text | default $config.text -}}
+  {{- end -}}
+{{- end -}}
+{{- return $text -}}

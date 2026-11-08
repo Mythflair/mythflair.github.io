@@ -1,5 +1,11 @@
 {{- define "main" -}}
 {{- $pages := partial "article-pages.html" . -}}
+{{- if in site.Params.mainSections "photography" -}}
+  {{- $photos := where site.RegularPages "Section" "photography" -}}
+  {{- $photos = where $photos "Params.searchHidden" "!=" true -}}
+  {{- $photos = where $photos "Params.robotsNoIndex" "!=" true -}}
+  {{- $pages = union $pages $photos -}}
+{{- end -}}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" true -}}
 {{- $pages = $pages.ByDate.Reverse -}}
 {{/* 首页推荐：固定文章优先，其余按发布时间补齐四篇。 */}}
