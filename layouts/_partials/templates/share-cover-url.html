@@ -1,0 +1,27 @@
+{{- $url := "" -}}
+{{- with .Params.cover.image -}}
+  {{- $image := urls.Parse . -}}
+  {{- $name := strings.TrimPrefix "/" (path.Clean $image.Path) -}}
+  {{- if or $image.Scheme $image.Host -}}
+    {{- $url = . | absURL -}}
+  {{- else if not (strings.HasPrefix $image.Path "/") -}}
+    {{- with $.Resources.GetMatch $name -}}
+      {{- $url = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $url -}}
+    {{- $staticURL := . -}}
+    {{- if eq $.Params.cover.relative true -}}
+      {{- $staticURL = path.Join $.RelPermalink . -}}
+      {{- $name = strings.TrimPrefix "/" (path.Join $.RelPermalink $name) -}}
+    {{- end -}}
+    {{- if and (ne $name ".") (not (strings.HasPrefix $name "../")) (fileExists (path.Join "static" $name)) -}}
+      {{- $url = $staticURL | absURL -}}
+    {{- else -}}
+      {{- with site.Params.images -}}
+        {{- $url = index . 0 | absURL -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}
