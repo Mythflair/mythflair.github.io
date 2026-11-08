@@ -1,7 +1,7 @@
 ---
 title: "立冬，雪落避暑山庄"
 date: 2026-11-08T09:00:00+08:00
-draft: true
+draft: false
 categories: ["影像"]
 tags: ["承德", "避暑山庄", "立冬", "雪景", "摄影"]
 description: "2026年立冬，记录雪中的承德避暑山庄。"
