@@ -1,5 +1,5 @@
 ---
-title: "一斤啤酒少了一两五：父亲四十六年前的〈人民日报〉来信"
+title: "一斤啤酒少了一两五：父亲四十六年前写给〈人民日报〉的信"
 date: 2026-11-08T09:00:00+08:00
 draft: false
 url: "a-bowl-of-beer-and-my-father-1980"
@@ -101,7 +101,7 @@ cover:
 
 那时的父亲正值壮年，在承德市供销社工作。
 
-![1970年代的父亲沈国辉]([/images/a-bowl-of-beer-and-my-father-1980/shenguohui.webp)
+![1970年代的父亲沈国辉](/images/a-bowl-of-beer-and-my-father-1980/shenguohui.webp)
 
 读这篇文章时，我仿佛看到了当年的场景：
 
