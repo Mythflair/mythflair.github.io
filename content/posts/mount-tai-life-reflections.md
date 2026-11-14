@@ -46,7 +46,7 @@ cover:
 
 **走得久的，有过程的厚度；走得快的，有当下的从容。各有所得，也各有所失。**
 
-![泰山之巅，远山层叠，云雾中的山峦象征着人生不同的道路](images/mount-tai-life-reflections/cBC526D14-8DB4-4748-B49F-FFAC8A992B77_1_102_o.webp)
+![泰山之巅，远山层叠，云雾中的山峦象征着人生不同的道路](/images/mount-tai-life-reflections/cBC526D14-8DB4-4748-B49F-FFAC8A992B77_1_102_o.webp)
 
 其实，人生又何尝不是如此？
 
