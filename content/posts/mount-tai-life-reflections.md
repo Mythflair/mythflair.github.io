@@ -11,7 +11,7 @@ tags:
   - 旅行
   - 生活哲学
 categories:
-  - 生活随笔
+  - 生活
 cover:
   image: "/images/mount-tai-life-reflections/cover.webp"
   alt: "泰山之巅，群山层叠，晨光洒落在山巅，寓意不同的人生道路与共同的远方"
