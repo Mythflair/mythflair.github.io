@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自我认知 on 紫塞</title>
+    <link>https://zisai.com/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/</link>
+    <description>Recent content in 自我认知 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人生后半程，学会不解决所有问题</title>
+      <link>https://zisai.com/posts/learning-not-to-solve-everything/</link>
+    <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/learning-not-to-solve-everything/</guid>
+      <description>年轻时总想解决所有问题，后来才渐渐明白，有些事情能够改变，有些只能接受。人生后半程，学会把时间和精力留给真正值得的生活。</description>
+    </item>
+  </channel>
+</rss>

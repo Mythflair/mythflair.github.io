@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>个人网站 on 紫塞</title>
+    <link>https://zisai.com/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
+    <description>Recent content in 个人网站 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 07 Oct 2026 09:06:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从169网到今天：紫塞网的近三十年</title>
+      <link>https://zisai.com/zisai-from-169-network/</link>
+    <pubDate>Tue, 27 Oct 2026 09:30:00 +0800</pubDate>
+      <guid>https://zisai.com/zisai-from-169-network/</guid>
+      <description>从1998年的169网主页空间，到2001年启用独立域名zisai.com，回顾紫塞网近三十年的发展，以及中国早期地方互联网的变迁。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mountain Resort on ZISAI</title>
+    <link>https://zisai.com/en/tags/mountain-resort/</link>
+    <description>Recent content in Mountain Resort on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/en/tags/mountain-resort/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do You Remember the Elephant Slide in Chengde’s Mountain Resort?</title>
+      <link>https://zisai.com/en/posts/chengde-elephant-slide-childhood-memory/</link>
+    <pubDate>Tue, 29 Sep 2026 16:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/posts/chengde-elephant-slide-childhood-memory/</guid>
+      <description>Old photographs, memories and AI help piece together a vanished elephant slide in Chengde’s Mountain Resort, and the childhoods of several generations.</description>
+    </item>
+  </channel>
+</rss>
