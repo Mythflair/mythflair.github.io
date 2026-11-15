@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>故人 on 紫塞</title>
+    <link>https://zisai.com/tags/%E6%95%85%E4%BA%BA/</link>
+    <description>Recent content in 故人 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%95%85%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>二仙居的茶香与鸟鸣</title>
+      <link>https://zisai.com/posts/tea-and-birdsong-at-erxianju/</link>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/tea-and-birdsong-at-erxianju/</guid>
+      <description>二仙居桥头的茉莉花高碎、老人笼中的百灵与画眉、父亲带我去过的向阳浴池，留着老承德的生活气息，也留着童年与故人的记忆。</description>
+    </item>
+    <item>
+      <title>名字后面的“天堂”</title>
+      <link>https://zisai.com/posts/names-with-heaven/</link>
+    <pubDate>Sun, 01 Nov 2026 22:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/names-with-heaven/</guid>
+      <description>微信通讯录里，有一些人已经离世，我却一直不舍得删除。在他们的名字后面添上“天堂”两个字，留下曾经相识的痕迹，也寄托一份愿他们安好的祝福。</description>
+    </item>
+  </channel>
+</rss>

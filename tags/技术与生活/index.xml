@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术与生活 on 紫塞</title>
+    <link>https://zisai.com/tags/%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 技术与生活 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 06 Nov 2026 20:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我修好了非洲的电脑，女儿喝上了奶茶</title>
+      <link>https://zisai.com/posts/remote-help-and-milk-tea/</link>
+    <pubDate>Fri, 06 Nov 2026 20:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/remote-help-and-milk-tea/</guid>
+      <description>我在家里远程处理了非洲朋友的电脑故障，他通过淘宝闪购给我送来两杯奶茶。一场跨越重洋的互相帮忙，让万里之外的人，仿佛成了隔壁邻居。</description>
+    </item>
+  </channel>
+</rss>

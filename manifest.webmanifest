@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "紫塞",
+  "short_name": "紫塞",
+  "description": "始于1998年的紫塞网，记录生活、技术、城市记忆与个人思考。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icons/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>泰山 on 紫塞</title>
+    <link>https://zisai.com/tags/%E6%B3%B0%E5%B1%B1/</link>
+    <description>Recent content in 泰山 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 14 Nov 2026 21:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%B3%B0%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>登泰山：山顶相同，人生各异</title>
+      <link>https://zisai.com/posts/mount-tai-life-reflections/</link>
+    <pubDate>Sat, 14 Nov 2026 21:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/mount-tai-life-reflections/</guid>
+      <description>因参加北森会议来到山东泰安，乘索道登顶泰山。有人历经数小时攀登，有人半小时轻松抵达。同样的山顶，不同的来路，让我对人生的过程、得失与意义有了新的感悟。</description>
+    </item>
+  </channel>
+</rss>

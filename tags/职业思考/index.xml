@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>职业思考 on 紫塞</title>
+    <link>https://zisai.com/tags/%E8%81%8C%E4%B8%9A%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 职业思考 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 11 Mar 2026 08:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E8%81%8C%E4%B8%9A%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>目前，真心不建议普通人使用 小龙虾 OpenClaw</title>
+      <link>https://zisai.com/posts/openclaw/</link>
+    <pubDate>Wed, 11 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/openclaw/</guid>
+      <description>近期，不少朋友都在问我，小龙虾OpenClaw的问题。简单思考了一下，形成了这篇文章，供有需要的朋友们参考。希望朋友们，不要被带偏、不要买课，在自媒体盛行的当下，流量和你缴的学费才是最大的利润来源。</description>
+    </item>
+    <item>
+      <title>零售管理的“Waymo 时刻”：当外卖小哥成为程序的“手”</title>
+      <link>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</link>
+    <pubDate>Fri, 06 Mar 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-waymo-moment-when-ai-calls-human-apis-for-retail-management/</guid>
+      <description>这篇文章通过 Waymo 的例子切入，直接触达零售管理的人效核心。</description>
+    </item>
+    <item>
+      <title>一次“牵牛花”引发的血案：传统零售 ERP 如何经受住线上爆发的冲击？（反思）</title>
+      <link>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</link>
+    <pubDate>Mon, 09 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/pgrading-the-engine-transitioning-from-enterprise-mssql-to-internet-scale-architecture/</guid>
+      <description>文章旨在还原故障，牵牛花是优秀的中间件系统，本文仅为复盘极端故障现场，只讨论技术和机制。</description>
+    </item>
+    <item>
+      <title>当世界连上网的时候：一个“工程师”的三十年</title>
+      <link>https://zisai.com/posts/the-network-beneath-the-world/</link>
+    <pubDate>Thu, 05 Feb 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/the-network-beneath-the-world/</guid>
+      <description>有些职业，在刚开始选择的时候，并不会意识到它将贯穿一生。</description>
+    </item>
+    <item>
+      <title>三十年：一个IT人的自我校准（1996—2026）</title>
+      <link>https://zisai.com/posts/it-30-years/</link>
+    <pubDate>Thu, 29 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/it-30-years/</guid>
+      <description>1994年，父亲不顾家人反对，花费1.8万元给我买了一台康柏电脑。我想，技术生涯自此开始了。</description>
+    </item>
+    <item>
+      <title>给年轻人多一点机会：一个运营商与网易合作的经典往事</title>
+      <link>https://zisai.com/posts/give_young_people_a_chance/</link>
+    <pubDate>Wed, 28 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/give_young_people_a_chance/</guid>
+      <description>无论是在家庭里，还是在组织中，我始终有一个非常坚定的判断：一定要给年轻人机会。</description>
+    </item>
+    <item>
+      <title>马斯克：人类只是硅基生命的“引导程序”？2029年AI将超越人类智慧总和。</title>
+      <link>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</link>
+    <pubDate>Sun, 25 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/musk-human-as-ai-bootloader-2029/</guid>
+      <description>什么是“引导程序” (Bootloader)？在计算机科学中，引导程序是一段极小的代码，它的唯一任务是：唤醒更强大的操作系统。</description>
+    </item>
+    <item>
+      <title>宽广十二年</title>
+      <link>https://zisai.com/posts/kuangguang-12-years/</link>
+    <pubDate>Tue, 20 Jan 2026 08:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/kuangguang-12-years/</guid>
+      <description>从体制内到经营型企业，十二年的路径、学习与建设。那些看似错过的远方，最终以另一种方式抵达。</description>
+    </item>
+  </channel>
+</rss>
