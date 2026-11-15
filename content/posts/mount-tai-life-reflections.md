@@ -16,7 +16,7 @@ cover:
   image: "/images/mount-tai-life-reflections/cover.webp"
   alt: "泰山之巅，群山层叠，晨光洒落在山巅，寓意不同的人生道路与共同的远方"
   caption: "泰山之巅：山不问来路，亦不论输赢"
-  relative: true
+  relative: false
   hidden: false
 ---
 
