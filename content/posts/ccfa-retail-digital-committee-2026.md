@@ -10,7 +10,7 @@ tags:
   - "零售"
   - "职业随笔"
 categories:
-  - "生活"
+  - "技术"
 cover:
   image: "/images/ccfa2026-committee/ccfa2026-committee-appointment.webp"
   alt: "中国连锁经营协会零售数字化技术应用工作委员会"
@@ -75,8 +75,12 @@ cover:
 
 **这份受聘，是一段经历的记录，也是继续学习和前行的新起点。**
 
-![中国连锁经营协会零售数字化技术应用工作委员会2026年工作会议合影](/images/ccfa2026-committee/ccfa2026-committee-CCFA.webp)
+![中国连锁经营协会零售数字化技术应用工作委员会2026年工作会议会场](/images/ccfa2026-committee/ccfa2026-committee-CCFA.webp)
 
 ---
 
 *2026年11月23日，承德*
+
+## 附：会员名单
+
+![中国连锁经营协会零售数字化技术应用工作委员会2026年工作会议会场](/images/ccfa2026-committee/ccfa2026-committee-memberlist.webp)
