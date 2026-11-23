@@ -527,6 +527,7 @@ ShowWordCount: false
 
 以下按年份倒序汇总正文引用的第三方公开资料，并附个人资料及代码主页入口。部分早期资料的活动发生时间与网页发布日期可能不同，以原始报道为准。
 
+- [2026｜AI重构业务流程，零售媒体化寻找第二增长曲线——CCFA数字委2026年工作会议在沪召开](https://mp.weixin.qq.com/s/NeI2aYTZ5JgpyYrV7shKiQ)
 - [2026｜《承德日报》：承德宽广控股集团副总裁沈楠——以营商环境之优 育城市烟火之旺](https://paper.hehechengde.cn/cdrb/pad/content/202609/17/content_202118.html)
 - [2026｜中国百货商业协会：第九届零售业数字化年会暨数智生态论坛](http://www.ccagm.org.cn/xh-activity/activities-huiyi/10178.html)
 - [2025｜大数跨境：宽广集团数智化管理平台荣获“数字技术创新奖”](https://www.10100.com/article/148266567)
