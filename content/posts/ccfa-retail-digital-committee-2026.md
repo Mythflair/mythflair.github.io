@@ -25,7 +25,7 @@ cover:
 
 对我而言，这是一份荣誉，也是一份来自行业的认可。
 
-![中国连锁经营协会零售数字化技术应用工作委员会委员受聘现场](/images/ccfa2026-committee/ccfa2026-committee-appointment.webp)
+![中国连锁经营协会零售数字化技术应用工作委员会委员受聘现场](/images/ccfa2026-committee/ccfa2026-committee-award.webp)
 
 ## 一路走来
 
