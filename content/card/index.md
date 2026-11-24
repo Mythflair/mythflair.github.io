@@ -3,7 +3,7 @@ title: "沈楠 · 数字名片"
 layout: "card"
 url: "/card/"
 description: "沈楠 Shen Nan｜宽广控股集团有限公司董事、副总裁、CIO，紫塞明珠网创始人。交流零售数字化、AI 应用与技术实践。"
-images: ["/images/site/shennan-1024-q82.jpg"]
+images: ["/images/site/shennan-ccfa.jpg"]
 card:
   name: "沈楠"
   englishName: "Shen Nan"
