@@ -16,6 +16,15 @@
         <div><p class="card-eyebrow">很高兴认识你</p><h1 id="card-name">{{ $card.name }}</h1><p class="card-english">{{ $card.englishName }}</p></div>
       </div>
       <div class="card-work"><p>{{ $card.company }}</p><p class="card-role">{{ $card.role }}</p></div>
+      {{ with $card.titles }}
+      <div class="card-titles" aria-label="社会职务">
+        <ul>
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
       <p class="card-intro">{{ $card.intro }}</p>
       <div class="card-details"><p>{{ $card.founder }}</p><p>{{ $card.education }}</p></div>
       <div class="card-topics" aria-label="交流方向"><span>零售数字化</span><span>AI 应用</span><span>技术实践</span></div>

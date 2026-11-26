@@ -3,3 +3,39 @@
 
 /* Stack contact actions when phone width cannot comfortably fit both labels. */
 @media(max-width:420px){.card-actions{grid-template-columns:1fr}.card-button{font-size:14px;padding:14px 16px}}
+/* 社会职务：对应名片配置中的 card.titles */
+.card-titles {
+  margin: 20px 0 0;
+  padding-top: 18px;
+  border-top: 1px solid #ece5ec;
+}
+
+.card-titles ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card-titles li {
+  margin: 0;
+  color: #76657a;
+  font-size: 13px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+
+.card-titles li + li {
+  margin-top: 8px;
+}
+
+/* 小屏幕下保持长职务名称易读 */
+@media (max-width: 380px) {
+  .card-titles {
+    margin-top: 18px;
+    padding-top: 16px;
+  }
+
+  .card-titles li {
+    font-size: 12px;
+  }
+}
