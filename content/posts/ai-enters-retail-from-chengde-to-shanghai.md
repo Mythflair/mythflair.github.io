@@ -206,6 +206,9 @@ AI不能只是展示某种令人惊讶的能力，而必须能够融入企业已
 
 做一点，验证一点；发现问题，再调整方向。
 
+![CCFA 2026年感谢信](/images/ai-enters-retail-from-chengde-to-shanghai/ccfa-2026-appreciation-letter.webp)
+
+
 ## 七、最后的三个问题
 
 在演讲的最后，我没有用宏大的技术愿景结束，而是留下了三个简单的问题：
