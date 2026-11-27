@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ESA on 紫塞</title>
+    <link>https://zisai.com/tags/esa/</link>
+    <description>Recent content in ESA on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 01 Nov 2026 09:30:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/esa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>紫塞的 ESA，与人生的出口</title>
+      <link>https://zisai.com/posts/zisai-esa-and-the-way-out/</link>
+    <pubDate>Sun, 01 Nov 2026 09:30:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/zisai-esa-and-the-way-out/</guid>
+      <description>从紫塞网站的访问瓶颈与ESA加速，想到一个人的能力与成长环境。有些问题不在自身，而在连接世界的路径。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>思维惯性 on 紫塞</title>
+    <link>https://zisai.com/tags/%E6%80%9D%E7%BB%B4%E6%83%AF%E6%80%A7/</link>
+    <description>Recent content in 思维惯性 on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 20 Oct 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/%E6%80%9D%E7%BB%B4%E6%83%AF%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>从一张图片的取舍，谈思维惯性与重构</title>
+      <link>https://zisai.com/posts/rethinking-an-image-and-inertia/</link>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/rethinking-an-image-and-inertia/</guid>
+      <description>优化紫塞网首页图片时，一个“为什么不去掉”的念头，让我重新审视习以为常的前提，以及持续改进与重新选择之间的关系。</description>
+    </item>
+  </channel>
+</rss>

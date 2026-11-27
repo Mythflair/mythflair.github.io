@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CCFA on 紫塞</title>
+    <link>https://zisai.com/tags/ccfa/</link>
+    <description>Recent content in CCFA on 紫塞</description>
+    <image>
+      <title>紫塞</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 23 Nov 2026 15:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/tags/ccfa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>受聘CCFA零售数字委委员：一份认可，一份责任</title>
+      <link>https://zisai.com/posts/ccfa-retail-digital-committee-2026/</link>
+    <pubDate>Mon, 23 Nov 2026 15:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ccfa-retail-digital-committee-2026/</guid>
+      <description>受聘中国连锁经营协会零售数字化技术应用工作委员会委员，记录职业道路上的一次新经历与思考。</description>
+    </item>
+    <item>
+      <title>从承德到上海，谈谈AI如何走进零售现场</title>
+      <link>https://zisai.com/posts/ai-enters-retail-from-chengde-to-shanghai/</link>
+    <pubDate>Sun, 22 Nov 2026 13:40:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/ai-enters-retail-from-chengde-to-shanghai/</guid>
+      <description>2026年11月17日，受中国连锁经营协会邀请，在上海零售创新大会分享宽广集团的AI实践。从自然语言问数到生鲜补货，从技术能力到经营能力，记录一次行业交流，也记录一些思考。</description>
+    </item>
+    <item>
+      <title>从无线电波到零售现场</title>
+      <link>https://zisai.com/posts/from-radio-waves-to-retail-ai/</link>
+    <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
+      <guid>https://zisai.com/posts/from-radio-waves-to-retail-ai/</guid>
+      <description>从少年时代对技术的好奇，到无线电通信、电信机房与零售数字化。三十余年的职业历程，让我逐渐理解技术的价值，也学会更加平静地看待自己与世界。</description>
+    </item>
+  </channel>
+</rss>

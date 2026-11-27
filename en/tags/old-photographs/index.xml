@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Old Photographs on ZISAI</title>
+    <link>https://zisai.com/en/tags/old-photographs/</link>
+    <description>Recent content in Old Photographs on ZISAI</description>
+    <image>
+      <title>ZISAI</title>
+      <url>https://zisai.com/images/site/zisai-share-q88.webp</url>
+      <link>https://zisai.com/images/site/zisai-share-q88.webp</link>
+    </image>
+    <generator>Hugo -- 0.167.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zisai.com/en/tags/old-photographs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Summer of 1993: My Father and Me in Beidaihe</title>
+      <link>https://zisai.com/en/posts/beidaihe-summer-1993-with-my-father/</link>
+    <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+      <guid>https://zisai.com/en/posts/beidaihe-summer-1993-with-my-father/</guid>
+      <description>A photograph taken around June 1993 shows me at fifteen beside my forty-two-year-old father in Beidaihe. Thirty-three years later, I realize he was younger then than I am now.</description>
+    </item>
+  </channel>
+</rss>
